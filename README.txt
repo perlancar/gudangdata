@@ -17,6 +17,7 @@ seperti di database relasional).
 Tujuan akhir adalah untuk merging ke repositori Gudang-Data-Indonesia [1] atau
 effort sejenisnya.
 
+
 ==Pengorganisasian data==
 
 Data ditaruh di direktori data/. Di bawah direktori ini, setiap tabel ditaruh di
@@ -59,6 +60,7 @@ Field yang ditandari dengan sufiks * sifatnya wajib:
 - id_tags
 - type
 
+
 ==Panduan bagi editor/kontributor==
 
 ===Standar penamaan===
@@ -91,6 +93,15 @@ Field yang ditandari dengan sufiks * sifatnya wajib:
   dunia). Jika kita memberi nama sebuah tabel dengan 'province' maka idealnya
   isi tabel tersebut adalah daftar provinsi atau entiti subnegara di semua
   negara.
+
+===Pesan commit===
+
+* Boleh dalam bahasa Indonesia atau Inggris (saya memperkirakan semua
+  kontributor rata-rata adalah orang Indonesia atau mereka yang kenal bahasa
+  Indonesia).
+
+* Ikuti panduan pesan commit yang 'baik' di: XXX
+
 
 ==Tautan==
 
