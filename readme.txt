@@ -129,6 +129,10 @@ Catatan: field yang ditandai dengan sufiks ~*~ sifatnya wajib:
    ~strlen~), kecuali beberapa perkecualian yang amat jarang. Alasan: lebih
    konsisten.
 
+   Perkecualian: nama skrip (di direktori ~bin/~) menggunakan setrip ~-~ sebagai
+   pemisahnya. Ini hanya masalah gaya saja, saya merasakan ~-~ lebih umum
+   digunakan untuk skrip dan lebih mudah diketik.
+
 5. Berikan prefiks ~ind_~ untuk entiti yang berisi data spesifik untuk
    bahasa/wilayah Indonesia (contoh: tabel ~ind_province~ berisi daftar provinsi
    di Indonesia, sementara ~province~ saja mencerminkan tabel berisi daftar
