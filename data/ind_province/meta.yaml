@@ -1,0 +1,10 @@
+ind_summary: Provinsi di Indonesia
+ind_alias: provinsi_ind
+columns:
+  bps_code: {arg_pos: 0, ind_summary: "Kode BPS", col_req: Yes, col_unique: Yes}
+  iso_code: {arg_pos: 1, ind_summary: "Kode ISO 3166-2", col_req: Yes, col_unique: Yes}
+  ind_name: {arg_pos: 2, ind_summary: "Nama (dalam bahasa Indonesia)", col_req: Yes, col_unique: Yes}
+  eng_name: {arg_pos: 3, ind_summary: "Nama (dalam bahasa Inggris)", col_req: Yes, col_unique: Yes}
+  capital_ind_name: {arg_pos: 4, ind_summary: "Nama ibukota (dalam bahasa Indonesia)", col_req: Yes, col_unique: Yes}
+  island_name: {arg_pos: 7, ind_summary: "Pulau"}
+  eng_tags: {arg_pos: 6, ind_summary: "Tag (dalam bahasa Inggris)"}
