@@ -157,6 +157,9 @@ Catatan: field yang ditandai dengan sufiks ~*~ sifatnya wajib:
    Ini memudahkan nama yang kita pilih dipakai langsung sebagai nama variabel,
    modul, dsb di bahasa pemrograman.
 
+   Penggunaan bahasa Inggris juga akan memudahkan pertukaran data dengan
+   Wikipedia bahasa Inggris misalnya.
+
 8. Gunakan bentuk kata tunggal (singular) dan bukan jamak (plural). Alasan:
    lebih sederhana dan menghindari aturan penjamakan bahasa Inggris (mis: apple
    -> apples tapi leaf -> leaves, sheep -> sheep, dsb). Perkecualian: kolom yang
