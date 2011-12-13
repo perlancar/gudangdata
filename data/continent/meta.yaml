@@ -1,17 +1,7 @@
-id_summary: "Daftar benua"
+ind_summary: Benua di dunia
+ind_alias: benua
 columns:
-  num_id:
-    type: 'int*'
-    id_summary: "ID numerik, dimulai dari 1, sintetis"
-  l2_id:
-    type: ['str*', {len: 2}]
-    id_summary: "ID 2 huruf, biasanya diambil dari nama Inggris"
-  en_name:
-    type: 'str*'
-    id_summary: "Nama benua (en)"
-  id_name:
-    type: 'str*'
-    id_summary: "Nama benua (id)"
-  tags:
-    type: ['str', {is_json: Yes}]
-
+  num_code: {arg_pos: 0, ind_summary: "Kode serial", ind_description: "Dibuat oleh proyek ini, tidak mengikuti otoritas manapun, pakai hati-hati.", col_req: Yes, col_unique: Yes}
+  alpha2_code: {arg_pos: 1, ind_summary: "Kode 2-huruf", ind_description: "Dibuat oleh proyek ini, tidak mengikuti otoritas manapun, pakai hati-hati.", col_req: Yes, col_unique: Yes}
+  eng_name: {arg_pos: 2, ind_summary: "Nama (dalam bahasa Inggris)", col_req: Yes, col_unique: Yes}
+  ind_name: {arg_pos: 3, ind_summary: "Nama (dalam bahasa Indonesia)", col_req: Yes, col_unique: Yes}
