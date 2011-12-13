@@ -196,6 +196,15 @@ Catatan: field yang ditandai dengan sufiks ~*~ sifatnya wajib:
 
 3. Entri perubahan dapat ditulis dalam bahasa Indonesia atau Inggris.
 
+** Diff commit
+
+1. Ini sebetulnya panduan umum, tapi: usahakan untuk menghasilkan diff yang
+   minimal, dengan kata lain jangan melakukan perubahan yang tidak perlu.
+   Contoh: jika Anda menyunting tabel CSV di Excel, jangan mengubah urutan
+   sorting, menambahkan/membuang kutip. Jangan mengubah line ending dari Unix ke
+   DOS. Jika hanya satu record yang ditambahkan ke tabel, seharusnya diff hanya
+   satu baris.
+
 ** Pesan commit
 
 1. Boleh dalam bahasa Indonesia atau Inggris (saya memperkirakan semua
