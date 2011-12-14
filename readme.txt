@@ -58,36 +58,20 @@ kecuali disebutkan lainnya di file README. Metadata disimpan dalam file
 
 * Struktur metadata
 
+Metadata ditulis dalam bahasa schema Sah [8] untuk memudahkan validasi (namun
+mohon dimaklumi karena modul Perl untuk parser Sah belum selesai dikembangkan).
+
 ** Metadata untuk tabel
 
-Catatan: field yang ditandai dengan sufiks ~*~ sifatnya wajib. Nama alias bahasa
-Indonesia untuk tabel dapat dilihat di direktori ~ind_alias/~ (menggunakan
-symbolic link) atau di kolom ~ind_alias~.
-
-- eng_summary :: Ringkasan tabel (satu baris, tanpa format), dalam bahasa Inggris
-- ind_summary* :: idem, dalam bahasa Indonesia
-- ind_alias :: Nama alias dalam bahasa Indonesia
-- eng_description :: Deskripsi tentang tabel (satu s/d beberapa paragraf, dalam
-  markup Org [5]), dalam bahasa Inggris
-- id_description :: idem, dalam bahasa Indonesia
-- source_urls ::
-- eng_tags ::
-- ind_tags ::
-- columns :: Daftar kolom (mapping). Field metadata untuk kolom dijelaskan dalam
-  subbab [[Metadata untuk kolom]].
+Schema untuk metadata tabel belum ditulis, untuk saat ini silakan mengintip
+dokumentasi modul Perl Sub::Spec::Gen::ReadTable [9]. Untuk contohnya, lihat
+meta.yaml pada salah satu tabel yang memilikinya.
 
 ** Metadata untuk kolom
 
-Catatan: field yang ditandai dengan sufiks ~*~ sifatnya wajib:
-
-- type :: Tipe data dalam format bahasa schema Sah [8]
-- ind_alias ::
-- eng_summary ::
-- ind_summary* ::
-- eng_description ::
-- id_description ::
-- eng_tags ::
-- ind_tags ::
+Schema untuk metadata kolom belum ditulis, untuk saat ini silakan mengintip
+dokumentasi modul Perl Sub::Spec::Gen::ReadTable [9]. Untuk contohnya, lihat
+meta.yaml pada salah satu tabel yang memilikinya.
 
 * Panduan gaya
 
@@ -239,3 +223,4 @@ merge ke GDI (jika bisa), agar tidak ada duplicated efforts.
 [6] https://github.com/
 [7] https://github.com/sharyanto/gudang-data-interim
 [8] http://metacpan.org/module/Data::Sah
+[9] http://metacpan.org/module/Sub::Spec::Gen::ReadTable
