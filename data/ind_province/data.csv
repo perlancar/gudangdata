@@ -1,4 +1,4 @@
-11,"ID-AC","Aceh","Aceh","Banda Aceh","Sumatera","[""special territory""]"
+11,"ID-AC","Aceh","Aceh","Banda Aceh","Sumatera","special territory"
 12,"ID-SU","Sumatera Utara","North Sumatra","Medan","Sumatera",
 13,"ID-SB","Sumatera Barat","West Sumatra","Padang","Sumatera",
 14,"ID-RI","Riau","Riau","Pekanbaru","Sumatera",
@@ -8,10 +8,10 @@
 18,"ID-LA","Lampung","Lampung","Bandar Lampung","Sumatera",
 19,"ID-BB","Kepulauan Bangka Belitung","Bangka Belitung Islands","Pangkal Pinang","Sumatera",
 21,"ID-KR","Kepulauan Riau","Riau Islands","Tanjung Pinang","Sumatera",
-31,"ID-JK","Daerah Khusus Ibukota Jakarta","Jakarta Special Capital Territory","Jakarta Pusat","Jawa","[""special territory"", ""special capital territory"", ""capital""]"
+31,"ID-JK","Daerah Khusus Ibukota Jakarta","Jakarta Special Capital Territory","Jakarta Pusat","Jawa","special territory,special capital territory,capital"
 32,"ID-JB","Jawa Barat","West Java","Bandung","Jawa",
 33,"ID-JT","Jawa Tengah","Central Java","Semarang","Jawa",
-34,"ID-YO","Daerah Istimewa Yogyakarta","Yogyakarta Special Territory","Yogyakarta","Jawa","[""special territory""]"
+34,"ID-YO","Daerah Istimewa Yogyakarta","Yogyakarta Special Territory","Yogyakarta","Jawa","special territory"
 35,"ID-JI","Jawa Timur","East Java","Surabaya","Jawa",
 36,"ID-BT","Banten","Banten","Serang","Jawa",
 51,"ID-BA","Bali","Bali","Denpasar","Bali",
@@ -29,5 +29,5 @@
 76,"ID-SR","Sulawesi Barat","West Sulawesi","Mamuju","Sulawesi",
 81,"ID-MA","Maluku","Maluku","Ambon","Maluku",
 82,"ID-MU","Maluku Utara","North Maluku","Sofifi","Maluku",
-91,"ID-PB","Papua Barat","West Papua","Manokwari","Papua","[""special territory""]"
-94,"ID-PA","Papua","Papua","Jayapura","Papua","[""special territory""]"
+91,"ID-PB","Papua Barat","West Papua","Manokwari","Papua","special territory"
+94,"ID-PA","Papua","Papua","Jayapura","Papua","special territory"
