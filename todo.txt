@@ -1,0 +1,30 @@
+# -*- Mode: org -*-
+
+* TODO [2011-12-14 Wed] Tambah data: kota/kabupaten Indonesia
+- sumber :: website BPS, Regency/Municipality Codes, Master Kabupaten 2003-2009, http://www.bps.go.id/mstkab/mfkab_03_09.pdf?
+- rencana kolom :: nama kota/kabupaten (nilai tanpa "Kota" atau "Kabupaten"), tipe (kota/kabupaten), kode BPS (4 digit), kode provinsi (2 digit awal)
+* TODO [2011-12-14 Wed] Tambah data: kecamatan Indonesia
+- sumber :: website BPS, Regency/Municipality Codes, Master Kabupaten 2003-2009, http://www.bps.go.id/mstkab/mfkab_03_09.pdf?
+- rencana kolom :: nama kecamatan, kode kota/kabupaten BPS, kode BPS
+* TODO [2011-12-14 Wed] Tambah data: kelurahan Indonesia
+- sumber :: website BPS, Urban/Rural Codes (MFD), http://sirusa.bps.go.id/doc/MFD.pdf
+- rencana kolom :: nama kecamatan, kode kota/kabupaten BPS, kode BPS
+* TODO [2011-12-14 Wed] Tambah data: hasil sensus penduduk 2010
+- sumber :: website BPS (telah terbit 1 nov 2011 lalu)
+* TODO [2011-12-14 Wed] Pindahkan schema untuk tipe data umum ke type.yaml
+contoh: kode provinsi BPS 2 digit ([int, between=>[11,99]]), kode
+provinsi+kota/kab BPS 4 digit, kode provinsi+kota/kab+kecamatan BPS 6 digit,
+kode BPS 8 digit. barangkali ditaruh di bps::*?
+
+akan ada juga koleksi tipe data yang umum di luar proyek ini yang bisa dipakai,
+contoh: kode ISO
+
+tapi barangkali kita tidak perlu go overboard membuat domain (tipe data) baru
+dulu.
+
+
+* TODO [2011-12-14 Wed] Buat skedul rilis
+* TODO [2011-12-14 Wed] Tes
+- csv dan yaml syntax valid
+- validasi schema metadata
+- referential integrity (dengan load ke database seperti Postgres mungkin?)
