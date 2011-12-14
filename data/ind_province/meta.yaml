@@ -9,4 +9,4 @@ columns:
   ind_capital_name: [str*, {column_index: 4, summary: "Capital name (Indonesian)", summary:ind: "Nama ibukota (bahasa Indonesia)", column_sortable: Yes, _note: "TODO link to locality_id"}]
   ind_island_name:  [str*, {column_index: 5, summary: "Island (Indonesian)", summary:ind: "Pulau", arg_pos: 7, ind_summary: "Pulau", _note: "TODO link to island_id"}]
   tags:             [str*, {column_index: 6, summary:ind: "Tag (bahasa Inggris)"}]
-pk: bps_code
+pk: ind_name
