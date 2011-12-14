@@ -5,7 +5,7 @@
 Tabel ini berisi daftar kota/kabupaten di Indonesia.
 
 Mengenai penggunaan istilah /locality/. Locality adalah istilah umum untuk
-wilayah setingkat kota/kabupaten/city/town/village/urban area.
+wilayah setingkat kota (/city/) atau kabupaten (/regency/).
 
 * Isu
 * Taut
