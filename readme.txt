@@ -53,8 +53,7 @@ CSV cukup universal dan memudahkan impor ke aplikasi spreadsheet atau yang
 lainnya. Terdapat ~readme.txt~ di setiap subdirektori tabel yang memperkenalkan
 sekilas tentang isi tabel, sejarah, isu, dll. Enkoding data adalah UTF-8,
 kecuali disebutkan lainnya di file README. Metadata disimpan dalam file
-~meta.yaml~ (atau ~meta.json~). Keterangan perubahan ada di file bernama
-~changes.txt~.
+~meta.yaml~ (atau ~meta.json~).
 
 * Struktur metadata
 

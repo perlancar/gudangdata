@@ -1,3 +1,4 @@
 # -*- Mode: org -*-
 
-* [2011-12-13 Tue] Belum ada rilis, baru dipasang di github.
+* [2011-12-13 Tue] Belum ada rilis.
+
