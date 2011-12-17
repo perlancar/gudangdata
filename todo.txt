@@ -1,8 +1,25 @@
 # -*- Mode: org -*-
 
-* TODO [2011-12-14 Wed] Tambah data: kota/kabupaten Indonesia
-- sumber :: website BPS, Regency/Municipality Codes, Master Kabupaten 2003-2009, http://www.bps.go.id/mstkab/mfkab_03_09.pdf?
-- rencana kolom :: nama kota/kabupaten (nilai tanpa "Kota" atau "Kabupaten"), tipe (kota/kabupaten), kode BPS (4 digit), kode provinsi (2 digit awal)
+* TODO [2011-12-15 ] Tambah data: koordinat kota/kabupaten
+- dari posting wida di milis id-data:
+
+tadi nanya ke milis lain
+dapat ini
+http://www.bunyu-online.com/2011/08/daftar-titik-koordinat-peta-kota-tempat.html
+http://geotags.com/geo/DMS3.html
+lumajan
+
+---
+
+udah ke
+http://isithackday.com/geoplanet-explorer/index.php?woeid=56000382 belum?
+
+ini link utk search
+http://isithackday.com/geoplanet-explorer/index.php?start=depok
+kalo ada data nama kabupaten, harusnya bisa di curl utk dapetin
+lon lat nya,
+ada API nya si, tp sy blm liat ada fungsi apa aja
+
 * TODO [2011-12-14 Wed] Tambah data: kecamatan Indonesia
 - sumber :: website BPS, Regency/Municipality Codes, Master Kabupaten 2003-2009, http://www.bps.go.id/mstkab/mfkab_03_09.pdf?
 - rencana kolom :: nama kecamatan, kode kota/kabupaten BPS, kode BPS
@@ -21,7 +38,6 @@ contoh: kode ISO
 
 tapi barangkali kita tidak perlu go overboard membuat domain (tipe data) baru
 dulu.
-
 
 * TODO [2011-12-14 Wed] Buat skedul rilis
 * TODO [2011-12-14 Wed] Tes
