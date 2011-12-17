@@ -1,9 +1,9 @@
 summary: Continents of the world
-summary:lang.ind: Benua di dunia
-table_aliases:lang.ind: [benua]
+summary:alt.lang.ind: Benua di dunia
+table_aliases:alt.lang.ind: [benua]
 columns:
-  num_code:    [int*, {column_index: 0, summary: "Serial code", summary:lang.ind: "Kode serial", description:lang.ind: "Dibuat oleh proyek ini, tidak mengikuti otoritas manapun, pakai hati-hati.", column_sortable: Yes, column_unique: Yes}]
-  alpha2_code: [str*, {column_index: 1, summary: "Two-letter code", summary:lang.ind: "Kode 2-huruf", description:lang.ind: "Dibuat oleh proyek ini, tidak mengikuti otoritas manapun, pakai hati-hati.", column_sortable: Yes, column_unique: Yes, len: 2}]
-  eng_name:    [str*, {column_index: 2, summary: "Name (in English)", summary:lang.ind: "Nama (bahasa Inggris)", column_sortable: Yes, column_unique: Yes}]
-  ind_name:    [str*, {column_index: 3, summary: "Name (in Indonesian)", summary:lang.ind: "Nama (bahasa Indonesia)", column_sortable: Yes, column_unique: Yes}]
+  num_code:    [int*, {column_index: 0, summary: "Serial code", summary:alt.lang.ind: "Kode serial", description:alt.lang.ind: "Dibuat oleh proyek ini, tidak mengikuti otoritas manapun, pakai hati-hati.", column_sortable: Yes, column_unique: Yes}]
+  alpha2_code: [str*, {column_index: 1, summary: "Two-letter code", summary:alt.lang.ind: "Kode 2-huruf", description:alt.lang.ind: "Dibuat oleh proyek ini, tidak mengikuti otoritas manapun, pakai hati-hati.", column_sortable: Yes, column_unique: Yes, len: 2}]
+  eng_name:    [str*, {column_index: 2, summary: "Name (in English)", summary:alt.lang.ind: "Nama (bahasa Inggris)", column_sortable: Yes, column_unique: Yes}]
+  ind_name:    [str*, {column_index: 3, summary: "Name (in Indonesian)", summary:alt.lang.ind: "Nama (bahasa Indonesia)", column_sortable: Yes, column_unique: Yes}]
 pk: alpha2_code

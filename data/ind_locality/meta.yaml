@@ -1,10 +1,10 @@
 summary: Localities (cities & regencies) in Indonesia
-summary:lang.ind: Kota/kabupaten di Indonesia
-table_aliases:lang.ind: [kota_kabupaten_ind]
+summary:alt.lang.ind: Kota/kabupaten di Indonesia
+table_aliases:alt.lang.ind: [kota_kabupaten_ind]
 columns:
-  bps_code:      [int*, {column_index: 0, summary: "BPS 4-digit code containing 2-digit province code and 2-digit locality code", summary:lang.ind: "Kode 4-digit BPS berisi 2-digit kode provinsi dan 2-digit kode kota/kabupaten", column_sortable: Yes, column_unique: Yes, min: 1101, max: 9999}]
-  bps_prov_code: [int*, {column_index: 1, summary: "BPS 2-digit province code", summary:lang.ind: "Kode provinsi 2-digit BPS", column_sortable: Yes, min: 11, max: 99}]
-  ind_name:      [str*, {column_index: 2, summary: "Name (in Indonesian)", summary:lang.ind: "Nama (bahasa Indonesia)", column_sortable: Yes}]
-  type:          [int*, {column_index: 3, summary: "Type of locality (1=city, 2=regency)", summary:lang.ind: "Tipe (1=kota, 2=kabupaten)", column_sortable: Yes, in: [1, 2]}]
-  #tags:         [str*, {column_index: 6, summary:lang.ind: "Tag (bahasa Inggris)"}]
+  bps_code:      [int*, {column_index: 0, summary: "BPS 4-digit code containing 2-digit province code and 2-digit locality code", summary:alt.lang.ind: "Kode 4-digit BPS berisi 2-digit kode provinsi dan 2-digit kode kota/kabupaten", column_sortable: Yes, column_unique: Yes, min: 1101, max: 9999}]
+  bps_prov_code: [int*, {column_index: 1, summary: "BPS 2-digit province code", summary:alt.lang.ind: "Kode provinsi 2-digit BPS", column_sortable: Yes, min: 11, max: 99}]
+  ind_name:      [str*, {column_index: 2, summary: "Name (in Indonesian)", summary:alt.lang.ind: "Nama (bahasa Indonesia)", column_sortable: Yes}]
+  type:          [int*, {column_index: 3, summary: "Type of locality (1=city, 2=regency)", summary:alt.lang.ind: "Tipe (1=kota, 2=kabupaten)", column_sortable: Yes, in: [1, 2]}]
+  #tags:         [str*, {column_index: 6, summary:alt.lang.ind: "Tag (bahasa Inggris)"}]
 pk: bps_code
