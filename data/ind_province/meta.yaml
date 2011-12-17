@@ -1,12 +1,12 @@
 summary: Provinces in Indonesia
-summary:ind: Provinsi di Indonesia
-table_aliases:ind: [provinsi_ind]
+summary:lang:ind: Provinsi di Indonesia
+table_aliases:lang:ind: [provinsi_ind]
 columns:
-  bps_code:         [int*, {column_index: 0, summary: "BPS code", summary:ind: "Kode BPS", column_sortable: Yes, column_unique: Yes, min: 11, max: 99}]
-  iso3166_2_code:   [str*, {column_index: 1, summary: "ISO 3166-2 code", summary:ind: "Kode ISO 3166-2", column_sortable: Yes, column_unique: Yes, match: '^[A-Z]{2}-[A-Z]{2}$'}]
-  ind_name:         [str*, {column_index: 2, summary: "Name (in Indonesian)", summary:ind: "Nama (bahasa Indonesia)", column_sortable: Yes, column_unique: Yes}]
-  eng_name:         [str*, {column_index: 3, summary: "Name (in English)", summary:ind: "Nama (bahasa Inggris)", column_sortable: Yes, column_unique: Yes}]
-  ind_capital_name: [str*, {column_index: 4, summary: "Capital name (Indonesian)", summary:ind: "Nama ibukota (bahasa Indonesia)", column_sortable: Yes, _note: "TODO link to locality_id"}]
-  ind_island_name:  [str*, {column_index: 5, summary: "Island (Indonesian)", summary:ind: "Pulau", arg_pos: 7, ind_summary: "Pulau", _note: "TODO link to island_id"}]
-  tags:             [str*, {column_index: 6, summary:ind: "Tag (bahasa Inggris)"}]
+  bps_code:         [int*, {column_index: 0, summary: "BPS code", summary:lang:ind: "Kode BPS", column_sortable: Yes, column_unique: Yes, min: 11, max: 99}]
+  iso3166_2_code:   [str*, {column_index: 1, summary: "ISO 3166-2 code", summary:lang:ind: "Kode ISO 3166-2", column_sortable: Yes, column_unique: Yes, match: '^[A-Z]{2}-[A-Z]{2}$'}]
+  ind_name:         [str*, {column_index: 2, summary: "Name (in Indonesian)", summary:lang:ind: "Nama (bahasa Indonesia)", column_sortable: Yes, column_unique: Yes}]
+  eng_name:         [str*, {column_index: 3, summary: "Name (in English)", summary:lang:ind: "Nama (bahasa Inggris)", column_sortable: Yes, column_unique: Yes}]
+  ind_capital_name: [str*, {column_index: 4, summary: "Capital name (Indonesian)", summary:lang:ind: "Nama ibukota (bahasa Indonesia)", column_sortable: Yes, _note: "TODO link to locality_id"}]
+  ind_island_name:  [str*, {column_index: 5, summary: "Island (Indonesian)", summary:lang:ind: "Pulau", arg_pos: 7, ind_summary: "Pulau", _note: "TODO link to island_id"}]
+  tags:             [str*, {column_index: 6, summary:lang:ind: "Tag (bahasa Inggris)"}]
 pk: ind_name
