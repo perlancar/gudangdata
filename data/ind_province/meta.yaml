@@ -1,12 +1,50 @@
 summary: Provinces in Indonesia
-summary:alt.lang.ind: Provinsi di Indonesia
-table_aliases:alt.lang.ind: [provinsi_ind]
+summary.alt.lang.id_ID: Provinsi di Indonesia
+table_aliases.alt.lang.id_ID: [provinsi_ind]
 columns:
-  bps_code:         [int*, {column_index: 0, summary: "BPS code", summary:alt.lang.ind: "Kode BPS", column_sortable: Yes, column_unique: Yes, min: 11, max: 99}]
-  iso3166_2_code:   [str*, {column_index: 1, summary: "ISO 3166-2 code", summary:alt.lang.ind: "Kode ISO 3166-2", column_sortable: Yes, column_unique: Yes, match: '^[A-Z]{2}-[A-Z]{2}$'}]
-  ind_name:         [str*, {column_index: 2, summary: "Name (in Indonesian)", summary:alt.lang.ind: "Nama (bahasa Indonesia)", column_sortable: Yes, column_unique: Yes}]
-  eng_name:         [str*, {column_index: 3, summary: "Name (in English)", summary:alt.lang.ind: "Nama (bahasa Inggris)", column_sortable: Yes, column_unique: Yes}]
-  ind_capital_name: [str*, {column_index: 4, summary: "Capital name (Indonesian)", summary:alt.lang.ind: "Nama ibukota (bahasa Indonesia)", column_sortable: Yes, _note: "TODO link to locality_id"}]
-  ind_island_name:  [str*, {column_index: 5, summary: "Island (Indonesian)", summary:alt.lang.ind: "Pulau", arg_pos: 7, ind_summary: "Pulau", _note: "TODO link to island_id"}]
-  tags:             [str*, {column_index: 6, summary:alt.lang.ind: "Tag (bahasa Inggris)"}]
+  bps_code:
+    schema: ['int*', {min: 11, max: 99}]
+    index: 0
+    summary: "BPS code"
+    summary.alt.lang.id_ID: "Kode BPS"
+    sortable: Yes
+    unique: Yes
+  iso3166_2_code:
+    schema: [str*, {match: '^[A-Z]{2}-[A-Z]{2}$'}]
+    index: 1
+    summary: "ISO 3166-2 code"
+    summary.alt.lang.id_ID: "Kode ISO 3166-2"
+    sortable: Yes
+    unique: Yes
+  ind_name:
+    schema: [str*, {}]
+    index: 2
+    summary: "Name (in Indonesian)"
+    summary.alt.lang.id_ID: "Nama (bahasa Indonesia)"
+    sortable: Yes
+    unique: Yes
+  eng_name:
+    schema: [str*, {}]
+    index: 3
+    summary: "Name (in English)"
+    summary.alt.lang.id_ID: "Nama (bahasa Inggris)"
+    sortable: Yes
+    unique: Yes
+  ind_capital_name:
+    schema: [str*]
+    index: 4
+    summary: "Capital name (Indonesian)"
+    summary.alt.lang.id_ID: "Nama ibukota (bahasa Indonesia)"
+    sortable: Yes
+    note: "TODO link to locality_id"
+  ind_island_name:
+    schema: [str*, {}]
+    index: 5
+    summary: "Island (Indonesian)"
+    summary.alt.lang.id_ID: "Pulau"
+    note: "TODO link to island_id"
+  tags:
+    schema: [str*]
+    index: 6
+    summary.alt.lang.id_ID: "Tag (bahasa Inggris)"
 pk: ind_name
