@@ -46,5 +46,6 @@ columns:
   tags:
     schema: [str*]
     index: 6
-    summary.alt.lang.id_ID: "Tag (bahasa Inggris)"
+    summary: "Tag"
+    summary.alt.lang.id_ID: "Tag"
 pk: ind_name
