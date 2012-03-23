@@ -1,0 +1,50 @@
+#!/usr/bin/perl
+
+use 5.010001;
+use strict;
+use warnings;
+
+use Cwd 'abs_path';
+use FindBin '$Bin';
+use Setup::Text::Snippet::WithID 'setup_snippet_with_id';
+use String::ShellQuote;
+
+die "Usage: $0 <data-dir> <perl-module-file>\n" unless @ARGV == 2;
+my ($data_dir, $perl_mod) = @ARGV;
+
+(-d $data_dir)
+    or die "ERROR: $data_dir does not exist or not a dir\n";
+(-f "$data_dir/data.csv")
+    or die "ERROR: $data_dir/data.csv does not exist or not a file\n";
+(-f "$data_dir/meta.yaml")
+    or die "ERROR: $data_dir/meta.yaml does not exist or not a file\n";
+(-f $perl_mod)
+    or die "ERROR: $perl_mod does not exist or not a file\n";
+(-x "$Bin/gen-perl-meta-snippet")
+    or die "ERROR: Can't find $Bin/gen-perl-meta-snippet script\n";
+(-x "$Bin/gen-perl-data-snippet")
+    or die "ERROR: Can't find $Bin/gen-perl-data-snippet script\n";
+
+my $meta_snippet = `${\("$Bin/gen-perl-meta-snippet ".
+    shell_quote("$data_dir/meta.yaml"))}`;
+($meta_snippet =~ /^#.+[^#].+/sm)
+    or die "ERROR: Can't seem to generate meta snippet successfully\n";
+my $data_snippet = `${\("$Bin/gen-perl-data-snippet ".
+    shell_quote("$data_dir/data.csv"))}`;
+($meta_snippet =~ /^#.+[^#].+/sm)
+    or die "ERROR: Can't seem to generate data snippet successfully\n";
+
+my $res = setup_snippet_with_id(
+    file    => $perl_mod,
+    id      => 'meta',
+    content => $meta_snippet,
+);
+die "Can't insert meta snippet: $res->[0] - $res->[1]\n"
+    unless $res->[0] == 200;
+$res = setup_snippet_with_id(
+    file    => $perl_mod,
+    id      => 'data',
+    content => $data_snippet,
+);
+die "Can't insert data snippet: $res->[0] - $res->[1]\n"
+    unless $res->[0] == 200;
