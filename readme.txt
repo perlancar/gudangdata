@@ -116,15 +116,19 @@ meta.yaml pada salah satu tabel yang memilikinya.
    pemisahnya. Ini hanya masalah gaya saja, saya merasakan ~-~ lebih umum
    digunakan untuk skrip dan lebih mudah diketik.
 
-5. Berikan prefiks ~ind_~ untuk entiti yang berisi data spesifik untuk
-   bahasa/wilayah Indonesia (contoh: tabel ~ind_province~ berisi daftar provinsi
-   di Indonesia, sementara ~province~ saja mencerminkan tabel berisi daftar
-   provinsi di seluruh dunia; kolom ~ind_name~ menyatakan kolom berisi nama
-   Indonesia). Sebaliknya, gunakan prefiks kolom ~eng_~ untuk data yang berisi
-   bahasa Inggris.
+5. Berikan prefiks ~idn_~ (kode negara ISO 3-huruf untuk Indonesia) untuk entiti
+   yang berisi data spesifik untuk bahasa/wilayah Indonesia (contoh: tabel
+   ~idn_province~ berisi daftar provinsi di Indonesia, sementara ~province~ saja
+   mencerminkan tabel berisi daftar provinsi di seluruh dunia
 
-   Pada nama alias bahasa Indonesia, akhiran ~_ind~ dan ~_ing~ dapat digunakan
-   sebagai padanannya.
+   Berikan prefiks ~ind_~ (kode bahasa ISO 3-huruf untuk bahasa Indonesia) untuk
+   kolom yang berisi teks bahasa Indonesia. Contoh: ~ind_name~ menyatakan kolom
+   berisi nama Indonesia. Sebaliknya, gunakan prefiks kolom ~eng_~ untuk data
+   yang berisi bahasa Inggris, walaupun ini tidak wajib dan umumnya hanya perlu
+   jika ada kolom Indonesia-nya.
+
+   Pada nama alias bahasa Indonesia, akhiran ~_idn~, ~_ind~, dan ~_eng~ dapat
+   digunakan sebagai padanannya.
 
 6. Nama file: selalu gunakan akhiran (ekstensi) file yang mencerminkan isi file.
    Contoh: ~changes.txt~ dan bukan ~changes~ saja. Alasan: Ini membantu skimming
