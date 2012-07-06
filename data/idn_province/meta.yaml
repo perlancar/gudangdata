@@ -1,6 +1,6 @@
 summary: Provinces in Indonesia
 summary.alt.lang.id_ID: Provinsi di Indonesia
-table_aliases.alt.lang.id_ID: [provinsi_ind]
+table_aliases.alt.lang.id_ID: [provinsi_idn]
 fields:
   bps_code:
     schema: ['int*', {min: 11, max: 99}]
