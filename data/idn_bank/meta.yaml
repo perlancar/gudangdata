@@ -1,0 +1,9 @@
+summary: Indonesian banks/financial institutions
+summary.alt.lang.id_ID: Bank/institusi finansial di Indonesia
+table_aliases.alt.lang.id_ID: [bank_idn]
+fields:
+  id:        {schema: 'int*', index: 0, summary: "ID", summary.alt.lang.id_ID: "Kode angka", description.alt.lang.id_ID: "Dibuat oleh proyek ini, tidak mengikuti otoritas manapun, pakai hati-hati.", sortable: Yes, unique: Yes}
+  name:      {schema: 'str*', index: 1, summary: "Name", summary.alt.lang.id_ID: "Nama", description.alt.lang.id_ID: "Umumnya berupa nama perusahaan.", sortable: Yes, unique: Yes}
+  nickname:  {schema: 'str',  index: 2, summary: "Short name", summary.alt.lang.id_ID: "Nama pendek", sortable: Yes, unique: Yes}
+  atmb_code: {schema: ['str*', {match: '^\d{3}$'}], index: 3, summary: "3-digit ATM Bersama code", summary.alt.lang.id_ID: "Kode ATM Bersama", sortable: Yes, unique: No}
+pk: id
