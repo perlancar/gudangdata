@@ -30,4 +30,5 @@ tabel ini adalah menyediakan kode BIC/SWIFT, ATM Bersama, dan sejenisnya.
 * Isu
 - Data saat ini belum mendekati lengkap.
 - TODO: Kode BIC/SWIFT.
+- TODO: Kode PayPal.
 * Taut
