@@ -22,7 +22,7 @@ effort sejenisnya.
 
 * Bagaimana menggunakan data ini? (a.k.a.: Panduan bagi pengguna)
 
-Mayoritas data (terletak di direktori ~data/~) disimpan dalam format CSV dan
+Mayoritas data (terletak di direktori ~table/~) disimpan dalam format CSV dan
 dapat dengan mudah dimuat ke program spreadsheet, diimpor ke database
 relasional, diparse oleh skrip, dll. Akan disediakan juga skrip (di ~bin/~)
 untuk mengimpor ke database SQL, mengupdate data di database SQL, dll.
@@ -46,13 +46,13 @@ Untuk saat ini, silakan lihat [[Panduan bagi pengguna]].
 
 * Pengorganisasian data
 
-Data ditaruh di direktori ~data/~. Mayoritas data ada dalam bentuk tabel 2
-dimensi. Di bawah direktori ~data/~, setiap tabel ditaruh di subdirektori
+Mayoritas data ada dalam bentuk tabel 2 dimensi. Data tabel ditaruh di direktori
+~table/~. Di bawah direktori ~table/~, setiap tabel ditaruh di subdirektori
 masing-masing. Data tabel umumnya disimpan dalam file ~data.csv~ karena format
 CSV cukup universal dan memudahkan impor ke aplikasi spreadsheet atau yang
 lainnya. Terdapat ~readme.txt~ di setiap subdirektori tabel yang memperkenalkan
 sekilas tentang isi tabel, sejarah, isu, dll. Enkoding data adalah UTF-8,
-kecuali disebutkan lainnya di file README. Metadata disimpan dalam file
+kecuali disebutkan lainnya di file ~readme.txt~. Metadata disimpan dalam file
 ~meta.yaml~ (atau ~meta.json~).
 
 * Struktur metadata
