@@ -226,4 +226,4 @@ merge ke GDI (jika bisa), agar tidak ada duplicated efforts.
 [6] https://github.com/
 [7] https://github.com/sharyanto/gudang-data-interim
 [8] http://metacpan.org/module/Data::Sah
-[9] http://metacpan.org/module/Perinci::Sub::Spec::AccessTable
+[9] http://metacpan.org/module/Perinci::Sub::Gen::AccessTable
