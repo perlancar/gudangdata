@@ -58,13 +58,13 @@ kecuali disebutkan lainnya di file ~readme.txt~. Metadata disimpan dalam file
 * Struktur metadata
 
 Metadata ditulis dalam bahasa schema Sah [8] untuk memudahkan validasi (namun
-mohon dimaklumi karena modul Perl untuk parser Sah belum selesai dikembangkan).
+mohon maklum, saat ini modul Perl untuk parser Sah belum selesai dikembangkan).
 
 ** Metadata untuk tabel
 
-Schema untuk metadata tabel belum ditulis, untuk saat ini silakan mengintip
-dokumentasi modul Perl Sub::Spec::Gen::ReadTable [9]. Untuk contohnya, lihat
-meta.yaml pada salah satu tabel yang memilikinya.
+Schema untuk metadata tabel mengikuti table_spec yang didefinisikan oleh modul
+Perl Perinci::Sub::Gen::AccessTable [9]. Untuk contohnya, lihat meta.yaml pada
+salah satu tabel yang memilikinya.
 
 ** Metadata untuk kolom
 
@@ -226,4 +226,4 @@ merge ke GDI (jika bisa), agar tidak ada duplicated efforts.
 [6] https://github.com/
 [7] https://github.com/sharyanto/gudang-data-interim
 [8] http://metacpan.org/module/Data::Sah
-[9] http://metacpan.org/module/Sub::Spec::Gen::ReadTable
+[9] http://metacpan.org/module/Perinci::Sub::Spec::AccessTable
