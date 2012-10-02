@@ -188,6 +188,6 @@ merge ke GDI (jika bisa), agar tidak ada duplicated efforts.
 [4] mailto:stevenharyanto@gmail.com
 [5] http://orgmode.org/
 [6] https://github.com/
-[7] https://github.com/sharyanto/gudang-data-interim
+[7] https://github.com/sharyanto/gudangdata
 [8] http://metacpan.org/module/Data::Sah
 [9] http://metacpan.org/module/Perinci::Sub::Gen::AccessTable
