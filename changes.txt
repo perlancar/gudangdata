@@ -1,4 +1,6 @@
-# -*- Mode: org -*-
+Sejarah perubahan gudangdata
 
-* [2011-12-XX ] (belum dirilis) Rilis pertama.
+2012-10-02 (SHARYANTO) (belum dirilis)
+
+        - Rilis pertama.
 
