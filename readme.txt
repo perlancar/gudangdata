@@ -55,8 +55,7 @@ kecuali disebutkan lainnya di file ~readme.txt~. Metadata disimpan dalam file
 
 * Struktur metadata
 
-Metadata ditulis dalam bahasa schema Sah [8] untuk memudahkan validasi (namun
-mohon maklum, saat ini modul Perl untuk parser Sah belum selesai dikembangkan).
+Metadata ditulis dalam bahasa schema Sah [8] untuk memudahkan validasi
 
 ** Metadata untuk tabel
 
