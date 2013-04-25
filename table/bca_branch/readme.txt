@@ -8,4 +8,6 @@ tercantum di awal nomor rekening.
 Sumber data awal:
 - http://heince.wordpress.com/2010/07/02/kode-dan-nama-kantor-cabang-bca/
 
+Data belum dibersihkan/dirapikan.
+
 * Isu
