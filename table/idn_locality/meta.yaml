@@ -1,7 +1,7 @@
 summary: Localities (cities & regencies) in Indonesia
 summary.alt.lang.id_ID: Kota/kabupaten di Indonesia
 table_aliases.alt.lang.id_ID: [kota_idn]
-fields:
+columns:
   bps_code:
     schema: ['int*', {min: 1101, max: 9999}]
     index: 0

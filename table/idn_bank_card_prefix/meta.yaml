@@ -1,6 +1,6 @@
 summary: Prefix of card numbers issued in Indonesia
 summary.alat.lang.id_ID: Prefiks nomor kartu yang diterbitkan di Indonesia
-fields:
+columns:
   prefix:    {schema: ['str*', {min_len: 4, max_len: 6, match: '^\d+$'}], index: 0, summary: "Name", summary.alt.lang.id_ID: "Nama", description.alt.lang.id_ID: "Umumnya berupa nama perusahaan.", sortable: Yes, unique: Yes}
   issuer_id:   {schema: 'int*', index: 1, summary: "Issuer", summary.alt.lang.id_ID: "Penerbit", description.alt.lang.id_ID: "Lihat tabel idn_bank", sortable: Yes}
   ind_description:  {schema: 'str*',  index: 2, summary: "Description (in Indonesian)", summary.alt.lang.id_ID: "Keterangan (dalam bahasa Indonesia)", sortable: Yes, unique: Yes}

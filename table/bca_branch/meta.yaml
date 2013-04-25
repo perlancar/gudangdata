@@ -1,7 +1,7 @@
 summary: BCA branches
 summary.alt.lang.id_ID: Kantor cabang BCA
 table_aliases.alt.lang.id_ID: [kantor_cabang_bca]
-fields:
+columns:
   code:      {schema: ['str*', match, '^\d{3,4}$'], index: 0, summary: "Code", summary.alt.lang.id_ID: "Kode", sortable: Yes, unique: Yes}
   address:   {schema: 'str*', index: 1, summary: "Address", summary.alt.lang.id_ID: "Alamat"}
   city_name: {schema: 'str*', index: 2, summary: "City name", summary.alt.lang.id_ID: "Nama kota", sortable: Yes}
