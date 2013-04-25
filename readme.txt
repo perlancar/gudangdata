@@ -29,6 +29,12 @@ Silakan baca dokumen ini secara keseluruhan. Jika Anda masih memiliki pertanyaan
 mengenai cara pemakaian, dapat menghubungi [4]. Silakan lihat juga effort serupa
 seperti [3].
 
+* Lisensi
+
+Creative Commons Attribution (BY).
+
+Untuk detilnya, lihat: http://en.wikipedia.org/wiki/Creative_Commons_licenses
+
 * Panduan bagi kontributor
 
 1. Baca dokumen ini hingga selesai.
