@@ -45,9 +45,9 @@ for my $i (0..$#city_ids) {
     my $numpages = $1;
 
     for my $j (2..$numpages) {
-        $log->info("  Getting page $j ...");
         $u =~ s/-p=\d+/-p=$j/;
-        $mech->get($u);
+        $log->info("  Getting page $j ...");
+        $mech->follow_link(text_regex => qr/^$j$/);
         write_file("$cname-$j.html", $mech->content);
     }
 }
