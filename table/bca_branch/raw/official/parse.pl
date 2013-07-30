@@ -12,8 +12,8 @@ use File::Slurp;
 
 my $fmt = DateTime::Format::Indonesian->new;
 
-#for my $f (<*.html>) {
-for my $f (<Bandung*.html>) {
+for my $f (<*.html>) {
+#for my $f (<Bandung*.html>) {
     $log->info("Reading $f ...");
     my ($city) = $f =~ /(.+)-\d+\.html$/; # city name
     my $ct = read_file($f);
