@@ -1,0 +1,9 @@
+summary: Debian releases
+summary.alt.lang.id_ID: Rilis Debian
+columns:
+  codename: {schema: 'str*', index: 0, summary: "Name (in Indonesian)", sortable: Yes, unique: Yes}
+  version: {schema: 'str*', index: 1, summary: "Name (in Indonesian)", sortable: Yes, unique: Yes}
+  #latest_point_version: {schema: 'str*', index: 2, summary: "", sortable: Yes, unique: Yes}
+  #latest_date: {schema: 'date*', index: 3summary: "", sortable: Yes}
+  #is_released: {schema: 'bool*', index: 0, summary: "Name (in Indonesian)", sortable: Yes}
+pk: codename
