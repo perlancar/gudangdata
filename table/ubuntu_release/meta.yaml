@@ -1,5 +1,5 @@
 summary: Ubuntu releases
-columns:
+fields:
   version:         {index: 0, schema: 'str*', summary: "Version", sortable: Yes, unique: Yes}
   code_name:       {index: 1, schema: 'str*', summary: "Code name", sortable: Yes, unique: Yes}
   reldate:         {index: 2, schema: 'date*', summary: "Release date", sortable: Yes}
