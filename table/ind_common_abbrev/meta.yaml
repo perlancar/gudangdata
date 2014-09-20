@@ -1,0 +1,9 @@
+summary: Common Indonesian abbreviations
+summary.alt.lang.id_ID: Daftar singkatan umum kata bahasa Indonesia
+description: |
+  This table can be used for constructing function or module names.
+table_aliases.alt.lang.id_ID: [singkatan_umum_ind]
+fields:
+  abbrev: {schema: 'str*', pos: 0, unique: Yes}
+  word:   {schema: 'str*', pos: 1, unique: No}
+pk: abbrev
