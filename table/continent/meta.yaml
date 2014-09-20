@@ -4,6 +4,6 @@ table_aliases.alt.lang.id_ID: [benua]
 fields:
   num_code:    {schema: 'int*', pos: 0, summary: "Serial code", summary.alt.lang.id_ID: "Kode serial", description.alt.lang.id_ID: "Dibuat oleh proyek ini, tidak mengikuti otoritas manapun, pakai hati-hati.", sortable: Yes, unique: Yes}
   alpha2_code: {schema: ['str*', {len: 2}], pos: 1, summary: "Two-letter code", summary.alt.lang.id_ID: "Kode 2-huruf", description.alt.lang.id_ID: "Dibuat oleh proyek ini, tidak mengikuti otoritas manapun, pakai hati-hati.", sortable: Yes, unique: Yes}
-  eng_name:    {schema: 'str*', pos: 2, summary: "Name (in English)", summary.alt.lang.id_ID: "Nama (bahasa Inggris)", sortable: Yes, unique: Yes}
-  ind_name:    {schema: 'str*', pos: 3, summary: "Name (in Indonesian)", summary.alt.lang.id_ID: "Nama (bahasa Indonesia)", sortable: Yes, unique: Yes}
+  en_name:     {schema: 'str*', pos: 2, summary: "Name (in English)", summary.alt.lang.id_ID: "Nama (bahasa Inggris)", sortable: Yes, unique: Yes}
+  id_name:     {schema: 'str*', pos: 3, summary: "Name (in Indonesian)", summary.alt.lang.id_ID: "Nama (bahasa Indonesia)", sortable: Yes, unique: Yes}
 pk: alpha2_code

@@ -16,28 +16,28 @@ fields:
     summary.alt.lang.id_ID: "Kode ISO 3166-2"
     sortable: Yes
     unique: Yes
-  ind_name:
+  id_name:
     schema: [str*, {}]
     pos: 2
     summary: "Name (in Indonesian)"
     summary.alt.lang.id_ID: "Nama (bahasa Indonesia)"
     sortable: Yes
     unique: Yes
-  eng_name:
+  en_name:
     schema: [str*, {}]
     pos: 3
     summary: "Name (in English)"
     summary.alt.lang.id_ID: "Nama (bahasa Inggris)"
     sortable: Yes
     unique: Yes
-  ind_capital_name:
+  id_capital_name:
     schema: [str*]
     pos: 4
     summary: "Capital name (Indonesian)"
     summary.alt.lang.id_ID: "Nama ibukota (bahasa Indonesia)"
     sortable: Yes
     note: "TODO link to locality_id"
-  ind_island_name:
+  id_island_name:
     schema: [str*, {}]
     pos: 5
     summary: "Island (Indonesian)"

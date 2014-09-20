@@ -15,7 +15,7 @@ fields:
     summary: "BPS 2-digit province code"
     summary.alt.lang.id_ID: "Kode provinsi 2-digit BPS"
     sortable: Yes
-  ind_name:
+  id_name:
     schema: ['str*', {}]
     pos: 2
     summary: "Name (in Indonesian)"
