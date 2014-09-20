@@ -1,34 +1,34 @@
 summary: Localities (cities & regencies) in Indonesia
 summary.alt.lang.id_ID: Kota/kabupaten di Indonesia
 table_aliases.alt.lang.id_ID: [kota_idn]
-columns:
+fields:
   bps_code:
     schema: ['int*', {min: 1101, max: 9999}]
-    index: 0
+    pos: 0
     summary: "BPS 4-digit code containing 2-digit province code and 2-digit locality code"
     summary.alt.lang.id_ID: "Kode 4-digit BPS berisi 2-digit kode provinsi dan 2-digit kode kota/kabupaten"
     sortable: Yes
     unique: Yes
   bps_prov_code:
     schema: [int*, {min: 11, max: 99}]
-    index: 1
+    pos: 1
     summary: "BPS 2-digit province code"
     summary.alt.lang.id_ID: "Kode provinsi 2-digit BPS"
     sortable: Yes
   ind_name:
     schema: ['str*', {}]
-    index: 2
+    pos: 2
     summary: "Name (in Indonesian)"
     summary.alt.lang.id_ID: "Nama (bahasa Indonesia)"
     sortable: Yes
   type:
     schema: ['int*', {in: [1, 2]}]
-    index: 3
+    pos: 3
     summary: "Type of locality (1=city, 2=regency)"
     summary.alt.lang.id_ID: "Tipe (1=kota, 2=kabupaten)"
     sortable: Yes
   #tags:
   #  schema: ['str*']
-  #  index: 6
+  #  pos: 6
   #  summary.alt.lang.id_ID: "Tag (bahasa Inggris)"
 pk: bps_code

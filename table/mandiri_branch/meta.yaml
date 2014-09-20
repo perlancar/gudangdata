@@ -2,12 +2,12 @@ summary: Mandiri branches
 summary.alt.lang.id_ID: Kantor cabang Mandiri
 table_aliases.alt.lang.id_ID: [kantor_cabang_mandiri]
 fields:
-  code:      {schema: ['str*', match, '^\d{3,4}$'], index: 0, summary: "Code", summary.alt.lang.id_ID: "Kode", sortable: Yes, unique: Yes}
-  name:      {schema: 'str*', index: 1, summary: "Name", summary.alt.lang.id_ID: "Nama"}
+  code:      {schema: ['str*', match, '^\d{3,4}$'], pos: 0, summary: "Code", summary.alt.lang.id_ID: "Kode", sortable: Yes, unique: Yes}
+  name:      {schema: 'str*', pos: 1, summary: "Name", summary.alt.lang.id_ID: "Nama"}
   #address
   #phone(s)
-  city_name: {schema: 'str*', index: 2, summary: "City name", summary.alt.lang.id_ID: "Nama kota", sortable: Yes}
-  city_code: {schema: 'str*', index: 3, summary: "City code, TBD", summary.alt.lang.id_ID: "Kode kota", sortable: Yes}
-  ctime:     {schema: 'str*', index: 4}
-  note:      {schema: 'str*', index: 5}
+  city_name: {schema: 'str*', pos: 2, summary: "City name", summary.alt.lang.id_ID: "Nama kota", sortable: Yes}
+  city_code: {schema: 'str*', pos: 3, summary: "City code, TBD", summary.alt.lang.id_ID: "Kode kota", sortable: Yes}
+  ctime:     {schema: 'str*', pos: 4}
+  note:      {schema: 'str*', pos: 5}
 pk: code

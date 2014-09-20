@@ -1,9 +1,9 @@
 summary: Ubuntu releases
 fields:
-  version:         {index: 0, schema: 'str*', summary: "Version", sortable: Yes, unique: Yes}
-  code_name:       {index: 1, schema: 'str*', summary: "Code name", sortable: Yes, unique: Yes}
-  reldate:         {index: 2, schema: 'date*', summary: "Release date", sortable: Yes}
-  supdate_desktop: {index: 3, schema: 'date*', summary: "Supported until (for desktop)", sortable: Yes}
-  supdate_server:  {index: 4, schema: 'date*', summary: "Supported until (for servers)", sortable: Yes}
-  kernelver:       {index: 5, schema: 'str*', summary: "Kernel version", sortable: Yes} # version string, not str
+  version:         {pos: 0, schema: 'str*', summary: "Version", sortable: Yes, unique: Yes}
+  code_name:       {pos: 1, schema: 'str*', summary: "Code name", sortable: Yes, unique: Yes}
+  reldate:         {pos: 2, schema: 'date*', summary: "Release date", sortable: Yes}
+  supdate_desktop: {pos: 3, schema: 'date*', summary: "Supported until (for desktop)", sortable: Yes}
+  supdate_server:  {pos: 4, schema: 'date*', summary: "Supported until (for servers)", sortable: Yes}
+  kernelver:       {pos: 5, schema: 'str*', summary: "Kernel version", sortable: Yes} # version string, not str
 pk: version

@@ -1,9 +1,9 @@
 summary: Indonesian banks/financial institutions
 summary.alt.lang.id_ID: Bank/institusi finansial di Indonesia
 table_aliases.alt.lang.id_ID: [bank_idn]
-columns:
-  id:        {schema: 'int*', index: 0, summary: "ID", summary.alt.lang.id_ID: "Kode angka", description.alt.lang.id_ID: "Dibuat oleh proyek ini, tidak mengikuti otoritas manapun, pakai hati-hati.", sortable: Yes, unique: Yes}
-  name:      {schema: 'str*', index: 1, summary: "Name", summary.alt.lang.id_ID: "Nama", description.alt.lang.id_ID: "Umumnya berupa nama perusahaan.", sortable: Yes, unique: Yes}
-  nickname:  {schema: 'str',  index: 2, summary: "Short name", summary.alt.lang.id_ID: "Nama pendek", description.alt.lang.id_ID: "Kriteria penamaan: semua kata disatukan kecuali sufiks '_syariah', nama propinsi mis 'bpd_jateng'; umumnya 'bank' tidak perlu ditambahkan lagi, mis: 'rabo' bukan 'rabobank'; sufiks '_syariah' selalu di belakang (mis: PT. BANK SYARIAH MANDIRI TBK. tetap menjadi 'mandiri_syariah').", sortable: Yes, unique: Yes}
-  atmb_code: {schema: ['str*', {match: '^\d{3}$'}], index: 3, summary: "3-digit ATM Bersama code", summary.alt.lang.id_ID: "Kode ATM Bersama", description.alt.lang.id_ID: "Kode jaringan PRIMA mengikuti kode ini.", sortable: Yes, unique: No}
+fields:
+  id:        {schema: 'int*', pos: 0, summary: "ID", summary.alt.lang.id_ID: "Kode angka", description.alt.lang.id_ID: "Dibuat oleh proyek ini, tidak mengikuti otoritas manapun, pakai hati-hati.", sortable: Yes, unique: Yes}
+  name:      {schema: 'str*', pos: 1, summary: "Name", summary.alt.lang.id_ID: "Nama", description.alt.lang.id_ID: "Umumnya berupa nama perusahaan.", sortable: Yes, unique: Yes}
+  nickname:  {schema: 'str',  pos: 2, summary: "Short name", summary.alt.lang.id_ID: "Nama pendek", description.alt.lang.id_ID: "Kriteria penamaan: semua kata disatukan kecuali sufiks '_syariah', nama propinsi mis 'bpd_jateng'; umumnya 'bank' tidak perlu ditambahkan lagi, mis: 'rabo' bukan 'rabobank'; sufiks '_syariah' selalu di belakang (mis: PT. BANK SYARIAH MANDIRI TBK. tetap menjadi 'mandiri_syariah').", sortable: Yes, unique: Yes}
+  atmb_code: {schema: ['str*', {match: '^\d{3}$'}], pos: 3, summary: "3-digit ATM Bersama code", summary.alt.lang.id_ID: "Kode ATM Bersama", description.alt.lang.id_ID: "Kode jaringan PRIMA mengikuti kode ini.", sortable: Yes, unique: No}
 pk: id
