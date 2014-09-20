@@ -1,0 +1,9 @@
+summary: Common English abbreviations
+summary.alt.lang.id_ID: Daftar singkatan umum bahasa Inggris
+description: |
+  This table can be used for constructing function or module names.
+table_aliases.alt.lang.id_ID: [singkatan_umum_eng]
+fields:
+  abbrev: {schema: 'str*', pos: 0, unique: Yes}
+  word:   {schema: 'str*', pos: 1, unique: No}
+pk: abbrev
