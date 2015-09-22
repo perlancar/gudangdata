@@ -7,4 +7,5 @@ fields:
   lprel_version:   {pos: 4, schema: 'str*', summary: 'Latest point release version', sortable: Yes} # XXX version string, not str
   lprel_reldate:   {pos: 5, schema: 'date*', summary: 'Latest point release date', sortable: Yes}
   kernelver:       {pos: 6, schema: 'str*', summary: "Kernel version", sortable: Yes} # XXX version string, not str
+  perlver:         {pos: 7, schema: 'str*', summary: "Perl version", sortable: Yes} # XXX version string, not str
 pk: version
