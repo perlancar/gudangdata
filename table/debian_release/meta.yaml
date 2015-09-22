@@ -1,0 +1,10 @@
+summary: Debian releases
+fields:
+  version:         {pos: 0, schema: 'str*', summary: "Version", sortable: Yes, unique: Yes}
+  code_name:       {pos: 1, schema: 'str*', summary: "Code name", sortable: Yes, unique: Yes}
+  reldate:         {pos: 2, schema: 'date*', summary: "Release date", sortable: Yes}
+  eoldate:         {pos: 3, schema: 'date*', summary: "End of life date", sortable: Yes}
+  lprel_version:   {pos: 4, schema: 'str*', summary: 'Latest point release version', sortable: Yes} # XXX version string, not str
+  lprel_reldate:   {pos: 5, schema: 'date*', summary: 'Latest point release date', sortable: Yes}
+  kernelver:       {pos: 6, schema: 'str*', summary: "Kernel version", sortable: Yes} # XXX version string, not str
+pk: version
