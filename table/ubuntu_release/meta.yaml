@@ -6,4 +6,5 @@ fields:
   supdate_desktop: {pos: 3, schema: 'date*', summary: "Supported until (for desktop)", sortable: Yes}
   supdate_server:  {pos: 4, schema: 'date*', summary: "Supported until (for servers)", sortable: Yes}
   kernelver:       {pos: 5, schema: 'str*', summary: "Kernel version", sortable: Yes} # version string, not str
+  perlver:         {pos: 6, schema: 'str*', summary: "Perl version", sortable: Yes} # version string, not str
 pk: version
