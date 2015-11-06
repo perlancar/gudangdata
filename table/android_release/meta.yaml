@@ -1,0 +1,7 @@
+summary: Android releases
+fields:
+  version:         {pos: 0, schema: 'str*', summary: "Version", sortable: Yes, unique: Yes}
+  code_name:       {pos: 1, schema: 'str*', summary: "Code name", sortable: Yes, unique: Yes}
+  api_level:       {pos: 2, schema: 'int*', summary: "API level", sortable: Yes}
+  reldate:         {pos: 3, schema: 'date*', summary: "Release date", sortable: Yes}
+pk: version
