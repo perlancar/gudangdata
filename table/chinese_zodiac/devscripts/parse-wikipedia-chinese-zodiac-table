@@ -1,0 +1,97 @@
+#!/usr/bin/env perl
+
+use 5.010001;
+use strict;
+use warnings;
+
+use Perinci::CmdLine::Any;
+
+our %SPEC;
+
+$SPEC{parse} = {
+    v => 1.1,
+    summary => "List all known distros",
+    args => {
+        online => {
+            summary => 'Instead of using `../raw/Chinese_zodiac.html`, fetch from wikipedia.org',
+            schema => 'bool',
+        },
+    },
+};
+sub parse {
+    require File::Slurper;
+    require FindBin;
+    #require Mojo::DOM;
+    require Mojo::UserAgent;
+
+    my %args = @_;
+
+    my $html;
+    if ($args{online}) {
+        my $ua = Mojo::UserAgent->new;
+        my $url = "https://en.wikipedia.org/wiki/Chinese_zodiac";
+        my $tx = $ua->get($url);
+        unless ($tx->success) {
+            my $err = $tx->error;
+            return [500, "Can't retrieve URL '$url': ".
+                        "$err->{code} - $err->{message}"];
+        }
+        $html = $tx->res->body;
+    } else {
+        no warnings 'once';
+        $html = File::Slurper::read_text("$FindBin::Bin/../raw/Chinese_zodiac.html");
+    }
+
+    my ($table) = $html =~ m!.+<table class="wikitable">(.+<th>Year</th>.+)</table>!s
+        or return [543, "Can't scrape table"];
+
+    my @rows;
+    while ($table =~ m!^<tr\salign="left">\s*
+                       <td>(?<seq>\d+)</td>\s*
+                       <td>(?<mon1a>Jan|Feb)\s(?:&\#160;)?(?<day1a>\d\d?),[^<]+?<b>(?<yeara>\d{4})</b>[^<]+?(?<mon2a>Jan|Feb)\s(?:&\#160;)?(?<day2a>\d\d?)[^<]*</td>\s*
+                       <td>(?<yin_yang>\S+)\s(?<element>\S+)</td>\s*
+                       <td>(?<heavenly_stem>[^<]+)</td>\s*
+                       <td>(?<earthly_branch>[^<]+)</td>\s*
+                       <td>(?<zh_animal>\S)\s<a[^>]+>(?<en_animal>[^<]+)</a></td>\s*
+                       <td>(?<mon1b>Jan|Feb)\s(?:&\#160;)?(?<day1b>\d\d?),[^<]+?<b>(?<yearb>\d{4})</b>[^<]+?(?<mon2b>Jan|Feb)\s(?:&\#160;)?(?<day2b>\d\d?)[^<]*</td>\s*
+                       </tr>
+                      !gmsx) {
+        my %m = %+;
+        my %common_recs = (map {$_=>lc $m{$_}} qw(
+                                                  yin_yang
+                                                  element
+                                                  heavenly_stem
+                                                  earthly_branch
+                                                  zh_animal
+                                                  en_animal
+                                          )
+                       );
+
+        push @rows, {
+            start_date => sprintf("%04d-%02d-%02d",
+                                  $m{yeara}, $m{mon1a} eq 'Feb' ? 2:1, $m{day1a}),
+            end_date   => sprintf("%04d-%02d-%02d",
+                                  $m{yeara}+1, $m{mon2a} eq 'Feb' ? 2:1, $m{day2a}),
+            yin_yang => $m{yinyang},
+            %common_recs,
+        };
+        push @rows, {
+            start_date => sprintf("%04d-%02d-%02d",
+                                  $m{yearb}, $m{mon1b} eq 'Feb' ? 2:1, $m{day1b}),
+            end_date   => sprintf("%04d-%02d-%02d",
+                                  $m{yearb}+1, $m{mon2b} eq 'Feb' ? 2:1, $m{day2b}),
+            %common_recs,
+        };
+    }
+
+    @rows == 120 or return [543, "Number of years found != 120 (".scalar(@rows).")"];
+
+    @rows = sort {$a->{start_date} cmp $b->{start_date}} @rows;
+
+    [200, "OK", \@rows, {'table.fields'=>[qw/start_date end_date yin_yang element heavenly_stem earthly_branch zh_animal en_animal/]}];
+}
+
+binmode(STDOUT, ":utf8");
+Perinci::CmdLine::Any->new(
+    url => '/main/parse',
+)->run;

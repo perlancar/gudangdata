@@ -1,0 +1,13 @@
+summary: Chinese zodiac
+summary.alt.lang.id_ID: Zodiak Cina
+table_aliases.alt.lang.id_ID: [zodiak_cina]
+fields:
+  start_date:     {schema: 'date*', pos: 0},
+  end_date:       {schema: 'date*', pos: 1},
+  yin_yang:       {schema: 'str*',  pos: 2},
+  element:        {schema: 'str*',  pos: 3},
+  heavenly_stem:  {schema: 'str*',  pos: 4},
+  earthly_branch: {schema: 'str*',  pos: 5},
+  zh_animal:      {schema: 'str*',  pos: 6},
+  en_animal:      {schema: 'str*',  pos: 7},
+pk: start_date
