@@ -1,0 +1,23 @@
+#!/usr/bin/env perl
+use 5.010;
+use strict;
+use warnings;
+use FindBin '$Bin';
+
+use DateTime::Format::Indonesian;
+use Text::Table::CSV;
+
+my @res;
+
+open my($fh), "<", "$Bin/../raw/latest.txt" or die "Can't open: $!";
+my @lines = <$fh>;
+chomp @lines;
+for my $line (reverse @lines) {
+    $line =~ /^(\w+)\s+(\d{4})\s+(-?\d\d?\.\d\d)\s*%/
+        or die "Can't parse line: <$line>";
+    my $date = DateTime::Format::Indonesian->parse_datetime("1 $1 $2")
+        or die "Can't parse date '$1 $2'";
+    push @res, [sprintf("%04d-%02d", $date->year, $date->month), $3];
+}
+
+print Text::Table::CSV::table(rows => \@res);

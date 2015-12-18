@@ -1,0 +1,5 @@
+summary: Monthly inflation in Indonesia
+fields:
+  period:     {summary: 'YYYY-MM', schema: 'str*', pos: 0}
+  inflation:  {summary: 'In percentage', schema: 'float*', pos: 1}
+pk: period
