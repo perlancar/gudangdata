@@ -27,7 +27,7 @@ say "# revision-date: $date";
 say "# generate-date: ", scalar(localtime);
 say "# generated-by: ", abs_path($0);
 
-# XXX use Text::CSV to avoid problem when csv2perl is not available
+# XXX use Text::CSV to avoid problem when csv2dd is not available
 print 'our $data = ';
-system "csv2perl", $src;
+system "csv2dd", $src;
 say ";";
