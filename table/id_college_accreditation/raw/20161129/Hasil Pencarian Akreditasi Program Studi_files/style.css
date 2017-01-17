@@ -1,0 +1,8 @@
+/* Effective stylesheet produced by snapshot save */
+table.instrumen { background-color: rgb(77, 77, 77); width: 1024px; border: 1px solid rgb(0, 0, 0); font-family: "lucida grande",tahoma,verdana,arial,helvetica,sans-serif; font-size: 11px; color: rgb(51, 51, 51); cursor: pointer; }
+table.instrumen th { text-align: left; padding: 5px; background-color: rgb(110, 110, 110); }
+table.instrumen td { color: rgb(255, 255, 255); padding: 5px; text-align: center; }
+table.instrumen .even { background-color: rgb(16, 83, 105); }
+table.instrumen .odd { background-color: rgb(24, 109, 137); }
+table.instrumen .header { background-image: url("bg.png"); background-repeat: repeat; padding-left: 30px; padding-top: 8px; height: auto; }
+table.instrumen .headerSortDown { background-image: url("desc.png"); background-repeat: no-repeat; }
