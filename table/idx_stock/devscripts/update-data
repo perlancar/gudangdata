@@ -1,0 +1,52 @@
+#!/usr/bin/env perl
+
+BEGIN { $ENV{LOG_LEVEL} //= 'trace' }
+
+use 5.010001;
+use strict;
+use warnings;
+use FindBin '$Bin';
+use Log::ger;
+use Log::ger::App;
+
+use File::chdir;
+use Finance::SE::IDX;
+use IPC::System::Options 'system', -log=>1, -die=>1;
+
+my $res;
+
+log_trace "Opening data file ...";
+open my $fh, ">", "$Bin/../data.tsv" or die "Can't open $Bin/../data.tsv: $!";
+my @fields = qw(code sector name listing_date shares board);
+
+log_trace "Listing sectors ...";
+$res = Finance::SE::IDX::list_idx_sectors();
+$res->[0] == 200 or die "Can't list sectors: $res->[0] - $res->[1]";
+my $sectors = $res->[2];
+
+my %firms;
+for my $sector (@$sectors) {
+    log_trace "Listing firms for sector %s ...", $sector;
+    $res = Finance::SE::IDX::list_idx_firms(sector => $sector);
+    $res->[0] == 200 or die "Can't list firms for sector $sector: $res->[0] - $res->[1]";
+    for my $row (@{ $res->[2] }) {
+        if ($firms{ $row->{code} }) {
+            $firms{ $row->{code} }{sector} .= ",$row->{sector}";
+            next;
+        }
+        $row->{sector} = $sector;
+        $firms{$row->{code}} = $row;
+    }
+}
+
+log_trace "Writing data file ...";
+print $fh join("\t", @fields) . "\n";
+for my $code (sort keys %firms) {
+    my $row = $firms{$code};
+    print $fh join("\t", map {$row->{$_}} @fields) . "\n";
+}
+
+{
+    local $CWD = "$Bin/..";
+    system "../../bin/gen-meta-yaml-from-data-tsv";
+}
