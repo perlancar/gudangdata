@@ -31,6 +31,7 @@ for my $sector (@$sectors) {
     $res->[0] == 200 or die "Can't list firms for sector $sector: $res->[0] - $res->[1]";
     for my $row (@{ $res->[2] }) {
         if ($firms{ $row->{code} }) {
+            log_info "Firm %s has multiple sectors", $row->{code};
             $firms{ $row->{code} }{sector} .= ",$row->{sector}";
             next;
         }
