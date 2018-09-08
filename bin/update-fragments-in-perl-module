@@ -19,10 +19,10 @@ use YAML::XS qw(LoadFile);
 my $script = $0;
 $script =~ s!.+[/\\]!!;
 
-die "Usage: $0 <gudangdata-dir> <perl-module-file>\n" unless @ARGV == 2;
-my ($gudangdata_dir, $mod_file) = @ARGV;
+die "Usage: $0 <perl-module-file>\n" unless @ARGV == 1;
+my ($mod_file) = @ARGV;
 
-$gudangdata_dir = abs_path($gudangdata_dir);
+my $gudangdata_dir = "$Bin/..";
 $mod_file = abs_path($mod_file);
 
 CHECK_GUDANGDATA_DIR: {
