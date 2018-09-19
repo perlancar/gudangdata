@@ -25,6 +25,17 @@ my ($mod_file) = @ARGV;
 my $gudangdata_dir = "$Bin/..";
 $mod_file = abs_path($mod_file);
 
+# convert aos to hos
+sub _row_as_hash {
+    my ($aos, $meta) = @_;
+    my $hos = {};
+    for my $fname (keys %{ $meta->{fields} }) {
+        my $f = $meta->{fields}{$fname};
+        $hos->{$fname} = $aos->[ $f->{pos} ];
+    }
+    $hos;
+}
+
 CHECK_GUDANGDATA_DIR: {
     (-d $gudangdata_dir)
         or die "ERROR: $gudangdata_dir does not exist or not a dir\n";
@@ -57,8 +68,11 @@ INSERT_FRAGMENTS: {
             $metas{$t} = $meta;
         }
 
+        my $row_as_hash = $f->{attrs}{row_as_hash};
+
         my $data;
       GET_DATA: {
+            next if $is_meta;
             my @rows;
             if (-f "$tabledir/data.csv") {
                 $src_file = "data.csv" if !$is_meta;
@@ -69,7 +83,7 @@ INSERT_FRAGMENTS: {
                 my $i = 0;
                 while (my $row = $csv->getline($fh)) {
                     next if $i++ == 0 && $meta->{header};
-                    push @rows, $row;
+                    push @rows, $row_as_hash ? _row_as_hash($row, $meta) : $row;
                 }
             } elsif (-f "$tabledir/data.tsv") {
                 $src_file = "data.tsv" if !$is_meta;
@@ -80,7 +94,8 @@ INSERT_FRAGMENTS: {
                 while (my $line = <$fh>) {
                     next if $i++ == 0 && $meta->{header};
                     $line =~ s/\r?\n\z//;
-                    push @rows, [split /\t/, $line];
+                    my $row = [split /\t/, $line];
+                    push @rows, $row_as_hash ? _row_as_hash($row, $meta) : $row;
                 }
             } else {
                 die "ERROR: No data.tsv or data.csv in $tabledir\n";
