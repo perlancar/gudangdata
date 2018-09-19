@@ -30,7 +30,7 @@ fields:
     sortable: 1
     summary: Code (usually popular acronym if unique, otherwise MIC)
     unique: 1
-  country:
+  country_code:
     pos: 9
     schema: str*
     sortable: 1
@@ -42,7 +42,7 @@ fields:
     sortable: 1
     summary: English name
     unique: 1
-  founded:
+  year_founded:
     pos: 11
     schema: str*
     sortable: 1
