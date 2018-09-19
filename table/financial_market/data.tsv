@@ -1,6 +1,0 @@
-code	mic	types	yf_code	add_yf_codes	eng_name	local_name	add_names	add_codes	country	city	founded	status
-NYSE	XNYS	SE			New York Stock Exchange				US	New York City	1792	active
-NASDAQ	XNAS	SE			Nasdaq Stock Exchange				US	New York City	1971	active
-IDX	XIDX	SE	JK		Indonesia Stock Exchange	Bursa Efek Indonesia	Bursa Efek Jakarta		ID	Jakarta	1912	active
-LSX	XLON	SE	L	IL	London Stock Exchange				GB	London	1698	active
-SGX	XSES	SE	SI		Singapore Exchange		Singapore Stock Exchange;Stock Exchange of Singapore		SG	Singapore	1973	active
