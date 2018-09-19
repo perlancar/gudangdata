@@ -1,0 +1,8 @@
+* How I produce the table
+
+Since this table is not expected to change very often, I copy-pasted manually
+from http://www.wikinvest.com/wiki/List_of_Stock_Exchanges to
+raw/stock_exchange.ods. I added the ~continent_code~ and ~extra_codes~ fields
+and filled them in manually.
+
+Then I

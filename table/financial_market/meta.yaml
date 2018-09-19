@@ -1,0 +1,83 @@
+---
+fields:
+  add_codes:
+    pos: 8
+    schema: str*
+    sortable: 1
+    summary: Additional codes (each code separated by semicolon)
+    unique: 0
+  add_names:
+    pos: 7
+    schema: str*
+    sortable: 1
+    summary: Additional names (each name separated by semicolon)
+    unique: 0
+  add_yf_codes:
+    pos: 4
+    schema: str*
+    sortable: 1
+    summary: Additional Yahoo! Finance codes (each code separated by semicolon)
+    unique: 0
+  city:
+    pos: 10
+    schema: str*
+    sortable: 1
+    summary: City
+    unique: 0
+  code:
+    pos: 0
+    schema: str*
+    sortable: 1
+    summary: Code (usually popular acronym if unique, otherwise MIC)
+    unique: 1
+  country:
+    pos: 9
+    schema: str*
+    sortable: 1
+    summary: ISO 2-letter country code
+    unique: 0
+  eng_name:
+    pos: 5
+    schema: str*
+    sortable: 1
+    summary: English name
+    unique: 1
+  founded:
+    pos: 11
+    schema: str*
+    sortable: 1
+    summary: Year founded
+    unique: 0
+  local_name:
+    pos: 6
+    schema: str*
+    sortable: 1
+    summary: Local name
+    unique: 0
+  mic:
+    pos: 1
+    schema: ["str*", {"len": 4}]
+    sortable: 1
+    summary: Market Identifier Code (ISO 10383)
+    unique: 1
+  status:
+    pos: 12
+    schema: str*
+    sortable: 1
+    summary: Status
+    unique: 0
+  types:
+    pos: 2
+    schema: str*
+    sortable: 1
+    summary: Types (each type separated by semicolon)
+    unique: 0
+  yf_code:
+    pos: 3
+    schema: str*
+    sortable: 1
+    summary: Yahoo! Finance code
+    unique: 0
+header: 1
+pk: code
+summary: Catalog (list) of stock exchanges
