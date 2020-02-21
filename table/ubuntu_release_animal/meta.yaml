@@ -1,0 +1,5 @@
+summary: Ubuntu release animals
+fields:
+  name:         {pos: 0, schema: 'str*', summary: "Name", sortable: Yes, unique: Yes}
+  animal:       {pos: 1, schema: 'str*', summary: "Animal", sortable: Yes}
+pk: name
