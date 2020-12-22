@@ -1,0 +1,44 @@
+#!/usr/bin/env perl
+
+BEGIN { $ENV{LOG_LEVEL} //= 'trace' }
+
+use 5.010001;
+use strict;
+use warnings;
+use FindBin '$Bin';
+use Log::ger;
+use Log::ger::App;
+
+use File::chdir;
+use Finance::SE::IDX;
+use IPC::System::Options 'system', -log=>1, -die=>1;
+
+my $res;
+
+log_trace "Opening data file ...";
+open my $fh, ">", "$Bin/../data.tsv" or die "Can't open $Bin/../data.tsv: $!";
+my @fields = qw(code name license status_name city);
+
+my %brokers; # key = code
+log_trace "Listing brokers ...";
+$res = Finance::SE::IDX::list_idx_brokers();
+$res->[0] == 200 or die "Can't list brokers: $res->[0] - $res->[1]";
+for my $row (@{ $res->[2] }) {
+    if ($brokers{ $row->{code} }) {
+        log_info "Duplicate broker %s", $row->{code};
+        next;
+    }
+    $brokers{$row->{code}} = $row;
+}
+
+log_trace "Writing data file ...";
+print $fh join("\t", @fields) . "\n";
+for my $code (sort keys %brokers) {
+    my $row = $brokers{$code};
+    print $fh join("\t", map {$row->{$_}} @fields) . "\n";
+}
+
+{
+    local $CWD = "$Bin/..";
+    system "../../bin/gen-meta-yaml-from-data-tsv";
+}
