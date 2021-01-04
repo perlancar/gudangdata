@@ -12,6 +12,7 @@ use Data::Dump;
 use File::chdir;
 use File::Slurper qw(read_text);
 use FindBin '$Bin';
+use Getopt::Long;
 use Setup::File::TextFragment 'setup_text_fragment';
 use String::ShellQuote;
 use Text::CSV;
@@ -21,7 +22,12 @@ use YAML::XS qw(LoadFile);
 my $script = $0;
 $script =~ s!.+[/\\]!!;
 
-die "Usage: $0 <perl-module-file>\n" unless @ARGV == 1;
+my %opts;
+GetOptions(
+    'use-data-section!' => \$opts{use_data_section},
+) or die "Error in GetOptions()";
+
+die "Usage: $0 [options] <perl-module-file>\n" unless @ARGV == 1;
 my ($mod_file) = @ARGV;
 
 my $gudangdata_dir = "$Bin/..";
@@ -46,10 +52,17 @@ CHECK_GUDANGDATA_DIR: {
 }
 
 my $content = read_text($mod_file);
+my $dss;
 my %datas;
 my %metas;
 my %revs;
 INSERT_FRAGMENTS: {
+    $dss = do {
+        log_trace "Will use __DATA__";
+        require Data::Section::Seekable::Writer;
+        Data::Section::Seekable::Writer->new;
+    } if $opts{use_data_section};
+
     my $res = Text::Fragment::list_fragments(text => $content);
     die "ERROR: Can't list fragments in $mod_file: $res->[0] - $res->[1]\n" unless $res->[0] == 200;
     for my $f (@{ $res->[2] }) {
@@ -82,22 +95,38 @@ INSERT_FRAGMENTS: {
                 last if $data;
                 my $csv = Text::CSV->new();
                 open my $fh, "<:encoding(utf8)", "$tabledir/data.csv" or die "ERROR: Can't open $tabledir/data.csv: $!\n";
-                my $i = 0;
-                while (my $row = $csv->getline($fh)) {
-                    next if $i++ == 0 && $meta->{header};
-                    push @rows, $row_as_hash ? _row_as_hash($row, $meta) : $row;
+                if ($dss) {
+                    log_trace "Adding CSV to DATA: $t";
+                    $dss->add_part($t => join("", <$fh>));
+                } else {
+                    my $i = 0;
+                    while (my $row = $csv->getline($fh)) {
+                        next if $i++ == 0 && $meta->{header};
+                        push @rows, $row_as_hash ? _row_as_hash($row, $meta) : $row;
+                    }
                 }
             } elsif (-f "$tabledir/data.tsv") {
                 $src_file = "data.tsv" if !$is_meta;
                 $data = $datas{$t};
                 last if $data;
                 open my $fh, "<:encoding(utf8)", "$tabledir/data.tsv" or die "ERROR: Can't open $tabledir/data.tsv: $!\n";
+                my $csv = Text::CSV->new;
                 my $i = 0;
+                my $csv_lines = "";
                 while (my $line = <$fh>) {
                     next if $i++ == 0 && $meta->{header};
                     $line =~ s/\r?\n\z//;
                     my $row = [split /\t/, $line];
-                    push @rows, $row_as_hash ? _row_as_hash($row, $meta) : $row;
+                    if ($dss) {
+                        $csv->combine(@$row);
+                        $csv_lines .= $csv->string . "\n";
+                    } else {
+                        push @rows, $row_as_hash ? _row_as_hash($row, $meta) : $row;
+                    }
+                }
+                if ($dss) {
+                    log_trace "Adding TSV as CSV to DATA: $t";
+                    $dss->add_part($t => $csv_lines);
                 }
             } else {
                 die "ERROR: No data.tsv or data.csv in $tabledir\n";
@@ -136,12 +165,21 @@ INSERT_FRAGMENTS: {
             "# src-revision: ", $revs{$t}, "\n",
             "# generate-date: ", scalar(gmtime), " UTC\n",
             "# generated-by: ", $script, "\n",
-            "our \$$varname = " . Data::Dump::dump($is_meta ? $metas{$t} : $datas{$t}), ";\n",
+            "our \$$varname = ",
+            ($dss && !$is_meta ?
+                 ("do { require Data::Section::Seekable::Reader; require Text::CSV; our \$dss //= Data::Section::Seekable::Reader->new; my \$ct = \$dss->read_part(",Data::Dump::dump($t),"); my \$aoa = Text::CSV::csv(in => \\\$ct); \$aoa }") :
+                 (Data::Dump::dump($is_meta ? $metas{$t} : $datas{$t}))
+             ), ";\n",
             (defined $mtime_varname ? "our \$$mtime_varname = $mtime; # $date\n" : ""),
         );
         my $res = Text::Fragment::insert_fragment(text => $content, id => $f->{id}, payload => $payload);
         die "Cannot set fragment id=$f->{id}: $res->[0] - $res->[1]\n" unless $res->[0] =~ /^(200|304)$/;
         $content = $res->[2]{text};
+    } # for each fragment
+
+    if ($dss) {
+        $content =~ s/^(__DATA__|__END__)\R.*//ms;
+        $content .= "__DATA__\n$dss";
     }
 }
 
@@ -150,3 +188,17 @@ WRITE_MOD_FILE: {
     print $fh $content;
     close $fh;
 }
+
+=head1 SYNOPSIS
+
+=head1 DESCRIPTION
+
+=head1 OPTIONS
+
+=head2 --use-data-section
+
+If set, will put the data as CSV in __DATA__ section instead of as Perl data
+structure. This will help improve script parsing speed as well as syntax
+highlighting in editors, particularly with bigger data, but will require
+L<Data::Section::Seekable> and L<Text::CSV> during runtime). Please make sure,
+if your script has a POD, to add C<=cut> at the end, to allow the start of data.
