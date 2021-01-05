@@ -167,7 +167,7 @@ INSERT_FRAGMENTS: {
             "# generated-by: ", $script, "\n",
             "our \$$varname = ",
             ($dss && !$is_meta ?
-                 ("do { require Data::Section::Seekable::Reader; require Text::CSV; our \$dss //= Data::Section::Seekable::Reader->new; my \$ct = \$dss->read_part(",Data::Dump::dump($t),"); my \$aoa = Text::CSV::csv(in => \\\$ct); \$aoa }") :
+                 ("do { require Data::Section::Seekable::Reader; require Text::CSV; our \$dss; \$dss //= Data::Section::Seekable::Reader->new; my \$ct = \$dss->read_part(",Data::Dump::dump($t),"); my \$aoa = Text::CSV::csv(in => \\\$ct); \$aoa }") :
                  (Data::Dump::dump($is_meta ? $metas{$t} : $datas{$t}))
              ), ";\n",
             (defined $mtime_varname ? "our \$$mtime_varname = $mtime; # $date\n" : ""),
