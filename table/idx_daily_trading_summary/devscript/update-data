@@ -1,0 +1,37 @@
+#!/usr/bin/env perl
+
+use 5.010001;
+use strict;
+use warnings;
+use FindBin '$Bin';
+use Log::ger::Screen;
+
+use DateTime;
+use File::chdir;
+use IPC::System::Options qw(system);
+
+my $today = DateTime->today;
+
+YEARS:
+for my $year (2015..$today->year) {
+    my $year_dir = "$Bin/../raw/$year";
+    unless (-d $year_dir) {
+        mkdir $year_dir or die "Can't mkdir $year_dir: $!";
+    }
+    local $CWD = $year_dir;
+    my $date = DateTime->new(year=>$year, month=>1, day=>1);
+  YEAR:
+    while (1) {
+        my $dow = $date->day_of_week;
+        if ($dow >= 1 && $dow <= 5) {
+            my $filename = sprintf "%04d%02d%02d.json.gz", $date->year, $date->month, $date->day;
+            unless (-f $filename && $date->compare($today) < 0) {
+                system({die=>1, log=>1},
+                       "get-idx-daily-trading-summary --day " . $date->day . " --month " . $date->month . " --year " . $year . " --json | gzip -c > $filename");
+            }
+        }
+        $date->add(days=>1);
+        last YEAR if $date->year > $year;
+        last YEARS if $date->compare($today) > 0;
+    }
+}
