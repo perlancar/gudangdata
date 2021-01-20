@@ -16,6 +16,7 @@ YEARS:
 for my $year (2015..$today->year) {
     my $year_dir = "$Bin/../raw/$year";
     unless (-d $year_dir) {
+        log_debug "mkdir $year_dir ...";
         mkdir $year_dir or die "Can't mkdir $year_dir: $!";
     }
     local $CWD = $year_dir;
@@ -26,6 +27,7 @@ for my $year (2015..$today->year) {
         if ($dow >= 1 && $dow <= 5) {
             my $filename = sprintf "%04d%02d%02d.json.gz", $date->year, $date->month, $date->day;
             unless (-f $filename && $date->compare($today) < 0) {
+                log_debug "Retrieving $date data from IDX ...";
                 system({die=>1, log=>1},
                        "get-idx-daily-trading-summary --day " . $date->day . " --month " . $date->month . " --year " . $year . " --json | gzip -c > $filename");
             }
