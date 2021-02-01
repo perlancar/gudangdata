@@ -1,0 +1,47 @@
+#!/usr/bin/env perl
+
+use 5.010001;
+use strict;
+use warnings;
+use FindBin '$Bin';
+use Log::ger::Screen;
+
+use DateTime;
+use File::chdir;
+use Finance::ID::KSEI;
+use IPC::System::Options qw(system);
+
+my $today = DateTime->today;
+
+YEARS:
+for my $year (reverse $today->year-5 .. $today->year) {
+    my $year_dir = "$Bin/../raw/$year";
+    unless (-d $year_dir) {
+        log_debug "mkdir $year_dir ...";
+        mkdir $year_dir or die "Can't mkdir $year_dir: $!";
+    }
+    local $CWD = $year_dir;
+  MONTH:
+    for my $month (reverse 1..12) {
+        next if $year == $today->year && $month >= $today->month;
+        my $period = sprintf "%04d%02d", $year, $month;
+        unless (-d $period) {
+            mkdir $period or die "Can't mkdir $year_dir/$period: $!";
+        }
+
+        my @files = glob("$period/*.txt");
+        #say "D:CWD=$CWD";
+        #use DD; dd \@files;
+
+        do { log_trace "Data for period $period already exists, skipped"; next MONTH } if @files;
+
+        local $CWD = $period;
+        log_debug "Retrieving $period data from KSEI ...";
+        my $res = Finance::ID::KSEI::get_ksei_sec_ownership_url(year=>$year, month=>$month);
+        if ($res->[0] != 200) {
+            die "Can't get KSEI sec ownership for period $period: $res->[0] - $res->[1]";
+        }
+        system({die=>1, log=>1}, "wget", $res->[2]);
+        system({die=>1, log=>1}, "unzip *.zip && rm *.zip");
+    } # MONTH
+} # YEAR
