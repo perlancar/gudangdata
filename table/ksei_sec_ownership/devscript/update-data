@@ -12,6 +12,7 @@ use Finance::ID::KSEI;
 use IPC::System::Options qw(system);
 
 my $today = DateTime->today;
+my $warning_printed;
 
 YEARS:
 for my $year (reverse $today->year-5 .. $today->year) {
@@ -37,6 +38,9 @@ for my $year (reverse $today->year-5 .. $today->year) {
 
         local $CWD = $period;
         log_debug "Retrieving $period data from KSEI ...";
+        unless ($warning_printed++) {
+            log_debug "Note: KSEI website is not very reliable, if you fail to download, try again.";
+        }
         my $res = Finance::ID::KSEI::get_ksei_sec_ownership_url(year=>$year, month=>$month);
         if ($res->[0] != 200) {
             die "Can't get KSEI sec ownership for period $period: $res->[0] - $res->[1]";
