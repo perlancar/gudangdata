@@ -8,11 +8,27 @@ use Log::ger::Screen;
 
 use DateTime;
 use File::chdir;
+#use File::JSON::Slurper qw(read_json);
 use IPC::System::Options qw(system);
+use JSON::MaybeXS qw(decode_json);
+use SQLite::Counter::Simple;
 
 my $today = DateTime->today;
+my $counter = SQLite::Counter::Simple->new(path => "$Bin/../raw/counter.db");
 
-YEARS:
+sub _res_is_empty {
+    my $res = shift;
+    !defined($res->[2]) || ref($res->[2]) ne 'ARRAY' || !@{$res->[2]};
+}
+
+sub read_compressed_json {
+    my $filename = shift;
+    open my $fh, "zcat '$filename' |" or die "Can't pipe zcat $filename: $!";
+    local $/;
+    decode_json(scalar <$fh>);
+}
+
+YEAR:
 for my $year (2015..$today->year) {
     my $year_dir = "$Bin/../raw/$year";
     unless (-d $year_dir) {
@@ -21,19 +37,73 @@ for my $year (2015..$today->year) {
     }
     local $CWD = $year_dir;
     my $date = DateTime->new(year=>$year, month=>1, day=>1);
-  YEAR:
+  DAY:
     while (1) {
         my $dow = $date->day_of_week;
-        if ($dow >= 1 && $dow <= 5) {
+      RETRIEVE: {
+            next unless $dow >= 1 && $dow <= 5;
+
+            # we don't use Calendar::Indonesia::Holiday because IDX holiday is
+            # sometimes a bit different than Indonesia's official holiday. so we
+            # always try mon-fri without checking if it's a holiday.
+
+            log_trace "Trying date %s (dow=%d) ...", $date->ymd, $dow;
+
             my $filename = sprintf "%04d%02d%02d.json.gz", $date->year, $date->month, $date->day;
-            unless (-f $filename && $date->compare($today) < 0) {
-                log_debug "Retrieving $date data from IDX ...";
+
+            if (-f $filename) {
+                # since IDX might provide a day's trading summary a few hours
+                # after close of trading, or perhaps the next day (or worst case
+                # let's say a couple of days after), then if we get an empty
+                # result we'll try again for a maximum of 4 times. we only
+                # increase counter after 3 days, so recent retries are not
+                # limited.
+
+                # to make things speedy, we will assume a response is not empty
+                # if size is rather large. thus we avoid having to read decode
+                # existing file's JSON.
+                my $is_empty;
+                if ((-s $filename) > 2*1024) {
+                    $is_empty = 0;
+                } else {
+                    my $res = read_compressed_json($filename);
+                    if (_res_is_empty($res)) {
+                        $is_empty = 1;
+                    } else {
+                        $is_empty = 0;
+                    }
+                }
+                unless ($is_empty) {
+                    log_trace "File $filename already exists and response is not empty, skipping this date";
+                    last RETRIEVE;
+                }
+
+                my $val = $counter->get(counter => $date->ymd);
+                if (!defined $val || $val < 4) {
+                    log_trace "File $filename already exists and response is empty, will try this date again (retries=%d)", $val;
+                } else {
+                    log_trace "File $filename already exists and response is empty, we have tried enough times, skipping this date";
+                    last RETRIEVE;
+                }
+
+                log_info "Retrieving %s data from IDX ...", $date->ymd;
                 system({die=>1, log=>1},
                        "get-idx-daily-trading-summary --day " . $date->day . " --month " . $date->month . " --year " . $year . " --json | gzip -c > $filename");
+
+                if (DateTime->compare($date->clone->add(days => 3), $today) < 0) {
+                    # the date is old enough, will increment the counter
+                    log_trace "Incrementing counter for date %s ...", $date->ymd;
+                    $counter->increment(counter => $date->ymd);
+                }
+
+            } else {
+                #log_trace "File $filename does not exist, trying to retrieve ...";
             }
-        }
+
+        } # RETRIEVE
+
         $date->add(days=>1);
-        last YEAR if $date->year > $year;
-        last YEARS if $date->compare($today) > 0;
+        last DAY if $date->year > $year;
+        last YEAR if $date->compare($today) > 0;
     }
 }
