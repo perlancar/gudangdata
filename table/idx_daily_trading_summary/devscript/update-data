@@ -9,12 +9,12 @@ use Log::ger::Screen;
 use DateTime;
 use File::chdir;
 #use File::JSON::Slurper qw(read_json);
+use IOD::Counter::Simple;
 use IPC::System::Options qw(system);
 use JSON::MaybeXS qw(decode_json);
-use SQLite::Counter::Simple;
 
 my $today = DateTime->today;
-my $counter = SQLite::Counter::Simple->new(path => "$Bin/../raw/counter.db");
+my $counter = IOD::Counter::Simple->new(path => "$Bin/../raw/counter.iod");
 
 sub _res_is_empty {
     my $res = shift;
