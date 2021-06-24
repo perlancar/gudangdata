@@ -4,17 +4,14 @@ use 5.010001;
 use strict;
 use warnings;
 use FindBin '$Bin';
-use Log::ger::Screen;
+use Log::ger;
 
-use DateTime;
 use File::chdir;
-#use File::JSON::Slurper qw(read_json);
-use IOD::Counter::Simple;
 use IPC::System::Options qw(system);
 use JSON::MaybeXS qw(decode_json);
+use Perinci::CmdLine::Any;
 
-my $today = DateTime->today;
-my $counter = IOD::Counter::Simple->new(path => "$Bin/../raw/counter.iod");
+our %SPEC;
 
 sub _res_is_empty {
     my $res = shift;
@@ -28,62 +25,85 @@ sub read_compressed_json {
     decode_json(scalar <$fh>);
 }
 
-YEAR:
-for my $year (2015..$today->year) {
-    my $year_dir = "$Bin/../raw/$year";
-    unless (-d $year_dir) {
-        log_debug "mkdir $year_dir ...";
-        mkdir $year_dir or die "Can't mkdir $year_dir: $!";
-    }
-    local $CWD = $year_dir;
-    my $date = DateTime->new(year=>$year, month=>1, day=>1);
-  DAY:
-    while (1) {
-        my $dow = $date->day_of_week;
-      RETRIEVE: {
-            next unless $dow >= 1 && $dow <= 5;
+$SPEC{app} = {
+    v => 1.1,
+    args => {
+        min_date => {schema=>['date*', 'x.perl.coerce_to'=>'DateTime']},
+        max_date => {schema=>['date*', 'x.perl.coerce_to'=>'DateTime']},
+    },
+};
+sub app {
+    require DateTime;
+    require IOD::Counter::Simple;
 
-            # we don't use Calendar::Indonesia::Holiday because IDX holiday is
-            # sometimes a bit different than Indonesia's official holiday. so we
-            # always try mon-fri without checking if it's a holiday.
+    my %args = @_;
+    my $today = DateTime->today;
+    my $counter = IOD::Counter::Simple->new(path => "$Bin/../raw/counter.iod");
 
-            log_trace "Trying date %s (dow=%d) ...", $date->ymd, $dow;
+  YEAR:
+    for my $year (2015..$today->year) {
+        my $year_dir = "$Bin/../raw/$year";
+        unless (-d $year_dir) {
+            log_debug "mkdir $year_dir ...";
+            mkdir $year_dir or die "Can't mkdir $year_dir: $!";
+        }
+        local $CWD = $year_dir;
+        my $date = DateTime->new(year=>$year, month=>1, day=>1);
 
-            my $filename = sprintf "%04d%02d%02d.json.gz", $date->year, $date->month, $date->day;
+      DAY:
+        while (1) {
+          RETRIEVE: {
+                last if defined $args{min_date} && DateTime->compare($date, $args{min_date}) < 0;
+                last YEAR if defined $args{max_date} && DateTime->compare($date, $args{max_date}) > 0;
 
-            if (-f $filename) {
-                # since IDX might provide a day's trading summary a few hours
-                # after close of trading, or perhaps the next day (or worst case
-                # let's say a couple of days after), then if we get an empty
-                # result we'll try again for a maximum of 4 times. we only
-                # increase counter after 3 days, so recent retries are not
-                # limited.
+                my $dow = $date->day_of_week;
+                next unless $dow >= 1 && $dow <= 5;
 
-                # to make things speedy, we will assume a response is not empty
-                # if size is rather large. thus we avoid having to read decode
-                # existing file's JSON.
-                my $is_empty;
-                if ((-s $filename) > 2*1024) {
-                    $is_empty = 0;
-                } else {
-                    my $res = read_compressed_json($filename);
-                    if (_res_is_empty($res)) {
-                        $is_empty = 1;
-                    } else {
+                # we don't use Calendar::Indonesia::Holiday because IDX holiday
+                # is sometimes a bit different than Indonesia's official
+                # holiday. so we always try mon-fri without checking if it's a
+                # holiday.
+
+                log_trace "Trying date %s (dow=%d) ...", $date->ymd, $dow;
+
+                my $filename = sprintf "%04d%02d%02d.json.gz", $date->year, $date->month, $date->day;
+
+                if (-f $filename) {
+                    # since IDX might provide a day's trading summary a few
+                    # hours after close of trading, or perhaps the next day (or
+                    # worst case let's say a couple of days after), then if we
+                    # get an empty result we'll try again for a maximum of 4
+                    # times. we only increase counter after 3 days, so recent
+                    # retries are not limited.
+
+                    # to make things speedy, we will assume a response is not
+                    # empty if size is rather large. thus we avoid having to
+                    # read decode existing file's JSON.
+                    my $is_empty;
+                    if ((-s $filename) > 2*1024) {
                         $is_empty = 0;
+                    } else {
+                        my $res = read_compressed_json($filename);
+                        if (_res_is_empty($res)) {
+                            $is_empty = 1;
+                        } else {
+                            $is_empty = 0;
+                        }
                     }
-                }
-                unless ($is_empty) {
-                    log_trace "File $filename already exists and response is not empty, skipping this date";
-                    last RETRIEVE;
-                }
+                    unless ($is_empty) {
+                        log_trace "File $filename already exists and response is not empty, skipping this date";
+                        last RETRIEVE;
+                    }
 
-                my $val = $counter->get(counter => $date->ymd);
-                if (!defined $val || $val < 4) {
-                    log_trace "File $filename already exists and response is empty, will try this date again (retries=%d)", $val;
+                    my $val = $counter->get(counter => $date->ymd);
+                    if (!defined $val || $val < 4) {
+                        log_trace "File $filename already exists and response is empty, will try this date again (retries=%d)", $val;
+                    } else {
+                        log_trace "File $filename already exists and response is empty, we have tried enough times, skipping this date";
+                        last RETRIEVE;
+                    }
                 } else {
-                    log_trace "File $filename already exists and response is empty, we have tried enough times, skipping this date";
-                    last RETRIEVE;
+                    #log_trace "File $filename does not exist, trying to retrieve ...";
                 }
 
                 log_info "Retrieving %s data from IDX ...", $date->ymd;
@@ -96,14 +116,17 @@ for my $year (2015..$today->year) {
                     $counter->increment(counter => $date->ymd);
                 }
 
-            } else {
-                #log_trace "File $filename does not exist, trying to retrieve ...";
-            }
+            } # RETRIEVE
 
-        } # RETRIEVE
-
-        $date->add(days=>1);
-        last DAY if $date->year > $year;
-        last YEAR if $date->compare($today) > 0;
-    }
+            $date->add(days=>1);
+            last DAY if $date->year > $year;
+            last YEAR if $date->compare($today) > 0;
+        } # DAY
+    } # YEAR
+    [200];
 }
+
+Perinci::CmdLine::Any->new(
+    url => '/main/app',
+    log => 1,
+)->run;
