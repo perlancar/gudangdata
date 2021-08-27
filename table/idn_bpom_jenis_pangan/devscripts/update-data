@@ -1,0 +1,3 @@
+#!/usr/bin/env perl
+
+die "Currently this is done manually by scraping BPOM website using Firefox's element inspector\n";
