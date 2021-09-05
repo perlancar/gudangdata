@@ -41,20 +41,21 @@ sub app {
     my $counter = IOD::Counter::Simple->new(path => "$Bin/../raw/counter.iod");
 
   YEAR:
-    for my $year (2015..$today->year) {
+    for my $year (reverse 2015 .. $today->year) {
         my $year_dir = "$Bin/../raw/$year";
         unless (-d $year_dir) {
             log_debug "mkdir $year_dir ...";
             mkdir $year_dir or die "Can't mkdir $year_dir: $!";
         }
         local $CWD = $year_dir;
-        my $date = DateTime->new(year=>$year, month=>1, day=>1);
+        my $date = DateTime->new(year=>$year, month=>12, day=>31);
 
       DAY:
         while (1) {
           RETRIEVE: {
+                last if DateTime->compare($date, $today) > 0;
                 last if defined $args{min_date} && DateTime->compare($date, $args{min_date}) < 0;
-                last YEAR if defined $args{max_date} && DateTime->compare($date, $args{max_date}) > 0;
+                last if defined $args{max_date} && DateTime->compare($date, $args{max_date}) > 0;
 
                 my $dow = $date->day_of_week;
                 next unless $dow >= 1 && $dow <= 5;
@@ -118,9 +119,8 @@ sub app {
 
             } # RETRIEVE
 
-            $date->add(days=>1);
-            last DAY if $date->year > $year;
-            last YEAR if $date->compare($today) > 0;
+            $date->add(days=> -1);
+            last DAY if $date->year != $year;
         } # DAY
     } # YEAR
     [200];

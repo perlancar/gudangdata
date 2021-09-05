@@ -1,0 +1,16 @@
+summary: Food types in BPOM processed food division
+summary.alt.lang.id_ID: Jenis pangan di BPOM pangan olahan
+fields:
+  code:
+    schema: ['str*', {match: '^[0-9]+$'}]
+    pos: 0
+    summary: "code"
+    sortable: Yes
+    #unique: Yes  # currently there are some duplicates
+  summary:
+    schema: ['str*']
+    pos: 1
+    summary: "Summary"
+    sortable: Yes
+    unique: No
+pk: code
