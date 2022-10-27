@@ -1,0 +1,42 @@
+#!/usr/bin/env perl
+
+use 5.014;
+use strict;
+use warnings;
+use Log::ger::Screen;
+
+use File::Slurper qw(read_text);
+use Text::CSV;
+
+sub _oneline {
+    my $text = shift;
+    $text =~ s/\R/ /g;
+    $text;
+}
+
+my $html = read_text("01c-page.html.tidy");
+my $csv = Text::CSV->new({binary=>1});
+
+my @rows;
+while ($html =~ m!^
+                  (<tr\sclass="(?:(?:alt|main)-row)"[^>]*>\s*
+                  .*?
+                  </tr>)
+                 !gmsx) {
+    push @rows, $1;
+}
+log_warn "Number of rows: %d", scalar(@rows);
+
+my $i = -1;
+for my $row (@rows) {
+    $i++;
+    $row =~ m!^
+              <tr\sclass="(?:(?:alt|main)-row)"[^>]*>\s*
+              <td\s*[^>]*>\s*([0-9ABC]+)\s*</td>\s*
+              <td\s*[^>]*>\s*(.*?)\s*</td>\s*
+              <td\s*[^>]*>\s*(.*?)\s*</td>\s*
+              <td\s*[^>]*>\s*([^\n]*?)\s*</td>\s*
+              </tr>
+             !msx or die "Can't parse row[$i]: $row";
+    $csv->say(\*STDOUT, [$1, _oneline($2), _oneline($3), $4]);
+}

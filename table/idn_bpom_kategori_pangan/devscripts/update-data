@@ -1,0 +1,12 @@
+#!/usr/bin/env perl
+
+die "Currently this is done manually by network inspector from
+https://e-reg.pom.go.id/ereg/index.php/register/detil/kategori#ajax/row/5000/page/1/order/2/ASC
+
+The element inspector (or is it Firefox or KDE?) doesn't allow copy-pasting too
+much text. The network inspector allows us to save as .HAR in addition to copy
+pasting it. So we save this AJAX request:
+
+/ereg/index.php/register/detil/kategori/ajax/row/5000/page/1/order/2/ASC
+
+";
