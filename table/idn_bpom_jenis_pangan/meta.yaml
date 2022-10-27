@@ -7,10 +7,12 @@ fields:
     summary: "code"
     sortable: Yes
     #unique: Yes  # currently there are some duplicates
+    filterable_regex: Yes
   summary:
     schema: ['str*']
     pos: 1
     summary: "Summary"
     sortable: Yes
+    filterable_regex: Yes
     unique: No
 pk: code
