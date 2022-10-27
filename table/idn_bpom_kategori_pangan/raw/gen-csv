@@ -28,6 +28,7 @@ while ($html =~ m!^
 log_warn "Number of rows: %d", scalar(@rows);
 
 my $i = -1;
+print "code,name,summary,status\n";
 for my $row (@rows) {
     $i++;
     $row =~ m!^
