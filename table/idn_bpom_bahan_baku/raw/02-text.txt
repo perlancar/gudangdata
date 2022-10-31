@@ -1,0 +1,2791 @@
+Bubuk Sayuran (tomat, wortel, sawi, kentang, paprika hijau, bawang putih, seledri)		NO	NO	NO	NO
+Bubuk Teh Hijau		NO	NO	NO	NO
+Bubuk Ayam (maltodextrin, garam, bubuk kaldu ayam)		NO	NO	NO	NO
+Bubuk Buih		NO	NO	NO	NO
+Bubuk Custard (Susu Bubuk, Gula, Lemak Nabati, Pati Tapioka, Maltodekstrin)		NO	NO	NO	NO
+Bubuk Ekstrak Pizza 		NO	NO	NO	NO
+Bubuk Ekstrak Tulang Sapi (Ekstrack tulang sapi, Garam)		NO	NO	NO	NO
+Bubuk jahe		NO	NO	NO	NO
+Bubuk kecap (kedelai, garam, tepung)		NO	NO	NO	NO
+Bubuk Kelapa		NO	NO	NO	NO
+Bubuk lada putih 		NO	NO	NO	NO
+Bumbu Rasa Kacang Polong		NO	NO	NO	NO
+Bumbu Rasa Salmon Teriyaki		NO	NO	NO	NO
+Cabe Merah 		NO	NO	NO	NO
+CO2		NO	NO	NO	NO
+Dinatrium 5 Inosinat (disodium 5 Inosinate)		NO	NO	NO	NO
+Dinatrium 5 ribonukleotida (Disodium 5 ribonucleotides)		NO	NO	NO	NO
+Ekstrak Cumi-cumi		NO	NO	NO	NO
+Iodium ( Kalium Iodat- Kio3 )		NO	NO	NO	NO
+ekstrak vanillin		NO	NO	NO	NO
+bunga jagung		NO	NO	NO	NO
+Butiran Coklat		NO	NO	NO	NO
+Cabe Chilli Hijau 		NO	NO	NO	NO
+Cabe Hijau 		NO	NO	NO	NO
+Cabe Jalapeno 		NO	NO	NO	NO
+Dextrosa		NO	NO	NO	NO
+Kalium Fosfat 		NO	NO	NO	NO
+Ekstrak Bumbu (bawang bombay,bawang putih, paprika dan annato)		NO	NO	NO	NO
+Dekstrosa monohidrat		NO	NO	NO	NO
+Karagenan		NO	NO	NO	NO
+Karamel 		NO	NO	NO	NO
+Keju Ricotta (susu sapi, susu domba)		NO	NO	NO	NO
+Konsentrat Jus Apel		NO	NO	NO	NO
+Kayu Manis Bubuk		NO	NO	NO	NO
+Keju Bubuk 		NO	NO	NO	NO
+Konsentrat Buah Apel		NO	NO	NO	NO
+KARBONDIOKSIDA (CARBONDIOXIDE)		NO	NO	NO	NO
+Konyaku Bubuk		NO	NO	NO	NO
+Kopi Putih Bubuk		NO	NO	NO	NO
+Krim Nabati Bubuk		NO	NO	NO	NO
+Krimer		NO	NO	NO	NO
+Krimer Nabati		NO	NO	NO	NO
+Kubis 		NO	NO	NO	NO
+Lemak Nabati tidak hidrogenasi (Unhydrogenated Vegetable Fat)		NO	NO	NO	YES
+Mentega 		NO	NO	NO	NO
+Krispi 		NO	NO	NO	NO
+Keju 		NO	NO	NO	NO
+Lada Hitam		NO	NO	NO	NO
+Laktosa		NO	NO	NO	NO
+Maltodekstrin		NO	NO	NO	NO
+Lada Jalapeno		NO	NO	NO	NO
+Lemak Kakao 		NO	NO	NO	NO
+LEMAK NABATI (MARGARIN DAN LEMAK REROTI)		NO	NO	NO	YES
+Massa Kakao		NO	NO	NO	NO
+Minyak Nabati 		NO	NO	NO	NO
+Minyak Kedelai		NO	NO	NO	NO
+Minyak Sawit Olein		NO	NO	NO	NO
+Mono Dan Digliserida (mono- And Di-glycerides)		NO	NO	NO	NO
+Monogliserida (monoglycerides)		NO	NO	NO	NO
+NATRIUM TRIPOLIFOSFAT (SODIUM TRIPOLYPHOSPHATE)		NO	NO	NO	NO
+minyak vanila		NO	NO	NO	NO
+NATRIUM KARBOKSIMETIL SELULOSA (SODIUM CARBOXYMETHYL CELLULOSE)		NO	NO	NO	NO
+NATRIUM KARBONAT (SODIUM CARBONATE)		NO	NO	NO	YES
+Parutan Kelapa Kering		NO	NO	NO	NO
+Pasta Kopi		NO	NO	NO	NO
+pektin		NO	NO	NO	NO
+Pizza Bubuk Ekstrak		NO	NO	NO	NO
+Protein Nabati Terhidrolisa		NO	NO	NO	NO
+protein nabati terhirolisa		NO	NO	NO	NO
+Protein nabati tertekstur		NO	NO	NO	NO
+Riboflavin (vitamin B2)		NO	NO	NO	NO
+Sayuran kering (Kubis, protein nabati tertekstur, bawang putih goreng, wortel)		NO	NO	NO	NO
+Ragi Roti		NO	NO	NO	NO
+minyak mentega		NO	NO	NO	NO
+Pati terModifikasi		NO	NO	NO	NO
+Seng		NO	NO	NO	NO
+PATI TAPIOKA 		NO	NO	NO	YES
+Serat Pangan		NO	NO	NO	NO
+Sirup Glukosa		NO	NO	NO	NO
+Serbu Sari Buah Raspberi		NO	NO	NO	NO
+Teh Bubuk		NO	NO	NO	NO
+Telur		NO	NO	NO	NO
+Tepung Beras		NO	NO	NO	NO
+Tepung Gandum Semolina 		NO	NO	NO	NO
+Thixogums		NO	NO	NO	NO
+Tartazine (cl.19140)		NO	NO	NO	NO
+tapioka 		NO	NO	NO	NO
+Tepung Maizena		NO	NO	NO	NO
+Tepung mazena		NO	NO	NO	NO
+Tepung Rumput laut		NO	NO	NO	NO
+Tepung Rye (Rye Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Sagu (Sago Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Semolina (Semolina Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Singkong (Cassava Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Sorgum (Sorghum Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Spelt (Spelt flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Talas (Taro Powder)	Bahan Baku	NO	NO	NO	YES
+TEPUNG TAPIOKA	Bahan Baku	NO	NO	NO	NO
+TEPUNG TELUR	Bahan Baku	NO	YES	NO	YES
+Tepung Tempura (Tempura Flour)	Bahan Baku	NO	NO	NO	YES
+TEPUNG TERIGU (WHEAT FLOUR)	Bahan Baku	NO	NO	NO	YES
+Tepung Terigu Diperkaya (Enriched Flour)	Bahan Baku	NO	NO	NO	NO
+Tepung Terigu Protein Rendah (Low Protein Flour)	Bahan Baku	NO	NO	NO	NO
+Tepung Terigu Protein Sedang (Cake Flour)	Bahan Baku	NO	NO	NO	NO
+Tepung Terigu Protein Tinggi (High Protein Flour)	Bahan Baku	NO	NO	NO	NO
+TEPUNG TERIGU SEMOLINA (SEMOLINA FLOUR)	Bahan Baku	NO	NO	NO	NO
+Tepung Terigu Terfermentasi (Fermented Flour)	Bahan Baku	NO	NO	NO	YES
+TEPUNG UBI (CASSAVA FLOUR)	Bahan Baku	NO	NO	NO	NO
+Tepung Ubi Jalar (Sweet Potato Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Ubi Jalar Ungu (Violet Sweet Potato Powder)	Bahan Baku	NO	NO	NO	YES
+Tequila (Tequilla)	Bahan Baku	NO	NO	NO	YES
+Terasi - Belacan (Paste)	Bahan Baku	NO	NO	NO	YES
+Terasi - Belacan Udang (Shrimp Paste)	Bahan Baku	NO	NO	NO	YES
+Terasi Bubuk (Shrimp Paste Powder)	Bahan Baku	NO	NO	NO	YES
+TERIPANG LAUT (SEA CUCUMBERS - HOLOTHUROIDEA)	Bahan Baku	NO	NO	NO	YES
+Terong (Eggplant)	Bahan Baku	NO	NO	NO	YES
+TETES TEBU (MOLASES, TREACLE)	Bahan Baku	NO	NO	NO	YES
+THIAMIN MONONITRAT	Bahan Baku	NO	NO	NO	NO
+Tepung Muffin (Muffin Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Olahan / Pati Olahan / Protein Olahan	Bahan Baku	NO	NO	NO	YES
+Tepung Panir (Panir Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Premiks (Premix Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Premiks Es Krim (Ice Cream Base)	Bahan Baku	YES	YES	NO	YES
+Tepung Quinoa (Quinoa Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Roti (Bread Crumb)	Bahan Baku	NO	NO	NO	YES
+Tepung Roti (Bread Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Malt (Malt Flour)	Bahan Baku	NO	NO	NO	YES
+Tarako Bubuk (Tarako Powder)	Bahan Baku	NO	NO	NO	YES
+TAUCO (TAUCO)	Bahan Baku	NO	NO	NO	YES
+TAURIN (TAURINE)	Bahan Baku	NO	NO	YES	YES
+Tebu	Bahan Baku	NO	NO	NO	NO
+Tebu (Cane)	Bahan Baku	NO	NO	NO	YES
+TEH (TEA)	Bahan Baku	NO	NO	NO	NO
+TIAMIN MONONITRAT (VIT B1)	Bahan Baku	NO	NO	NO	NO
+TIMI (THYME - THYMUS VULGARIS)	Bahan Baku	NO	NO	NO	YES
+TIMI BUBUK (THYME - THYMUS VULGARIS POWDER)	Bahan Baku	NO	NO	NO	YES
+Tinta Cumi (Squid Ink)	Bahan Baku	NO	NO	NO	YES
+Tiram (Oyster)	Bahan Baku	NO	NO	NO	YES
+Tiramisu (Tiramisu)	Bahan Baku	NO	NO	NO	YES
+Tirosin (Thyrosin)	Bahan Baku	NO	NO	NO	YES
+TOFFEE	Bahan Baku	NO	NO	NO	NO
+Tomat (Tomato)	Bahan Baku	NO	NO	NO	YES
+Tomat Bubuk (Tomato Powder)	Bahan Baku	NO	NO	NO	YES
+Tomat Cincang (Chopped Tomato)	Bahan Baku	NO	NO	NO	YES
+Tomat Hijau (Green Tomato)	Bahan Baku	NO	NO	NO	YES
+Tomat Kering (Dried Tomato)	Bahan Baku	NO	NO	NO	YES
+Tomat Kupas (Peeled Tomato)	Bahan Baku	NO	NO	NO	YES
+TONGKAT ALI BUBUK (EURYCOMA LONGIFOLIA POWDER)	Bahan Baku	NO	NO	NO	NO
+TOPPING	Bahan Baku	NO	NO	NO	YES
+Torbangun (Mexican mint)	Bahan Baku	NO	NO	NO	YES
+TREHALOSA (TREHALOSE DIHYDRATE)	Bahan Baku	NO	NO	NO	YES
+TREONIN (THREONINE)	Bahan Baku	NO	NO	NO	YES
+TRIBULUS	Bahan Baku	NO	NO	YES	NO
+Trikalium fosfat (Tripotassium orthophosphate)	Bahan Baku	NO	NO	NO	YES
+trikalium sitrat (tripotassium citrate)	Bahan Baku	NO	NO	NO	YES
+Trikalium Sitrat Monohidrat (Tripotassium Citrate Monohydrate)	Bahan Baku	NO	NO	NO	YES
+Trikalsium Fosfat (Tricalcium Phosphate)	Bahan Baku	NO	NO	NO	YES
+trikalsium sitrat (Tricalcium citrate)	Bahan Baku	NO	NO	NO	YES
+Trimagnesium sitrat anhidrat (Trimagnesium Citrate Anhydrous)	Bahan Baku	NO	NO	NO	YES
+TRINATRIUM FOSFAT (TRISODIUM ORTHOPHOSPHATE)	Bahan Baku	NO	NO	NO	NO
+TRINATRIUM FOSFAT (TRISODIUM OTRHOPHOSPHATE)	Bahan Baku	NO	NO	NO	NO
+TRINATRIUM SITRAT (TRISODIUM CITRATE) (KECUALI MP ASI)	Bahan Baku	NO	NO	NO	YES
+Triptofan (Triptophan)	Bahan Baku	NO	NO	NO	YES
+Triticale	Bahan Baku	NO	NO	NO	YES
+Truffle (Truffle)	Bahan Baku	NO	NO	NO	YES
+Tulang Ayam (Chicken Bone)	Bahan Baku	NO	NO	NO	YES
+Tulang Babi (Pig Bone)	Bahan Baku	NO	NO	NO	YES
+Tulang Ikan Salmon (Salmon Bone)	Bahan Baku	NO	NO	NO	YES
+Tulang Muda Ikan Hiu Bubuk (Cartilage Shark Powder)	Bahan Baku	NO	NO	NO	YES
+Tulang Sapi (Cow's Bone)	Bahan Baku	NO	NO	NO	YES
+Tuna Bubuk (Tuna Powder)	Bahan Baku	NO	NO	NO	YES
+TVP (Texturized Vegetable Protein)	Bahan Baku	NO	NO	NO	YES
+UBI JALAR (SWEET POTATO)	Bahan Baku	NO	NO	NO	YES
+Ubi Jepang (Japanese Yam)	Bahan Baku	NO	NO	NO	YES
+UBI KAYU (CASSAVA)	Bahan Baku	NO	NO	NO	NO
+UBI MADU (SWEET HONEY POTATO)	Bahan Baku	NO	NO	NO	YES
+Ubi Merah 	Bahan Baku	NO	NO	NO	YES
+UBI RAMBAT (YAM)	Bahan Baku	NO	NO	NO	NO
+UBI UNGU (PURPLE SWEET POTATO)	Bahan Baku	NO	NO	NO	YES
+Ubur-Ubur (Jellyfish)	Bahan Baku	NO	NO	NO	YES
+Udang Bubuk (Shrimp Powder)	Bahan Baku	NO	NO	NO	YES
+UDANG (FRESH PRAWN)	Bahan Baku	NO	NO	NO	YES
+Udang (Shrimp)	Bahan Baku	NO	NO	NO	YES
+Udang Kering - Ebi (Dried Shrimp)	Bahan Baku	NO	NO	NO	YES
+Udang Rebon (Shrimp Rebon)	Bahan Baku	NO	NO	NO	YES
+UMBI KONNYAKU (KONJAC)	Bahan Baku	NO	NO	NO	YES
+Usus Ayam	Bahan Baku	NO	NO	NO	YES
+Usus Babi	Bahan Baku	NO	NO	NO	YES
+Usus Kambing	Bahan Baku	NO	NO	NO	YES
+Usus Sapi (Cow Intestines)	Bahan Baku	NO	NO	NO	YES
+UVA URSI POWDER (ARCTISTAPHYLOS UVA URSI)	Bahan Baku	NO	NO	YES	NO
+Valin	Bahan Baku	YES	YES	NO	YES
+VANILA	Bahan Baku	NO	NO	NO	NO
+VANILIN	Bahan Baku	NO	NO	NO	NO
+Vitamin A (Retinal)	Bahan Baku	NO	NO	NO	YES
+VITAMIN A ASETAT	Bahan Baku	NO	NO	NO	YES
+Vitamin A Palmitat	Bahan Baku	NO	NO	NO	YES
+VITAMIN B	Bahan Baku	NO	NO	NO	NO
+Vitamin B1 (Thiamine)	Bahan Baku	NO	NO	NO	YES
+VITAMIN B10	Bahan Baku	NO	NO	NO	NO
+Vitamin B12 (Cyanocobalamin)	Bahan Baku	NO	NO	NO	YES
+Vitamin B2 (Riboflavin)	Bahan Baku	NO	NO	NO	YES
+VITAMIN B3 (NIACINAMIDE)(NICOTINAMIDE)	Bahan Baku	NO	NO	NO	YES
+Vitamin B5 (Pantothenic Acid)	Bahan Baku	NO	NO	NO	YES
+Vitamin B6 (Pyridoxine Hydrochloride)	Bahan Baku	NO	NO	NO	YES
+Vitamin B7 (Biotin)	Bahan Baku	NO	NO	NO	YES
+VITAMIN B8 (INOSITOL)	Bahan Baku	NO	NO	NO	YES
+Vitamin B9 (Folic Acid)	Bahan Baku	NO	NO	NO	YES
+Vitamin C (Ascorbic Acid)	Bahan Baku	NO	NO	NO	YES
+VITAMIN D 	Bahan Baku	NO	NO	NO	NO
+VITAMIN D1	Bahan Baku	NO	NO	NO	NO
+Vitamin D2 (Ergocalciferol)	Bahan Baku	NO	NO	NO	YES
+Vitamin D3 (Cholecalciferol)	Bahan Baku	NO	NO	NO	YES
+Vitamin E (Tocopherol)	Bahan Baku	NO	NO	NO	YES
+VITAMIN E ASETAT	Bahan Baku	NO	NO	NO	YES
+VITAMIN H (BIOTIN)	Bahan Baku	NO	NO	NO	NO
+VITAMIN K	Bahan Baku	NO	NO	NO	NO
+Vitamin K1 (Phytomenadione)	Bahan Baku	NO	NO	NO	YES
+VITAMIN K2 (MENAQUINONE)	Bahan Baku	NO	NO	NO	YES
+Vodka (Vodka)	Bahan Baku	NO	NO	NO	YES
+WAFER	Bahan Baku	NO	NO	NO	YES
+WAFER CONE	Bahan Baku	NO	NO	NO	YES
+Wakame (Wakame)	Bahan Baku	NO	NO	NO	YES
+WALNUT (WALNUT)	Bahan Baku	NO	NO	NO	NO
+Wasabi (Wasabi)	Bahan Baku	NO	NO	NO	YES
+Wasabi Bubuk (Wasabi Powder)	Bahan Baku	NO	NO	NO	YES
+WATER CHESNUT	Bahan Baku	YES	YES	NO	YES
+WAX (WAX)	Bahan Baku	NO	NO	NO	NO
+Waxberry (Waxberry)	Bahan Baku	NO	NO	NO	YES
+Wheat grass (Triticum aestirum)	Bahan Baku	NO	NO	YES	YES
+Whey (Whey)	Bahan Baku	NO	NO	NO	YES
+Whey Bubuk (Whey Powder)	Bahan Baku	NO	NO	NO	YES
+Whey Demineralisasi (Whey Demineralization)	Bahan Baku	NO	NO	NO	YES
+Whey Protein (Whey Protein)	Bahan Baku	NO	NO	NO	YES
+Whey Protein Demineralisasi (Whey Protein Demineralization)	Bahan Baku	NO	NO	NO	YES
+Whey Protein Konsentrat (Whey Protein Concentrate)	Bahan Baku	NO	NO	NO	YES
+Whipping Cream (Whipping Cream)	Bahan Baku	NO	NO	NO	YES
+Wijen (Sesame)	Bahan Baku	NO	NO	NO	YES
+Wijen Bubuk (Sesame Powder)	Bahan Baku	NO	NO	NO	YES
+Wijen Hitam (Black Sesame)	Bahan Baku	NO	NO	NO	YES
+Wijen Putih (White Sesame)	Bahan Baku	NO	NO	NO	YES
+WISKI (WHISKY)	Bahan Baku	NO	NO	NO	YES
+Wortel (Carrot)	Bahan Baku	NO	NO	NO	YES
+Wortel Bubuk (Carrot Powder)	Bahan Baku	NO	NO	NO	YES
+Wortel Kering (Dried Carrot)	Bahan Baku	NO	NO	NO	YES
+Yerbamate Ekstrak (Ilex paraguariensis)	Bahan Baku	NO	NO	YES	YES
+Yoghurt (Yoghurt)	Bahan Baku	NO	NO	NO	YES
+Yoghurt Bubuk (Yoghurt Powder)	Bahan Baku	NO	NO	NO	YES
+ZAT BESI (IRON)	Bahan Baku	NO	NO	NO	YES
+ZEASANTIN	Bahan Baku	NO	NO	NO	NO
+Zink Glukonat (Zinc Gluconate)	Bahan Baku	NO	NO	NO	YES
+Zink Laktat Dihidrat (Zink Lactate Dihydrate)	Bahan Baku	NO	NO	NO	YES
+Zink Oksida (Zinc Oxide)	Bahan Baku	NO	NO	NO	YES
+Zink Pikolinat (Zinc Picolinate)	Bahan Baku	NO	NO	NO	YES
+zink Sitrat Dihidrat (Zink Citrate Dihydrate)	Bahan Baku	NO	NO	NO	YES
+Zink Sulfat (Zinc Sulphate)	Bahan Baku	NO	NO	NO	YES
+Tepung Gandum Semolina (Semolina Wheat Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Gandum Utuh (Whole Wheat Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Gaplek (Cassava Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Gluten (Gluten Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Iles-Iles	Bahan Baku	NO	NO	NO	YES
+Tepung Jagung (Corn Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Jagung Modifikasi (Modified Corn Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Jagung Ungu (Purple Corn Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Jamur (Mushroom Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Kacang (Peanut Flour)	Bahan Baku	NO	NO	NO	YES
+TEPUNG KACANG ARAB - TEPUNG GARBANZO (CHICKPEA - GARBANZO FLOUR)	Bahan Baku	NO	NO	NO	YES
+Tepung Kacang Chena (Chena Bean Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Kacang Hijau (Mungbean Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Kacang Kedelai (Soybean Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Kacang Koro (Broad Bean Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Kacang Merah (Red Bean Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Kacang Mete (Cashew Nut Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Kacang Polong (Pea Flour)	Bahan Baku	NO	NO	NO	YES
+TEPUNG KAMUT	Bahan Baku	NO	NO	NO	NO
+Tepung Kanji (Starch)	Bahan Baku	NO	NO	NO	YES
+TEPUNG KEDELAI (SOY FLOUR)	Bahan Baku	NO	NO	NO	NO
+Tepung Kelapa (Coconut Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Kencur (Kaempferia galanga Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Kentang (Potato Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Kerang (Shell Flour)	Bahan Baku	NO	NO	NO	YES
+TEPUNG KETAN (GLUTINOUS RICE FLOUR)	Bahan Baku	NO	NO	NO	NO
+Tepung Ketan Hitam (Black Glutinous Rice Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Ketan Putih (White Glutinous Rice Flour)	Bahan Baku	NO	NO	NO	YES
+TEPUNG KONJAC	Bahan Baku	YES	NO	NO	NO
+TEPUNG KONNYAKU (KONJAC FLOUR)	Bahan Baku	NO	NO	NO	YES
+TEPUNG KONYAKU (KONYAKU FLOUR)	Bahan Baku	NO	NO	NO	NO
+Tepung Kue (Cake Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Lobak (Rapeseed Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Beras (Rice Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Beras Cokelat (Brown Rice Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Beras Hitam	Bahan Baku	NO	NO	NO	YES
+Tepung Beras Ketan (Glutinous Rice Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Beras Merah (Brown Rice Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Biji Rami (Flaxseed Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Bran Gandum (Wheat Bran Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Breader	Bahan Baku	NO	NO	NO	YES
+Tepung Buckwheat (Buckwheat Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Bumbu (Seasoning Powder)	Bahan Baku	NO	NO	NO	YES
+Tepung Bumbu Ayam Goreng (Fried Chicken Seasoning Powder)	Bahan Baku	NO	NO	NO	YES
+TEPUNG DHAL (HUSKED DEW GRAM FLOUR)	Bahan Baku	NO	NO	NO	YES
+TEPUNG DURUM 	Bahan Baku	NO	NO	NO	YES
+Tepung Gandum (Wheat Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Gandum Hitam (Rye Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Gandum Hitam Terfermentasi (Fermented Rye Flour)	Bahan Baku	NO	NO	NO	YES
+TELUR (EGG)	Bahan Baku	NO	YES	NO	YES
+TELUR ASIN (SALTED EGG)	Bahan Baku	NO	NO	NO	YES
+TELUR AYAM (CHICKEN EGG)	Bahan Baku	NO	NO	NO	YES
+TELUR AYAM NEGERI UTUH	Bahan Baku	NO	NO	NO	NO
+TELUR BEBEK (DUCK EGG)	Bahan Baku	NO	NO	NO	YES
+Telur Bubuk (Whole Egg Powder)	Bahan Baku	NO	NO	NO	YES
+Telur Ikan (Fish Egg)	Bahan Baku	NO	NO	NO	YES
+Telur Puyuh (Quail Egg)	Bahan Baku	NO	NO	NO	YES
+TEMBAGA GLUKONAT (COPPER GLUCONAT)	Bahan Baku	NO	NO	NO	YES
+Tembaga Sulfat (Copper Sulfate)	Bahan Baku	NO	NO	NO	YES
+Tempe	Bahan Baku	NO	NO	NO	YES
+Tempe Goreng (Fried Tempe)	Bahan Baku	NO	NO	NO	YES
+TEMPE MATANG	Bahan Baku	NO	NO	NO	NO
+Tempura (Tempura)	Bahan Baku	NO	NO	NO	YES
+TEMU KUNCI (CURCUMA ROTUNDA, BOESENBERGIA ROTUNDA (L) MANSF)	Bahan Baku	NO	NO	NO	YES
+TEMULAWAK (CURCUMA XANTHORRHIZA)	Bahan Baku	NO	NO	NO	YES
+TEPUNG AGAR-AGAR (AGAR-AGAR POWDER)	Bahan Baku	NO	NO	NO	NO
+Tepung Amaranth	Bahan Baku	NO	NO	NO	YES
+TEPUNG ARARUT/TEPUNG GARUT (ARROWROOT FLOUR)	Bahan Baku	NO	NO	NO	YES
+Tepung Aren (Sugar Palm Powder)	Bahan Baku	NO	NO	NO	YES
+Tepung Barley (Barley Flour)	Bahan Baku	NO	NO	NO	YES
+Tepung Barley Malt (Barley Malt Flour)	Bahan Baku	NO	NO	NO	YES
+TEPUNG BATTER	Bahan Baku	NO	NO	NO	YES
+Teh Bubuk (Tea Powder)	Bahan Baku	NO	NO	NO	YES
+Teh Earl Grey (Earl Grey Tea)	Bahan Baku	NO	NO	NO	YES
+Teh Hijau (Green Tea)	Bahan Baku	NO	NO	NO	YES
+Teh Hijau Bubuk (Green Tea Powder)	Bahan Baku	NO	NO	NO	YES
+Teh Hijau Melati (Green Tea Jasmine)	Bahan Baku	NO	NO	NO	YES
+Teh Hijau Panggang (Roasted Green Tea)	Bahan Baku	NO	NO	NO	YES
+Teh Hitam (Black Tea Leaf)	Bahan Baku	NO	NO	NO	YES
+Teh Hitam Ceylon (Black Tea Ceylon)	Bahan Baku	NO	NO	NO	YES
+Teh Hitam Melati (Jasmine Black Tea)	Bahan Baku	NO	NO	NO	YES
+Teh Instan (Instant Tea)	Bahan Baku	NO	NO	NO	YES
+TEH JAWA (ORTHOSIPHON STAMINEUS; ORTHOSIPHON ARISTATUS; ORTHOSIPHON SPICATUS; ORTHOSIPHONBLAETTER; JAVATEE, INDISCHER NIERENTEE, FEUILLES DE BARBIFLORE; DE JAVA)	Bahan Baku	NO	NO	YES	NO
+TEH KERING (DRIED TEA)	Bahan Baku	NO	NO	NO	NO
+Teh Melati (Jasmine Tea)	Bahan Baku	NO	NO	NO	YES
+Teh Oolong (Oolong Tea)	Bahan Baku	NO	NO	NO	YES
+Teh Putih (White Tea)	Bahan Baku	NO	NO	NO	YES
+TEH ROOIBOSA (ASPHALATUS LINEARIS)	Bahan Baku	NO	NO	NO	YES
+Serbuk Kale (Brassica Oleracea L.var. acephala)	Bahan Baku	NO	NO	NO	YES
+Serbuk Minuman	Bahan Baku	NO	NO	YES	YES
+Serbuk Sari (Pollen)	Bahan Baku	NO	NO	NO	YES
+Sereal (Cereal)	Bahan Baku	NO	NO	NO	YES
+Sereal Beras (Rice Cereal)	Bahan Baku	NO	NO	NO	YES
+Sereal Gandum (Wheat Cereal)	Bahan Baku	NO	NO	NO	YES
+Sereal Gandum Utuh (Whole Wheat Cereal)	Bahan Baku	NO	NO	NO	YES
+Sereal Jagung (Corn Cereal)	Bahan Baku	NO	NO	NO	YES
+Serealia (Cerealia)	Bahan Baku	NO	NO	NO	YES
+SEREH (LEMON GRASS-CYMBOPOGON NARDUS)	Bahan Baku	NO	NO	NO	YES
+Sereh Bubuk (Lemongrass Powder)	Bahan Baku	NO	NO	NO	YES
+SERPIHAN KENTANG (POTATO FLAKES)	Bahan Baku	NO	NO	NO	YES
+Serundeng Ikan (Fish Serundeng)	Bahan Baku	NO	NO	NO	YES
+Silver Needle-yingzhen (white tea)	Bahan Baku	NO	NO	NO	YES
+SINGKONG - UBI KAYU (CASSAVA)	Bahan Baku	NO	NO	NO	YES
+Singkong Bubuk (Cassava Powder)	Bahan Baku	NO	NO	NO	YES
+SIOMAY	Bahan Baku	YES	NO	NO	NO
+SIRIH (BETEL)	Bahan Baku	NO	NO	NO	NO
+SIRIH EKSTRAK (PIPER BETLE L.)	Bahan Baku	NO	NO	NO	NO
+Sirip Ikan Hiu (Shark Fins)	Bahan Baku	NO	NO	NO	YES
+Sirsak (Soursop)	Bahan Baku	NO	NO	NO	YES
+Sirup (Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Agave (Agave Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Anggur (Grape Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Barley Malt (Barley Malt Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Beras (Rice Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Beras Merah (Brown Rice Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Cokelat Malt (Chocolate Malt Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Fruktosa (Fructose Syrup)	Bahan Baku	NO	NO	NO	YES
+SIRUP FRUKTOSA JAGUNG (FRUCTOSE CORN SYRUP)	Bahan Baku	NO	NO	NO	YES
+Streptococcus cremoris	Bahan Baku	NO	NO	NO	YES
+Streptococcus lactis	Bahan Baku	NO	NO	NO	YES
+Streptococcus thermophilus	Bahan Baku	NO	NO	NO	YES
+SUCCUS LIQUIRITIAE	Bahan Baku	NO	NO	NO	NO
+succus liquirities	Bahan Baku	NO	NO	NO	NO
+SUJI (DRACAENA ANGUSTIFOLIA)	Bahan Baku	NO	NO	NO	YES
+Sukade (Sukade)	Bahan Baku	NO	NO	NO	YES
+Sukade Pepaya (Papaya Sukade)	Bahan Baku	NO	NO	NO	YES
+Sukromalt (Sucromalt)	Bahan Baku	NO	NO	NO	YES
+Sukrosa (Sucrose)	Bahan Baku	NO	NO	NO	YES
+Sultana (Sultana)	Bahan Baku	NO	NO	NO	YES
+Sup (Soup)	Bahan Baku	NO	NO	NO	YES
+Sup Apel (Apple Soup)	Bahan Baku	NO	NO	NO	YES
+Sup Daging (Meat Soup)	Bahan Baku	NO	NO	NO	YES
+Surimi (Surimi)	Bahan Baku	NO	NO	NO	YES
+SUSU (MILK)	Bahan Baku	NO	NO	NO	NO
+SUSU BUBUK (MILK POWDER)	Bahan Baku	NO	YES	NO	YES
+SUSU BUBUK FULL CREAM (FULL CREAM MILK POWDER)	Bahan Baku	NO	YES	NO	YES
+Susu Bubuk Lemak/Minyak Nabati	Bahan Baku	NO	NO	NO	YES
+SUSU BUBUK RENDAH LEMAK (LOW FAT MILK POWDER)	Bahan Baku	NO	YES	NO	YES
+SUSU BUBUK TANPA LEMAK ATAU SUSU SKIM BUBUK (SKIMMED MILK POWDER)	Bahan Baku	NO	NO	NO	YES
+SUSU CAIR (LIQUID MILK)	Bahan Baku	NO	YES	NO	YES
+SUSU COKLAT (CHOCOLATE MILK)	Bahan Baku	NO	YES	NO	YES
+SUSU COKLAT BUBUK (CHOCOLATE MILK POWDER)	Bahan Baku	NO	YES	NO	YES
+SUSU EVAPORASI (EVAPORATED MILK)	Bahan Baku	NO	YES	NO	YES
+SUSU FERMENTASI (FERMENTED MILK)	Bahan Baku	NO	YES	NO	YES
+Susu Full Cream (Full Cream Milk)	Bahan Baku	NO	NO	NO	YES
+Susu Kambing (Goat's Milk)	Bahan Baku	NO	NO	NO	YES
+Susu Kambing Bubuk (Goat's Milk Powder)	Bahan Baku	NO	NO	NO	YES
+SUSU KAMBING FULL CREAM BUBUK (FULL CREAM GOAT'S MILK POWDER)	Bahan Baku	NO	YES	NO	YES
+SUSU KAMBING SKIM BUBUK (SKIM GOAT'S MILK POWDER)	Bahan Baku	NO	YES	NO	YES
+SUSU KENTAL (CONDENSED MILK)	Bahan Baku	NO	YES	NO	YES
+SUSU KENTAL MANIS (SWEETENED CONDENSED MILK)	Bahan Baku	NO	YES	NO	YES
+SUSU KENTAL TIDAK MANIS (UNSWEETENED CONDENSED MILK)	Bahan Baku	NO	YES	NO	YES
+SUSU KERBAU (BUFFALO MILK)	Bahan Baku	NO	YES	NO	YES
+SUSU KUDA (HORSE MILK)	Bahan Baku	NO	YES	NO	YES
+Susu Lemak Nabati-Susu Minyak Nabati (Filled Milk)	Bahan Baku	NO	NO	NO	YES
+SUSU PASTEURISASI (PASTEURIZED MILK)	Bahan Baku	NO	YES	NO	YES
+SUSU RENDAH LEMAK (LOW FAT MILK)	Bahan Baku	NO	YES	NO	YES
+Susu Sapi (Cow's Milk)	Bahan Baku	NO	NO	NO	YES
+SUSU SEGAR (FRESH MILK)	Bahan Baku	NO	YES	NO	YES
+SUSU SKIM (SKIM MILK)	Bahan Baku	NO	YES	NO	YES
+SUSU SKIM BUBUK (SKIMMED MILK POWDER)	Bahan Baku	NO	YES	NO	NO
+SUSU SKIM COKLAT (SKIM MILK CHOCOLATE)	Bahan Baku	NO	YES	NO	YES
+SUSU SKIM KENTAL MANIS (SWEETENED CONDENSED SKIMMED MILK)	Bahan Baku	NO	YES	NO	YES
+SUSU TANPA LEMAK ATAU SUSU SKIM (SKIMMED MILK)	Bahan Baku	NO	YES	NO	YES
+SUSU UHT (UHT MILK)	Bahan Baku	NO	YES	NO	YES
+Tahini (Tahini)	Bahan Baku	NO	NO	NO	YES
+Tahu (Tofu)	Bahan Baku	NO	NO	NO	YES
+Tahu Goreng (Fried Tofu)	Bahan Baku	NO	NO	NO	YES
+TAHU KERING (DRIED TOFU)	Bahan Baku	NO	NO	NO	YES
+TAHU MATANG	Bahan Baku	NO	NO	NO	NO
+TALAS (TARO)	Bahan Baku	NO	NO	NO	NO
+TANGKAI TERATAI (LOTUS STEM)	Bahan Baku	NO	NO	NO	NO
+TAOGE (BEAN SPROUTS)	Bahan Baku	NO	NO	NO	YES
+TAPAI BERAS (FERMENTED RICE)	Bahan Baku	NO	NO	NO	YES
+TAPAI KETAN (FERMENTED STILKY RICE)	Bahan Baku	NO	NO	NO	YES
+SIRUP GLUKOSA - FRUKTOSA (GLUCOSE - FRUCTOSE SYRUP)	Bahan Baku	NO	NO	NO	YES
+Sirup Glukosa (Glucose Syrup)	Bahan Baku	NO	NO	NO	YES
+SIRUP GLUKOSA BUBUK (GLUCOSE POWDER SYRUP)	Bahan Baku	NO	NO	NO	YES
+Sirup Grenadine (Grenadine Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Gula (Sugar Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Gula Invert (Invert Sugar Syrup)	Bahan Baku	NO	NO	NO	YES
+SIRUP GULA JAGUNG (CORN SUGAR SYRUP)	Bahan Baku	NO	NO	NO	YES
+Sirup Gula Merah (Brown Sugar Syrup)	Bahan Baku	NO	NO	NO	YES
+SIRUP GULA TERKARAMELISASI (CARAMELIZED SUGAR SYRUP)	Bahan Baku	NO	NO	NO	YES
+Sirup Jagung (Corn Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Jagung Fruktosa (Fructose Corn Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Jagung Padat (Corn Syrup Solid)	Bahan Baku	NO	NO	NO	YES
+Sirup Jagung Tinggi Fruktosa (High Fructose Corn Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Jagung Tinggi Maltosa (High Maltose Corn Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Jahe (Ginger Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Karamel (Caramel Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Kelengkeng (Longan Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Kiwi (Kiwi Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Kurma (Dates Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Malt (Malt Syrup)	Bahan Baku	NO	NO	NO	YES
+SIRUP MAPEL (MAPLE SYRUP)	Bahan Baku	NO	NO	NO	YES
+Sirup Melon (Melon Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Semangka (Watermelon Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Stroberi (Strawberry Syrup)	Bahan Baku	NO	NO	NO	YES
+Sirup Sukrosa (Sucrose Syrup)	Bahan Baku	NO	NO	NO	YES
+SIRUP TAPIOKA (TAPIOCA SYRUP)	Bahan Baku	NO	NO	NO	YES
+Sirup Tinggi Fruktosa (High Fructose Syrup)	Bahan Baku	NO	NO	NO	YES
+Sistein (Cysteine)	Bahan Baku	NO	NO	NO	YES
+Sistin (Cystine)	Bahan Baku	NO	NO	NO	YES
+SITIDIN 5'-MONOFOSFAT (CYTIDINE 5'-MONOPHOSPHATE)	Bahan Baku	NO	NO	NO	YES
+Sitrulin Malat	Bahan Baku	NO	NO	YES	YES
+SIWALAN (SIWALAN)	Bahan Baku	NO	NO	NO	YES
+SOBA (BUCKWHEAT)	Bahan Baku	NO	NO	NO	NO
+Soda (Soda)	Bahan Baku	NO	NO	NO	YES
+SODA BUBUK (SODA POWDER)	Bahan Baku	NO	NO	NO	NO
+Soda Krim (Cream Soda)	Bahan Baku	NO	NO	NO	YES
+Sohun-Soun (Vermicelli)	Bahan Baku	NO	NO	NO	YES
+Sorgum (Sorghum)	Bahan Baku	NO	NO	NO	YES
+Sosis Ayam (Chicken Sausage)	Bahan Baku	NO	NO	NO	YES
+Sosis Babi (Pork Sausage)	Bahan Baku	NO	NO	NO	YES
+Sosis Ikan (Fish Sausage)	Bahan Baku	NO	NO	NO	YES
+Sosis Sapi (Beef Sausage)	Bahan Baku	NO	NO	NO	YES
+Sotong (Cuttlefish)	Bahan Baku	NO	NO	NO	YES
+Sotong Bubuk (Cuttlefish Powder)	Bahan Baku	NO	NO	NO	YES
+Spagheti (Spaghetti)	Bahan Baku	NO	NO	NO	YES
+Spearmint (Spearmint)	Bahan Baku	NO	NO	NO	YES
+Spelt (Triticum spelta)	Bahan Baku	NO	NO	NO	YES
+SPINGOMIELIN (SPHINGOMYELIN)	Bahan Baku	NO	NO	NO	NO
+Spirit (Spirit)	Bahan Baku	NO	NO	NO	YES
+Spirit Air Nira (Sap Water Spirit)	Bahan Baku	NO	NO	NO	YES
+Spirit Anggur (Grape Spirit)	Bahan Baku	NO	NO	NO	YES
+Spirit Beras (Rice Spirit)	Bahan Baku	NO	NO	NO	YES
+Spirit Beras Ketan (Glutinous Rice Spirit)	Bahan Baku	NO	NO	NO	YES
+Spirit Buah Nanas (Pineapple Spirit)	Bahan Baku	NO	NO	NO	YES
+Spirit Buah Pepaya (Papaya Spirit)	Bahan Baku	NO	NO	NO	YES
+Spirit Buah Tomat (Tomato Spirit)	Bahan Baku	NO	NO	NO	YES
+Spirit Gula (Sugar Spirit)	Bahan Baku	NO	NO	NO	YES
+Spirit Gula Merah (Brown Sugar Spirit)	Bahan Baku	NO	NO	NO	YES
+SPIRIT HASIL FERMENTASI MOLASES (FERMENTED MOLASES SPIRIT)	Bahan Baku	NO	NO	NO	YES
+Spirit Jeruk (Orange Spirit)	Bahan Baku	NO	NO	NO	YES
+Spirit Lontar (Palmyra Spirit)	Bahan Baku	NO	NO	NO	YES
+Spirulina (Spirulina)	Bahan Baku	NO	NO	NO	YES
+Spirulina Bubuk (Spirulina Powder)	Bahan Baku	NO	NO	NO	YES
+SQUASH BERPERISA ANGGUR (GRAPE FLAVOUR SQUASH)	Bahan Baku	NO	NO	NO	YES
+SQUASH BERPERISA JERUK (ORANGE FLAVOUR SQUASH)	Bahan Baku	NO	NO	NO	YES
+Squash Berperisa Kelapa 	Bahan Baku	NO	NO	NO	YES
+SQUASH BERPERISA LECI (LYCHEE FLAVOUR SQUASH)	Bahan Baku	NO	NO	NO	YES
+SQUASH BERPERISA STROBERI (STRAWBERRY FLAVOUR SQUASH)	Bahan Baku	NO	NO	NO	YES
+SRIKAYA (ANNONA SQUAMOSA)	Bahan Baku	NO	NO	NO	YES
+STARTER YOGHURT (YOGHURT STARTER)	Bahan Baku	NO	NO	NO	NO
+Stearin (Stearine)	Bahan Baku	NO	NO	NO	YES
+Stearin Inti Buah Rafinasi (Refined Kernel Stearine)	Bahan Baku	NO	NO	NO	YES
+Stearin Inti Kelapa Sawit Hidrogenasi (Hydrogenated Palm Kernel Stearine)	Bahan Baku	NO	NO	NO	YES
+Serat Pangan (Dietary Fiber)	Bahan Baku	NO	NO	NO	YES
+Serat Sayuran (Vegetable Fiber)	Bahan Baku	NO	NO	NO	YES
+PATI TAPIOKA TERMODIFIKASI (MODIFIED TAPIOCA STARCH)	Bahan Baku	NO	NO	NO	YES
+Seng Laktat (Zinc Lactate)	Bahan Baku	NO	NO	NO	YES
+Seng Oksida (Zinc Oxide)	Bahan Baku	NO	NO	NO	YES
+Seng Sulfat (Zinc Sulphate)	Bahan Baku	NO	NO	NO	YES
+SERAT GANDUM (WHEAT FIBER)	Bahan Baku	NO	NO	NO	YES
+SERAT LARUT (SOLUBLE FIBER)	Bahan Baku	NO	NO	NO	NO
+Serat Larut dari Jagung (Soluble Corn Fiber atau Gluco Fibre)	Bahan Baku	NO	NO	NO	YES
+Pati Ubi (Cassava Starch)	Bahan Baku	NO	NO	NO	YES
+PATI UBI JALAR (SWEET POTATO STARCH)	Bahan Baku	NO	NO	NO	YES
+PECAHAN JAGUNG (CORN GRITS)	Bahan Baku	NO	NO	NO	YES
+Pedada (Sonneratia caseolaris)	Bahan Baku	NO	NO	NO	YES
+Pekak (Bunga Lawang-Kembang Lawang-Star Anise) (Star Anise)	Bahan Baku	NO	NO	NO	YES
+Pekak Bubuk (Star Anise Powder)	Bahan Baku	NO	NO	NO	YES
+Minyak Mentega (Butter Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK MUSTARD	Bahan Baku	NO	NO	NO	NO
+NATRIUM SELENAT (SODIUM SELENATE)	Bahan Baku	NO	NO	NO	YES
+NATRIUM SELENIT (SODIUM SELENITE)	Bahan Baku	NO	NO	NO	YES
+RAGI ROTI (BAKER YEAST)	Bahan Baku	NO	NO	NO	YES
+Ragi Tape	Bahan Baku	NO	NO	NO	YES
+Rajungan	Bahan Baku	NO	NO	NO	YES
+Rambutan (Rambutan)	Bahan Baku	NO	NO	NO	YES
+REBUNG (BAMBOO SPROUTS-BAMBOO SHOOTS)	Bahan Baku	NO	NO	NO	YES
+Rebung Kelapa Sawit (Palm Heart)	Bahan Baku	NO	NO	NO	YES
+red currant leaves (ribes rubrum)	Bahan Baku	NO	NO	NO	NO
+REHMANNIA GLUTINOSA (REHMANNIA GLUTINOSE)	Bahan Baku	NO	NO	NO	NO
+REMAHAN BAWANG HIJAU	Bahan Baku	NO	NO	NO	YES
+REMAHAN BISKUIT (BISCUIT CRUMB)	Bahan Baku	NO	NO	NO	YES
+REMAHAN HOKEY POKEY (HOKEY POKEY CRUMB)	Bahan Baku	NO	NO	NO	YES
+REMAHAN TELUR	Bahan Baku	NO	NO	NO	YES
+Remahan wafer	Bahan Baku	NO	NO	NO	YES
+Remis Bubuk (Mussel Powder)	Bahan Baku	NO	NO	NO	YES
+Remis Kering (Dried Mussel)	Bahan Baku	NO	NO	NO	YES
+Rempah (Spices)	Bahan Baku	NO	NO	NO	YES
+Rennet (Rennet)	Bahan Baku	NO	NO	NO	YES
+Resin Gum (Gum Resin)	Bahan Baku	NO	NO	NO	YES
+Retinil Asetat (Retinyl Acetate)	Bahan Baku	NO	NO	NO	YES
+Retinil Palmitat (Retinyl Palmitate)	Bahan Baku	NO	NO	NO	YES
+Rhodopseudomonas palustris	Bahan Baku	NO	NO	NO	YES
+rhubarb batang (rheum rhabarbarum)	Bahan Baku	NO	NO	YES	NO
+Sayuran Okra (Abelmoschus esculentus)	Bahan Baku	NO	NO	NO	YES
+SCUTELLARIA BAICALENSIS (ASIAN SKULLCAP, BAIKAL SKULLCAP, GOLDEN ROOT)	Bahan Baku	NO	NO	NO	NO
+Seabuckthorn (Hippophae Rhamnoides L)	Bahan Baku	NO	NO	NO	YES
+SEAFOOD KERING (DRY SEAFOOD)	Bahan Baku	NO	NO	NO	YES
+Selada (Lettuce)	Bahan Baku	NO	NO	NO	YES
+SELADA AIR (WATERCRESS) (FOLIUM NOSTURTIUM OFFICINALE)	Bahan Baku	NO	NO	NO	YES
+SELAI (JAM)	Bahan Baku	NO	NO	NO	YES
+Selai Anggur (Grape Jam)	Bahan Baku	NO	NO	NO	YES
+Selai Apel (Apple Jam)	Bahan Baku	NO	NO	NO	YES
+Selai Aprikot (Apricot Jam)	Bahan Baku	NO	NO	NO	YES
+Selai Belimbing (Starfruit Jam)	Bahan Baku	NO	NO	NO	YES
+SELAI BLUBERI (BLUEBERRY JAM)	Bahan Baku	NO	NO	NO	YES
+Selai Buah-Buahan (Fruits Jam)	Bahan Baku	NO	NO	NO	YES
+Selai Ceri (Cherry Jam)	Bahan Baku	NO	NO	NO	YES
+SELAI COKELAT (CHOCOLATE JAM)	Bahan Baku	NO	NO	NO	YES
+Selai Durian (Durian Jam)	Bahan Baku	NO	NO	NO	YES
+Selai Jeruk (Orange Jam)	Bahan Baku	NO	NO	NO	YES
+Selai Kacang (Peanut Jam)	Bahan Baku	NO	NO	NO	YES
+Selai Kelapa (Coconut Jam)	Bahan Baku	NO	NO	NO	YES
+Selai Kiwi (Kiwi Jam)	Bahan Baku	NO	NO	NO	YES
+Selai Kurma (Dates Jam)	Bahan Baku	NO	NO	NO	YES
+Selai Nanas (Pineapple Jam)	Bahan Baku	NO	NO	NO	YES
+Selai Nangka (Jackfruit Jam)	Bahan Baku	NO	NO	NO	YES
+Selai Pisang (Banana Jam)	Bahan Baku	NO	NO	NO	YES
+Selai Rasberi (Raspberry Jam)	Bahan Baku	NO	NO	NO	YES
+SELAI SRIKAYA (SWEETSOP JAM)	Bahan Baku	NO	NO	NO	YES
+Selai Stroberi (Strawberry Jam)	Bahan Baku	NO	NO	NO	YES
+Selasih (Basil)	Bahan Baku	NO	NO	NO	YES
+Seledri (Celery)	Bahan Baku	NO	NO	NO	YES
+Seledri Bubuk (Celery Powder)	Bahan Baku	NO	NO	NO	YES
+Selenium (Selenium)	Bahan Baku	NO	NO	NO	YES
+SELONGSONG SOSIS (SAUSAGE SLEEVE)	Bahan Baku	NO	NO	NO	YES
+Selulosa (Cellulose)	Bahan Baku	NO	NO	NO	YES
+Semangka Merah (Red Watermelon)	Bahan Baku	NO	NO	NO	YES
+SEMOLINA	Bahan Baku	NO	NO	NO	YES
+RIMPANG TERATAI (LOTUS ROOT)	Bahan Baku	NO	NO	NO	NO
+Rolled Oats	Bahan Baku	NO	NO	NO	YES
+rooibos-rooibush-rooibosh (asphalatus linearis)	Bahan Baku	NO	NO	NO	NO
+Roombutter (Roombutter)	Bahan Baku	NO	NO	NO	YES
+ROOT BEER BASE	Bahan Baku	YES	YES	NO	YES
+ROSEHIP PEELS (ROSA CANINA)	Bahan Baku	NO	NO	YES	YES
+ROSELA (HIBISCUS SABDARIFFA)	Bahan Baku	NO	NO	NO	YES
+ROSEMARI (ROSEMARY)	Bahan Baku	NO	NO	NO	NO
+Roti (Bread)	Bahan Baku	NO	NO	NO	YES
+Roti Kering (Crusty Bread)	Bahan Baku	NO	NO	NO	YES
+ROYAL JELLY (KHUSUS MADU)	Bahan Baku	NO	NO	NO	YES
+Rum (Rum)	Bahan Baku	NO	NO	NO	YES
+Rumput Laut (Seaweed)	Bahan Baku	NO	NO	NO	YES
+Rumput Laut Bubuk (Seaweed Powder)	Bahan Baku	NO	NO	NO	YES
+Rumput Laut Kering (Dried Seaweed)	Bahan Baku	NO	NO	NO	YES
+SAFRON (SAFFRON)	Bahan Baku	NO	NO	NO	YES
+SAGE (SALVIA OFFICINALIS)	Bahan Baku	NO	NO	NO	NO
+Sagu (Sago)	Bahan Baku	NO	NO	NO	YES
+Sake (Sake)	Bahan Baku	NO	NO	NO	YES
+Salak	Bahan Baku	NO	NO	NO	YES
+Salicornia herbacea L (Salicornia europaea L)	Bahan Baku	NO	NO	NO	YES
+SAMBAL (SAUCE)	Bahan Baku	NO	NO	NO	YES
+Sambal Seafood (Seafood Sauce)	Bahan Baku	NO	NO	NO	YES
+SAMBILOTO (ANDROGRAPHIS PANICULATA)	Bahan Baku	NO	NO	NO	NO
+SAMBUCUS NIGRA	Bahan Baku	NO	NO	NO	NO
+Santan Kelapa (Coconut Milk)	Bahan Baku	NO	NO	NO	YES
+Santan Kelapa Bubuk (Coconut Milk Powder)	Bahan Baku	NO	NO	NO	YES
+SANTAN KELAPA MURNI (PURE COCONUT MILK)	Bahan Baku	NO	NO	NO	NO
+Sarang Burung Walet (Swallow's Nest)	Bahan Baku	NO	NO	NO	YES
+Sari Asam (Tamarind Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Asam Jawa (Tamarind Juice)	Bahan Baku	NO	NO	NO	YES
+SARI AYAM (CHICKEN ESSENCE)	Bahan Baku	NO	NO	NO	NO
+Sari Bawang Bombay (Onion Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Beras (Grains of Rice)	Bahan Baku	NO	NO	NO	YES
+SARI BERAS MERAH (BROWN RICE JUICE)	Bahan Baku	NO	NO	NO	YES
+Sari Buah ...... Rekonstitusi	Bahan Baku	NO	NO	NO	YES
+Sari Buah Anggur (Grape Juice)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH ANGGUR BUBUK	Bahan Baku	NO	NO	NO	YES
+Sari Buah Anggur Hijau (Green Grape Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Anggur Merah (Red Grape Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Anggur Muscat (Muscat Grape Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Anggur Putih (White Grape Juice)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH ANGGUR REKONSTITUSI (GRAPE JUICE RECONSTITUTION)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Apel (Apple Juice)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH APEL REKONSTITUSI (APPLE JUICE RECONSTITUTION)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Apricot (Apricot Juice)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH ARBEI (ARBEI JUICE)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Aren	Bahan Baku	NO	NO	NO	YES
+Sari Buah Aronia (Aronia Juice)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH ASAM JAWA (TAMARIND JUICE)	Bahan Baku	NO	NO	NO	NO
+Sari Buah Belimbing (Starfruit Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Bilberry (Bilberry Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Blackberry (Blackberry Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Blackcurant (Blackcurrant Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Blackcurrant Bubuk (blackcurrant juice powder)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Blewah (Cantaloupe Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Blueberry (Blueberry Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Ceri (Cherry Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Chokeberry (Chokeberry Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Cranberry (Cranberry Juice)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH CRANBERRY REKONSTITUSI (CRANBERRY JUICE RECONSTITUTION) 	Bahan Baku	NO	NO	NO	YES
+Sari Buah Delima (Pomegranate Juice)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH FRAMBOZEN (FRAMBOZEN JUICE)	Bahan Baku	NO	NO	NO	NO
+SARI BUAH GOJIBERRY (GOJIBERRY JUICE)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Gooseberry (Gooseberry Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Jambu	Bahan Baku	NO	NO	NO	YES
+Sari Buah Jambu Biji (Guava Juice)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH JAMBU MERAH	Bahan Baku	NO	NO	NO	NO
+Sari Buah Jeruk (Orange Juice)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH JERUK BUBUK (ORANGE JUICE POWDER)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Jeruk Florida-Jeruk .....	Bahan Baku	NO	NO	NO	YES
+Sari Buah Jeruk Kalamansi	Bahan Baku	NO	NO	NO	YES
+Sari Buah Jeruk Lemon (Lemon Juice)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH JERUK LIMAU (LIMAU JUICE)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Jeruk Mandarin	Bahan Baku	NO	NO	NO	YES
+Sari Buah Jeruk Nipis	Bahan Baku	NO	NO	NO	YES
+SARI BUAH JERUK REKONSTITUSI (ORANGE JUICE RECONSTITUTION) 	Bahan Baku	NO	NO	NO	YES
+SARI BUAH KELAPA (COCONUT JUICE)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Kiwi (Kiwi Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Kranberi (Cranberry Juice)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH KUNDUR (BENINCASA HISPIDA JUICE)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH KURMA (DATES JUICE)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Labu (Pumpkin Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Leci (Lychee Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Mangga (Mango Juice)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH MANGGA BUBUK (MANGO JUICE POWDER)	Bahan Baku	YES	YES	NO	YES
+Sari Buah Manggis (Mangosteen Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Markisa (Passion Fruit Juice)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH MARKISA REKONSTITUSI (PASSION FRUIT JUICE RECONSTITUTION)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH MELON (MELON JUICE)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Nanas (Pineapple Juice)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH NANAS REKONSTITUSI (PINEAPPLE JUICE RECONSTITUTION)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Nangka (Jackfruit Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Pala (Nutmeg Juice)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH PEAR REKONSTITUSI (PEAR JUICE RECONSTITUTION)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Pepaya (Papaya Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Persik (Peach Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Pir (Pear Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Pisang (Banana Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Plum (Plum Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Prune (Prune Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Raspberi (Raspberry Juice)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH RASPBERI REKONSTITUSI (RASPBERRY JUICE RECONSTITUTION)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Redcurrant (Redcurrant Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Semangka (Watermelon Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Sirsak (Soursop Juice)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH SIWALAN (PALMYRA FRUIT JUICE)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Stroberi (Strawberry Juice)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH STROBERI REKONSTITUSI (STRAWBERRY JUICE RECONSTITUTION)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Terong (Eggplant Juice)	Bahan Baku	NO	NO	NO	YES
+SARI BUAH TERONG BELANDA (TAMARILLO JUICE)	Bahan Baku	NO	NO	NO	YES
+Sari Buah Tomat (Tomato Juice)	Bahan Baku	NO	NO	NO	YES
+SARI BUNGA MAWAR (ROSE JUICE)	Bahan Baku	NO	NO	YES	NO
+SARI DAGING AYAM	Bahan Baku	NO	NO	NO	NO
+SARI DAGING SAPI	Bahan Baku	NO	NO	NO	NO
+SARI DAUN CINCAU (GRASS JELLY JUICE)	Bahan Baku	NO	NO	NO	YES
+SARI DAUN KATUK (KATUK JUICE)	Bahan Baku	NO	NO	NO	YES
+SARI DAUN PANDAN (PANDAN JUICE)	Bahan Baku	NO	NO	NO	YES
+Sari Jagung (Corn Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Jahe (Ginger Juice)	Bahan Baku	NO	NO	NO	YES
+SARI JAHE MERAH (RED GINGER JUICE)	Bahan Baku	NO	NO	NO	YES
+Sari Kacang Almond (Almond Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Kacang Kedelai (Soy Juice)	Bahan Baku	NO	NO	NO	YES
+SARI KACANG KEDELAI BUBUK (SOY JUICE POWDER)	Bahan Baku	NO	NO	NO	YES
+SARI KACANG KEDELAI HITAM (BLACK SOYBEAN JUICE)	Bahan Baku	NO	NO	NO	YES
+Sari Kelapa (Coconut Juice)	Bahan Baku	NO	NO	NO	YES
+SARI KERANG ABALONE (ABALONE JUICE)	Bahan Baku	NO	NO	NO	YES
+Sari Kopi (Coffee Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Kunyit (Turmeric Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Lidah Buaya (Aloe Vera Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Malt (Malt Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Rosella (Rosella Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Rumput Laut (Seaweed Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Sayuran (Vegetable Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Seledri (Celery Juice)	Bahan Baku	NO	NO	NO	YES
+SARI TAPE (TAPAI JUICE)	Bahan Baku	NO	NO	NO	YES
+Sari Tebu (Sugar Cane Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Tiram (Oyster Juice)	Bahan Baku	NO	NO	NO	YES
+Sari Wortel (Carrot Juice)	Bahan Baku	NO	NO	NO	YES
+SAUS (SAUCE)	Bahan Baku	YES	NO	NO	YES
+SAUS BARBEKUE (BARBEQUE SAUCE)	Bahan Baku	NO	NO	NO	YES
+SAUS BUAH (FRUIT SAUCE)	Bahan Baku	NO	NO	NO	YES
+Saus Buah Blueberry (Blueberry Sauce)	Bahan Baku	NO	NO	NO	YES
+Saus Buah Jambu (Guava Sauce)	Bahan Baku	NO	NO	NO	YES
+Saus Buah Markisa (Passion Fruit Sauce)	Bahan Baku	NO	NO	NO	YES
+Saus Buah Pepaya (Papaya Sauce)	Bahan Baku	NO	NO	NO	YES
+Saus Buah Pisang (Banana Sauce)	Bahan Baku	NO	NO	NO	YES
+SAUS BUAH STROBERI (STRAWBERRY SAUCE)	Bahan Baku	NO	NO	NO	YES
+Saus Buffalo Style (Buffalo Style Sauce)	Bahan Baku	NO	NO	NO	YES
+Saus Cabe (Chili Sauce)	Bahan Baku	NO	NO	NO	YES
+Saus Coklat (Chocolate Sauce)	Bahan Baku	NO	NO	NO	YES
+Saus Durian (Durian Sauce)	Bahan Baku	NO	NO	NO	YES
+Saus Ikan (Fish Sauce)	Bahan Baku	NO	NO	NO	YES
+Saus Ikan Teri (Anchovy Sauce)	Bahan Baku	NO	NO	NO	YES
+Saus Kacang (Peanut Sauce)	Bahan Baku	NO	NO	NO	YES
+SAUS KACANG KEDELAI (SOYBEAN SAUCE)	Bahan Baku	NO	NO	NO	YES
+SAUS KAPUCINO (CAPPUCINNO SAUCE)	Bahan Baku	NO	NO	NO	YES
+SAUS KEJU (CHEESE SAUCE)	Bahan Baku	YES	YES	NO	YES
+SAUS KOPI (COFFEE SAUCE)	Bahan Baku	NO	NO	NO	YES
+SAUS TAR TAR (TAR TAR SAUCE)	Bahan Baku	NO	NO	NO	YES
+Saus Teriyaki (Teriyaki Sauce)	Bahan Baku	NO	NO	NO	YES
+Saus Tiram (Oyster Sauce)	Bahan Baku	NO	NO	NO	YES
+Saus Tomat (Tomato Sauce)	Bahan Baku	NO	NO	NO	YES
+Saus/ Topping/ Olesan/ Pasta Manis	Bahan Baku	NO	NO	NO	YES
+Sawi (Mustard Greens)	Bahan Baku	NO	NO	NO	YES
+SAWI PUTIH (CHINESE CABBAGE)	Bahan Baku	NO	NO	NO	YES
+Sawo (Sapodilla)	Bahan Baku	NO	NO	NO	YES
+Sayap Ayam (Chicken Wing)	Bahan Baku	NO	NO	NO	YES
+SAYUR BUBUK (VEGETABLE POWDER)	Bahan Baku	NO	NO	NO	YES
+Sayuran Beku (Frozen Vegetable)	Bahan Baku	NO	NO	NO	YES
+SAYURAN KERING (DRY VEGETABLE)	Bahan Baku	NO	NO	NO	YES
+Protein Susu (Milk Protein)	Bahan Baku	NO	NO	NO	YES
+Protein Susu Fermentasi (Fermented Milk Protein)	Bahan Baku	NO	NO	NO	YES
+PRUNELLA VULGARIS	Bahan Baku	NO	NO	YES	NO
+PSYLLIUM HUSK	Bahan Baku	NO	NO	NO	YES
+Puff Gandum (Wheat Puffed)	Bahan Baku	NO	NO	NO	YES
+Puree Apel (Apple Puree)	Bahan Baku	NO	NO	NO	YES
+PUREE BAWANG PUTIH (GARLIC PUREE)	Bahan Baku	NO	NO	NO	YES
+PUREE BLACKBERRY (BLACKBERRY PUREE)	Bahan Baku	NO	NO	NO	YES
+Puree Blackcurrant (Blackcurrant Puree)	Bahan Baku	NO	NO	NO	YES
+PUREE BLUBERI (BLUEBERRY PUREE)	Bahan Baku	NO	NO	NO	YES
+PUREE BUAH LAINNYA (FRUIT PUREE)	Bahan Baku	NO	NO	NO	YES
+Puree Ceri (Cherry Puree)	Bahan Baku	NO	NO	NO	YES
+Puree Jambu Biji (Guava Puree)	Bahan Baku	NO	NO	NO	YES
+PUREE JAMBU MERAH	Bahan Baku	NO	NO	NO	NO
+Puree Kurma	Bahan Baku	NO	NO	NO	YES
+Puree Leci (Lyche Puree)	Bahan Baku	NO	NO	NO	YES
+Puree Mangga (Mango Puree)	Bahan Baku	NO	NO	NO	YES
+PUREE MIX BERRY (MIX BERRY PUREE)	Bahan Baku	NO	NO	NO	YES
+Puree Persik (Peach Puree)	Bahan Baku	NO	NO	NO	YES
+PUREE PIR (PEAR PUREE)	Bahan Baku	NO	NO	NO	YES
+Puree Sirsak (Soursop Puree)	Bahan Baku	NO	NO	NO	YES
+Puree Stroberi (Strawberry Puree)	Bahan Baku	NO	NO	NO	YES
+Puree Tomat (Tomato Puree)	Bahan Baku	NO	NO	NO	YES
+PUTIH TELUR (EGG WHITE)	Bahan Baku	NO	NO	NO	YES
+PUTIH TELUR BUBUK (EGG WHITE POWDER)	Bahan Baku	NO	NO	NO	YES
+PUTIH TELUR PADAT (EGG WHITE SOLID)	Bahan Baku	NO	NO	NO	YES
+QUERCETIN (BERUPA ISOLAT DARI BANYAK TANAMAN)	Bahan Baku	NO	NO	NO	NO
+Rafinosa (Raffinose)	Bahan Baku	NO	NO	NO	YES
+Ragi (Yeast)	Bahan Baku	NO	NO	NO	YES
+Ragi Bubuk (Yeast Powder)	Bahan Baku	NO	NO	NO	YES
+Ragi Instan (Instant Yeast)	Bahan Baku	NO	NO	NO	YES
+Ragi Kering (Dried Yeast)	Bahan Baku	NO	NO	NO	YES
+Ragi Padat (Solid Yeast)	Bahan Baku	NO	NO	NO	YES
+PLANT STANOL ESTER-FITOSTANOL (PHYTOSTANOL)	Bahan Baku	NO	NO	NO	YES
+Polidekstrosa (Polydextrose)	Bahan Baku	NO	NO	NO	YES
+Polifruktosa (Polyfructose)	Bahan Baku	NO	NO	NO	YES
+Polisakarida (Polysaccharides)	Bahan Baku	NO	NO	NO	YES
+POTONGAN BUAH APEL (APPLE SLICES)	Bahan Baku	NO	NO	NO	YES
+POTONGAN KENTANG (POTATO SLICES)	Bahan Baku	NO	NO	NO	YES
+Pottasium Aspartate	Bahan Baku	NO	NO	NO	YES
+Praline (Praline)	Bahan Baku	NO	NO	NO	YES
+PREM (PLUM)	Bahan Baku	NO	NO	NO	YES
+PREM ASIN (SALTED PLUM)	Bahan Baku	NO	NO	NO	YES
+PREMIKS MINERAL (MINERAL PREMIX)	Bahan Baku	NO	NO	NO	YES
+Premiks Vitamin (Vitamin Premix)	Bahan Baku	NO	NO	NO	YES
+PREMIKS VITAMIN DAN MINERAL (VITAMIN AND MINERAL PREMIX)	Bahan Baku	NO	NO	NO	YES
+Preparat Perisa (Flavoring Preparation)	Bahan Baku	NO	NO	NO	NO
+PROPOLIS (PROPOLLIS)	Bahan Baku	NO	NO	NO	NO
+Protein Gandum (Wheat Protein)	Bahan Baku	NO	NO	NO	YES
+Protein Jagung Terhidrolisa (Hydrolized Corn Protein)	Bahan Baku	NO	NO	NO	YES
+Protein Kedelai (Soy Protein)	Bahan Baku	NO	NO	NO	YES
+PROTEIN KEDELAI TERHIDROLISA (HYDROLIZED SOY PROTEIN)	Bahan Baku	NO	NO	NO	NO
+PROTEIN NABATI (VEGETABLE PROTEIN)	Bahan Baku	NO	NO	NO	YES
+Pektin (Pectin)	Bahan Baku	NO	NO	NO	YES
+Pelapis Gula (Sugar Coating)	Bahan Baku	NO	NO	NO	YES
+Pelet (Pellet)	Bahan Baku	NO	NO	NO	NO
+Pengganti Lemak Kakao (Cacao Butter Substitute)	Bahan Baku	NO	NO	NO	YES
+PENGGANTI MENTEGA	Bahan Baku	YES	NO	NO	NO
+PENGGANTI MINYAK MENTEGA (BUTTER OIL SUBSTITUTE)	Bahan Baku	NO	NO	NO	YES
+Penicillium camemberti	Bahan Baku	NO	NO	NO	YES
+Penicillium candidum	Bahan Baku	NO	NO	NO	YES
+PENICILLIUM CASEICOLUM	Bahan Baku	NO	NO	NO	YES
+Penicillium roqueforti	Bahan Baku	NO	NO	NO	YES
+penyangga bunga teratai	Bahan Baku	NO	NO	NO	NO
+Pepaya Gunung/Karika	Bahan Baku	NO	NO	NO	YES
+Pepermint (Peppermint)	Bahan Baku	NO	NO	NO	YES
+Pepermint Bubuk (Peppermint Powder)	Bahan Baku	NO	NO	NO	YES
+Peptida Kolagen (Collagen Peptide)	Bahan Baku	YES	NO	NO	YES
+Perasan Air Jeruk (Lemon Juice)	Bahan Baku	NO	NO	NO	YES
+PETAI (BITTER BEAN)	Bahan Baku	NO	NO	NO	YES
+PETAI CINA (WHITE LEADTREE)	Bahan Baku	NO	NO	NO	YES
+Peterseli (Parsley)	Bahan Baku	NO	NO	NO	YES
+Peterseli Bubuk (Parsley Powder)	Bahan Baku	NO	NO	NO	YES
+Pimenta (Pimenta)	Bahan Baku	NO	NO	NO	YES
+Pimento (Allspice)	Bahan Baku	NO	NO	NO	YES
+Pimento Bubuk (Allspice Powder)	Bahan Baku	NO	NO	NO	YES
+PINANG (ARECA NUT)	Bahan Baku	NO	NO	NO	NO
+Pinto Beans (Kacang Pinto)	Bahan Baku	NO	NO	NO	YES
+PIR (PEAR)	Bahan Baku	NO	NO	NO	YES
+PIRIDOKSIN HIDROKLORIDA (VITAMIN B6)	Bahan Baku	NO	NO	NO	NO
+Pisang (Banana)	Bahan Baku	NO	NO	NO	YES
+Pisang Bubuk (Banana Powder)	Bahan Baku	NO	NO	NO	YES
+Pasta Kurma (Datess Paste)	Bahan Baku	NO	NO	NO	YES
+PASTA LADA MERAH (RED PEPPER PASTE)	Bahan Baku	NO	NO	NO	YES
+Pasta Leci (Lychee Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Mangga (Mango Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Nanas (Pineapple Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Pear (Pear Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Pepaya (Papaya Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Persik (Peach Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Pisang (Banana Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Plum (Plum Paste)	Bahan Baku	NO	NO	NO	YES
+PASTA RASPBERI (RASPBERRY PASTE)	Bahan Baku	NO	NO	NO	YES
+PASTA SARIKAYA (SARIKAYA PASTE)	Bahan Baku	NO	NO	NO	YES
+Pasta Srikaya (Soursop Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Stroberi (Strawberry Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Tomat (Tomato Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Udang (Shrimp Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Wijen (Sesame Paste)	Bahan Baku	NO	NO	NO	YES
+Pastri Samosa (Samosa Pastry)	Bahan Baku	NO	NO	NO	YES
+Pati (Starch)	Bahan Baku	NO	NO	NO	YES
+Pati Beras (Rice Starch)	Bahan Baku	NO	NO	NO	YES
+Pati Gandum (Wheat Starch)	Bahan Baku	NO	NO	NO	YES
+Pati Jagung (Corn Starch)	Bahan Baku	NO	NO	NO	YES
+Pati Jagung Terhidrolisa (Hydrolized Corn Starch)	Bahan Baku	NO	NO	NO	YES
+PATI JAGUNG TERMODIFIKASI (MODIFIED CORN STARCH)	Bahan Baku	NO	NO	NO	YES
+Pati Kacang Hijau (Mungbean Starch)	Bahan Baku	NO	NO	NO	YES
+PATI KACANG POLONG (PEAS STARCH)	Bahan Baku	NO	YES	NO	YES
+Pati Kedelai Terhidrolisa ((Hydrolized Soy Starch)	Bahan Baku	NO	NO	NO	YES
+Pati Kentang (Potato Starch)	Bahan Baku	NO	NO	NO	YES
+PATI KENTANG TERMODIFIKASI (MODIFIED POTATO STARCH)	Bahan Baku	NO	NO	NO	YES
+PATI MODIFIKASI (MODIFIED STARCH)	Bahan Baku	NO	NO	NO	YES
+Pati Sagu (Sago Starch)	Bahan Baku	NO	NO	NO	YES
+PATI SINGKONG (TAPIOCA STARCH) 	Bahan Baku	NO	NO	NO	NO
+PASAK BUMI (EURYCOMA LONGIFOLIA)	Bahan Baku	NO	NO	NO	NO
+Pasta (Fettucini, Lasagna, Macaroni, Spaghetti, dll)	Bahan Baku	NO	NO	NO	YES
+Pasta Almond (Almond Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Apel (Apple Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Ayam (Chicken Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Bawang Bombay (Onion Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Bawang Putih (Garlic Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Biji Wijen (Sesame Seed Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Bluberi (Blueberry Paste)	Bahan Baku	NO	NO	NO	YES
+PASTA BUAH, DLL (FRUITS PASTE, ETC)	Bahan Baku	NO	NO	NO	YES
+Pasta Bumbu Kari (Curry Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Cabe (Chili Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Cokelat Malt (Chocolate Malt Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Coklat (Chocolate Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Durian (Durian Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Ikan (Fish Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Ikan Anchovy (Anchovy Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Jagung Manis (Sweet Corn Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Jeruk (Orange Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Jeruk Lemon (Lemon Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Kacang (Nut Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Kacang Hazel (Hazelnut Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Kacang Hijau (Mungbean Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Kacang Kedelai (Soybean Paste)	Bahan Baku	NO	NO	NO	YES
+PASTA KACANG MERAH (RED BEAN PASTE)	Bahan Baku	NO	NO	NO	YES
+Pasta Keju (Cheese Paste)	Bahan Baku	NO	NO	NO	YES
+Pasta Kelapa (Coconut Paste)	Bahan Baku	NO	NO	NO	YES
+PASTA KETAN HITAM (BLACK STICKY RICE PASTE)	Bahan Baku	NO	NO	NO	YES
+Pasta Kismis (Raisin Paste)	Bahan Baku	NO	NO	NO	YES
+Natrium Kaseinat (Sodium Caseinate)	Bahan Baku	NO	NO	NO	YES
+natrium klorida (sodium chloride)	Bahan Baku	NO	NO	NO	YES
+NATRIUM MOLIBDAT (SODIUM MOLYBDATE)	Bahan Baku	NO	NO	NO	YES
+Natrium dihidrogen fosfat (Sodium dihydrogen phosphate) 	Bahan Baku	NO	NO	NO	YES
+Natrium fluorida (Sodium fluoride)	Bahan Baku	NO	NO	NO	YES
+NATRIUM HIDROGEN KARBONAT (SODIUM BICARBONATE)	Bahan Baku	NO	NO	NO	NO
+Natrium Hidroksida (Sodium Hydroxide) (Kecuali MP ASI)	Bahan Baku	NO	NO	NO	YES
+NATRIUM IODIDA (SODIUM IODIDE)	Bahan Baku	NO	NO	NO	YES
+Minyak Wijen (Sesame Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK ZAITUN (REFINED BLEACHED DEODORIZED OLIVE OIL)	Bahan Baku	NO	NO	NO	YES
+MINYAK ZAITUN EXTRA VIRGIN (EXTRA VIRGIN OLIVE OIL)	Bahan Baku	NO	NO	NO	NO
+Minyak Zaitun Pomace (Pomace Olive Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Zaitun Virgin (Virgin Olive Oil)	Bahan Baku	NO	NO	NO	YES
+Mirin	Bahan Baku	NO	NO	NO	YES
+Miso	Bahan Baku	NO	NO	NO	YES
+MISO BUBUK (MISO POWDER)	Bahan Baku	NO	NO	NO	YES
+Mocaf (Tepung Singkong Fermentasi)	Bahan Baku	NO	NO	NO	YES
+Molibdenum	Bahan Baku	NO	NO	YES	YES
+Nektar Agave (Agave Nectar)	Bahan Baku	NO	NO	NO	YES
+Nektar Lontar	Bahan Baku	NO	NO	NO	YES
+NETTLE LEAF POWDER (URTICA DIOCA)	Bahan Baku	NO	NO	NO	NO
+NIASIN (NIACIN)	Bahan Baku	NO	NO	NO	NO
+NIKOTINAMIDA (NICOTINAMIDE)	Bahan Baku	NO	NO	NO	YES
+NIRA KELAPA (COCONUT SAP)	Bahan Baku	NO	NO	NO	YES
+Nira Lontar (Siwalan)	Bahan Baku	NO	NO	NO	YES
+Non-Dairy Toppings, Fillings, Frostings	Bahan Baku	YES	NO	NO	YES
+Nori Goreng (Fried Seawed)	Bahan Baku	NO	NO	NO	YES
+Nougat (Nougat)	Bahan Baku	NO	NO	NO	YES
+Nukleotida (Nucleotide)	Bahan Baku	NO	NO	NO	YES
+NUKLEOTIDA PREMIKS (PREMIX NUCLEOTIDE)	Bahan Baku	NO	NO	NO	NO
+Oat (Oat)	Bahan Baku	NO	NO	NO	YES
+OAT BUBUK (OAT POWDER)	Bahan Baku	NO	NO	NO	YES
+OAT SERPIHAN (OAT FLAKES)	Bahan Baku	NO	NO	NO	YES
+OATMEAL (OATMEAL)	Bahan Baku	NO	NO	NO	YES
+OKSIGEN (OXYGEN)	Bahan Baku	NO	NO	NO	YES
+OLIGOFRUKTOSA (OLIGOFRUCTOSE)	Bahan Baku	NO	NO	NO	YES
+OLIGOSAKARIDA (OLIGOSACCHARIDES)	Bahan Baku	NO	NO	NO	YES
+Omega 3 (Omega 3)	Bahan Baku	NO	NO	NO	YES
+Oregano (Oregano)	Bahan Baku	NO	NO	NO	YES
+Oregano Bubuk (Oregano Powder)	Bahan Baku	NO	NO	NO	YES
+PADATAN SUSU (MILK SOLIDS)	Bahan Baku	NO	NO	NO	YES
+PADATAN SUSU TANPA LEMAK (NON FAT MILK SOLIDS)	Bahan Baku	NO	NO	NO	YES
+PAHA AYAM (CHICKEN THIGHS)	Bahan Baku	NO	NO	NO	YES
+Pakcoy atau Pokcoy (Brassica Rapa L)	Bahan Baku	NO	NO	NO	YES
+Pala (Nutmeg)	Bahan Baku	NO	NO	NO	YES
+Pala Bubuk (Nutmeg Powder)	Bahan Baku	NO	NO	NO	YES
+Pandan (Pandan)	Bahan Baku	NO	NO	NO	YES
+PANGSIT (DUMPLINGS)	Bahan Baku	NO	NO	NO	YES
+PAPRIKA (PAPRIKA)	Bahan Baku	NO	NO	NO	YES
+PAPRIKA BUBUK (PAPRIKA POWDER)	Bahan Baku	NO	NO	NO	YES
+PAPRIKA HIJAU (GREEN PAPRIKA)	Bahan Baku	NO	NO	NO	YES
+PAPRIKA HIJAU MANIS (SWEET GREEN PAPRIKA)	Bahan Baku	NO	NO	NO	YES
+PAPRIKA KUNING (YELLOW PAPRIKA)	Bahan Baku	NO	NO	NO	YES
+PAPRIKA MERAH (RED PAPRIKA)	Bahan Baku	NO	NO	NO	YES
+PAPRIKA MERAH MANIS (SWEET RED PAPRIKA)	Bahan Baku	NO	NO	NO	YES
+PAPRIKA OLEORESIN (PAPRIKA OLEORESIN)	Bahan Baku	NO	NO	NO	NO
+PARE (PARE)	Bahan Baku	NO	NO	NO	YES
+PARE KERING (DRY PARE)	Bahan Baku	NO	NO	NO	YES
+PARSLEY	Bahan Baku	NO	NO	NO	NO
+PARSNIP (PASTINACA SATIVA)	Bahan Baku	NO	NO	NO	YES
+PARU SAPI (PULMONARY COW)	Bahan Baku	NO	NO	NO	YES
+PARUTAN KELAPA (GRATED COCONUT)	Bahan Baku	NO	NO	NO	YES
+Monokalium fosfat (Potassium phosphate, monobasic) 	Bahan Baku	NO	NO	NO	YES
+MULUKHIYAH	Bahan Baku	NO	NO	NO	YES
+MUNG DHAL (MOONG DAL)	Bahan Baku	NO	NO	NO	YES
+Muscat (Muscat)	Bahan Baku	NO	NO	NO	YES
+Mustard (Mustard)	Bahan Baku	NO	NO	NO	YES
+Mustard Bubuk (Mustard Powder)	Bahan Baku	NO	NO	NO	YES
+Mustard Kuning (Yellow Mustard)	Bahan Baku	NO	NO	NO	YES
+Mustard Pasta (Mustard Paste)	Bahan Baku	NO	NO	NO	YES
+Myo-Inositol	Bahan Baku	NO	NO	YES	YES
+Naget (Nugget)	Bahan Baku	NO	NO	NO	YES
+Nanas (Pineapple)	Bahan Baku	NO	NO	NO	YES
+NANAS BUBUK (PINEAPPLE POWDER)	Bahan Baku	NO	NO	NO	YES
+Nangka (Jackfruit)	Bahan Baku	NO	NO	NO	YES
+Nasi (Rice)	Bahan Baku	NO	NO	NO	YES
+Nata De Coco (Nata De Coco)	Bahan Baku	NO	NO	NO	YES
+NATRIUM ASKORBAT (SODIUM ASCORBATE)	Bahan Baku	NO	NO	NO	YES
+MINYAK SAYUR (COOKING OIL)	Bahan Baku	NO	NO	NO	YES
+MINYAK SAYUR PADAT (COOKING FAT)	Bahan Baku	NO	NO	NO	YES
+Minyak Sekam Oat (Oat Bran Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Spearmint (Spearmint Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Spinkenard (Spinkenard Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Stearin Inti Kelapa Sawit Terhidrogenasi (Hydrogenated Palm Kernel Stearin Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK STEARIN KELAPA SAWIT (REFINED BLEACHED DEODORIZED PALM STEARIN OIL)	Bahan Baku	NO	NO	NO	YES
+MINYAK TRIGLISERIDA RANTAI SEDANG (MCT) (MEDIUM CHAIN TRIGLYCERIDES OIL)	Bahan Baku	NO	NO	NO	YES
+Minyak Truffle	Bahan Baku	NO	NO	NO	YES
+MINYAK KEDELAI (REFINED BLEACHED DEODORIZED SOYBEAN OIL)	Bahan Baku	NO	NO	NO	YES
+Minyak Kedelai Terhidrogenasi Parsial (Partially Hydrogenated Soybean Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK KELAPA (REFINED BLEACHED DEODORIZED COCONUT OIL)	Bahan Baku	NO	NO	NO	YES
+Minyak Kelapa Bubuk (Coconut Oil Powder)	Bahan Baku	NO	NO	NO	YES
+Minyak Kelapa Mentah (Unrefined Coconut Oil-Crude Coconut Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Kelapa Murni (Virgin Coconut Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK KELAPA SAWIT (REFINED BLEACHED DEODORIZED PALM OIL-RBDPO) 	Bahan Baku	NO	NO	NO	YES
+Minyak Kelapa Sawit Terhidrogenasi (Refined Hydrogenated Palm Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Kelapa Terhidrogenasi (Hydogenated Coconut Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Kulit Ari Beras (Rice Husk Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak LC-PUFA (Oil Mix LC-PUFA)	Bahan Baku	NO	NO	NO	YES
+Minyak Melon (Melon Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Nabati (Vegetable Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Nabati Terhidrogenasi (Hydrogenated Vegetable Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Nanas (Pineapple Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Nangka (Jackfruit Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK OLEIN KELAPA SAWIT (REFINED BLEACHED DEODORIZED PALM OLEIN OIL)	Bahan Baku	NO	NO	NO	YES
+Minyak Pandan (Pandan Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Peppermint (Peppermint Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK PERILLA (PERILLA OIL)	Bahan Baku	NO	NO	NO	YES
+Minyak Primrose (Evening Primrose Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK RAPESEED (RAPESEED OIL-TURNIP RAPE OIL-COLZA OIL-RAVISON OIL-SARSON OIL-TORIA OIL)	Bahan Baku	NO	NO	NO	YES
+Minyak Raspberry (Raspberry Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Reroti (Shortening Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK ROS ESENSIAL (ROSE ESSENTIAL OIL)	Bahan Baku	NO	NO	NO	NO
+Minyak Sacha Inchi (Plukenetiva Volubilis L)	Bahan Baku	NO	NO	NO	YES
+MINYAK SAFFLOWER (REFINED BLEACHED DEODORIZED SAFFLOWER OIL)	Bahan Baku	NO	NO	NO	YES
+Minyak Salad (Salad Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK SAMIN ATAU VANASPATI (VEGETABLE GHEE)	Bahan Baku	NO	NO	NO	YES
+Minyak Sapi (Beef Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Sarsaparila (Sarsaparilla Oil)	Bahan Baku	NO	NO	NO	YES
+mate green (illex paraguarienis)	Bahan Baku	NO	NO	NO	NO
+Mate Green (Illex Paraguariensis)	Bahan Baku	NO	NO	YES	YES
+MAXIMOWICZIA (SCHISANDRA CHINENSIS)	Bahan Baku	NO	NO	NO	NO
+Mayonais (Mayonnaise)	Bahan Baku	NO	NO	NO	YES
+Melati (Jasmine)	Bahan Baku	NO	NO	NO	YES
+MELINJO (GNETUM GNEMON L.)	Bahan Baku	NO	NO	NO	YES
+MELISASA OFFICINALIS (HERBA LEMON BALM)	Bahan Baku	NO	NO	NO	NO
+Melon (Melon)	Bahan Baku	NO	NO	NO	YES
+Melon Bubuk ( Melon Powder)	Bahan Baku	NO	NO	NO	YES
+Mengkudu (Morinda citrifolia)	Bahan Baku	NO	NO	NO	YES
+Lemak Nabati (Vegetable Fat)	Bahan Baku	NO	NO	NO	YES
+Lemak Nabati Terhidrogenasi (Hydrogenated Vegetable Fat)	Bahan Baku	NO	NO	NO	YES
+Lemak Kakao (Cocoa Butter)	Bahan Baku	NO	NO	NO	YES
+LEMAK MENTEGA (BUTTER FAT)	Bahan Baku	NO	NO	NO	YES
+LADA MERAH (RED PEPPER)	Bahan Baku	NO	NO	NO	YES
+Lada Putih (White Pepper)	Bahan Baku	NO	NO	NO	YES
+LADA PUTIH BUBUK (WHITE PEPPER POWDER)	Bahan Baku	NO	NO	NO	YES
+LAKTOFERIN (LACTOFERRIN)	Bahan Baku	NO	YES	NO	YES
+Maltodekstrin (Maltodextrine)	Bahan Baku	NO	NO	NO	YES
+Maltodekstrin Resisten	Bahan Baku	NO	NO	NO	YES
+Maltosa (Maltose)	Bahan Baku	NO	NO	NO	YES
+Maltotriose (Maltotriose)	Bahan Baku	NO	NO	NO	YES
+MANGAN (II) GLUKONAT (MANGANESE (II) GLUCONATE) 	Bahan Baku	NO	NO	NO	YES
+Mangan (II) Klorida (Manganese (II) Chloride)	Bahan Baku	NO	NO	NO	YES
+MANGAN SITRAT (MANGANESE CITRATE)	Bahan Baku	NO	NO	NO	YES
+Mangan Sulfat (Manganese Sulphate)	Bahan Baku	NO	NO	NO	YES
+Mangga (Manggo)	Bahan Baku	NO	NO	NO	YES
+Mangga Bubuk (Mango Powder)	Bahan Baku	NO	NO	NO	YES
+Mangga Kering (Dried Mango)	Bahan Baku	NO	NO	NO	YES
+Manggis (Mangosteen)	Bahan Baku	NO	NO	NO	YES
+MANISAN CRANBERRY (CANDIED CRANBERRY)	Bahan Baku	NO	NO	NO	YES
+Manisan Jeruk (Candied Orange)	Bahan Baku	NO	NO	NO	YES
+Manisan Kulit Jeruk (Candied Orange Peel)	Bahan Baku	NO	NO	NO	YES
+Manisan Mangga (Candied Mango)	Bahan Baku	NO	NO	NO	YES
+Manisan Nanas (Candied Pineapple)	Bahan Baku	NO	NO	NO	YES
+Manisan Pepaya (Candied Papaya)	Bahan Baku	NO	NO	NO	YES
+MAQUI BERRY (ARISTOTELIA CHILENSIS) 	Bahan Baku	NO	NO	YES	NO
+Margarin (Margarine)	Bahan Baku	NO	NO	NO	YES
+MARGARIN OLES (MARGARINE SPREAD)	Bahan Baku	NO	NO	NO	YES
+Marjoram	Bahan Baku	NO	NO	NO	YES
+Markisa (Passion Fruit)	Bahan Baku	NO	NO	NO	YES
+Marmalad (Marmalade)	Bahan Baku	NO	NO	NO	YES
+MARSHMALLOW (MARSHMALLOW)	Bahan Baku	NO	NO	NO	YES
+MARSMALLOW	Bahan Baku	NO	NO	NO	NO
+MARZIPAN (MARZIPAN)	Bahan Baku	NO	NO	NO	YES
+LAKTOSA (LACTOSE)	Bahan Baku	NO	YES	NO	YES
+LAKTOSA BUBUK (LACTOSE POWDER)	Bahan Baku	NO	YES	NO	YES
+LAKTULOSA (LACTULOSE)	Bahan Baku	NO	YES	NO	YES
+LAPACHO (TABEBULA IMPETIGINOSA ATAU HANDROANTHUS IMPETIGINOSUS)	Bahan Baku	NO	NO	NO	YES
+LARUTAN GULA (SUGAR SOLUTION)	Bahan Baku	NO	NO	NO	YES
+lavender (lavandula angustifolia)	Bahan Baku	NO	NO	NO	NO
+Lemak Ayam (Chicken Fat)	Bahan Baku	NO	NO	NO	YES
+Lemak Babi (Lard)	Bahan Baku	NO	NO	NO	YES
+LEMAK COKLAT (CHOCOLATE FAT)	Bahan Baku	NO	NO	NO	YES
+Lemak Hewani (Tallow)	Bahan Baku	NO	NO	NO	YES
+Lemak Inti Sawit Terhidrogenasi (Refined Hydrogenated Palm Kernel Fat)	Bahan Baku	NO	NO	NO	YES
+Lada Hitam (Black Pepper)	Bahan Baku	NO	NO	NO	YES
+Lada Hitam Bubuk (Black Pepper Powder)	Bahan Baku	NO	NO	NO	YES
+Keju (Cheese)	Bahan Baku	NO	NO	NO	YES
+Keju Biru (Blue Cheese)	Bahan Baku	NO	NO	NO	YES
+Krispi Beras (Rice Crispy)	Bahan Baku	NO	NO	NO	YES
+Krispi Kedelai (Soy Crispy)	Bahan Baku	NO	NO	NO	YES
+KROMIUM KLORIDA (CHROMIUM CHLORIDE)	Bahan Baku	NO	NO	NO	YES
+Kromium Pikolinat (Chromium Picolinate)	Bahan Baku	NO	NO	NO	YES
+KROMIUM POLINIKOTINAT (CHROMIUM POLYNICOTINATE)	Bahan Baku	NO	NO	NO	YES
+Kuaci (Sunflower Seed)	Bahan Baku	NO	NO	NO	YES
+Mentega (Butter)	Bahan Baku	NO	NO	NO	YES
+MENTEGA ASIN (SALTED BUTTER)	Bahan Baku	NO	NO	NO	YES
+Mentega Bubuk (Butter Powder)	Bahan Baku	NO	NO	NO	YES
+Mentega Kacang (Peanut Butter)	Bahan Baku	NO	NO	NO	YES
+Mentega Tawar (Unsalted Butter)	Bahan Baku	NO	NO	NO	YES
+Mentimun - Ketimun (Cucumber)	Bahan Baku	NO	NO	NO	YES
+Mentimun Hijau (Green Cucumber)	Bahan Baku	NO	NO	NO	YES
+MENTOL (MENTHOL)	Bahan Baku	NO	NO	NO	NO
+Merica Sichuan (Zanthoxylum peperitum - Szechuan pepper)	Bahan Baku	NO	NO	NO	YES
+MESES (CHOCOLATE SPRINKLES-CHOCOLATE VERMICELLI-STREUSEL)	Bahan Baku	NO	NO	NO	YES
+MESHIMAKOBU	Bahan Baku	NO	NO	NO	NO
+Mesoyi	Bahan Baku	NO	NO	NO	YES
+Metionin (Methionine)	Bahan Baku	NO	NO	NO	YES
+Mi (Noodle)	Bahan Baku	NO	NO	NO	YES
+Mi Telur (Egg Noodles)	Bahan Baku	NO	NO	NO	YES
+MICROCOS PANICULATA	Bahan Baku	NO	NO	NO	NO
+MIKOPROTEIN (MYCOPROTEIN) DARI FUSARIUM VENENATUM	Bahan Baku	NO	NO	NO	YES
+Millet (Millet)	Bahan Baku	NO	NO	NO	YES
+Millet Serpih (Millet Flakes)	Bahan Baku	NO	NO	NO	YES
+MINUMAN BERALKOHOL	Bahan Baku	NO	NO	NO	NO
+Minuman Sari Buah ....	Bahan Baku	NO	NO	NO	YES
+Minyak Almond (Almond Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Adas Manis (Anise Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Alpukat (Avocado Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK ANGGUR (GRAPE OIL)	Bahan Baku	NO	NO	NO	NO
+MINYAK ANIS (ANISE OIL)	Bahan Baku	NO	NO	NO	NO
+Minyak Atsiri Adas Manis (Anise Essential Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK ATSIRI BAWANG BOMBAY (ONION ESSENTIAL OIL)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Bunga Matahari (Sunflower Essential Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Cabai (Chili Essential Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Cengkeh (Clove Essential Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Chamomile (Chammomile Essential Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Durian (Durian Essential Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK ATSIRI JAHE (GINGER OLEORESIN-GINGER ESSENTIAL OIL)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Jeruk (Orange Essential Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK ATSIRI JERUK BALI (GRAPEFRUIT ESSENTIAL OIL)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Jeruk Bergamot (Bergamot Orange Essential Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Jeruk Lemon (Lemon Essential Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Jeruk Nipis (Lime Essential Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK ATSIRI JERUK PURUT (KAFFIR LIME ESSENTIAL OIL)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Jintan Hitam (Black Cumin Essential Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK ATSIRI JUNIPER BERRY (JUNIPER BERRY ESSENTIAL OIL)	Bahan Baku	NO	NO	NO	NO
+Minyak Atsiri Kayu Manis (Cinnamon Essential Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Kemukus (Cubeb Essential Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Kunyit (Turmeric Essential Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Lada (Pepper Essential Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Leci (Lychee Essential Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK ATSIRI LEMON (LEMON ESSENTIAL OIL)	Bahan Baku	NO	NO	NO	NO
+MINYAK ATSIRI LOBAK (RADISH ESSENTIAL OIL-TURNIP ESSENTIAL OIL)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Mangga (Mango Essential Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Mint (Mint Essential Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK ATSIRI MUSTARD (MUSTARDSEED ESSENTIAL OIL)	Bahan Baku	NO	NO	NO	YES
+MINYAK ATSIRI NANAS (PINEAPPLE ESSENTIAL OIL)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Nangka (Jackfruit Essential Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Pala (Nutmeg Essential Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Pandan (Pandan Essential Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK ATSIRI PAPRIKA (PAPRIKA OLEORESIN)	Bahan Baku	NO	NO	NO	NO
+Minyak Atsiri Peppermint (Peppermint Essential Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK ATSIRI PERILLA (PERILLA ESSENTIAL OIL)	Bahan Baku	NO	NO	NO	NO
+Minyak Atsiri Pisang (Banana Essential Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK ATSIRI ROSEMARY (ROSEMARY OLEORESIN)	Bahan Baku	NO	NO	NO	NO
+Minyak Atsiri Sereh (Lemongrass Essential Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Spearmint (Spearmint Essential Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Stroberi (Strawberry Essential Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Tarragon (Tarragon Essential Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Atsiri Wortel (Carrot Essential Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Ayam (Chicken Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Babi (Pork Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Barley (Barley Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Bawang Merah (Shallot Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK BAWANG PUTIH (GARLIC OIL)	Bahan Baku	NO	NO	NO	YES
+MINYAK BERAS (RICE BRAN OIL)	Bahan Baku	NO	NO	NO	YES
+Minyak Biji Anggur (Grapeseed Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK BIJI APRIKOT (APRICOT KERNEL OIL)	Bahan Baku	NO	NO	NO	YES
+MINYAK BIJI BUNGA MATAHARI (REFINED BLEACHED DEODORIZED SUNFLOWER OIL)	Bahan Baku	NO	NO	NO	YES
+MINYAK BIJI KAPAS (REFINED BLEACHED DEODORIZED COTTONSEED OIL)	Bahan Baku	NO	NO	NO	YES
+Minyak Biji Rami (Flaxseed Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK BIJI SAWI (MUSTARDSEED OIL - REFINED BLEACHED DEODORIZED MUSTARDSEED OIL)	Bahan Baku	NO	NO	NO	YES
+MINYAK BUNGA MATAHARI (SUNFLOWER OIL)	Bahan Baku	NO	NO	NO	NO
+MINYAK CABAI (CAPSICUM OLEORESIN)	Bahan Baku	NO	NO	NO	YES
+MINYAK DAUN JERUK PURUT (KAFFIR LIME LEAF OIL)	Bahan Baku	NO	NO	NO	YES
+Minyak Durian (Durian Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK FRAMBOZEN (FRAMBOZEN OIL)	Bahan Baku	NO	NO	NO	NO
+MINYAK GORENG (FRYING OIL)	Bahan Baku	NO	NO	NO	YES
+MINYAK GORENG KEDELAI (SOYBEAN FRYING OIL)	Bahan Baku	NO	NO	NO	YES
+Minyak Goreng Kelapa Sawit (Palm Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK IKAN (FISH OIL)	Bahan Baku	NO	NO	NO	YES
+Minyak Inti Kelapa Sawit Terhidrogenasi (Refined Hydrogenated Palm Kernel Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK JAGUNG (REFINED BLEACHED DEODORIZED CORN OIL)	Bahan Baku	NO	NO	NO	YES
+MINYAK JERUK (CITRUS OIL)	Bahan Baku	NO	NO	NO	YES
+MINYAK KACANG (PEANUT OIL)	Bahan Baku	NO	NO	NO	YES
+Minyak Kacang Macadamia (Macadamia Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK KACANG TANAH (REFINED BLEACHED DEODORIZED PEANUT OIL - REFINED BLEACHED DEODORIZED GROUNDNUT OIL)	Bahan Baku	NO	NO	NO	YES
+MINYAK KACANG WALNUT (WALNUT OIL)	Bahan Baku	NO	NO	NO	YES
+Minyak Kanola (Canola Oil)	Bahan Baku	NO	NO	NO	YES
+Minyak Kari (Curry Oil)	Bahan Baku	NO	NO	NO	YES
+MINYAK KAYU MANIS (CINNAMON OIL)	Bahan Baku	NO	NO	NO	YES
+MINYAK KAYU PUTIH (EUCALYPTUS OIL)	Bahan Baku	NO	NO	NO	YES
+Lemak Reroti (Shortening)	Bahan Baku	NO	NO	NO	YES
+Lemak Sapi (Beef Fat)	Bahan Baku	NO	NO	NO	YES
+Lemak Susu (Fat Milk)	Bahan Baku	NO	NO	NO	YES
+Lemak Susu Anhidrat (Anhydrous Milk Fat)	Bahan Baku	NO	NO	NO	YES
+Lemak Susu Sapi (Cow's Milk Fat)	Bahan Baku	NO	NO	NO	YES
+Lemak Trigliserida Rantai Sedang (MCT) (Medium Chain Triglyceride Fat)	Bahan Baku	NO	NO	NO	YES
+Lembaga Gandum (Wheat Germ)	Bahan Baku	NO	NO	NO	YES
+Lemon Verbena (Lippia citriodora)	Bahan Baku	YES	NO	NO	YES
+Lempuyang	Bahan Baku	NO	NO	NO	YES
+Lempuyang Wangi 	Bahan Baku	NO	NO	NO	YES
+Lengkuas - Laos (Galangal)	Bahan Baku	NO	NO	NO	YES
+Lengkuas Bubuk (Galangal Powder)	Bahan Baku	NO	NO	NO	YES
+Lentil (Lens Culinaris)	Bahan Baku	NO	NO	NO	YES
+LEPTOSPERPUM CITRATEM	Bahan Baku	NO	NO	NO	NO
+Leuconostoc citreum	Bahan Baku	NO	NO	NO	YES
+Leuconostoc cremoris	Bahan Baku	NO	NO	NO	YES
+Leusin (Leusin)	Bahan Baku	NO	NO	NO	YES
+L-Glutamin (L-Glutamine)	Bahan Baku	YES	YES	NO	YES
+LICORICE - LIQUORICE (GLYCYRRHIZA GLABRA)	Bahan Baku	NO	NO	YES	YES
+Licorice Root-Akar Licorice (Glycyrrhiza Uralensis)	Bahan Baku	NO	NO	YES	YES
+Lidah Buaya (Aloe Vera)	Bahan Baku	NO	NO	NO	YES
+Lidah Buaya Bubuk (Aloe Vera Powder)	Bahan Baku	NO	NO	NO	YES
+Lidah Buaya Gel (Aloe Vera Gel)	Bahan Baku	NO	NO	NO	YES
+LIDAH SAPI (BEEF ATAU COW ATAU OX TONGUE)	Bahan Baku	NO	NO	NO	YES
+Likopen (Lycopene)	Bahan Baku	NO	NO	NO	YES
+LINGZHI (GANODERMA LUCIDUM)	Bahan Baku	NO	NO	NO	NO
+LIQUEUR	Bahan Baku	NO	NO	NO	YES
+LIQUIORICE	Bahan Baku	NO	NO	YES	NO
+Lisin (Lysine)	Bahan Baku	NO	NO	NO	YES
+Lisin Monohidrat (Lysine Monohydrate)	Bahan Baku	NO	NO	NO	YES
+L-KARNITIN (L-CARNITINE)	Bahan Baku	NO	NO	YES	YES
+LO HAN GUO (LO HAN GUO)	Bahan Baku	NO	NO	NO	NO
+Lobak (Radish)	Bahan Baku	NO	NO	NO	YES
+Lobak Bubuk (Radish Powder)	Bahan Baku	NO	NO	NO	YES
+Lobak Hijau (Turnip Greens)	Bahan Baku	NO	NO	NO	YES
+Lobak Hijau Kering (Dried Turnip Greens)	Bahan Baku	NO	NO	NO	YES
+Lobak Merah (Red Radish)	Bahan Baku	NO	NO	NO	YES
+LOBI - LOBI (BATOKO PLUM)	Bahan Baku	NO	NO	NO	YES
+Lobster	Bahan Baku	NO	NO	NO	YES
+LOKIO KERING (DRIED CHIVES)	Bahan Baku	NO	NO	NO	YES
+LOKIO-BAWANG BATAK (CHIVES)	Bahan Baku	NO	NO	NO	YES
+LONICERA JAPONICA	Bahan Baku	NO	NO	NO	NO
+LONTAR (LONTAR PALM ATAU BORASSUS FLABELLIFER)	Bahan Baku	NO	NO	NO	YES
+L-ORNITIN (L-ORNITHINE) (KATEGORI PANGAN 13)	Bahan Baku	NO	NO	NO	YES
+L-Prolin	Bahan Baku	NO	NO	NO	YES
+L-Serin	Bahan Baku	NO	NO	NO	YES
+L-Theanine	Bahan Baku	NO	NO	YES	YES
+Lucuma (Pouteria lucuma)	Bahan Baku	NO	NO	NO	YES
+LUTEIN	Bahan Baku	NO	NO	NO	NO
+Madu (Honey)	Bahan Baku	NO	NO	NO	YES
+Madu Agave (Agave Honey)	Bahan Baku	NO	NO	NO	YES
+Madu Akasia (Acacia Honey)	Bahan Baku	NO	NO	NO	YES
+Madu Bubuk (Honey Powder)	Bahan Baku	NO	NO	NO	YES
+MADU HUTAN (FOREST HONEY)	Bahan Baku	NO	NO	NO	YES
+Madu Kelengkeng (Longan Honey)	Bahan Baku	NO	NO	NO	YES
+MADU RANDU (KAPOK HONEY)	Bahan Baku	NO	NO	NO	YES
+Madu Sarang (Comb Honey) (Khusus Madu)	Bahan Baku	NO	NO	NO	YES
+MAGNESIUM ASETAT (MAGNESIUM ACETATE)	Bahan Baku	NO	NO	NO	YES
+Magnesium hidrogen fosfat (Magnesium hydrogen phosphate)	Bahan Baku	NO	NO	NO	YES
+Magnesium hidroksida (Magnesium hydroxide)	Bahan Baku	NO	NO	NO	YES
+MAGNESIUM KARBONAT (MAGNESIUM CARBONATE)	Bahan Baku	NO	NO	NO	YES
+Magnesium Kaseinat	Bahan Baku	NO	NO	NO	YES
+magnesium klorida (magnesium chloride)	Bahan Baku	NO	NO	NO	YES
+Magnesium laktat (Magnesium lactate)	Bahan Baku	NO	NO	NO	YES
+Magnesium L-Aspartat (Magnesium L-Aspartate)	Bahan Baku	NO	NO	NO	YES
+MAGNESIUM OKSIDA (MAGNESIUM OXIDE)	Bahan Baku	NO	NO	NO	YES
+Magnesium Sulfat	Bahan Baku	NO	NO	NO	YES
+MAIZENA (CORNSTARCH)	Bahan Baku	NO	NO	NO	NO
+Makaroni (Macaroni)	Bahan Baku	NO	NO	NO	YES
+MALT (BARLEY MALT)	Bahan Baku	NO	NO	NO	NO
+Malt (Malt)	Bahan Baku	NO	NO	NO	YES
+Malt Barley (Barley Malt)	Bahan Baku	NO	NO	NO	YES
+Malt Bubuk (Malt Powder)	Bahan Baku	NO	NO	NO	YES
+Malto Oligosakarida (Malto Oligosaccharide)	Bahan Baku	NO	NO	NO	YES
+Kubis Brussel (Brussels Sprouts)	Bahan Baku	NO	NO	NO	YES
+KUCAI (GARLIC CHIVES)	Bahan Baku	NO	NO	NO	YES
+KUCAI KERING (DRIED GARLIC CHIVES)	Bahan Baku	NO	NO	NO	YES
+KUE BROWNIES (BROWNIE CAKE)	Bahan Baku	NO	NO	NO	YES
+KUE BUSA (MERINGUE)	Bahan Baku	NO	NO	NO	YES
+Kue Ikan (Fish Cake)	Bahan Baku	NO	NO	NO	YES
+KUKIS (COOKIES)	Bahan Baku	NO	NO	NO	YES
+Kulit Ayam (Chicken Skin)	Bahan Baku	NO	NO	NO	YES
+Kulit Babi (Pork Rind)	Bahan Baku	NO	NO	NO	YES
+Kulit Bergamot (Bergamot Peels)	Bahan Baku	NO	NO	NO	YES
+KULIT BIJI PALA (NUTMEG MACE)	Bahan Baku	NO	NO	NO	YES
+Kulit Buah Manggis	Bahan Baku	NO	NO	NO	NO
+Kulit Domba (Sheepskin)	Bahan Baku	NO	NO	NO	YES
+Kulit Gandum (Wheat Bran)	Bahan Baku	NO	NO	NO	YES
+KULIT IKAN PATIN (PANGASIUS SKIN)	Bahan Baku	NO	NO	NO	YES
+Kulit Ikan Salmon (Salmon Skin)	Bahan Baku	NO	NO	NO	YES
+Kulit Ikan Tenggiri (Mackerel Skin)	Bahan Baku	NO	NO	NO	YES
+Kulit Jagung (Corn Bran)	Bahan Baku	NO	NO	NO	YES
+Kulit Jeruk (Orange Peel)	Bahan Baku	NO	NO	NO	YES
+KULIT JERUK ........	Bahan Baku	NO	NO	NO	NO
+Kulit Jeruk Bubuk (Orange Peel Powder)	Bahan Baku	NO	NO	NO	YES
+Kulit Jeruk Lemon (Orange Peels)	Bahan Baku	NO	NO	NO	YES
+KULIT JERUK MANDARIN (MANDARIN ORANGE PEELS)	Bahan Baku	NO	NO	NO	YES
+KULIT JERUK NIPIS (LIME PEELS)	Bahan Baku	NO	NO	NO	YES
+Kulit Kebab/Tortilla	Bahan Baku	NO	NO	NO	YES
+Kulit Lumpia (Spring Roll Skin)	Bahan Baku	NO	NO	NO	YES
+Kulit Oats Bubuk (Oats Bran Powder)	Bahan Baku	NO	NO	NO	YES
+Kulit Pangsit (Dumpling Skin)	Bahan Baku	NO	NO	NO	YES
+KULIT POHON PINUS EKSTRAK (PINE BARK EXTRACT)	Bahan Baku	NO	NO	NO	NO
+Kulit Sapi	Bahan Baku	NO	NO	NO	YES
+KULIT SIOMAY (DUMPLING WRAPPER)	Bahan Baku	NO	NO	NO	YES
+KULIT TAHU (GOHYONG, BEAN CURD SHEET, BEAN CURD ROBES, BEAN CURD SKIN, TOFU SKIN)	Bahan Baku	NO	NO	NO	YES
+KULIT TELUR (EGGSHELL)	Bahan Baku	NO	NO	NO	NO
+KULTUR BAKTERI (BACTERIAL CULTURE)	Bahan Baku	NO	NO	NO	NO
+KULTUR BAKTERI ASAM LAKTAT (LACTIC ACID BACTERIAL CULTURE)	Bahan Baku	NO	NO	NO	NO
+KULTUR STARTER (STARTER CULTURE)	Bahan Baku	NO	NO	NO	NO
+KUNING TELUR (EGG YOLK)	Bahan Baku	NO	YES	NO	YES
+KUNING TELUR ASIN (SALTED EGG YOLK)	Bahan Baku	NO	YES	NO	YES
+KUNING TELUR BUBUK (EGG YOLK POWDER)	Bahan Baku	NO	YES	NO	YES
+KUNYIT (TURMERIC)	Bahan Baku	NO	NO	NO	NO
+KUNYIT (TURMERIC-CURCUMA LONGA RHIZOME)	Bahan Baku	NO	NO	NO	YES
+KUNYIT ASAM (TURMERIC AND TAMARIND)	Bahan Baku	NO	NO	YES	YES
+Kunyit Bubuk (Turmeric Powder)	Bahan Baku	NO	NO	NO	YES
+KUPANG KERING (DRY GREENSHELL MUSSELS	Bahan Baku	NO	NO	NO	YES
+Kurma (Dates)	Bahan Baku	NO	NO	NO	YES
+Kurma Bubuk (Dates Powder)	Bahan Baku	NO	NO	NO	YES
+Kurma Merah (Red Dates)	Bahan Baku	NO	NO	NO	YES
+L - GLUTATION (L - GLUTATHIONE)	Bahan Baku	NO	NO	YES	YES
+Labu (Pumpkin)	Bahan Baku	NO	NO	NO	YES
+Labu Bubuk (Pumpkin Powder)	Bahan Baku	NO	NO	NO	YES
+LABU KUNING	Bahan Baku	NO	NO	NO	NO
+LABU SIAM (CHAYOTE)	Bahan Baku	NO	NO	NO	YES
+LACTOBACILLUS ACIDOPHILUS	Bahan Baku	NO	NO	NO	YES
+Lactobacillus bulgaricus	Bahan Baku	NO	NO	NO	YES
+Lactobacillus casei	Bahan Baku	NO	NO	NO	YES
+Lactobacillus Fermentum	Bahan Baku	NO	NO	NO	YES
+Lactobacillus helveticus 	Bahan Baku	NO	NO	NO	YES
+Lactobacillus kefiri 	Bahan Baku	NO	NO	NO	YES
+Lactobacillus lactis subsp. cremoris	Bahan Baku	NO	NO	NO	YES
+LACTOBACILLUS LACTIS SUBSP. LACTIS	Bahan Baku	NO	NO	NO	NO
+LACTOBACILLUS PARACASEI	Bahan Baku	YES	YES	NO	YES
+Lactobacillus Plantarum	Bahan Baku	NO	NO	NO	YES
+Lactobacillus Reuteri	Bahan Baku	NO	NO	NO	YES
+LACTOBACILLUS RHAMNOSUS LGG (L+)	Bahan Baku	NO	NO	NO	YES
+Lactobacillus rhamnosus NCC 4007	Bahan Baku	NO	NO	NO	YES
+Lactococcus lactis	Bahan Baku	NO	NO	NO	YES
+LADA (PEPPER)	Bahan Baku	NO	NO	NO	YES
+LADA HIJAU (GREEN PEPPERCORN)	Bahan Baku	NO	NO	NO	YES
+KRIMER NABATI (NON DAIRY CREAMER)	Bahan Baku	NO	NO	NO	NO
+KRISANTEMUM (CHRYSANTHEMUM)	Bahan Baku	NO	NO	YES	NO
+KRISANTEMUM BUBUK (CHRYSANTEMUM POWDER) 	Bahan Baku	NO	NO	NO	NO
+KRIMER (CREAMER)	Bahan Baku	NO	NO	NO	NO
+Krimer Kental Manis (Sweetened Condensed Creamer)	Bahan Baku	NO	NO	NO	YES
+KRIMER MINUMAN (NON DAIRY CREAMER)	Bahan Baku	NO	NO	NO	YES
+Krim Nabati Bubuk (Vegetable Cream Powder)	Bahan Baku	NO	NO	NO	YES
+Krim Pasteurisasi (Pasteurized Cream)	Bahan Baku	NO	NO	NO	YES
+KRIM RASA VANILA (VANILLA CREAM)	Bahan Baku	NO	NO	NO	YES
+KRIM SAYUR (VEGETABLE CREAM)	Bahan Baku	NO	NO	NO	NO
+Krim Stroberi (Strawberry Cream)	Bahan Baku	NO	NO	NO	YES
+KRIM SUSU (MILK CREAM)	Bahan Baku	NO	NO	NO	NO
+Krim Susu Bubuk (Milk Cream Powder)	Bahan Baku	NO	NO	NO	YES
+Krim Tiramisu (Tiramisu Cream)	Bahan Baku	NO	NO	NO	YES
+Kopi Robusta (Robusta Coffee)	Bahan Baku	NO	NO	NO	YES
+Kopra (Copra)	Bahan Baku	NO	NO	NO	YES
+KORIANDER BUBUK (CORIANDER POWDER)	Bahan Baku	NO	NO	NO	NO
+Koro Pedang (Jack Bean)	Bahan Baku	NO	NO	NO	YES
+Kranberi (Cranberry)	Bahan Baku	NO	NO	NO	YES
+Kranberi Kering (Dried Cranberry)	Bahan Baku	NO	NO	NO	YES
+Kratom (Mitragyna speciosa)	Bahan Baku	NO	NO	NO	NO
+KREATIN MONOHIDRAT (CREATINE MONOHYDRATE)	Bahan Baku	NO	NO	YES	YES
+KRECEK (KRECHEK)	Bahan Baku	NO	NO	NO	YES
+Krekers Beras (Rice Crackers)	Bahan Baku	NO	NO	NO	YES
+Krill Oil (Eupausia Superba)	Bahan Baku	NO	NO	NO	YES
+Krim (Cream)	Bahan Baku	NO	NO	NO	YES
+Krim Asam (Sour Cream)	Bahan Baku	NO	NO	NO	YES
+Krim Bubuk (Cream Powder)	Bahan Baku	NO	NO	NO	YES
+Krim Kacang Hazel (Hazelnut Cream)	Bahan Baku	NO	NO	NO	YES
+KRIM KAPUCINO (CAPPUCCINO CREAM)	Bahan Baku	NO	NO	NO	YES
+Krim Karamel (Caramel Cream)	Bahan Baku	NO	NO	NO	YES
+Krim Kelapa (Coconut Cream)	Bahan Baku	NO	NO	NO	YES
+Krim Kopi (Coffee Cream)	Bahan Baku	NO	NO	NO	YES
+Krim Nabati (Vegetable Cream) 	Bahan Baku	NO	NO	NO	YES
+Kopi (Coffee)	Bahan Baku	NO	NO	NO	YES
+KOPI ARABIKA (ARABICA COFFEE)	Bahan Baku	NO	NO	NO	YES
+Kopi Bubuk (Coffee Powder)	Bahan Baku	NO	NO	NO	YES
+Kopi Bubuk Instan (Instant Coffee Powder)	Bahan Baku	NO	NO	NO	YES
+Kopi Pasta (Coffee Paste)	Bahan Baku	NO	NO	NO	YES
+Kari Bubuk (Curry Powder)	Bahan Baku	NO	NO	NO	YES
+Kasein (Casein)	Bahan Baku	NO	NO	NO	YES
+Kayu Manis (Cinnamon)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Buah Blueberry (Blueberry Concentrate)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT BUAH ELDERBERRY (ELDERBERRY CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT BUNGA ELDERBERI (ELDERFLOWER CONCENTRATE)	Bahan Baku	NO	NO	NO	NO
+KONSENTRAT CAMPURAN SARI BUAH (MIXTURE OF FRUIT JUICE CONCENTRATE)	Bahan Baku	NO	NO	NO	NO
+KONSENTRAT COCOPANDAN (COCOPANDAN CONCENTRATE)	Bahan Baku	NO	NO	NO	NO
+KONSENTRAT COKELAT SUSU (MILK CHOCOLATE CONCENTRATE)	Bahan Baku	NO	NO	NO	NO
+KONSENTRAT COLA (COLA CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT DAUN ASAM MUDA (TAMARIND LEAVES CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Daun Mint (Mint Leaves Concentrate)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT DAUN PANDAN (PANDAN LEAVES CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT DAUN TEH (TEA LEAVES CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Gula Tebu (Sugar Cane Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Jahe (Ginger Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Jeruk (Orange Concentrate)	Bahan Baku	NO	NO	NO	YES
+Keju Bubuk (Cheese Powder)	Bahan Baku	NO	NO	NO	YES
+Keju Cheddar (Cheddar Cheese)	Bahan Baku	NO	NO	NO	YES
+Keju Edam (Edam Cheese)	Bahan Baku	NO	NO	NO	YES
+Keju Feta (Feta Cheese)	Bahan Baku	NO	NO	NO	YES
+Keju Gouda (Gouda Cheese)	Bahan Baku	NO	NO	NO	YES
+Keju Grana Padano (Grana Padano Cheese)	Bahan Baku	NO	NO	NO	YES
+Keju Krim (Cream Cheese)	Bahan Baku	NO	NO	NO	YES
+Keju Mascarpone (Mascarpone Cheese)	Bahan Baku	NO	NO	NO	YES
+Keju Mozzarella (Mozzarella Cheese)	Bahan Baku	NO	NO	NO	YES
+Keju Myzithra (Mizithra Cheese)	Bahan Baku	NO	NO	NO	YES
+Keju Parmesan (Parmesan Cheese)	Bahan Baku	NO	NO	NO	YES
+Keju Pecorino (Pecorino Cheese)	Bahan Baku	NO	NO	NO	YES
+Keju Pecorino Romano (Pecorino Romano Cheese)	Bahan Baku	NO	NO	NO	YES
+Keju Ricota (Richotta Cheese)	Bahan Baku	NO	NO	NO	YES
+KAYU SECANG (SAPPAN WOOD - CAESALPINIAE SAPPANIS LIGNUM)	Bahan Baku	NO	NO	NO	YES
+Kayumanis-Keningar Bubuk (Cinnamon Powder)	Bahan Baku	NO	NO	NO	YES
+Kecap (Soy Sauce)	Bahan Baku	NO	NO	NO	YES
+KECAP ASIN (SALTY SOY SAUCE)	Bahan Baku	NO	NO	NO	YES
+Kecap Bubuk (Soy Sauce Powder)	Bahan Baku	NO	NO	NO	YES
+Kecap Ikan (Fish Sauce)	Bahan Baku	NO	NO	NO	YES
+Kecap Inggris (Worcestershire Sauce)	Bahan Baku	NO	NO	NO	YES
+KECAP KEDELAI MANIS (SWEET SOY SAUCE)	Bahan Baku	NO	NO	NO	YES
+Kedelai	Bahan Baku	NO	NO	NO	NO
+KEDONDONG (AMBARELLA)	Bahan Baku	NO	NO	NO	YES
+Kefir (Keffir)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Kacang Kedelai (Soybean Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Kacang Merah (Red Beans Concentrate)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT KELAPA KOPYOR (KOPYOR CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Kepiting (Crab Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Kopi (Coffee Concentrate)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT LECI (LYCHEES CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Lemon (Lemon Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Lidah Buaya (Aloe Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Lobak Merah (Red Radish Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Loofah (Loofah Concentrate) (Kecuali Pangan Untuk Keperluan Gizi Khusus)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Madu (Honey Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Mangga (Mango Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Mentimun (Cucumber Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Nanas (Pineapple Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Peppermint (Peppermint Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Pir (Pears Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Protein Kedelai (Soy Protein Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Protein Susu (Milk Protein Concentrate)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT PROTEIN WHEY (WHEY PROTEIN CONCENTRATE)	Bahan Baku	NO	NO	NO	NO
+Konsentrat Santan (Coconut Milk Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Acai Berry (Acai Berry Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Anggur (Grape Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Anggur Merah (Red Grape Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Apel (Apple Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Aprikot (Apricots Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT SARI BUAH ARONIA BERRY (ARONIABERRY JUICE CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Bit (Bit Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Bit Merah (Red Bit Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Blackberry (Blackberry Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Blackcurrant (Blackcurrant Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Blueberry (Blueberry Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT SARI BUAH CAMPURAN (MIXED FRUIT JUICE CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Ceri (Cherry Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Delima (Pomegranate Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Durian (Durian Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT SARI BUAH ELDERBERRY (ELDERBERRY JUICE CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT SARI BUAH GOJI BERRY (GOJI BERRY JUICE CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT SARI BUAH JAMBU MERAH (GUAVA JUICE CONCENTRATE)	Bahan Baku	NO	NO	NO	NO
+KONSENTRAT SARI BUAH JERUK (ORANGE JUICE CONCENTRATE)	Bahan Baku	YES	NO	NO	YES
+Konsentrat Sari Buah Jeruk Bali Merah (grapefruit juice concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Jeruk Florida (Florida Orange Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT SARI BUAH JERUK NIPIS (LIME JUICE CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Kawista (Kawista Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Kiwi (Kiwi Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT SARI BUAH KRANBERI (CRANBERRY JUICE CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT SARI BUAH KURMA (DATES JUICE CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT SARI BUAH LABU AIR (CALABASH JUICE CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT SARI BUAH LECI (LYCHEE JUICE CONCENTRATE)	Bahan Baku	NO	NO	NO	NO
+Konsentrat Sari Buah Leci (Lychees Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Lemon (Lemon Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Mangga (Mango Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Markisa (Passion Fruit Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Melon (Honeydew Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Merah (Red Fruit Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Nanas (Pineapple Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Nangka (Jackfruit Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Pepaya (Papaya Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT SARI BUAH PERSIK (PEACH JUICE CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT SARI BUAH PIR (PEAR JUICE CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Pisang (Banana Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Plum (Plum Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Prune (Prune Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Quince (Quince Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Raspberry (Raspberry Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Redcurrant (Redcurrant Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT SARI BUAH SALAK (SNAKE FRUIT JUICE CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Semangka (Watermelon Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Buah Sirsak (Soursop Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT SARI BUAH STROBERI (STRAWBERRY JUICE CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT SARI BUAH TOMAT (TOMATO JUICE CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Sari Kelapa (Coconut Juice Concentrate)	Bahan Baku	NO	NO	NO	YES
+konsentrat sayur .....	Bahan Baku	NO	NO	NO	YES
+Konsentrat Spirulina (Spirulina Concentrate)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT SUSU (MILK CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Talas (Taro Concentrate)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT VANILA (VANILLA CONCENTRATE)	Bahan Baku	NO	NO	NO	NO
+KONSENTRAT WHEY PROTEIN (WHEY PROTEIN CONCENTRATE)	Bahan Baku	NO	NO	NO	NO
+Konsentrat Wortel (Carrot Concentrate)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT WORTEL UNGU/WORTEL HITAM (PURPLE/BLACK CARROT CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+Keju Romano (Romano Cheese)	Bahan Baku	NO	NO	NO	YES
+KEJU WHEY	Bahan Baku	NO	NO	NO	NO
+KELABAT (FENUGREEK)(HALBA)	Bahan Baku	NO	NO	NO	YES
+Kelabat Bubuk (Fenugreek Powder)	Bahan Baku	NO	NO	NO	YES
+Keladi - Talas (Taro-Caladium)	Bahan Baku	NO	NO	NO	YES
+Kelapa (Coconut)	Bahan Baku	NO	NO	NO	YES
+Kelapa Bubuk (Coconut Powder)	Bahan Baku	NO	NO	NO	YES
+Kelapa Kering (Dried Coconut)	Bahan Baku	NO	NO	NO	YES
+Kelapa Muda (Young Coconut)	Bahan Baku	NO	NO	NO	YES
+Kelapa Parut (Desiccated Coconut)	Bahan Baku	NO	NO	NO	YES
+Kelapa Parut Kering (Dried Desiccated Coconut)	Bahan Baku	NO	NO	NO	YES
+Kelapa Sawit (Palm)	Bahan Baku	NO	NO	NO	YES
+Kelengkeng (Longan)	Bahan Baku	NO	NO	NO	YES
+Kelp Bubuk (Kelp Powder)	Bahan Baku	NO	NO	NO	YES
+Kemangi (Basil)	Bahan Baku	NO	NO	NO	YES
+Kembang Kol (Cauliflower)	Bahan Baku	NO	NO	NO	YES
+KEMBANG PALA (MYRISTICA FRAGRAN)	Bahan Baku	NO	NO	NO	NO
+KEMBANG SEPATU (HIBISCUS ROSA SINENSIS)	Bahan Baku	NO	NO	NO	YES
+Kembang Tahu (Beancurd)	Bahan Baku	NO	NO	NO	YES
+KEMIRI (CANDLENUT)	Bahan Baku	NO	NO	NO	YES
+KEMIRI BUBUK (CANDLENUT POWDER)	Bahan Baku	NO	NO	NO	YES
+KENCUR ( KAEMPFERIA GALANGA )	Bahan Baku	NO	NO	NO	YES
+Kenikir (Marigolds)	Bahan Baku	NO	NO	NO	YES
+KENTANG	Bahan Baku	NO	NO	NO	NO
+Kentang (Potato)	Bahan Baku	NO	NO	NO	YES
+Kentang Bubuk (Potato Powder)	Bahan Baku	NO	NO	NO	YES
+Kentang Kering (Dried Potatoes)	Bahan Baku	NO	NO	NO	YES
+Kentang Merah (Red Potato)	Bahan Baku	NO	NO	NO	YES
+Kentang Panggang Bubuk (Roasted Potato Powder)	Bahan Baku	NO	NO	NO	YES
+Keong (Snail)	Bahan Baku	NO	NO	NO	YES
+Kepah (Mussel)	Bahan Baku	NO	NO	NO	YES
+Kepiting (Crab)	Bahan Baku	NO	NO	NO	YES
+Kerang (Scallops)	Bahan Baku	NO	NO	NO	YES
+Kerang Bubuk (Scallops Powder)	Bahan Baku	NO	NO	NO	YES
+Keripik Pisang (Banana Chips)	Bahan Baku	NO	NO	NO	YES
+Keripik Singkong (Cassava Chips)	Bahan Baku	NO	NO	NO	YES
+KERTAS BERAS	Bahan Baku	YES	YES	NO	YES
+Kerupuk	Bahan Baku	NO	NO	NO	YES
+Kerupuk Beras (Rice Crackers)	Bahan Baku	NO	NO	NO	YES
+Kerupuk Ikan	Bahan Baku	NO	NO	NO	YES
+KERUPUK KEPITING ( CRAB CHIPS )	Bahan Baku	NO	NO	NO	YES
+Kerupuk Udang (Prawn Crackers)	Bahan Baku	NO	NO	NO	YES
+Ketam (Crab)	Bahan Baku	NO	NO	NO	YES
+Ketan Hitam (Black Sticky Rice)	Bahan Baku	NO	NO	NO	YES
+KETUMBAR (CORIANDER)	Bahan Baku	NO	NO	NO	YES
+Ketumbar Bubuk (Coriander Powder)	Bahan Baku	NO	NO	NO	YES
+Kimchi (Kimchi)	Bahan Baku	NO	NO	NO	YES
+Kimchi Kering (Kimchi Powder)	Bahan Baku	NO	NO	NO	YES
+KININ (KININE)	Bahan Baku	NO	NO	YES	YES
+Kismis (Raisin)	Bahan Baku	NO	NO	NO	YES
+Kismis Merah (Red Raisin)	Bahan Baku	NO	NO	NO	YES
+Kitosan (Chitosan)	Bahan Baku	NO	NO	NO	YES
+Kiwi (Kiwi)	Bahan Baku	NO	NO	NO	YES
+KLEMBAK (RHEUM OFFICINALE)	Bahan Baku	NO	NO	YES	YES
+KLOROFIL (CHLOROPHYL)	Bahan Baku	NO	NO	NO	NO
+Kluwek-Keluwek	Bahan Baku	NO	NO	NO	YES
+KOJI	Bahan Baku	NO	NO	NO	YES
+KOJI (SWEET POTATO KOJI)	Bahan Baku	NO	YES	NO	NO
+KOJI BERAS (RICE KOJI)	Bahan Baku	NO	YES	NO	NO
+Kol - Kubis (Cabbage)	Bahan Baku	NO	NO	NO	YES
+Kol - Kubis Kering (Dried Cabbage)	Bahan Baku	NO	NO	NO	YES
+Kolagen (Collagen)	Bahan Baku	NO	NO	NO	YES
+KOLANG KALING ( BUAH ATAP, SUGAR PALM FRUIT )	Bahan Baku	NO	NO	NO	YES
+KOLEKALSIFEROL (VIT D3)	Bahan Baku	NO	NO	NO	YES
+Kolin (Choline)	Bahan Baku	NO	NO	NO	YES
+Kolin Bitartrat (Choline Bitartrat)	Bahan Baku	NO	NO	NO	YES
+Kolin Klorida (Choline Chloride)	Bahan Baku	NO	NO	NO	YES
+Kolostrum Bubuk (Colostrum Powder)	Bahan Baku	NO	NO	NO	YES
+KONDROITIN (CHONDROITIN)	Bahan Baku	NO	NO	YES	YES
+KONDROITIN SULFAT (CHONDROITIN SULFATE)	Bahan Baku	NO	NO	YES	YES
+Konsentrat acerola	Bahan Baku	NO	NO	NO	YES
+Konsentrat Agave (Agave Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Air Kelapa (Coconut Water Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Akar Bunga Balon (Balloon Flower Root Concentrate)	Bahan Baku	NO	NO	YES	YES
+KONSENTRAT ANGGUR MERAH (RED GRAPE CONCENTRATE)	Bahan Baku	NO	NO	NO	NO
+KONSENTRAT APEL (APPLE CONCENTRATE)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT ARONIA BERRY (CHOKEBERRY CONCENTRATE)	Bahan Baku	NO	NO	NO	NO
+Konsentrat Asam Jawa (Tamarind Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Bawang Putih (Garlic Concentrate)	Bahan Baku	NO	NO	NO	YES
+Konsentrat Blewah (Cantaloupe Concentrate)	Bahan Baku	NO	NO	NO	YES
+KONSENTRAT BUAH ......	Bahan Baku	NO	NO	NO	YES
+Konsentrat Buah Anggur (Grape Concentrate)	Bahan Baku	NO	NO	NO	YES
+Karamel (Caramel)	Bahan Baku	NO	NO	NO	YES
+Karamel Bubuk (Caramel Powder)	Bahan Baku	NO	NO	NO	YES
+KARAMEL CAIR (LIQUID CARAMEL)	Bahan Baku	NO	NO	NO	NO
+Karagenan (Caragenan)	Bahan Baku	NO	NO	NO	YES
+DEKSTROSA MONOHIDRAT (DEXTROSE MONOHYDRATE)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK BUNGA CHAMOMILE (CHAMOMILE FLOS EXTRACT)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK BUNGA ELDER (ELDER FLOS EXTRACT)	Bahan Baku	NO	NO	NO	NO
+Ekstrak Bunga Jeruk (Orange Flos Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK BUNGA KRISAN (CHRYSANTHEMUM EXTRACT)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK BUNGA MAWAR (ROSE FLOS EXTRACT)	Bahan Baku	NO	NO	NO	NO
+EKSTRAK BUNGA SAFFLOWER (CARTHAMUS TINCTORIUS)	Bahan Baku	NO	NO	NO	NO
+Ekstrak Cabe (Chili Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Campuran Buah Beri (Mixberry Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Chicory (Chicory Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Cincau (Grass Jelly Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK COCOPANDAN	Bahan Baku	NO	NO	NO	NO
+Kalium Hidroksida	Bahan Baku	NO	NO	NO	YES
+KALIUM IODIDA (POTASSIUM IODIDA-KIO3)	Bahan Baku	NO	NO	NO	YES
+Kalium Karbonat (Potassium carbonate)	Bahan Baku	NO	NO	NO	YES
+Kalium Kaseinat (Potassium Caseinate)	Bahan Baku	NO	NO	NO	YES
+KALIUM KLORIDA (POTASSIUM CHLORIDE)	Bahan Baku	NO	NO	NO	YES
+Kalium Sitrat	Bahan Baku	NO	NO	NO	YES
+KALSIUM DARI GANGGANG LAUT (CALCAREOUS MARINE ALGAE)	Bahan Baku	NO	NO	NO	YES
+Kalsium Gliserofosfat (Calcium Glycerophosphate)	Bahan Baku	NO	NO	NO	YES
+Kalsium Hidrogen Fosfat Anhidrat (Calsium Hydrogen Phosphate Anhydrous)	Bahan Baku	NO	NO	NO	YES
+Kalsium hidroksida	Bahan Baku	NO	NO	NO	YES
+KALSIUM KARBONAT	Bahan Baku	NO	NO	NO	YES
+Kalsium Kaseinat (Calcium caseinate)	Bahan Baku	NO	NO	NO	YES
+Kalsium Klorida	Bahan Baku	NO	NO	NO	YES
+Kalsium L-5-metil tetrahidrofolat (Calcium L-5- methyl tetrahydrofolate)	Bahan Baku	NO	NO	NO	YES
+Kalsium Laktat (Calcium Laktate)	Bahan Baku	NO	NO	NO	YES
+Kalsium Natrium Kaseinat (Calcium Sodium Caseinate)	Bahan Baku	NO	NO	NO	YES
+KALSIUM PANTOTENAT (CALCIUM PANTOTHENATE)	Bahan Baku	NO	NO	NO	YES
+KALSIUM PANTOTENAT (VIT B5)	Bahan Baku	NO	NO	NO	NO
+Kalsium Pidolat (Calcium Pidolate)	Bahan Baku	NO	NO	NO	YES
+Kalsium Susu (Milk Calcium)	Bahan Baku	NO	NO	NO	YES
+Kalsium Tulang Ikan	Bahan Baku	NO	NO	NO	YES
+KALSIUM-D-PANTOTENAT (CALCIUM-D-PANTOTHENATE)	Bahan Baku	NO	NO	NO	NO
+Kamaboko	Bahan Baku	NO	NO	NO	YES
+Kangkung	Bahan Baku	NO	NO	NO	YES
+Kapulaga (Cardamon)	Bahan Baku	NO	NO	NO	YES
+Kapulaga Bubuk (Cardamon Powder)	Bahan Baku	NO	NO	NO	YES
+DHA (dari Minyak Ikan)	Bahan Baku	NO	NO	NO	YES
+DHA (dari Minyak Sel Tunggal)	Bahan Baku	NO	NO	NO	YES
+DHA (DOCOSAHEXAENOIC ACID )	Bahan Baku	NO	NO	NO	YES
+DIKALIUM FOSFAT (DIPOTASSIUM PHOSPHATE-DIPOTASSIUM ORTHOPHOSPHATE)	Bahan Baku	NO	NO	NO	YES
+DI-KALIUM HIDROGEN FOSFAT (DI-POTASSIUM HYDOGEN PHOSPAT)	Bahan Baku	NO	NO	NO	NO
+DIKALSIUM FOSFAT (KALSIUM HIDROGEN FOSFAT, KALSIUM MONOHIDROGEN FOSFAT, KALSIUM HIDROGEN ORTOFOSFAT))	Bahan Baku	NO	NO	NO	YES
+Cabe Jalapeno (Jalapeno Chili)	Bahan Baku	NO	NO	NO	YES
+CABE JALAPENO BUBUK (JALAPENO POWDER)	Bahan Baku	NO	NO	NO	YES
+CABE JAWA (JAVANESE LONG PEPPER, PIPER RETROFRACTUM VAHL.)	Bahan Baku	NO	NO	NO	YES
+Cabe Kering (Dried Chili)	Bahan Baku	NO	NO	NO	YES
+Cabe Kuning (Yellow Chili)	Bahan Baku	NO	NO	NO	YES
+Cabe Hijau (Green Chili)	Bahan Baku	NO	NO	NO	YES
+Cabe Hijau Bubuk (Green Chili Powder)	Bahan Baku	NO	NO	NO	YES
+Cabe Habanero (Habanero Chili)	Bahan Baku	NO	NO	NO	YES
+Buttermilk (Buttermilk)	Bahan Baku	NO	NO	NO	YES
+Buttermilk Bubuk (Buttermilk Powder)	Bahan Baku	NO	NO	NO	YES
+Cabe (Chili)	Bahan Baku	NO	NO	NO	YES
+Cabe Bubuk (Chili Powder)	Bahan Baku	NO	NO	NO	YES
+BUNGA JAGUNG (CORN FLOWER - CENTAURA CYANUS)	Bahan Baku	NO	NO	NO	NO
+BUNGA JERUK CITRUS AURANTIUM (FLOWERS ORANGE CITRUS AURANTIUM)	Bahan Baku	NO	NO	NO	YES
+BUNGA JERUK CITRUS AURANTIUM-JERUK NIPIS (ORANGE BLOSSOMS)	Bahan Baku	NO	NO	NO	YES
+Bunga Lavender (Lavandula angustifolia)	Bahan Baku	NO	NO	NO	YES
+BUNGA MATAHARI	Bahan Baku	NO	NO	NO	NO
+Bunga Matahari (Sunflower)	Bahan Baku	NO	NO	NO	YES
+BUNGA MAWAR ROSA CHINENSIS (ROSE BLOSSOMS)	Bahan Baku	NO	NO	NO	NO
+BUNGA MAWAR-ROSE BLOSSOM (ROSA CHINENSIS)	Bahan Baku	NO	NO	NO	YES
+Bunga Osmanthus Kering (Dried Osmanthus Flower) (Kecuali Pangan Untuk Keperluan Gizi Khusus)	Bahan Baku	NO	NO	NO	YES
+Bunga Pala	Bahan Baku	NO	YES	NO	YES
+BUNGA SAFFLOWER	Bahan Baku	NO	NO	NO	NO
+BUNGA SAKURA	Bahan Baku	NO	NO	NO	NO
+Bunga Scarlet Bee Balm (Monarda didyma L)	Bahan Baku	NO	NO	NO	YES
+Bunga Sedap Malam (Lily Flower)	Bahan Baku	NO	NO	NO	YES
+Bunga Telang (Clitoria Ternatea)	Bahan Baku	NO	NO	NO	YES
+bunga teratai	Bahan Baku	NO	NO	NO	NO
+Buntut Sapi (Oxtail)	Bahan Baku	NO	NO	NO	YES
+BURDOCK ROOT	Bahan Baku	NO	NO	YES	NO
+Ekstrak Wasabi (Wasabi Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Wildberry (Wildberry Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK WOLFBERRY (WOLFBERRY EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Wortel (Carrot Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK WORTEL UNGU/WORTEL HITAM (PURPLE/BLACK CARROTS EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Zizania latifolia (Kecuali Pangan Untuk Keperluan Gizi Khusus)	Bahan Baku	NO	NO	YES	YES
+ELDERBERRY (SAMBUCUS EBULUS)	Bahan Baku	NO	NO	NO	YES
+ELDERBERRY (SAMBUCUS NIGRA)	Bahan Baku	NO	NO	NO	YES
+EMPING BARLEY 	Bahan Baku	NO	NO	NO	YES
+EMPING JAGUNG (CORN FLAKES)	Bahan Baku	NO	NO	NO	YES
+EMPING MELINJO - GNETUM GNEMON 	Bahan Baku	NO	NO	NO	YES
+ENZIM AMILASE (AMILASE ENZYME)	Bahan Baku	NO	NO	NO	NO
+Enzim Beta - Fruktofuranosidase 	Bahan Baku	NO	NO	NO	YES
+ENZIM BROMELAIN (BROMELAINE ENZYME)	Bahan Baku	NO	NO	NO	NO
+Enzim Glucoamylase dari Aspergillus niger (Glucoamylase from Aspergillus niger)	Bahan Baku	NO	NO	NO	YES
+ENZIM LAKTASE (LACTASE ENZYME)	Bahan Baku	NO	NO	NO	YES
+Enzim Laktoperoksidase (Lactoperoxidase Enzyme)	Bahan Baku	NO	NO	NO	YES
+ENZIM LIPASE (LIPASE ENZYME)	Bahan Baku	NO	NO	NO	YES
+ENZIM PAPAIN (PAPAIN ENZYME)	Bahan Baku	NO	NO	NO	NO
+ENZIM PROTEASE (PROTEASE ENZYME)	Bahan Baku	NO	NO	NO	YES
+Enzim Transglutaminase	Bahan Baku	NO	NO	NO	YES
+EPA (EICOSAPENTAENOIC ACID)	Bahan Baku	NO	NO	NO	YES
+Es (Ice)	Bahan Baku	NO	NO	NO	YES
+Es Batu (Ice Cube)	Bahan Baku	NO	NO	NO	YES
+Es Susu (Milk Ice)	Bahan Baku	NO	NO	NO	YES
+Ester Sterol	Bahan Baku	NO	NO	NO	YES
+EUCOMMIA ULMOIDES	Bahan Baku	NO	NO	NO	NO
+Feijoa / Pineapple Guava (Acca sellowiana)	Bahan Baku	NO	NO	NO	YES
+Fenilalanin (Phenilalanin)	Bahan Baku	NO	NO	NO	YES
+FITOMENADION (VIT K1)	Bahan Baku	NO	NO	NO	NO
+FITOSTANOL (PHYTOSTANOL)	Bahan Baku	NO	NO	NO	NO
+Fitosterol (Phytosterol)	Bahan Baku	NO	NO	NO	YES
+FONDAN (FONDANT)	Bahan Baku	NO	NO	NO	YES
+Fosfolipid (Phospholipids)	Bahan Baku	NO	NO	NO	YES
+FRUKTO OLIGOSAKARIDA (FOS)	Bahan Baku	NO	NO	NO	YES
+Fruktosa (Fructose)	Bahan Baku	NO	NO	NO	YES
+GABAH PADI (RICE GRAIN)	Bahan Baku	NO	NO	NO	YES
+Galakto Oligosakarida (GOS)	Bahan Baku	NO	NO	NO	YES
+GAMA KAROTEN	Bahan Baku	NO	NO	NO	YES
+Gambir (Uncaria gambir)	Bahan Baku	NO	NO	NO	YES
+Gamma Aminobutyric Acid (GABA) (Untuk Minuman Teh)	Bahan Baku	NO	NO	YES	YES
+Gandum (Wheat)	Bahan Baku	NO	NO	NO	YES
+GANDUM DURUM SEMOLINA (DURUM SEMOLINA WHEAT)	Bahan Baku	NO	NO	NO	YES
+GANDUM HITAM (RYE)	Bahan Baku	NO	NO	NO	YES
+GANDUM MALT (WHEAT MALT)	Bahan Baku	NO	NO	NO	YES
+Gandum Merah (Red Wheat)	Bahan Baku	NO	NO	NO	YES
+Gandum Panggang (Roasted Wheat)	Bahan Baku	NO	NO	NO	YES
+Gandum Semolina (Semolina Wheat)	Bahan Baku	NO	NO	NO	YES
+Gandum Serpihan (Wheat Flakes)	Bahan Baku	NO	NO	NO	YES
+Gandum Utuh (Whole Wheat)	Bahan Baku	NO	NO	NO	YES
+Ganggang Laut (Sea Algae)	Bahan Baku	NO	NO	NO	YES
+GANGLIOSIDA (GANGLIOSIDE)	Bahan Baku	NO	NO	NO	NO
+Garam (Salt)	Bahan Baku	NO	NO	NO	YES
+GARAM BERIODIUM (IODIZED SALT)	Bahan Baku	NO	NO	NO	YES
+Garam Halus (Refined Salt)	Bahan Baku	NO	NO	NO	YES
+Garam Hitam (Black Salt)	Bahan Baku	NO	NO	NO	YES
+Garam Inggris (Epsom Salt)	Bahan Baku	NO	NO	NO	YES
+Garam Laut (Sea Salt)	Bahan Baku	NO	NO	NO	YES
+GARAM RAFINASI (REFINED SALT)	Bahan Baku	NO	NO	NO	NO
+GARCINIA CAMBOGIA	Bahan Baku	NO	NO	NO	NO
+GARDENIA BLUE	Bahan Baku	NO	NO	NO	NO
+GELATIN (GELATINE)	Bahan Baku	YES	NO	NO	YES
+Gembili	Bahan Baku	NO	NO	NO	YES
+GENMAICHA (ROASTED RICE TEA)	Bahan Baku	NO	NO	NO	YES
+GIN (GIN)	Bahan Baku	NO	NO	NO	YES
+GINKGO BILOBA	Bahan Baku	NO	NO	NO	NO
+GLISERIN	Bahan Baku	NO	NO	NO	NO
+Iodium (Kalium Iodat - KIO3)	Bahan Baku	NO	NO	NO	YES
+Isian berbasis susu	Bahan Baku	YES	YES	NO	YES
+Isolat Protein Kedelai (Soy Protein Isolate)	Bahan Baku	NO	NO	NO	YES
+ISOLAT PROTEIN NABATI (VEGETABLE PROTEIN ISOLATE)	Bahan Baku	NO	NO	NO	YES
+Isolat Protein Pea	Bahan Baku	NO	NO	YES	YES
+Isolat Protein Pea (Pea Protein Isolate)	Bahan Baku	NO	NO	NO	YES
+ISOLAT PROTEIN SUSU (MILK PROTEIN ISOLATE)	Bahan Baku	NO	YES	NO	YES
+ISOLAT PROTEIN WHEY (WHEY PROTEIN ISOLATE)	Bahan Baku	NO	YES	NO	YES
+Isoleusin (Isoleucine)	Bahan Baku	NO	NO	NO	YES
+ISOMALTO OLIGOSAKARIDA (ISOMALTOOLIGOSACCHARIDE)	Bahan Baku	NO	NO	YES	YES
+Isomaltodekstrin (IMD)	Bahan Baku	NO	NO	NO	YES
+Isomaltulosa (Isomaltulose)	Bahan Baku	NO	NO	NO	YES
+Jagung	Bahan Baku	NO	NO	NO	NO
+Jagung (Corn)	Bahan Baku	NO	NO	NO	YES
+JAGUNG BAKAR (ROASTED CORN)	Bahan Baku	NO	NO	NO	YES
+Jagung Bakar Bubuk (Roasted Corn Powder)	Bahan Baku	NO	NO	NO	YES
+Jagung Berondong (Pop Corn)	Bahan Baku	NO	NO	NO	YES
+Jagung Butiran (Corn Grain)	Bahan Baku	NO	NO	NO	YES
+Jagung Kering (Dried Corn)	Bahan Baku	NO	NO	NO	YES
+Jagung Kernel Utuh (Whole Kernel Corn)	Bahan Baku	NO	NO	NO	YES
+Jagung Manis (Sweet Corn)	Bahan Baku	NO	NO	NO	YES
+Jagung Manis Bubuk (Sweet Corn Powder)	Bahan Baku	NO	NO	NO	YES
+Jagung Muda (Baby Corn)	Bahan Baku	NO	NO	NO	YES
+JAGUNG SEMOLINA (MAIZE SEMOLINA)	Bahan Baku	NO	NO	NO	YES
+Jagung Serpihan (Corn Flakes)	Bahan Baku	NO	NO	NO	YES
+Jahe (Ginger)	Bahan Baku	NO	NO	NO	YES
+Jahe Bubuk (Ginger Powder)	Bahan Baku	NO	NO	NO	YES
+Jahe Giling (Milled Ginger)	Bahan Baku	NO	NO	NO	YES
+Jahe Kering (Dried Ginger)	Bahan Baku	NO	NO	NO	YES
+JAHE MERAH- ZINGIBER OFFICINALE VAR RUBRU (RED GINGER)	Bahan Baku	NO	NO	NO	YES
+JALI (COIX LACRYMA-JOBI)	Bahan Baku	NO	NO	NO	YES
+JAMBU AIR (ROSE APPLE)	Bahan Baku	NO	NO	NO	YES
+Jambu Biji (Guava)	Bahan Baku	NO	NO	NO	YES
+Jambu Biji Bubuk (Guava Powder)	Bahan Baku	NO	NO	NO	YES
+Jambu Mete (Cashew)	Bahan Baku	NO	NO	NO	YES
+Jamur (Mushroom)	Bahan Baku	NO	NO	NO	YES
+Jamur Boletes Kuning	Bahan Baku	NO	NO	NO	YES
+Jamur Bubuk (Mushroom Powder)	Bahan Baku	NO	NO	NO	YES
+Jamur Geotrichum candidum	Bahan Baku	NO	NO	NO	YES
+Jamur Kancing (Champignon)	Bahan Baku	NO	NO	NO	YES
+Jamur Kering (Dried Mushroom)	Bahan Baku	NO	NO	NO	YES
+Jamur Kuping (Auricularia auricula)	Bahan Baku	NO	NO	NO	YES
+JAMUR KUPING HITAM (AURICULARIA POLYTRICHA)	Bahan Baku	NO	NO	NO	YES
+JAMUR MADU (ARMILLARIA OSTOYAE, HONEY MUSHROOM)	Bahan Baku	NO	NO	NO	NO
+JAMUR MERAH BUBUK (RED MUSHROOM POWDER)	Bahan Baku	NO	NO	NO	NO
+Jamur Merang (Volvariella volvacea)	Bahan Baku	NO	NO	NO	YES
+JAMUR MESHAMA- JAMUR SANGHWANG, MESHIMAKOBU; SONG GEN (PHELLINUS LINTEUS)	Bahan Baku	NO	NO	NO	NO
+JAMUR SALJU - ENOKITAKE (FLAMMULINA VELUTIPES)	Bahan Baku	NO	NO	NO	YES
+JAMUR SANGHWANG (PHELLINUS LINTEUS)	Bahan Baku	NO	NO	NO	NO
+JAMUR SHIITAKE (LENTINULA EDODES)	Bahan Baku	NO	NO	NO	YES
+Jamur Shiitake Bubuk (Shiitake Mushroom Powder)	Bahan Baku	NO	NO	NO	YES
+Jamur Tempe	Bahan Baku	NO	NO	NO	YES
+JAMUR TEROMPET - JAMUR SARANG BURUNG	Bahan Baku	NO	NO	NO	YES
+Jamur Tiram (Pleurotus ostreatus)	Bahan Baku	NO	NO	NO	YES
+Jantung Pisang (Banana Heart)	Bahan Baku	NO	NO	NO	YES
+Jantung Sapi (Beef Heart)	Bahan Baku	NO	NO	NO	YES
+Jeli (Jelly)	Bahan Baku	NO	NO	NO	YES
+Jeli Bubuk (Jelly Powder)	Bahan Baku	NO	NO	NO	YES
+JENGKOL (DJENKOL)	Bahan Baku	NO	NO	NO	YES
+Jeruk (Orange)	Bahan Baku	NO	NO	NO	YES
+Jeruk Asam-Pahit (Seville Orange)	Bahan Baku	NO	NO	NO	YES
+Jeruk Bali (Grapefruit- Pomelo)	Bahan Baku	NO	NO	NO	YES
+JERUK BALI MERAH (GRAPEFRUIT)	Bahan Baku	NO	NO	NO	YES
+JERUK BERGAMOT (CITRUS BERGAMIA)	Bahan Baku	NO	NO	NO	YES
+Jeruk Besar (Grapefruit- Pomelo)	Bahan Baku	NO	NO	NO	YES
+Jeruk Bubuk (orange powder)	Bahan Baku	NO	NO	NO	YES
+Jeruk Citron-Jeruk Sukade (Citrus medica)	Bahan Baku	NO	NO	NO	YES
+JERUK KEPROK (CITRUS RETICULATA)	Bahan Baku	NO	NO	NO	YES
+Jeruk Kunci (Key Lime)	Bahan Baku	NO	NO	NO	YES
+JERUK LEMON (CITRUS LIMON)	Bahan Baku	NO	NO	NO	YES
+Jeruk Lemon Bubuk (Lemon Powder)	Bahan Baku	NO	NO	NO	YES
+JERUK LIMAU (CITRUS AMBLYCARPA)	Bahan Baku	NO	NO	NO	YES
+Jeruk Mandarin (Mandarin Orange)	Bahan Baku	NO	NO	NO	YES
+JERUK NIPIS (CITRUS AURANTIFOLIA)	Bahan Baku	NO	NO	NO	YES
+Jeruk Nipis Bubuk (Lime Powder)	Bahan Baku	NO	NO	NO	YES
+JERUK PURUT (KAFFIR LIME - CITRUS HYSTRIX)	Bahan Baku	NO	NO	NO	YES
+JERUK TANGERINE (CITRUS TANGERINA)	Bahan Baku	NO	NO	NO	YES
+JINTAN HITAM (NIGELLA SATIVA)	Bahan Baku	NO	NO	YES	YES
+JINTAN-JINTEN (CARAWAY)	Bahan Baku	NO	NO	NO	YES
+JINTAN-JINTEN BUBUK (CARAWAY POWDER)	Bahan Baku	NO	NO	NO	YES
+JINTAN-JINTEN HITAM (HABBATUSSAUDA)	Bahan Baku	NO	NO	YES	YES
+JINTAN-JINTEN MANIS (ANISE)	Bahan Baku	NO	NO	NO	YES
+JINTAN-JINTEN PUTIH-CUNICUM CYMINUM (CUMIN)	Bahan Baku	NO	NO	NO	YES
+JUNIPER BERRIES	Bahan Baku	NO	NO	NO	YES
+Kacang Alas/ Biji Sengon	Bahan Baku	NO	NO	NO	YES
+KACANG ALMOND (ALMOND)	Bahan Baku	NO	NO	NO	YES
+KACANG ARAB - GARBANZO (CHICKPEA - CICER ARIETINUM)	Bahan Baku	NO	NO	NO	YES
+Kacang Atom 	Bahan Baku	NO	NO	NO	YES
+KACANG AZUKI - KACANG MERAH KECIL - KACANG TOLO MERAH (AZUKI BEANS) 	Bahan Baku	NO	NO	NO	YES
+Kacang Blackeye (Blackeye Beans)	Bahan Baku	NO	NO	NO	YES
+KACANG BOGOR (BAMBARA GROUNDNUTS - VIGNA SUBTERRANEA)	Bahan Baku	NO	NO	NO	YES
+Kacang Brazil (Brazil Nut)	Bahan Baku	NO	NO	NO	YES
+KACANG BUNCIS (COMMON BEAN)	Bahan Baku	NO	NO	NO	YES
+KACANG DAL (DHAL PEANUTS) 	Bahan Baku	NO	NO	NO	YES
+KACANG DAL URAD (DHAL URAD PEANUTS)	Bahan Baku	NO	NO	NO	YES
+Kacang Flageolet (Flageolet Bean)	Bahan Baku	NO	NO	NO	NO
+KACANG GARBANZO (GARBANZO BEANS)	Bahan Baku	NO	NO	NO	NO
+KACANG GINKGO (GINKGO NUTS)	Bahan Baku	NO	NO	NO	YES
+Kacang Gude (Pigeon Pea)	Bahan Baku	NO	NO	NO	YES
+Kacang Hazel (Hazelnut)	Bahan Baku	NO	NO	NO	YES
+Kacang Hazel Panggang (Roasted Hazelnut)	Bahan Baku	NO	NO	NO	YES
+KACANG HIJAU (MUNG BEAN)	Bahan Baku	NO	NO	NO	YES
+KACANG HIJAU BUBUK (MUNG BEAN POWDER)	Bahan Baku	NO	NO	NO	YES
+KACANG HIJAU TANPA KULIT (SPLIT MUNG BEANS)	Bahan Baku	NO	NO	NO	YES
+KACANG HITAM	Bahan Baku	NO	NO	NO	YES
+KACANG KAPRI (PEAS)	Bahan Baku	NO	NO	NO	YES
+KACANG KASTANYE (CHESTNUTS)	Bahan Baku	NO	NO	NO	YES
+Kacang Kedelai (Soybean)	Bahan Baku	NO	NO	NO	YES
+Kacang Kedelai Bubuk (Soybean Powder)	Bahan Baku	NO	NO	NO	YES
+KACANG KEDELAI HITAM (BLACK SOYBEAN)	Bahan Baku	NO	NO	NO	YES
+Kacang Kedelai Hitam Bubuk (Black Soybean Powder)	Bahan Baku	NO	NO	NO	YES
+Kacang Kedelai Muda (Edamame)	Bahan Baku	NO	NO	NO	YES
+KACANG KENARI (WALNUTS)	Bahan Baku	NO	NO	NO	YES
+Kacang Koro (Broad Bean) 	Bahan Baku	NO	NO	NO	YES
+KACANG KRANBERI (BORLOTTI BEANS)	Bahan Baku	NO	NO	NO	YES
+Kacang Kuning (Yellow Beans)	Bahan Baku	NO	NO	NO	YES
+KACANG LENTIL (LENTILS)	Bahan Baku	NO	NO	NO	YES
+KACANG LENTIL COKLAT (BROWN LENTILS)	Bahan Baku	NO	NO	NO	YES
+KACANG LENTIL MERAH (RED LENTILS)	Bahan Baku	NO	NO	NO	YES
+KACANG LIMA (LIMA BEANS)	Bahan Baku	NO	NO	NO	YES
+Kacang Macadamia (Macadamia Nut)	Bahan Baku	NO	NO	NO	YES
+Kacang Mede (Cashewnut)	Bahan Baku	NO	NO	NO	YES
+Kacang Merah (Red Bean-Kidney Bean)	Bahan Baku	NO	NO	NO	YES
+KACANG NAVY - KACANG PUTIH (NAVY BEANS - WHITE PEA)	Bahan Baku	NO	NO	NO	YES
+KACANG PANJANG (YARDLONG BEAN)	Bahan Baku	NO	NO	NO	YES
+KACANG PARANG (JACK BEAN)	Bahan Baku	NO	NO	NO	YES
+KACANG PIKAN (PECAN)	Bahan Baku	NO	NO	NO	YES
+KACANG PINUS (PINE NUTS)	Bahan Baku	NO	NO	NO	YES
+KACANG PISTACHIO (PISTACHIO NUTS)	Bahan Baku	NO	NO	NO	YES
+KACANG PISTACHIO PANGGANG (ROASTED PISTACHIO)	Bahan Baku	NO	NO	NO	YES
+KACANG POLONG HIJAU (GREEN SPLIT PEAS)	Bahan Baku	NO	NO	NO	NO
+Kacang Polong Kering (Dried Greenpeas)	Bahan Baku	NO	NO	NO	YES
+KACANG POLONG KUNING (YELLOW GREENPEAS)	Bahan Baku	NO	NO	NO	YES
+Kacang Polong-Ercis (Greenpeas)	Bahan Baku	NO	NO	NO	YES
+KACANG PUTIH 	Bahan Baku	NO	NO	NO	NO
+Kacang Tanah (Peanut)	Bahan Baku	NO	NO	NO	YES
+Kacang Tanah Kupas (Shelled Peanuts)	Bahan Baku	NO	NO	NO	YES
+Kacang Tanah Panggang (Roasted Peanut)	Bahan Baku	NO	NO	NO	YES
+KACANG TOLO-KACANG TUNGGAK-KACANG DADAP	Bahan Baku	NO	NO	NO	NO
+KACANG WALNUT (WALNUT)	Bahan Baku	NO	NO	NO	NO
+KAFEIN (CAFFEIN)	Bahan Baku	NO	NO	YES	YES
+Kailan (Kai-lan-Chinese Broccoli)	Bahan Baku	NO	NO	NO	YES
+KAKAO (COCOA)	Bahan Baku	NO	NO	NO	YES
+KAKAO BUBUK (COCOA POWDER)	Bahan Baku	NO	NO	NO	YES
+KAKAO LIQUOR	Bahan Baku	NO	NO	NO	NO
+KAKAO MASSA (COCOA MASS - COCOA LIQUOR)	Bahan Baku	NO	NO	NO	YES
+KAKAO PASTA (COCOA PASTE)	Bahan Baku	NO	NO	NO	YES
+Kaki Babi (Pigs Feet)	Bahan Baku	NO	NO	NO	YES
+Kalamansi (Calamansi)	Bahan Baku	NO	NO	NO	YES
+Kaldu Ayam (Chicken Broth)	Bahan Baku	NO	NO	NO	YES
+Kaldu Babi (Pork Broth)	Bahan Baku	NO	NO	NO	YES
+Kaldu Ikan (Fish Broth)	Bahan Baku	NO	NO	NO	YES
+Kaldu Kalkun (Turkey Broth)	Bahan Baku	NO	NO	NO	YES
+Kaldu Kerang (Scallop Broth)	Bahan Baku	NO	NO	NO	YES
+Kaldu Sapi (Beef Broth)	Bahan Baku	NO	NO	NO	YES
+Kaldu Sayuran (Vegetable Broth)	Bahan Baku	NO	NO	NO	YES
+Kaldu Udang	Bahan Baku	NO	NO	NO	YES
+Kalium Bikarbonat	Bahan Baku	NO	NO	NO	YES
+KALIUM DIHIDROGEN FOSFAT (POTASSIUM DIHYDROGEN PHOSPHATE) KEC. MPASI	Bahan Baku	NO	NO	YES	YES
+Kalium fluorida (Potassium fluoride)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Daging Ayam (Chicken Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Daging Babi (Pork Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Daging Sapi (Beef Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Daun Katuk (Sauropus androgynus Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK DAUN MESONA (MESONA LEAF EXTRACT)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK DAUN PANDAN (PANDANUS LEAF EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Daun Salam (Bay Leaf Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK DAUN SIRIH (PIPER BETLE EXTRACT)	Bahan Baku	NO	NO	NO	NO
+Ekstrak Daun Wasabi (Wasabi Leaf Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK DEDAK (RICE BRAN EXTRACT)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK FRAMBOZEN (FRAMBOZEN EXTRACT)	Bahan Baku	NO	NO	NO	NO
+Ekstrak Gandum (Wheat Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Ginseng (Panax Ginseng C.A Meyer)	Bahan Baku	NO	NO	YES	YES
+Ekstrak Ginseng (Panax Quinquefolius-American Ginseng)	Bahan Baku	NO	NO	YES	YES
+EKSTRAK GUARANA - PAULLINIA CUPANA(GUARANA EXTRACT)	Bahan Baku	NO	NO	YES	YES
+EKSTRAK GUARANA BUBUK (GUARANA POWDER EXTRACT)	Bahan Baku	NO	NO	YES	YES
+Ekstrak Gula Tebu (Cane Sugar Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Gurita Bubuk (Octopus Powder)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK HOP (HOP EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Ikan (Fish Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Ikan Bonito (Bonito Fish Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Ikan Sardin (Sardines Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Ikan Teri (Anchovy Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Jagung (Corn Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Jahe (Ginger Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Jambu Biji (Guava Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Jamur (Mushroom Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK JAMUR BUBUK (MUSHROOM EXTRACT POWDER)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Jamur Shitake (Shitake Mushroom Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Jeruk (Orange Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK JERUK ........	Bahan Baku	NO	NO	NO	NO
+Ekstrak Jeruk Lemon (Lemon Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Jeruk Limau (Citrus Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK JERUK LIMAU BUBUK (LIME EXTRACT POWDER)	Bahan Baku	YES	YES	NO	YES
+Ekstrak Jeruk Nipis (Lime Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Kacang Hazel (Hazelnut Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Kacang Hijau (Mungben Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Kacang Kedelai (Soybean Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK KACANG TANAH (PEANUT EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Kawis (Kawis Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Kayu Manis (Cinnamon Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Kecambah (Sprouts Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK KEDELAI (SOY EXTRACT)	Bahan Baku	NO	NO	NO	NO
+Ekstrak Kelapa (Coconut Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK KELAPA MUDA (YOUNG COCONUT EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Kelp (Kelp Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK KENCUR (GALANGAL EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Kepiting (Crab Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Kerang (Clam Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Kimchi (Kimchi Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Kola (Coke Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Kolesom (Kolesom Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Kopi (Coffee Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Kopi Hijau (Green Coffee Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Krisantemum (Chrysantemum Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Kubis Merah (Red Cabbage Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK KUNING TELUR (YOLK EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Kunyit (Turmeric Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Lada (Pepper Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK LICORICE-LIQUORICE- SUCCUS LIQUIRITIAE (GLYCYRRHIZA GLABRA)	Bahan Baku	NO	NO	YES	YES
+Ekstrak Lidah Buaya (Aloe Vera Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Lobak (Radish Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Madu (Honey Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Malt (Malt Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Mangga (Mango Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Manggis (Mangosteen Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Melati (Jasmine Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Melon (Melon Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Mint (Mint Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Minyak Ikan (Fish Oil Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Muscat (Muscat Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Mustard (Mustard Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Nanas (Pineapple Extact)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Nangka (Jackfruit Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Pala (Nutmeg Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK PANDAN	Bahan Baku	NO	NO	NO	NO
+Ekstrak Paprika (Paprika Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK PEGAGAN (PENNYWORTH EXTRACT)	Bahan Baku	NO	NO	NO	NO
+EKSTRAK PEPAYA (PAPAYA EXTRACT)	Bahan Baku	NO	NO	NO	YES
+ekstrak perilla seed	Bahan Baku	NO	NO	NO	NO
+Ekstrak Pir (Pear Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Protein.... (Asal Bahan...)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK QUILLAILA	Bahan Baku	NO	NO	YES	NO
+Ekstrak Ragi (Yeast Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Remis (Mussels Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Ricola (Ricola Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK ROSELLA (HIBISCUS SABDARIFFA EXTRACT)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK ROSEMARY (ROSMARINUS OFFICINALIS EXTRACT)	Bahan Baku	NO	NO	NO	NO
+Ekstrak Rum (Rhum Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Rumput Laut (Seaweed Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK SARSAPARILA - SARSI (SARSAPARILLA EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Sayuran (Vegetable Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Seafood (Seafood Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK SEREALIA (CEREALS EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Sereh (Lemongrass Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK STEVIA (STEVIA EXTRACT)	Bahan Baku	NO	NO	NO	NO
+Ekstrak Tebu (Cane Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Teh (Tea Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Teh Hijau (Green Tea Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Teh Hitam (Black Tea Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK TEMU HITAM (CURCUMA AERUGINOSA EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Temulawak (Curcuma xanthorrhiza Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Tiram (Oyster Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Tulang Babi (Pig Bone Extract)	Bahan Baku	YES	YES	NO	YES
+Ekstrak Tulang Sapi (Beef Bone Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Udang (Shrimp Extract)	Bahan Baku	NO	NO	NO	YES
+DInatrium 5-Monofosfat	Bahan Baku	NO	NO	NO	YES
+Dinatrium fosfat (Disodium Orthophosphate)	Bahan Baku	NO	NO	NO	YES
+Dinatrium Fosfat Anhidrat (Disodium Phosphate Anhydrous)	Bahan Baku	NO	NO	NO	YES
+Dinatrium Guanosin 5-Monofosfat	Bahan Baku	NO	NO	NO	YES
+DINATRIUM SUKSINAT (DISODIUM SUCCINATE)	Bahan Baku	NO	NO	NO	YES
+Dinatrium Uridin 5-Monofosfat	Bahan Baku	NO	NO	NO	YES
+Duckweed / water lentils (Lemna gibba / Lemna minor complex dan Wolffia globosa)	Bahan Baku	NO	NO	YES	YES
+Dulse (Palmaria palmata)	Bahan Baku	NO	NO	NO	YES
+DURIAN BUBUK (DURIAN POWDER)	Bahan Baku	NO	NO	NO	YES
+D-XILOSA (D-XYLOSE)	Bahan Baku	NO	NO	NO	YES
+ECHINACEAE; CONEFLOWERS; PURPLE CONEFLOWER	Bahan Baku	NO	NO	NO	NO
+EGCG (EPIGALLOCATECHIN GALLATE)	Bahan Baku	NO	NO	NO	YES
+EKSTRA VIRGIN OLIVE OIL (VIRGIN OLIVE OIL EXTRACT)	Bahan Baku	NO	NO	NO	NO
+EKSTRAK .....	Bahan Baku	NO	NO	NO	YES
+EKSTRAK AIR KELAPA (COCONUT WATER EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Akar Kolesom (Talinum triangulare Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK ANGGUR (GRAPE EXTRACT)	Bahan Baku	NO	NO	NO	NO
+EKSTRAK ASAM JAWA (TAMARIND EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Ayam (Chicken Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Barley (Barley Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Barley Malt (Barley Malt Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Basil (Basil Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK BAWANG BOMBAY (ONION EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Bawang Goreng (Dried Onion Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Bawang Putih (Garlic Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Bengkuang (Yambean Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Beras (Rice Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK BERAS KENCUR (BERAS KENCUR EXTRACT)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK BERAS MERAH (BROWN RICE EXTRACT)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK BIJI ANGGUR (GRAPE SEED EXTRACT)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK BIJI BUNGA MATAHARI (SUNFLOWER SEED EXTRACT)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK BILBERRY (BILBERY EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Blewah (Cantaloupe Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Bonito (Bonito Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK BROKOLI (BROCCOLI EXTRACT)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK BUAH ACAI BERRY (ACAI BERRY EXTRACT)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK BUAH ALPUKAT (AVOCADO EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Anggur (Grape Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK BUAH APEL (APPLE EXTRACT)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK BUAH APEL HIJAU (GREEN APPLE EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Belimbing (Starfruit Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK BUAH BIT (BEETROOT EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Blackberry (Blackberry Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Blackcurrant (Blackcurrant Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Blueberry (Blueberry Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Ceri (Cherry Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Delima (Pomegranate Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Durian (Durian Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK BUAH KELENGKENG (LONGAN EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Kesemek (Persimmon Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK BUAH KIWI (KIWI EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Kundur (Benincasa hispida Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Leci (Lychee Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Lemon (Lemon Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Mangga (Mango Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Mangga Manalagi (Manalagi Mango Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Markisa (Passionfruit Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Melon (Melon Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK BUAH MURBEI (MULBERRY EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Nangka (Jackfruit Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Persik (Peach Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Pisang (Banana Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Plum (Plum Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Prune (Prune Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Raspberry (Raspberry Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Semangka (Watermelon Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Sirsak (Soursop Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Stroberi (Strawberry Extract)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Tangkwa (Tangkwa Extract)	Bahan Baku	NO	NO	NO	YES
+EKSTRAK BUAH TIN ATAU BUAH ARA (FIG EXTRACT)	Bahan Baku	NO	NO	NO	YES
+Ekstrak Buah Ume (Japanesse Plum Extract)	Bahan Baku	NO	NO	NO	YES
+GLISIN (GLYCINE)	Bahan Baku	NO	NO	NO	YES
+Glukosa (Glucose)	Bahan Baku	NO	NO	NO	YES
+Glukosa Anhidrat (Glucose Anhydrate)	Bahan Baku	NO	NO	NO	YES
+Glukosa Bubuk (Glucose Powder)	Bahan Baku	NO	NO	NO	YES
+GLUKOSAMIN (GLUCOSAMINE)	Bahan Baku	NO	NO	YES	YES
+GLUKOSAMIN HIDROKLORIDA (GLUCOSAMINE HYDROCHLORIDE)	Bahan Baku	NO	NO	YES	YES
+GLUKOSAMIN SULFAT (GLUCOSAMINE SULPHATE)	Bahan Baku	NO	NO	YES	YES
+GLUTEN (GLUTEN)	Bahan Baku	NO	NO	NO	NO
+GLYCYRRHIZA GLABRA (LICORICE)	Bahan Baku	NO	NO	YES	YES
+GOBO	Bahan Baku	NO	NO	NO	NO
+GOBO BUBUK (GOBO POWDER)	Bahan Baku	NO	NO	NO	NO
+GOJI (LYCIUM BARBARUM)	Bahan Baku	NO	NO	NO	NO
+GOJI BERRY - WOLBERRY	Bahan Baku	NO	NO	NO	YES
+GOJI BERRY (LYCIUM BARBARUM)	Bahan Baku	NO	NO	NO	YES
+Great Northern Beans	Bahan Baku	NO	NO	NO	YES
+GUARANA (PAULLINIA CUPANA)	Bahan Baku	NO	NO	YES	YES
+GULA AREN (PALM SUGAR)	Bahan Baku	NO	NO	NO	YES
+Gula Batu (Rock Sugar)	Bahan Baku	NO	NO	NO	YES
+Gula Bit (Sugar Beet)	Bahan Baku	NO	NO	NO	YES
+Gula Cair (Liquid Sugar)	Bahan Baku	NO	NO	NO	YES
+Gula Cokelat (Brown Sugar-Demerara)	Bahan Baku	NO	NO	NO	YES
+Gula Halus (Refined Sugar)	Bahan Baku	NO	NO	NO	YES
+Gula Hitam (Raw Cane Sugar)	Bahan Baku	NO	NO	NO	YES
+Gula Icing (Icing Sugar)	Bahan Baku	NO	NO	NO	YES
+Gula Invert (Invert Sugar)	Bahan Baku	NO	NO	NO	YES
+Gula Jawa (Palm Sugar)	Bahan Baku	NO	NO	NO	YES
+GULA KASTOR (CASTOR SUGAR ATAU CASTER SUGAR)	Bahan Baku	NO	NO	NO	YES
+GULA KELAPA (COCONUT SUGAR)	Bahan Baku	NO	NO	NO	YES
+Gula Kristal (Sugar Crystals)	Bahan Baku	NO	NO	NO	YES
+Gula Merah (Brown Sugar)	Bahan Baku	NO	NO	NO	YES
+Gula Palem (Palm Sugar)	Bahan Baku	NO	NO	NO	YES
+Gula Pasir (Granulated Sugar)	Bahan Baku	NO	NO	NO	YES
+GULA SIWALAN (PALM SUGAR)	Bahan Baku	NO	NO	NO	YES
+Gula Sorgum (Shorgum Sugar)	Bahan Baku	NO	NO	NO	YES
+Gula Tebu (Cane Sugar)	Bahan Baku	NO	NO	NO	YES
+Gula Terfermentasi (Fermented Sugar)	Bahan Baku	NO	NO	NO	YES
+GUM BASE	Bahan Baku	NO	NO	NO	YES
+Gurita (Octopus)	Bahan Baku	NO	NO	NO	YES
+HALBA (HALBA)	Bahan Baku	NO	NO	NO	NO
+Halia (Halia)	Bahan Baku	NO	NO	NO	YES
+Hancuran Permen/ Butiran Permen (Crushed candy)	Bahan Baku	NO	NO	NO	YES
+Hasil Destilasi Minyak Peppermint (Peppermint Oil Distillation)	Bahan Baku	NO	NO	NO	YES
+HASIL DISTILASI FERMENTASI ANGGUR (DISTILLED FERMENTED GRAPE)	Bahan Baku	NO	NO	NO	YES
+HASIL DISTILASI FERMENTASI ANGGUR HIJAU (DISTILLED FERMENTED GREEN GRAPE) 	Bahan Baku	NO	NO	NO	YES
+Hasil Distilasi Fermentasi Beras (Distilled Fermented Rice)	Bahan Baku	NO	NO	NO	YES
+Hasil Distilasi Fermentasi Jambu Mente (Distilled Fermented Cashew)	Bahan Baku	NO	NO	NO	YES
+Hasil Distilasi Fermentasi Malt-Gandum-....... (Distilled Fermented Malt-Wheat-.....)	Bahan Baku	NO	NO	NO	YES
+HASIL FERMENTASI .....(SEREALIA, BUAH, ....)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Apel (Fermented Apple)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Arbei (Fermented Berries)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Beras (Fermented Rice)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Beras Ketan Hitam (Fermented Black Glutinous Rice)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Beras Ketan Putih (Fermented White Glutinous Rice)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Buah Agave (Fermented Agave)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Buah Anggur Hijau (Fermented Green Grape)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Buah Anggur Merah (Fermented Red Grape)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Buah Lontar (Fermented Palmyra) 	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Gandum (Fermented Wheat)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Gula Merah (Fermented Brown Sugar)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Jagung (Fermented Corn)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Jeruk (Fermented Orange)	Bahan Baku	NO	NO	NO	YES
+HASIL FERMENTASI KEDELAI (FERMENTED SOYBEAN)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Kedelai Hitam (Fermented Black Soybeans)	Bahan Baku	NO	NO	NO	YES
+HASIL FERMENTASI KETAN HITAM (FERMENTED BLACK GLUTINOUS RICE)	Bahan Baku	NO	NO	NO	NO
+Hasil Fermentasi Malt (Fermented Malt)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Markisa (Fermented Passion Fruit)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Molases (Fermented Molases)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Nanas (Fermented Pineapple)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Nira (Fermented Sap)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Pepaya (Fermented Papaya)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Salak (Fermented Salak)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Sawo (Fermented Sapodilla)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Singkong (Fermented Cassava)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Tepung Rye (Fermented Rye Flour)	Bahan Baku	NO	NO	NO	YES
+Hasil Fermentasi Tomat (Fermented Tomato)	Bahan Baku	NO	NO	NO	YES
+Hati Ayam (Chicken Liver)	Bahan Baku	NO	NO	NO	YES
+Hati Ayam Bubuk (Chicken Liver Powder)	Bahan Baku	NO	NO	NO	YES
+Hati Babi (Pig Liver)	Bahan Baku	NO	NO	NO	YES
+Hati Sapi (Cow Liver)	Bahan Baku	NO	NO	NO	YES
+HEATHER (ERICA VULGARIS)	Bahan Baku	NO	NO	NO	YES
+Hemiselulase (Hemicellulase)	Bahan Baku	NO	NO	NO	YES
+Hidrolisat Kasein Protein (Hydrolysed Casein Protein)	Bahan Baku	NO	NO	NO	YES
+Hidrolisat Protein (Hydrolyzed Protein)	Bahan Baku	NO	NO	NO	YES
+Hidrolisat Protein Ikan (Hydrolyzed Fish Protein)	Bahan Baku	NO	NO	NO	YES
+Hidrolisat Protein Kedelai (Hydrolyzed Soy Protein)	Bahan Baku	NO	NO	NO	YES
+Hidrolisat Protein Nabati (Hydrolyzed Vegetable Protein)	Bahan Baku	NO	NO	NO	YES
+HIDROLISAT PROTEIN WHEY (HYDROLIZED WHEY PROTEIN)	Bahan Baku	NO	YES	NO	YES
+Histidin (Histidine)	Bahan Baku	NO	NO	NO	YES
+Hojicha Bubuk (Hojicha Powder)	Bahan Baku	NO	NO	NO	YES
+honeybush (cyclopia maculate)	Bahan Baku	NO	NO	NO	NO
+Honeybush (Cyclopia maculate, Cyclopia genistoides, Cyclopia sessiliflora ("Heidelbergtee")	Bahan Baku	NO	NO	YES	YES
+HONEYSUCKLE	Bahan Baku	NO	NO	NO	NO
+HOPS	Bahan Baku	NO	NO	NO	YES
+HUPERSZINE (HUPERZINE SERRATA)	Bahan Baku	NO	NO	NO	NO
+HYDRATED DEXTRATES	Bahan Baku	NO	NO	NO	NO
+ICE STRUCTURING PROTEIN	Bahan Baku	NO	NO	NO	YES
+Iga Babi (Pork Ribs)	Bahan Baku	NO	NO	NO	YES
+IGA SAPI (BEEF RIBS)	Bahan Baku	NO	NO	NO	YES
+Ikan (Fish)	Bahan Baku	NO	NO	NO	YES
+Ikan Asap Bubuk (Smoked Fish Powder)	Bahan Baku	NO	NO	NO	YES
+Ikan Asin (Salted Fish)	Bahan Baku	NO	NO	NO	YES
+Ikan Bandeng (Milkfish)	Bahan Baku	NO	NO	NO	YES
+IKAN BELIDA (BELIDA FISH)	Bahan Baku	NO	NO	NO	YES
+IKAN BILIS	Bahan Baku	NO	NO	NO	YES
+IKAN BONITO (BONITO FISH)	Bahan Baku	NO	NO	NO	YES
+IKAN BONITO BUBUK (BONITO FISH POWDER)	Bahan Baku	NO	NO	NO	YES
+Ikan Bubuk (Fish Powder)	Bahan Baku	NO	NO	NO	YES
+IKAN CAKALANG (SKIPJACK TUNA FISH)	Bahan Baku	NO	NO	NO	YES
+IKAN DACE (DACE FISH)	Bahan Baku	NO	NO	NO	YES
+Ikan Fillet (FISH FILLET)	Bahan Baku	NO	NO	NO	YES
+Ikan Gindara	Bahan Baku	NO	NO	NO	YES
+IKAN HARING (HERRING FISH)	Bahan Baku	NO	NO	NO	YES
+IKAN HARING FILLET (HERRING FISH FILLET)	Bahan Baku	NO	NO	NO	YES
+IKAN KAKAP (SNAPPER FISH)	Bahan Baku	NO	NO	NO	YES
+IKAN KISU (KISU FISH)	Bahan Baku	NO	NO	NO	YES
+Ikan Kod (Cod Fish)	Bahan Baku	NO	NO	NO	YES
+Ikan Kod Bubuk (Cod Fish Powder)	Bahan Baku	NO	NO	NO	YES
+IKAN KORVINA KUNING (YELLOW CORVINA FISH)	Bahan Baku	NO	NO	NO	YES
+Ikan Layar (Sailfish)	Bahan Baku	NO	NO	NO	YES
+IKAN LAYUR (LAYUR FISH)	Bahan Baku	NO	NO	NO	YES
+Ikan Lele (Catfish)	Bahan Baku	NO	NO	NO	YES
+Ikan Lemuru (Sardine)	Bahan Baku	NO	NO	NO	YES
+IKAN MAKAREL (MACKEREL FISH)	Bahan Baku	NO	NO	NO	YES
+IKAN MARLIN (MARLIN FISH)	Bahan Baku	NO	NO	NO	YES
+Ikan Nila (Tilapia Fish)	Bahan Baku	NO	NO	NO	YES
+Ikan Patin	Bahan Baku	NO	NO	NO	YES
+IKAN POLLOCK (POLLOCK FISH)	Bahan Baku	NO	NO	NO	YES
+IKAN SALMON (SALMON FISH)	Bahan Baku	NO	NO	NO	YES
+IKAN SARDIN (SARDINES FISH)	Bahan Baku	NO	NO	NO	YES
+IKAN SARDIN BUBUK (SARDINES FISH POWDER)	Bahan Baku	NO	NO	NO	YES
+IKAN SLENGSENG (MACKEREL FISH)	Bahan Baku	NO	NO	NO	YES
+IKAN TEMBANG (SARDINELLA)	Bahan Baku	NO	NO	NO	YES
+Ikan Tenggiri (Mackerel)	Bahan Baku	NO	NO	NO	YES
+Ikan Teri (Anchovy)	Bahan Baku	NO	NO	NO	YES
+IKAN TUNA (TUNA FISH)	Bahan Baku	NO	NO	NO	YES
+INOSITOL (INOSITOL)	Bahan Baku	NO	NO	NO	NO
+Inulin (Inulin)	Bahan Baku	NO	NO	NO	YES
+COCOA BUTTER EQUIVALENT (CBE)	Bahan Baku	NO	NO	NO	YES
+Cocoa Butter Replacer (CBR)	Bahan Baku	NO	NO	NO	YES
+Cocoa Butter Substitute (CBS)	Bahan Baku	NO	NO	NO	YES
+Cognac (Cognac)	Bahan Baku	NO	NO	NO	YES
+Cokelat (Chocolate)	Bahan Baku	NO	NO	NO	YES
+Cokelat Batang (Chocolate Bar)	Bahan Baku	NO	NO	NO	YES
+COKELAT BUBUK (CHOCOLATE POWDER)	Bahan Baku	NO	NO	NO	YES
+Cokelat Butir (Chocolate Granules)	Bahan Baku	NO	NO	NO	YES
+COKELAT CAIR (MELTED CHOCOLATE)	Bahan Baku	NO	NO	NO	NO
+Cokelat Chip (Chocolate Chip)	Bahan Baku	NO	NO	NO	YES
+COKELAT COMPOUND BUTIR (CHOCOLATE COMPOUND GRANULE)	Bahan Baku	NO	NO	NO	YES
+COKELAT COMPOUND PUTIH (WHITE CHOCOLATE COMPOUND)	Bahan Baku	NO	NO	NO	YES
+Cokelat Compound Susu (Milk Chocolate Compound)	Bahan Baku	NO	NO	NO	YES
+COKELAT HITAM (DARK CHOCOLATE, BITTERSWEET CHOCOLATE))	Bahan Baku	NO	NO	NO	YES
+COKELAT HITAM CHIP (DARK CHOCOLATE CHIP)	Bahan Baku	NO	NO	NO	YES
+COKELAT HITAM COMPOUND (DARK CHOCOLATE COMPOUND)	Bahan Baku	NO	NO	NO	YES
+Cokelat Hitam Kovertur (Dark Chocolate Couverture)	Bahan Baku	NO	NO	NO	YES
+Cokelat Imitasi/Hasil Olah Gula (Imitation Chocolate/Processed Sugar)	Bahan Baku	NO	NO	NO	YES
+COKELAT LIQUOR (COCOA LIQUOR)	Bahan Baku	NO	NO	NO	NO
+COKELAT MASSA (CHOCOLATE MASS)	Bahan Baku	NO	NO	NO	NO
+Cokelat Paduan (Compound Chocolate)	Bahan Baku	NO	NO	NO	YES
+COKELAT PADUAN-COMPOUND	Bahan Baku	NO	NO	NO	NO
+COKELAT PAHIT (BITTER CHOCOLATE)	Bahan Baku	NO	NO	NO	NO
+Cokelat Pasta (Chocolate Paste)	Bahan Baku	NO	NO	NO	YES
+Cokelat Pelapis (Chocolate Coating)	Bahan Baku	NO	NO	NO	YES
+Cokelat Putih (White Chocolate)	Bahan Baku	NO	NO	NO	YES
+COKELAT RENDAH LEMAK (LOW FAT COCOA)	Bahan Baku	NO	NO	NO	NO
+Cokelat Susu (Milk Chocolate)	Bahan Baku	NO	NO	NO	YES
+COKELAT SUSU KOVERTUR (MILK CHOCOLATE COUVERTURE)	Bahan Baku	NO	NO	NO	YES
+COKLAT MASSA	Bahan Baku	NO	NO	NO	NO
+Combrang - Kecombrang (Etlingera elatior)	Bahan Baku	NO	NO	NO	YES
+COMPOUND PUTIH (WHITE COMPOUND)	Bahan Baku	NO	NO	NO	NO
+CORNFLOWER (CENTAURA CYANUS)	Bahan Baku	NO	NO	NO	NO
+CORNFLOWER (CENTAUREA CYANUS)	Bahan Baku	NO	NO	YES	NO
+Couscous	Bahan Baku	NO	NO	NO	YES
+CRANBERRY BUBUK (CRANBERRY POWDER)	Bahan Baku	NO	NO	NO	YES
+Cuka Anggur (Grape Vinegar)	Bahan Baku	NO	NO	NO	YES
+Cuka Anggur Putih (White Wine Vinegar)	Bahan Baku	NO	NO	NO	YES
+Cuka Apel (Apple Vinegar)	Bahan Baku	NO	NO	NO	YES
+Cuka Balsamic (Balsamic Vinegar)	Bahan Baku	NO	NO	NO	YES
+Cuka Beras (Rice Vinegar)	Bahan Baku	NO	NO	NO	YES
+Cuka Bubuk (Vinegar Powder)	Bahan Baku	NO	NO	NO	YES
+CUKA FERMENTASI (VINEGAR)	Bahan Baku	NO	NO	NO	YES
+Cuka Lemon (Lemon Vinegar)	Bahan Baku	NO	NO	NO	YES
+Cuka Makan (Vinegar)	Bahan Baku	NO	NO	NO	YES
+Cuka Plum (Plum Vinegar)	Bahan Baku	NO	NO	NO	YES
+Cumi-Cumi (Squid)	Bahan Baku	NO	NO	NO	YES
+CUMI-CUMI BUBUK (SQUID POWDER)	Bahan Baku	NO	NO	NO	YES
+cupuacu (theobroma grandiflorum)	Bahan Baku	NO	NO	NO	NO
+Custard (Custard)	Bahan Baku	NO	NO	NO	YES
+Custard Bubuk (Custard Powder)	Bahan Baku	NO	NO	NO	YES
+Dada Ayam (Chicken Breast)	Bahan Baku	NO	NO	NO	YES
+Dadih	Bahan Baku	NO	NO	NO	YES
+Dadih Bubuk (Buttermilk Powder)	Bahan Baku	NO	NO	NO	YES
+DAGING AYAM (CHICKEN MEAT)	Bahan Baku	NO	NO	NO	YES
+DAGING AYAM ASAP (SMOKE CHICKEN MEAT)	Bahan Baku	YES	YES	NO	YES
+Daging Ayam Bubuk (Chicken Powder)	Bahan Baku	NO	NO	NO	YES
+Daging Ayam Cincang (Minced Chiken)	Bahan Baku	YES	YES	NO	YES
+Daging Ayam Fillet (Chicken Fillet)	Bahan Baku	NO	NO	NO	YES
+Daging Ayam Irisan (Chicken Strips)	Bahan Baku	NO	NO	NO	YES
+DAGING AYAM SERPIHAN (CHICKEN FLAKES)	Bahan Baku	NO	NO	NO	YES
+Daging Babi (Pork)	Bahan Baku	NO	NO	NO	YES
+DAGING BABI ASAP (SMOKE PORK)	Bahan Baku	NO	NO	NO	YES
+Daging Babi Bubuk (Pork Powder)	Bahan Baku	NO	NO	NO	YES
+Daging Bebek (Duck Meat)	Bahan Baku	NO	NO	NO	YES
+Daging Burung Puyuh/Dara/.....	Bahan Baku	NO	NO	NO	YES
+Daging Domba (Lamb)	Bahan Baku	NO	NO	NO	YES
+Daging Kalkun (Turkey Meat)	Bahan Baku	NO	NO	NO	YES
+Daging Kambing (Mutton)	Bahan Baku	NO	NO	NO	YES
+Daging Kelinci (Rabbit Meat)	Bahan Baku	NO	NO	NO	YES
+DAGING KERBAU (BUFFALO MEAT)	Bahan Baku	NO	NO	NO	YES
+Daging Paha Babi (Ham)	Bahan Baku	NO	NO	NO	YES
+Daging Rusa (Deer Meat)	Bahan Baku	NO	NO	NO	YES
+Daging Sapi (Beef)	Bahan Baku	NO	NO	NO	YES
+DAGING SAPI ASAP (SMOKE BEEF)	Bahan Baku	YES	YES	NO	YES
+Daging Sapi Bubuk (Beef Powder)	Bahan Baku	NO	NO	NO	YES
+Daging Sapi Cincang (Minced Beef)	Bahan Baku	YES	YES	NO	YES
+Dandelion Root Powder (Taraxacum officinale)	Bahan Baku	NO	NO	NO	YES
+DAUN ANGGUR (GRAPE LEAF)	Bahan Baku	NO	NO	NO	NO
+Daun Apple Mint (Mentha suaveolens Ehrh)	Bahan Baku	NO	NO	NO	YES
+Daun Asam Jawa (Tamarindus indica)	Bahan Baku	NO	NO	NO	YES
+Daun Basil (Basil Leaf)	Bahan Baku	NO	NO	NO	YES
+Daun Basil Bubuk (Basil Leaf Powder)	Bahan Baku	NO	NO	NO	YES
+Daun Basil Kering (Dried Basil Leaf)	Bahan Baku	NO	NO	NO	YES
+DAUN BAWANG (SCALLION)	Bahan Baku	NO	NO	NO	YES
+DAUN BAWANG BUBUK (LEEK POWDER)	Bahan Baku	NO	NO	NO	YES
+DAUN BAWANG KERING (DRIED SCALLION)	Bahan Baku	NO	NO	NO	YES
+Daun Beluntas (Pluchea Folium)	Bahan Baku	NO	NO	NO	YES
+Daun Bergamot (Monarda didyma)	Bahan Baku	NO	NO	NO	YES
+Daun Blackberry (Blackberry Leaf)	Bahan Baku	NO	NO	NO	YES
+Daun Blackcurrant	Bahan Baku	NO	NO	NO	YES
+Daun Cengkeh (Clove Leaf)	Bahan Baku	NO	NO	NO	YES
+Daun Citrus Thyme (Thymus citriodorus)	Bahan Baku	NO	NO	NO	YES
+DAUN GANDUM (WHEATGRASS)	Bahan Baku	NO	NO	NO	NO
+Daun Gedi (Abelmoschus manihot (L.) Medik)	Bahan Baku	NO	NO	NO	YES
+DAUN JAMBU BIJI (GUAVA LEAF)	Bahan Baku	NO	NO	NO	YES
+DAUN JATI BELANDA (GUAZUMA ULMIFOLIA)	Bahan Baku	NO	NO	YES	NO
+DAUN JERUK (CITRUS LEAF ATAU LIME LEAF)	Bahan Baku	NO	NO	NO	YES
+Daun Jeruk Purut (Kaffir Lime Leaf)	Bahan Baku	NO	NO	NO	YES
+Daun Kari (Curry Leaf)	Bahan Baku	NO	NO	NO	YES
+Daun Katuk	Bahan Baku	NO	NO	NO	YES
+Daun Kelor (Moringa oleifera L.)	Bahan Baku	NO	NO	NO	YES
+DAUN KEMANGI (LEMON BASIL LEAF)	Bahan Baku	NO	NO	NO	YES
+DAUN KETUMBAR (CILANTRO- CORIANDER LEAF)	Bahan Baku	NO	NO	NO	YES
+DAUN KOPI (COFFEE LEAF)	Bahan Baku	NO	NO	NO	YES
+DAUN KUCAI (GARLIC LEAF CHIVES)	Bahan Baku	NO	NO	NO	YES
+Daun Kunyit (Turmeric Leaf)	Bahan Baku	NO	NO	NO	YES
+DAUN LAKSA (LAKSA LEAF)	Bahan Baku	NO	NO	NO	YES
+Daun Lobak (Radish Leaf)	Bahan Baku	NO	NO	NO	YES
+Daun Marjoram (Marjoram Leaf)	Bahan Baku	NO	NO	NO	YES
+DAUN MELINJO (MELINJO LEAF)	Bahan Baku	NO	NO	NO	YES
+Daun Mint (Mint Leaf)	Bahan Baku	NO	NO	NO	YES
+DAUN MOLOKHIA (MOLOKHIA LEAF)	Bahan Baku	NO	NO	NO	YES
+DAUN MULBERRY (MULBERRY LEAF)	Bahan Baku	NO	NO	NO	NO
+Daun Oregano (Oregano Leaf)	Bahan Baku	NO	NO	NO	YES
+Daun Oregano Kering (Dried Oregano Leaf)	Bahan Baku	NO	NO	NO	YES
+Daun Pakis / Paku Sayur (Vegetable Fern)	Bahan Baku	NO	NO	NO	YES
+Daun Pandan (Pandan Leaf)	Bahan Baku	NO	NO	NO	YES
+Daun Pepaya (Papaya Leaf)	Bahan Baku	NO	NO	NO	YES
+Daun Peppermint (Peppermint Leaf)	Bahan Baku	NO	NO	NO	YES
+DAUN PERILLA (PERILLA LEAF)	Bahan Baku	NO	NO	NO	YES
+DAUN PERILLA BUBUK (PERILLA LEAF POWDER)	Bahan Baku	NO	NO	NO	YES
+DAUN PETERSELI (PETROSELINUM CRISPUM)	Bahan Baku	NO	NO	NO	NO
+Daun Raspberry (Raspberry Leaf)	Bahan Baku	NO	NO	NO	YES
+DAUN RHUBARB (RHEUM RHABARBARUM)	Bahan Baku	NO	NO	NO	NO
+Daun Rosemarry (Rosemarry Leaf)	Bahan Baku	NO	NO	NO	YES
+DAUN SAGA (JEQUIRITY LEAF)	Bahan Baku	NO	NO	NO	YES
+Daun Salam (Bay Leaf)	Bahan Baku	NO	NO	NO	YES
+Daun Salam Bubuk (Bay Leaf Powder)	Bahan Baku	NO	NO	NO	YES
+Daun Seledri (Celery Leaf)	Bahan Baku	NO	NO	NO	YES
+Daun Seledri Kering (Dried Celery Leaf)	Bahan Baku	NO	NO	NO	YES
+DAUN SEMBUNG (SAMBONG LEAF)	Bahan Baku	NO	NO	NO	YES
+DAUN SERUNI (CHRYSANTHEMUM LEAF)	Bahan Baku	NO	NO	NO	YES
+DAUN SINGKONG (CASSAVA LEAF)	Bahan Baku	NO	NO	NO	YES
+DAUN SIRIH (BETEL LEAF)	Bahan Baku	NO	NO	NO	NO
+DAUN SIRSAK (SOURSOP LEAF)	Bahan Baku	NO	NO	NO	NO
+DAUN STEVIA (STEVIA LEAF)	Bahan Baku	NO	NO	NO	NO
+Daun Stroberi (Strawberry Leaf)	Bahan Baku	NO	NO	NO	YES
+DAUN SWISS CHARD (FOLIUM BETA VULGARIS)	Bahan Baku	NO	NO	NO	YES
+DAUN TARRAGON (TARRAGON LEAF)	Bahan Baku	NO	NO	NO	YES
+daun teratai 	Bahan Baku	NO	NO	NO	NO
+Daun Teratai (Lotus Leaf)	Bahan Baku	NO	NO	NO	YES
+Daun Ubi Merah (Red Sweet Potato Leaf)	Bahan Baku	NO	NO	NO	YES
+Dekstrin (Dextrin)	Bahan Baku	NO	NO	NO	YES
+Dekstrosa (Dextrose)	Bahan Baku	NO	NO	NO	YES
+Dekstrosa Anhidrat (Anhydrous Dextrose)	Bahan Baku	NO	NO	NO	YES
+Dekstrosa Bubuk (Dextrose Powder)	Bahan Baku	NO	NO	NO	YES
+Cabe Merah (Red Chili)	Bahan Baku	NO	NO	NO	YES
+CABE MERAH BESAR	Bahan Baku	NO	NO	NO	NO
+Cabe Merah Bubuk (Red Chili Powder)	Bahan Baku	NO	NO	NO	YES
+Cabe Rawit (Cayenne Pepper)	Bahan Baku	NO	NO	NO	YES
+Cabe Rawit Bubuk (Cayenne Pepper Powder)	Bahan Baku	NO	NO	NO	YES
+Cabe Rawit Hijau (Green Cayenne Pepper)	Bahan Baku	NO	NO	NO	YES
+Cabe Rawit Merah (Red Cayenne Pepper)	Bahan Baku	NO	NO	NO	YES
+Calcium Beta Hydroxy Beta Methylbutyrate (CaHMB)	Bahan Baku	NO	NO	NO	YES
+Campuran Buah Tropical Bubuk (Mixed Tropical Fruit Powder)	Bahan Baku	NO	NO	NO	YES
+Campuran Citrus Bubuk (Mixed Citrus Powder)	Bahan Baku	NO	NO	NO	YES
+Campuran Margarin dan Mentega (Blends of butter and margarine)	Bahan Baku	NO	NO	NO	YES
+camu-camu (Myrciaria dubia)	Bahan Baku	NO	NO	NO	NO
+Cangkang Rajungan (Crab Shells)	Bahan Baku	NO	NO	NO	YES
+Capers (Capers)	Bahan Baku	NO	NO	NO	YES
+CARAWAY (CARAWAY)	Bahan Baku	NO	NO	NO	NO
+Carob (Carob)	Bahan Baku	NO	NO	NO	YES
+CASSIA OBTUSIFOLIA	Bahan Baku	NO	NO	NO	NO
+CASSIA TORA	Bahan Baku	NO	NO	NO	NO
+Ceker Ayam	Bahan Baku	NO	NO	NO	YES
+Cempedak (Artocarpus integer)	Bahan Baku	NO	NO	NO	YES
+Cendol	Bahan Baku	NO	NO	NO	YES
+Cengkeh (Clove)	Bahan Baku	NO	NO	NO	YES
+CENGKEH BUBUK (CLOVE POWDER)	Bahan Baku	NO	NO	NO	YES
+CEPOKAK (COKOWANA, TERONG PIPIT)	Bahan Baku	NO	NO	NO	YES
+Ceremai (Phyllanthus acidus (L.) Skeells)	Bahan Baku	NO	NO	NO	YES
+Ceri Bubuk (Cherry Powder)	Bahan Baku	NO	NO	NO	YES
+CHAMOMILE	Bahan Baku	NO	NO	NO	NO
+Chicory (Cichorium intybus)	Bahan Baku	NO	NO	NO	YES
+Chlorella (Chlorella)	Bahan Baku	NO	NO	NO	YES
+Chutney (Chutney)	Bahan Baku	NO	NO	NO	YES
+CILANTRO	Bahan Baku	NO	NO	NO	NO
+CINCAU (JELLY GRASS)	Bahan Baku	NO	NO	NO	YES
+CINCAU HITAM (BLACK JELLY GRASS)	Bahan Baku	NO	NO	NO	YES
+CITRUS BIOFLAVONOID	Bahan Baku	NO	NO	NO	NO
+Citrus Fiber	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA SAPI (SEASONING BEEF FLAVOR)	Bahan Baku	NO	NO	NO	NO
+BUMBU RASA SAPI PANGGANG ( ROASTED BEEF FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+Bumbu Rasa Stroberi (Strawberry Flavored Seasoning)	Bahan Baku	NO	NO	NO	YES
+Bumbu Rasa Tomat (Tomato Flavored Seasoning)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA UDANG (SHRIMP FLAVORED SEASONING)	Bahan Baku	YES	YES	NO	YES
+BUMBU RAWON (RAWON SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU RENDANG (RENDANG SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU RICA- RICA (RICA-RICA SEASONING)	Bahan Baku	NO	NO	NO	YES
+Bumbu Rumput Laut (Seaweed Seasoning)	Bahan Baku	NO	NO	NO	YES
+BUMBU SAMBAL LIMAU (SAMBAL LIMAU SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU SAPI PANGGANG (ROAST BEEF MARINADE)	Bahan Baku	NO	NO	NO	NO
+Bumbu Sate (Satay Seasoning)	Bahan Baku	NO	NO	NO	YES
+Bumbu Sate Pedas (Spicy Satay Seasoning)	Bahan Baku	NO	NO	NO	YES
+Bumbu Sayuran (Vegetable Seasoning)	Bahan Baku	NO	NO	NO	YES
+Bumbu Seafood (Seafood Seasoning)	Bahan Baku	NO	NO	NO	YES
+Bumbu Sosis (Sausage Seasoning)	Bahan Baku	NO	NO	NO	YES
+Bumbu Soto (Soto Seasoning)	Bahan Baku	NO	NO	NO	YES
+Bumbu Sup (Soup Seasoning)	Bahan Baku	NO	NO	NO	YES
+BUMBU TOM YAM (TOM YAM SEASONING)	Bahan Baku	NO	NO	NO	YES
+Bumbu Tomat (Tomato Seasoning)	Bahan Baku	NO	NO	NO	YES
+Bumbu Tomat Pedas (Spicy Tomato Seasoning)	Bahan Baku	NO	NO	NO	YES
+BUMBU... (SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUNCIS BUBUK (GREEN BEAN POWDER)	Bahan Baku	NO	NO	NO	YES
+BUNCIS HIJAU (GREEN BEAN)	Bahan Baku	NO	NO	NO	YES
+BUNGA CAMOMILE (CHAMOMILE FLOWER)	Bahan Baku	NO	NO	NO	YES
+BUNGA CORNFLOWER (CENTAUREA CYANUS LYNN)	Bahan Baku	NO	NO	YES	YES
+Bunga Elder (Sambucus nigra)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA KALDU AYAM (CHICKEN BROTH FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA KARAMEL (CARAMEL FLAVOURED SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA KARAMEL BAWANG (CARAMELIZED ONION FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA KARI AYAM (CHICKEN CURRY FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA KEJU (CHEESE FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	NO
+BUMBU RASA KENTANG GORENG (FRENCH FRIES FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA LEMON (LEMON FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA MANIS PEDAS (SWEET AND SPICY FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA MUSTARD (MUSTARD FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA PEDAS (SPICY FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA PEDAS MANIS ASIN (SWEET, SPICY AND SALTY FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA PEPPERONI PIZZA (PEPPERONI PIZZA FLAVOR)	Bahan Baku	NO	NO	NO	NO
+BUMBU RASA PIZZA (PIZZA FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA RUMPUT LAUT (SEAWEED FLAVORED SEASONING )	Bahan Baku	NO	NO	NO	YES
+BUBUK LECI 	Bahan Baku	NO	NO	NO	NO
+Bubuk Mutiara (Pearl Powder)	Bahan Baku	NO	NO	YES	YES
+Bubuk Salmon (Salmon Powder)	Bahan Baku	NO	NO	NO	YES
+Bubur Beras (Rice Porridge)	Bahan Baku	NO	NO	NO	YES
+Bubur Beras Merah (Brown Rice Porridge)	Bahan Baku	NO	NO	NO	YES
+Bubur Buah Apel (Apple Pulp)	Bahan Baku	NO	NO	NO	YES
+Bubur Buah Aprikot (Apricot Pulp)	Bahan Baku	NO	NO	NO	YES
+Bubur Buah Arbei (Arbei Pulp)	Bahan Baku	NO	NO	NO	YES
+Bubur Buah Jambu (Guava Pulp)	Bahan Baku	NO	NO	NO	YES
+Bubur Buah Jambu Merah	Bahan Baku	NO	NO	NO	YES
+Bubur Buah Jeruk (Orange Pulp)	Bahan Baku	NO	NO	NO	YES
+Bubur Buah Lemon (Lemon Pulp)	Bahan Baku	NO	NO	NO	YES
+Bubur Buah Mangga (Mango Pulp)	Bahan Baku	NO	NO	NO	YES
+Bubur Buah Mulberry (Mulberry Pulp)	Bahan Baku	NO	NO	NO	YES
+Bubur Buah Nanas (Pineapple Pulp)	Bahan Baku	NO	NO	NO	YES
+Bubur Buah Persik (Peach Pulp)	Bahan Baku	NO	NO	NO	YES
+Bubur Buah Sirsak (Soursop Pulp)	Bahan Baku	NO	NO	NO	YES
+Bubur Buah Stroberi (Strawberry Pulp)	Bahan Baku	NO	NO	NO	YES
+Bubur Buah Tomat (Tomato Pulp)	Bahan Baku	NO	NO	NO	YES
+BUBUR GANDUM (WHEAT PORRIDGE)	Bahan Baku	NO	NO	NO	YES
+BUBUR KACANG (PEANUT PORRIDGE)	Bahan Baku	NO	NO	NO	YES
+BUBUR KACANG HIJAU (MUNGBEAN PORRIDGE)	Bahan Baku	NO	NO	NO	YES
+Bubur Kacang Merah (Red Bean Porridge)	Bahan Baku	NO	NO	NO	YES
+Bubur Kentang (Potato Pulp)	Bahan Baku	NO	NO	NO	YES
+BUBUR KULIT JERUK (ORANGE PEEL PULP)	Bahan Baku	NO	NO	NO	YES
+Bubur Labu Kuning (Pumpkin Porridge)	Bahan Baku	NO	NO	NO	YES
+Bubur Susu (Milk Porridge)	Bahan Baku	NO	NO	NO	YES
+BUCKWHEAT (BUCKWHEAT)	Bahan Baku	NO	NO	NO	NO
+BUCKWHEAT (BUCKWHEAT-FAGOPYRUM ESCULENTUM)	Bahan Baku	NO	NO	NO	YES
+Bulir Jeruk (Orange Pulp)	Bahan Baku	NO	NO	NO	YES
+Bulir Jeruk Valencia (Valencia Orange Pulp)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA KEJU (CHEESE FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU ABON AYAM (CHICKEN FLOSS SEASONING)	Bahan Baku	NO	NO	NO	YES
+Bumbu Abon Sapi (Beef Floss Seasoning)	Bahan Baku	NO	NO	NO	YES
+BUMBU ASAM MANIS (SWEET AND SOUR SEASONING)	Bahan Baku	NO	NO	NO	YES
+Bumbu Ayam (Chicken Seasoning)	Bahan Baku	NO	NO	NO	YES
+Bumbu Ayam Bawang (Garlic Chicken Seasoning)	Bahan Baku	NO	NO	NO	YES
+Bumbu Ayam Goreng (Fried Chicken Seasoning)	Bahan Baku	NO	NO	NO	YES
+Bumbu Ayam Pedas (Spicy Chicken Seasoning)	Bahan Baku	NO	NO	NO	YES
+Bumbu Balado (Balado Seasoning)	Bahan Baku	NO	NO	NO	YES
+Bumbu Barbekiu (Barbeque Seasoning)	Bahan Baku	NO	NO	NO	YES
+BUMBU BAWANG PEDAS (SPICY GARLIC SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU CUMI BAKAR (GRILLED SQUID SEASONING)	Bahan Baku	NO	NO	NO	YES
+Bumbu Daging Sapi (Beef Flavor)	Bahan Baku	NO	NO	NO	YES
+Bumbu Ekstrak Daging Ayam (Chicken Extract Seasoning)	Bahan Baku	NO	NO	YES	YES
+Bumbu Frankfurter (Frankfurter Seasoning)	Bahan Baku	NO	NO	NO	YES
+BUMBU GULAI (GULAI SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU IGA SAPI (SPICES OR SEASONING FOR BEEF RIBS)	Bahan Baku	NO	NO	NO	YES
+BUMBU IKAN TERI (ANCHOVY SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU JAGUNG (CORN SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU JAGUNG BAKAR (ROASTED CORN SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU KACANG MERAH (RED BEAN SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU KARI (CURRY SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU KARI DAGING (MEAT CURRY SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU KARI IKAN (FISH CURRY SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU KEJU BURGER (CHEESEBURGER SEASONING)	Bahan Baku	NO	NO	NO	YES
+Bumbu Kentang Barbekiu (Barbeque Potato Seasoning)	Bahan Baku	NO	NO	NO	YES
+BUMBU KIMCHI (KIMCHI SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU KRIM ASAM (SOUR CREAM SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU KRIM MENTEGA (BUTTERCREAM SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU MI GORENG (FRIED NOODLE SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU MINYAK UDANG (OIL SEASONING SHRIMP)	Bahan Baku	YES	YES	NO	YES
+BUMBU NGOHIONG (NGOHIONG SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU OPOR (OPOR SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU OTAK-OTAK (OTAK-OTAK SEASONING)	Bahan Baku	NO	NO	NO	YES
+Bumbu Pasta (Paste Seasoning)	Bahan Baku	NO	NO	NO	YES
+Bumbu Pedas (Spicy Seasoning)	Bahan Baku	NO	NO	NO	YES
+BUMBU PERENDAM (MARINADE SEASONING)	Bahan Baku	NO	NO	NO	YES
+Bumbu Petis Bubuk	Bahan Baku	NO	NO	NO	YES
+Bumbu Pizza (Pizza Seasoning)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA (FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA ASAM PEDAS (SOUR SPICY FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+Bumbu Rasa Ayam (Chicken Flavored Seasoning)	Bahan Baku	NO	NO	NO	YES
+Bumbu Rasa Ayam Bakar (Grilled Chicken Flavor Seasoning)	Bahan Baku	NO	NO	NO	YES
+Bumbu Rasa Ayam Panggang (Roasted Chicken Flavor Seasoning)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA BABI (PORK OR BACON FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA BALADO (BALADO FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA BAWANG (ONION FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA BAWANG PUTIH (GARLIC FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA COKELAT (CHOCOLATE FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA DAGING SAPI (BEEF FLAVORED SEASONING )	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA DENDENG (JERKY FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+BUMBU RASA IKAN (FISH FLAVORED SEASONING)	Bahan Baku	NO	NO	NO	YES
+ADAS PEDAS BUBUK-ADAS BUBUK-FENNEL POWDER (FOENICULUM VULGARE)	Bahan Baku	NO	NO	NO	YES
+Abalon (Abalone)	Bahan Baku	NO	NO	NO	YES
+Abon Ayam (Chicken Floss)	Bahan Baku	NO	NO	NO	YES
+Abon Babi (Pork Floss)	Bahan Baku	NO	NO	NO	YES
+ABON CAKALANG (SKIPJACK TUNA FLOSS)	Bahan Baku	NO	NO	NO	YES
+Abon Sapi (Beef Floss)	Bahan Baku	NO	NO	NO	YES
+Abon Sapi Pedas (Hot Beef Floss)	Bahan Baku	NO	NO	NO	YES
+Acar (Pickles)	Bahan Baku	NO	NO	NO	YES
+Acar Bawang Putih (Garlic Pickles)	Bahan Baku	NO	NO	NO	YES
+Acar Cabe (Chili Pickles)	Bahan Baku	NO	NO	NO	YES
+Acar Jahe (Ginger Pickles)	Bahan Baku	NO	NO	NO	YES
+Acar Mentimun-Ketimun (Cucumber Pickles)	Bahan Baku	NO	NO	NO	YES
+ACEROLA (ACEROLA)	Bahan Baku	NO	NO	NO	NO
+ACEROLA (MALPIGHIA GLABRA)- BARBADOS CHERRY-WEST INDIAN CHERRY-CEREZA-CERESIER-SEMERUCO-WILD CRAPEMYRTLE	Bahan Baku	NO	NO	NO	YES
+ACEROLA BUBUK (ACEROLA POWDER)	Bahan Baku	NO	NO	NO	NO
+ACEROLA EKSTRAK (ACEROLA EXTRACT)	Bahan Baku	NO	NO	NO	NO
+ADAS (FENNEL)	Bahan Baku	NO	NO	NO	NO
+ADAS MANIS BUBUK-ANIS POWDER (PIMPINELLA ANISUM)	Bahan Baku	NO	NO	NO	YES
+Adas Manis-Anis (Pimpinella anisum)	Bahan Baku	NO	NO	NO	YES
+ADAS PEDAS - ADAS - FENNEL (FOENICULUM VULGARE)	Bahan Baku	NO	NO	NO	YES
+ADAS SOWA-DILL (ANETHUM GRAVEOLENS L.)	Bahan Baku	NO	NO	NO	YES
+ADENOSIN 5-MONOFOSFAT (ADENOSINE 5-MONOPHOSPHATE)	Bahan Baku	NO	NO	NO	YES
+Adonan (Dough)	Bahan Baku	NO	NO	NO	YES
+AGAR-AGAR (AGAR)	Bahan Baku	NO	NO	NO	NO
+AGAR-AGAR BUBUK (AGAR POWDER)	Bahan Baku	NO	NO	NO	YES
+Air (Water)	Bahan Baku	NO	NO	NO	YES
+Air Berkarbonat (Carbonated Water)	Bahan Baku	NO	NO	NO	YES
+Air Dadih (Whey)	Bahan Baku	NO	NO	NO	YES
+Air Deionisasi (Deionized Water)	Bahan Baku	NO	NO	NO	YES
+AIR DEMINERALISASI (DEMINERALIZED WATER)	Bahan Baku	NO	NO	NO	YES
+Air Es (Cold Water)	Bahan Baku	NO	NO	NO	YES
+Air Kaldu (Broth)	Bahan Baku	NO	NO	NO	YES
+AIR KELAPA (COCONUT WATER-COCONUT JUICE)	Bahan Baku	NO	NO	NO	YES
+Air Mineral (Mineral Water)	Bahan Baku	NO	NO	NO	YES
+Air Soda (Soda Water)	Bahan Baku	NO	NO	NO	YES
+Air Suling (Distilled Water)	Bahan Baku	NO	NO	NO	YES
+AKAR BUNGA TERATAI (LOTUS ROOT)	Bahan Baku	NO	NO	NO	NO
+Akar Chicory (Chicory Root)	Bahan Baku	NO	NO	NO	YES
+Akar Ginseng (Panax Ginseng C.A Meyer)	Bahan Baku	NO	NO	YES	YES
+Akar Ginseng (Panax Quinquefolius-American Ginseng)	Bahan Baku	NO	NO	YES	YES
+Akar Ketumbar (Coriander Root)	Bahan Baku	NO	NO	NO	YES
+AKAR TERATAI BUBUK -LOTUS ROOT POWDER(NELUMBIUM NELUMBO DRUCE; NELUMBIUM NUCIFERUM) 	Bahan Baku	NO	NO	NO	YES
+Alanin (Alanine)	Bahan Baku	NO	NO	NO	YES
+Albumin (Albumine)	Bahan Baku	NO	NO	NO	YES
+ALFA KAROTEN	Bahan Baku	NO	NO	NO	YES
+Alfa Laktalbumin (Alpha-Lactalbumin)	Bahan Baku	NO	NO	NO	YES
+Alfa Tokoferol (Alpha-Tocopherol)	Bahan Baku	NO	NO	NO	YES
+ALFA-AMILASE (ALPHA-AMYLASE)	Bahan Baku	NO	NO	NO	YES
+ALFALFA (ALFALFA)	Bahan Baku	NO	NO	NO	NO
+Alga Merah (Red Algae)	Bahan Baku	NO	NO	NO	YES
+Alga Merah Lithothamnion (Lithothamnion Red Algae) (Kecuali Pangan Untuk Keperluan Gizi Khusus)	Bahan Baku	NO	NO	NO	YES
+ALGINAT (ALGINATE)	Bahan Baku	NO	NO	NO	YES
+Alkohol (Alcohol)	Bahan Baku	NO	NO	NO	YES
+Allulosa (Allulose)	Bahan Baku	NO	NO	NO	YES
+Almond Bubuk (Almond Powder)	Bahan Baku	NO	NO	NO	YES
+Almond Butiran (Almond Granules)	Bahan Baku	NO	NO	NO	YES
+Almond Panggang (Roasted Almond)	Bahan Baku	NO	NO	NO	YES
+Alpukat (Avocado)	Bahan Baku	NO	NO	NO	YES
+Alpukat Bubuk (Avocado Powder)	Bahan Baku	NO	NO	NO	YES
+Alpukat Pasta (Avocado Paste)	Bahan Baku	NO	NO	NO	YES
+AMONIAK (AMMONIA)	Bahan Baku	NO	NO	NO	NO
+AMONIAK CAIR (LIQUID AMMONIA)	Bahan Baku	NO	NO	NO	NO
+Ampela (Gizzard)	Bahan Baku	NO	NO	NO	YES
+ANDALIMAN (ZANTHOXYLUM ACANTHOPODIUM)	Bahan Baku	NO	NO	NO	YES
+ANDALIMAN BUBUK - ANDALIMAN POWDER (ZANTHOXYLUM ACANTHOPODIUM)	Bahan Baku	NO	NO	NO	YES
+ANEKA BUAH BERI (MIX BERRIES)	Bahan Baku	NO	NO	NO	YES
+Anggur (Wine)	Bahan Baku	NO	NO	NO	YES
+Anggur Beras (Rice Wine)	Bahan Baku	NO	NO	NO	YES
+Anggur Merah (Red Wine)	Bahan Baku	NO	NO	NO	YES
+Anggur Putih (White Wine)	Bahan Baku	NO	NO	NO	YES
+ANGGUR PUTIH BUBUK	Bahan Baku	NO	NO	NO	NO
+Apel Bubuk (Apple Powder)	Bahan Baku	NO	NO	NO	YES
+Apel Kering (Dried Apple)	Bahan Baku	NO	NO	NO	YES
+Aprikot (Apricot)	Bahan Baku	NO	NO	NO	YES
+AQUAMIN F	Bahan Baku	NO	NO	NO	NO
+Arak Beras (Rice Wine)	Bahan Baku	NO	NO	NO	YES
+ARAK BERAS KETAN (GLUTINOUS RICE WINE)	Bahan Baku	NO	NO	NO	YES
+ARANG AKTIF (ACTIVATED CARBON)	Bahan Baku	NO	NO	NO	NO
+ARGININ (ARGININE)	Bahan Baku	NO	NO	YES	YES
+Artichoke (Artichoke)	Bahan Baku	NO	NO	NO	YES
+Arugula (Eruca Sativa)	Bahan Baku	NO	NO	NO	YES
+Asafoetida	Bahan Baku	NO	NO	NO	YES
+Asam Amino Premiks (Amino Acid Premix)	Bahan Baku	NO	NO	NO	YES
+ASAM ARAKHIDONAT -ARA-AA (DARI MINYAK LAIN)	Bahan Baku	NO	NO	NO	YES
+ASAM ARAKHIDONAT-ARA-AA (DARI MINYAK SEL TUNGGAL)	Bahan Baku	NO	NO	NO	YES
+ASAM ASETAT GLASIAL (GLACIAL ACETIC ACID)	Bahan Baku	NO	NO	NO	YES
+Asam Folat (Folic Acid)	Bahan Baku	NO	NO	NO	YES
+Asam Fosfat (Acid Phosphoric)	Bahan Baku	NO	NO	NO	YES
+ASAM GELUGUR (GARCINIA ATROVIRIDIS)	Bahan Baku	NO	NO	NO	YES
+ASAM JAWA BUBUK-TAMARIND POWDER (TAMARINDUS INDICA)	Bahan Baku	NO	NO	NO	YES
+ASAM JAWA-TAMARIND (TAMARINDUS INDICA)	Bahan Baku	NO	NO	NO	YES
+ASAM KANDIS (GARCINIA XANTHOCHYMUS)	Bahan Baku	NO	NO	NO	YES
+Asam Linoleat (Linoleic Acid)	Bahan Baku	NO	NO	NO	YES
+Asam Linoleat Terkonjugasi (Conjugated Linoleic Acid)	Bahan Baku	NO	NO	NO	YES
+Asam Nukleat (Nucleic Acid)	Bahan Baku	NO	NO	NO	YES
+Asam Oktanoat (Octanoate Acid)	Bahan Baku	NO	NO	NO	YES
+ASAM OLEAT (OLEIC ACID)	Bahan Baku	NO	NO	NO	YES
+Asam Palmitat (Palmitic Acid)	Bahan Baku	NO	NO	NO	YES
+Asam Stearat (Stearic Acid)	Bahan Baku	NO	NO	NO	YES
+Asam Sulfat (Sulfic Acid)	Bahan Baku	NO	NO	NO	YES
+ASKORBIL PALMITAT (ASCORBYL PALMITATE)	Bahan Baku	NO	NO	NO	YES
+ASPARAGUS (ASPARAGUS OFFICINALIS)	Bahan Baku	NO	NO	NO	YES
+Asparagus Laut (Sea Asparagus)	Bahan Baku	NO	NO	NO	YES
+Asparagus Putih (White Asparagus)	Bahan Baku	NO	NO	NO	YES
+ASPERGILLUS ORYZAE	Bahan Baku	NO	NO	NO	YES
+ASTRAGALI	Bahan Baku	NO	NO	NO	NO
+ASTRAGALUS	Bahan Baku	NO	NO	NO	NO
+Ayam Bubuk (Chicken Powder)	Bahan Baku	NO	NO	NO	YES
+Ayam Suwir	Bahan Baku	NO	NO	NO	YES
+Babat Sapi	Bahan Baku	NO	NO	NO	YES
+BACILLUS COAGULANS GBI-30 6086 (GANEDEN BC30)	Bahan Baku	NO	NO	YES	YES
+BACILLUS COAGULANS MTCC 5856	Bahan Baku	NO	NO	YES	YES
+BAHAN HERBAL LAINNYA	Bahan Baku	NO	NO	NO	NO
+Bahan Perisa (Flavoring Substances)	Bahan Baku	NO	NO	NO	NO
+Bakso Ayam (Chicken Meatball)	Bahan Baku	NO	NO	NO	YES
+Bakso Ikan (Fish Meatball)	Bahan Baku	NO	NO	NO	YES
+Bakso Sapi (Beef Meatball)	Bahan Baku	NO	NO	NO	YES
+BALM (MELISSA OFFICINALIS L)	Bahan Baku	NO	NO	NO	NO
+Barley (Barley)	Bahan Baku	NO	NO	NO	YES
+BARLEY (KOJI)	Bahan Baku	NO	YES	NO	NO
+Barley grass ( Hordeum vulgare L)	Bahan Baku	NO	NO	YES	YES
+Barley Malt (Barley Malt)	Bahan Baku	NO	NO	NO	YES
+Barley Panggang (Roasted Barley)	Bahan Baku	NO	NO	NO	YES
+Barley Serpihan (Barley Flakes)	Bahan Baku	NO	NO	NO	YES
+BASIL (BASIL)	Bahan Baku	NO	NO	NO	NO
+BASIL BUBUK-BASIL POWDER (OCIMUM BASILICUM)	Bahan Baku	NO	NO	NO	YES
+Bawang Bombay (Onion)	Bahan Baku	NO	NO	NO	YES
+Bawang Bombay Bubuk (Onion Powder)	Bahan Baku	NO	NO	NO	YES
+Bawang Bombay Kering (Dried Onion)	Bahan Baku	NO	NO	NO	YES
+BAWANG DAUN (CHIVES)	Bahan Baku	NO	NO	NO	NO
+BAWANG MERAH (RED ONION-SHALLOT)	Bahan Baku	NO	NO	NO	YES
+BAWANG MERAH BUBUK (RED ONION POWDER - SHALLOT POWDER)	Bahan Baku	NO	NO	NO	YES
+BAWANG MERAH GORENG (FRIED RED ONION - FRIED SHALLOT)	Bahan Baku	NO	NO	NO	YES
+Bawang Putih (Garlic)	Bahan Baku	NO	NO	NO	YES
+Bawang Putih Bubuk (Garlic Powder)	Bahan Baku	NO	NO	NO	YES
+BAWANG PUTIH GILING (GRINDED GARLIC)	Bahan Baku	NO	NO	NO	YES
+Bawang Putih Goreng (Fried Garlic)	Bahan Baku	NO	NO	NO	YES
+Bawang Putih Kering (Dried Garlic)	Bahan Baku	NO	NO	NO	YES
+Bawang Putih Serpihan (Garlic Flakes)	Bahan Baku	NO	NO	NO	YES
+Bayam (Spinach)	Bahan Baku	NO	NO	NO	YES
+Bayam Bubuk (Spinach Powder)	Bahan Baku	NO	NO	NO	YES
+BEE POLLEN (KHUSUS MADU)	Bahan Baku	NO	NO	NO	YES
+Bekatul Beras (Rice Bran)	Bahan Baku	NO	NO	NO	YES
+BEKICOT (SNAIL)	Bahan Baku	NO	NO	NO	YES
+BELIMBING WULUH (AVERRHOA BILIMBI)	Bahan Baku	NO	NO	NO	YES
+Belut (Eel)	Bahan Baku	NO	NO	NO	YES
+benang sari teratai	Bahan Baku	NO	NO	NO	NO
+Bengkuang - Sengkuang (Yam Bean)	Bahan Baku	NO	NO	NO	YES
+BERANGAN (MALAYAN CHESTNUT)	Bahan Baku	NO	NO	NO	YES
+Beras (Rice)	Bahan Baku	NO	NO	NO	YES
+Beras Butiran (Rice Grains)	Bahan Baku	NO	NO	NO	YES
+Beras Cokelat (Brown Rice)	Bahan Baku	NO	NO	NO	YES
+Beras Hitam (Black Rice)	Bahan Baku	NO	NO	NO	YES
+Beras Instan (Instant Rice)	Bahan Baku	NO	NO	NO	YES
+BERAS KEPALA	Bahan Baku	NO	NO	NO	YES
+Beras Ketan (Glutinous Rice)	Bahan Baku	NO	NO	NO	YES
+Beras Ketan Hitam (Black Glutinous Rice)	Bahan Baku	NO	NO	NO	YES
+Beras Ketan Putih (White Glutinous Rice)	Bahan Baku	NO	NO	NO	YES
+Beras Merah (Brown Rice)	Bahan Baku	NO	NO	NO	YES
+Beras Merah Krispi (Brown Rice Crispy)	Bahan Baku	NO	NO	NO	YES
+Beras Merah Utuh (Whole Brown Rice)	Bahan Baku	NO	NO	NO	YES
+Beras Pandan Wangi	Bahan Baku	NO	NO	NO	YES
+Beras Panggang (Roasted Rice)	Bahan Baku	NO	NO	NO	YES
+Beras Utuh (Whole Rice)	Bahan Baku	NO	NO	NO	YES
+Besi Bisglisinat (Ferrous bisglycinate) 	Bahan Baku	NO	NO	NO	YES
+BESI FOSFAT (FERROUS PHOSPHATE)	Bahan Baku	NO	NO	NO	YES
+BESI FUMARAT (FERROUS FUMARATE)	Bahan Baku	NO	NO	NO	YES
+Besi Glukonat	Bahan Baku	NO	NO	NO	YES
+BESI LAKTAT (FERROUS LACTATE)	Bahan Baku	NO	NO	NO	YES
+BESI ORTOFOSFAT (FERROUS ORTHOPHOSPHATE)	Bahan Baku	NO	NO	NO	YES
+BESI PIROFOSFAT (FERROUS PYROPHOSPHATE)	Bahan Baku	NO	NO	NO	YES
+Besi Sitrat (Ferrous Citrate)	Bahan Baku	NO	NO	NO	YES
+BESI SULFAT (FERROUS SULPHATE)	Bahan Baku	NO	NO	NO	YES
+BESI SULFATE (FERROUS SULPHATE)	Bahan Baku	NO	NO	NO	NO
+BESI TRIOKSIDA (FERROUS TRIOXIDE)	Bahan Baku	NO	NO	NO	YES
+BETA GLUKAN DARI SACCHAROMYCES CEREVISIAE	Bahan Baku	NO	NO	YES	YES
+BETA KAROTEN (BETA-CAROTENE)	Bahan Baku	NO	NO	NO	YES
+Bifidobacterium Animalis	Bahan Baku	NO	NO	NO	YES
+Bifidobacterium longum NCC 3001	Bahan Baku	NO	NO	NO	YES
+Bifidobakterium Breve	Bahan Baku	NO	NO	NO	YES
+Bifidobakterium Laktis	Bahan Baku	NO	NO	NO	YES
+Bifidobakterium Longum	Bahan Baku	NO	NO	NO	YES
+Bihun (Vermicelli)	Bahan Baku	NO	NO	NO	YES
+Bihun Kentang (Potato Vermicelli)	Bahan Baku	NO	NO	NO	YES
+Biji Amaranthus hypochondriacus	Bahan Baku	NO	NO	NO	YES
+BIJI ANGGUR (GRAPE SEED)	Bahan Baku	NO	NO	NO	YES
+Biji Aprikot (Apricot Seed)	Bahan Baku	NO	NO	NO	YES
+Biji Blond Grain Husk (Semen Triticum aestivum)	Bahan Baku	NO	NO	NO	YES
+BIJI BUNCIS (BAKED BEAN)	Bahan Baku	NO	NO	NO	NO
+Biji Bunga Matahari (Sunflower Seed)	Bahan Baku	NO	NO	NO	YES
+BIJI BUNGA TERATAI-LOTUS SEED (NELUMBIUM NELUMBO DRUCE; NELUMBIUM NUCIFERUM)	Bahan Baku	NO	NO	NO	YES
+Biji Cabe (Chili Seed)	Bahan Baku	NO	NO	NO	YES
+BIJI CARAWAY (CARAWAY SEED)	Bahan Baku	NO	NO	NO	NO
+BIJI CHIA (SALVIA HISPANICA)	Bahan Baku	NO	NO	YES	YES
+BIJI COKELAT-BIJI KAKAO (COCOA BEAN)	Bahan Baku	NO	NO	NO	YES
+Biji Delima (Pomegranate Seed)	Bahan Baku	NO	NO	NO	YES
+Biji Kopi (Coffee Bean)	Bahan Baku	NO	NO	NO	YES
+Biji Kopi Arabika (Arabica Coffee Bean)	Bahan Baku	NO	NO	NO	YES
+Biji Kopi Hijau (Green Coffee Bean)	Bahan Baku	NO	NO	NO	YES
+Biji Kopi Panggang (Roasted Coffee Bean)	Bahan Baku	NO	NO	NO	YES
+Biji Kopi Robusta (Robusta Coffee Bean)	Bahan Baku	NO	NO	NO	YES
+Biji Labu (Pumpkin Seed)	Bahan Baku	NO	NO	NO	YES
+Biji Labu Putih	Bahan Baku	NO	NO	NO	YES
+Biji Leci (Lychee Seed)	Bahan Baku	NO	NO	NO	YES
+Biji Lin (Lin Seed)	Bahan Baku	NO	NO	NO	YES
+BIJI LUPIN (LUPIN BEAN)	Bahan Baku	NO	NO	NO	YES
+Biji Melinjo - Belinjo (Gnetum gnemon)	Bahan Baku	NO	NO	NO	YES
+Biji Melon (Melon Seeds)	Bahan Baku	NO	NO	NO	YES
+Biji Mustard (Mustard Seed)	Bahan Baku	NO	NO	NO	YES
+Biji Pala (Nutmeg)	Bahan Baku	NO	NO	NO	YES
+BIJI PERILLA - PERILLA SEED	Bahan Baku	NO	NO	NO	YES
+Biji Pinus (Pinecone)	Bahan Baku	NO	NO	NO	YES
+BIJI PLANTAGO	Bahan Baku	NO	NO	NO	NO
+BIJI POPPY (PAPAVER SOMNIFERUM)	Bahan Baku	NO	NO	NO	NO
+BIJI QUINOA (CHENOPODIUM QUINOA WILLDENOW)	Bahan Baku	NO	NO	NO	YES
+Biji Rami (Flaxseed)	Bahan Baku	NO	NO	NO	YES
+Biji Rami Bubuk (Flaxseed Powder)	Bahan Baku	NO	NO	NO	YES
+BIJI SAFFLOWER	Bahan Baku	NO	NO	NO	NO
+Biji Salak Bubuk (Salak Seed Powder)	Bahan Baku	NO	NO	NO	YES
+Biji Sawi (Mustard Green Seed)	Bahan Baku	NO	NO	NO	YES
+Biji Selasih (Basil Seed)	Bahan Baku	NO	NO	NO	YES
+Biji Seledri (Celery Seed)	Bahan Baku	NO	NO	NO	YES
+Biji Semangka (Watermelon Seed)	Bahan Baku	NO	NO	NO	YES
+Biji Teff (Teff Grain)	Bahan Baku	NO	NO	NO	YES
+BIJI VANILA (VANILA BEAN)	Bahan Baku	NO	NO	NO	YES
+BIOTIN	Bahan Baku	NO	NO	NO	NO
+Bir (Beer)	Bahan Baku	NO	NO	NO	YES
+BISKUIT (BISCUIT)	Bahan Baku	NO	NO	NO	YES
+Bit (Beetroot)	Bahan Baku	NO	NO	NO	YES
+Bit Bubuk (Beetroot Powder)	Bahan Baku	NO	NO	NO	YES
+Bit Merah (Red Beetroot)	Bahan Baku	NO	NO	NO	YES
+Bit Merah Bubuk (Red Beetroot Powder)	Bahan Baku	NO	NO	NO	YES
+BLACKCURRANT BUBUK (BLACKCURRANT POWDER)	Bahan Baku	NO	NO	NO	YES
+Blondo / Galendo	Bahan Baku	NO	NO	NO	YES
+BLUEBERRY KERING (DRIED BLUEBERRY)	Bahan Baku	NO	NO	NO	YES
+BLUEBERRY PASTA (BLUEBERRY PASTE)	Bahan Baku	NO	NO	NO	YES
+Bonggol Pisang	Bahan Baku	NO	NO	NO	YES
+Brandy (Brandy)	Bahan Baku	NO	NO	NO	YES
+Brem	Bahan Baku	NO	NO	NO	YES
+Brokoli (Brocoli)	Bahan Baku	NO	NO	NO	YES
+BROKOLI BUBUK (BROCCOLI POWDER)	Bahan Baku	NO	NO	NO	YES
+BUAH ACAI BERRY (EUTERPE OLERACEA)	Bahan Baku	NO	NO	NO	YES
+Buah Anggur (Grape)	Bahan Baku	NO	NO	NO	YES
+Buah Anggur Bubuk (Grape Powder)	Bahan Baku	NO	NO	NO	YES
+BUAH ANGGUR KERING (DRIED GRAPES)	Bahan Baku	NO	NO	NO	YES
+Buah Anggur Merah Bubuk (Red Grape Powder)	Bahan Baku	NO	NO	NO	YES
+Buah Apel (Apple)	Bahan Baku	NO	NO	NO	YES
+Buah Apel Hijau (Green Apple)	Bahan Baku	NO	NO	NO	YES
+Buah Apel Merah (Red Apple)	Bahan Baku	NO	NO	NO	YES
+BUAH ARA (BUAH FIG, BUAH TIN)	Bahan Baku	NO	NO	NO	YES
+BUAH ARONIA BUBUK - ARONIA BERRY POWDER)	Bahan Baku	NO	NO	NO	YES
+BUAH ATAP	Bahan Baku	NO	NO	NO	NO
+BUAH BAKU	Bahan Baku	NO	NO	NO	NO
+Buah Belimbing (Starfruit)	Bahan Baku	NO	NO	NO	YES
+Buah Beri (Berry)	Bahan Baku	NO	NO	NO	YES
+Buah Beri Hitam (Blackberry)	Bahan Baku	NO	NO	NO	YES
+Buah Beri Merah (Redberry)	Bahan Baku	NO	NO	NO	YES
+BUAH BILBERRY (BILBERRY)	Bahan Baku	NO	NO	NO	YES
+Buah Blackcurrant (Blackcurrant)	Bahan Baku	NO	NO	NO	YES
+BUAH BLUEBERRY (BLUEBERRY)	Bahan Baku	NO	NO	NO	YES
+Buah Boysenberry (Boysenberry)	Bahan Baku	NO	NO	NO	YES
+BUAH BUBUK (FRUIT POWDER)	Bahan Baku	NO	NO	NO	YES
+Buah Ceri (Cherry)	Bahan Baku	NO	NO	NO	YES
+Buah Ceri Hitam (Black Cherry)	Bahan Baku	NO	NO	NO	YES
+Buah Ceri Merah (Red Cherry)	Bahan Baku	NO	NO	NO	YES
+BUAH CRANBERRY (CRANBERRY)	Bahan Baku	NO	NO	NO	YES
+Buah Delima (Pomegranate)	Bahan Baku	NO	NO	NO	YES
+BUAH DHAL BUBUK (DHAL POWDER)	Bahan Baku	NO	NO	NO	NO
+Buah Durian (Durian)	Bahan Baku	NO	NO	NO	YES
+BUAH DURIAN MONTHONG (DURIAN MONTHONG)	Bahan Baku	NO	NO	NO	NO
+BUAH ELDERBERRY (ELDERBERRY)	Bahan Baku	NO	NO	NO	YES
+BUAH FRAMBOZEN (FRAMBOZEN)	Bahan Baku	NO	NO	NO	NO
+BUAH GAC (MOMORDICA COCHINCHINENSIS)	Bahan Baku	NO	NO	NO	YES
+BUAH GOJI BERRY - BARBARY WOLFBERRY	Bahan Baku	NO	NO	NO	YES
+BUAH HAW (HAWTHORN BERRY)	Bahan Baku	NO	NO	NO	YES
+BUAH KERING (DRIED FRUIT)	Bahan Baku	NO	NO	NO	YES
+Buah Kesemek	Bahan Baku	NO	NO	NO	YES
+Buah Kundur	Bahan Baku	NO	NO	NO	YES
+Buah Leci (Lychee)	Bahan Baku	NO	NO	NO	YES
+Buah Leci Bubuk (Lychee Powder)	Bahan Baku	NO	NO	NO	YES
+Buah Mulberry (Mulberry)	Bahan Baku	NO	NO	NO	YES
+Buah Naga (Dragonfruit)	Bahan Baku	NO	NO	NO	YES
+Buah Pala (Myristica Fragran)	Bahan Baku	NO	NO	NO	YES
+BUAH PAW PAW (ASIMINA TRILOBA)	Bahan Baku	NO	NO	NO	YES
+Buah Pepaya (Papaya)	Bahan Baku	NO	NO	NO	YES
+Buah Pepaya Kuning (Golden Papaya)	Bahan Baku	NO	NO	NO	YES
+Buah Pepaya Merah (Red Papaya)	Bahan Baku	NO	NO	NO	YES
+Buah Persik (Peach)	Bahan Baku	NO	NO	NO	YES
+Buah Prune (Prune)	Bahan Baku	NO	NO	NO	YES
+Buah Prune Kering (Dried Prune)	Bahan Baku	NO	NO	NO	YES
+BUAH RASPBERRY (FRAMBOZEN)	Bahan Baku	NO	NO	NO	YES
+Buah Redcurrant (Redcurrant)	Bahan Baku	NO	NO	NO	YES
+Buah Stroberi (Strawberry)	Bahan Baku	NO	NO	NO	YES
+Buah Stroberi Bubuk (Strawberry Powder)	Bahan Baku	NO	NO	NO	YES
+Buah Sukun (Breadfruit)	Bahan Baku	NO	NO	NO	YES
+Buah Zaitun (Olive)	Bahan Baku	NO	NO	NO	YES
+Buah Zaitun Hijau (Green Olive)	Bahan Baku	NO	NO	NO	YES
+Buah Zaitun Hijau Tanpa Biji (Seedless Green Olive)	Bahan Baku	NO	NO	NO	YES
+Buah Zaitun Hitam (Black Olive)	Bahan Baku	NO	NO	NO	YES
+Buah Zaitun Hitam Tanpa Biji (Seedless Black Olive)	Bahan Baku	NO	NO	NO	YES
+Buah Zaitun Kalamata (Kalamata Olive)	Bahan Baku	NO	NO	NO	YES
+Buah Zukini (Zucchini atau Courgette)	Bahan Baku	NO	NO	NO	YES
+GLISEROL (GLYCEROL)	Bahan Tambahan Pangan	NO	NO	NO	NO
+NATRIUM BENZOAT (SODIUM BENZOATE)	Bahan Tambahan Pangan	NO	NO	NO	NO
+NATRIUM POLIFOSFAT (SODIUM POLYPHOSPHATE)	Bahan Tambahan Pangan	NO	NO	NO	NO
+STEVIA (STEVIA)	Bahan Tambahan Pangan	NO	NO	NO	NO
