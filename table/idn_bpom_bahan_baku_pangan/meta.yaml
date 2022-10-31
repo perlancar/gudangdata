@@ -2,14 +2,14 @@ summary: Ingredients in BPOM processed food division
 summary.alt.lang.id_ID: Bahan baku di BPOM pangan olahan
 fields:
   id:
-    schema: 'uint*',
+    schema: 'uint*'
     pos: 0
     summary: "ID"
     "summary.alt.lang.id": "ID"
     sortable: Yes
     unique: Yes
   name:
-    schema: 'str*',
+    schema: 'str*'
     pos: 1
     summary: "Name of ingredient"
     "summary.alt.lang.id": "Nama bahan"
@@ -24,9 +24,17 @@ fields:
     sortable: Yes
     filterable_regex: Yes
     unique: No
-  country_of_origin:
+  origin:
     schema: "str*"
     pos: 3
+    summary: "Origin"
+    "summary.alt.lang.id": "Asal bahan"
+    sortable: Yes
+    filterable_regex: Yes
+    unique: No
+  country_of_origin:
+    schema: "str*"
+    pos: 4
     summary: "Country of origin"
     "summary.alt.lang.id": "Negara asal"
     sortable: Yes
@@ -34,7 +42,7 @@ fields:
     unique: No
   is_herbal:
     schema: "str*"
-    pos: 4
+    pos: 5
     summary: "Herbal?"
     "summary.alt.lang.id": "Herbal?"
     sortable: Yes
@@ -42,7 +50,7 @@ fields:
     unique: No
   status:
     schema: "str*"
-    pos: 5
+    pos: 6
     summary: "Status"
     "summary.alt.lang.id": "Status"
     sortable: Yes
