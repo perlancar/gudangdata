@@ -1,0 +1,20 @@
+summary: Additives in BPOM processed food division
+summary.alt.lang.id_ID: Bahan tambahan pangan di BPOM pangan olahan
+fields:
+  id:
+    schema: 'str*'
+    pos: 0
+    summary: "Name"
+    "summary.alt.lang.id": "Nama"
+    sortable: Yes
+    filterable_regex: Yes
+    unique: Yes
+  name:
+    schema: 'str*'
+    pos: 1
+    summary: "Name"
+    "summary.alt.lang.id": "Nama"
+    sortable: Yes
+    filterable_regex: Yes
+    unique: Yes
+pk: id
