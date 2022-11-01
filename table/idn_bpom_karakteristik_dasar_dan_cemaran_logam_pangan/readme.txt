@@ -2,6 +2,6 @@
 
 * Tentang tabel ini
 
-Referensi cemaran logam (dan lainnya) untuk pangan olahan BPOM.
+Referensi karakteristik dasar dan cemaran logam untuk pangan olahan BPOM.
 
 Referensi: https://e-reg.pom.go.id/

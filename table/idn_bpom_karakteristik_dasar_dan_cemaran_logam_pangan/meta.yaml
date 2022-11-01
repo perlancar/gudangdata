@@ -1,5 +1,5 @@
-summary: Microbe specification in BPOM processed food division
-summary.alt.lang.id_ID: Cemaran mikroba di BPOM pangan olahan
+summary: Basic characteristics and heavy-metal pollutants in BPOM processed food division
+summary.alt.lang.id_ID: Karakteristik dasar dan cemaran logam di BPOM pangan olahan
 fields:
   id:
     schema: 'uint*'
