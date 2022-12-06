@@ -23,6 +23,7 @@ my $script = $0;
 $script =~ s!.+[/\\]!!;
 
 my %opts;
+$opts{use_data_section} = 1 if $0 =~ /data-section/;
 GetOptions(
     'use-data-section!' => \$opts{use_data_section},
 ) or die "Error in GetOptions()";
