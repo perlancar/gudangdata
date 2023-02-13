@@ -1,0 +1,29 @@
+#!/usr/bin/env perl
+
+use 5.014;
+use strict;
+use warnings;
+use Log::ger::Screen;
+
+use File::Slurper qw(read_text);
+use Text::CSV;
+
+sub _oneline {
+    my $text = shift;
+    $text =~ s/\R/ /g;
+    $text;
+}
+
+my $html = read_text("kategoripangan");
+my $csv = Text::CSV->new({binary=>1});
+
+while ($html =~ m!
+                  <tr>\s*
+                  <td>(\d+)</td>\s*
+                  <td>(.+?)</td>\s*
+                  <td>(.+?)</td>\s*
+                  <td>(.+?)</td>\s*
+                  </tr>
+                 !gmsx) {
+    $csv->say(\*STDOUT, [$1, _oneline($2), _oneline($3), $4]);
+}

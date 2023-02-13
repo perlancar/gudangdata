@@ -1,0 +1,9 @@
+#!/usr/bin/env perl
+
+die "Currently done manually by retrieving
+
+https://ereg-rba.pom.go.id/front/kategoripangan
+
+then using the raw/parse script.
+
+";
