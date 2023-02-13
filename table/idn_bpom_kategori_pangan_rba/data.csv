@@ -204,13 +204,10 @@
 030000000014,"Premiks Es Bentuk Cair ","Premiks es bentuk cair adalah produk berbentuk cair yang digunakan untuk membuat produk es kategori 03.0.",Aktif
 030000000015,"Sediaan Cair Yang Akan Dikonsumsi Dalam Keadaan Beku","Sediaan cair yang akan dikonsumsi dalam keadaan beku adalah sediaan cair dari produk es kategori 03.0 yang akan dikonsumsi dalam keadaan beku.",Aktif
 040102010001,"Buah Beku dengan Penambahan Bahan Pangan Lain","Untuk memfasilitasi pendaftaran pangan olahan selain PSAT",Aktif
-040102020001,"Buah Kering","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>040102020002","Buah Kering Campur</td>
-                  <td></td>
-                  <td>Aktif"
-040102020003,Kopra,"</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>040102020004","Kelapa Parut Kering</td>
-                  <td>Buah asin adalah produk buah yang diperoleh dari proses
-penggaraman buah atau perendaman buah dalam larutan garam.</td>
-                  <td>Aktif"
+040102020001,"Buah Kering",,Aktif
+040102020002,"Buah Kering Campur",,Aktif
+040102020003,Kopra,,Nonaktif
+040102020004,"Kelapa Parut Kering","Buah asin adalah produk buah yang diperoleh dari proses penggaraman buah atau perendaman buah dalam larutan garam.",Aktif
 040102020005,"Santan Bubuk","Asinan buah adalah produk buah yang diperoleh dari satu jenis atau lebih buah segar dan/atau manisan buah, dengan atau tanpa bahan pangan yang diberi kuah yang dibuat dari gula, cuka dan bahan pangan lain.",Aktif
 040102020006,"Tepung Buah","Rujak adalah produk buah yang diperoleh dari satu jenis atau lebih buah segar, dengan atau tanpa bahan pangan lain, yang diberi kuah kental yang terbuat dari gula merah dan/atau bahan pangan lain.",Aktif
 040102030001,"Buah Asin","Buah dalam kemasan adalah produk buah yang diperoleh dari satu jenis atau lebih buah yang bersih, baik yang berbentuk utuh atau potongan, dengan medium yang sesuai (seperti air, campuran air dan jus buah, atau jus buah), dengan atau tanpa penambahan gula yang dikemas secara kedap (hermetis) dan diproses (pasteurisasi/ sterilisasi). Nama jenis untuk kategori ini mengacu pada jenis buah yang digunakan. Karakteristik dasar: Bobot tuntas tidak kurang dari 40%.",Aktif
@@ -255,50 +252,37 @@ penggaraman buah atau perendaman buah dalam larutan garam.</td>
 040102090016,"Makanan Pencuci Mulut (Dessert) Berbasis Buah Termasuk Makanan Pencuci Mulut Berbasis Air Berflavor Buah",-,Aktif
 040102100001,"Pikel Buah","Keripik3 buah simulasi adalah produk buah yang diperoleh dari buah yang dibuat tepung dan digoreng, dengan atau tanpa penambahan bahan lain.",Aktif
 040102100002,Tempoyak/Pakasam,"Dodol atau lempok buah adalah produk buah yang diperoleh dari daging buah matang yang dihancurkan dan dimasak dengan atau tanpa penambahan gula. Karakteristik dasar: • Kadar air tidak lebih dari 20%; • Kadar gula (sebagai sukrosa) tidak kurang dari 35%; • Kadar serat kasar tidak lebih 2,5%.",Aktif
-040102110001,"Produk Buah Untuk Isi Pastri","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>040102120001","Keripik3 Buah</td>
-                  <td>Wajit buah adalah produk buah yang diperoleh dari campuran
-buah, tepung ketan, kelapa parut dan gula.</td>
-                  <td>Aktif"
+040102110001,"Produk Buah Untuk Isi Pastri",,Aktif
+040102120001,"Keripik3 Buah","Wajit buah adalah produk buah yang diperoleh dari campuran buah, tepung ketan, kelapa parut dan gula.",Aktif
 040102120002,"Keripik3 Buah Simulasi","Geplak adalah produk buah yang diperoleh dari campuran kelapa parut dan gula yang dikeringkan. Karakteristik dasar: • Kadar air tidak lebih dari 14%; • Kadar gula (sebagai sakarosa) tidak kurang dari 68%; • Kadar serat kasar tidak lebih dari 2,5%.",Aktif
 040102120003,"Dodol atau Lempok Buah","Kentang goreng beku atau frozen french fries adalah produk sayur beku yang diperoleh dari kentang (Solanum tuberosum L.) yang bersih, tua dan sehat. Kentang telah mengalami pemilihan, pencucian, pengupasan dan pengirisan menjadi berbentuk batang dan diberi perlakuan untuk mempertahankan warna dan digoreng dalam minyak atau lemak makan. Proses pengolahan awal dan penggorengan harus mempertahankan warna dan flavor. Dapat ditambahkan gula, garam dan rempahrempah. Karakteristik dasar: • Ketebalan irisan: - Shoestring : 5 hingga 8 mm - Medium : 8 hingga 12 mm - Thick cut : 12 hingga 16 mm - Extra large : lebih dari 16 mm • Kadar air produk untuk jenis shoestring, medium dan thick cut tidak lebih dari 76%, kadar air untuk extra large tidak lebih dari 78% • Warna dan ukuran seragam • Bebas dari kerusakan karena penggorengan, misalnya gosong.",Aktif
 040102120004,"Wajit Buah","Perkedel kentang beku adalah produk kentang beku yang diperoleh dari kentang (Solanum tuberosum L.), yang telah mengalami pengolahan (pengukusan/perebusan/penggorengan) dan penghancuran dengan atau tanpa penambahan bahan pangan lain dan dibekukan secara cepat.",Aktif
 040102120005,Geplak,"Nori adalah produk hasil perikanan yang dibuat dari rumput laut jenis Pyropia yang mengalami perlakukan pengeringan, dan setelah dikeringkan produk akan dipanggang dan/atau diberi penambahan bumbu. Bentuk produk akhir meliputi: serpihan, lembaran, lembar gulungan, gumpalan bulat. Jenis produk antara lain: nori kering, nori panggang, nori bumbu.",Aktif
-040202010001,"Sayur Beku","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>040202010002","Kentang Goreng Beku (Frozen French Fries)</td>
-                  <td>Tepung daun kelor adalah produk tepung daun kelor yang diperoleh
-dari proses pengeringan daun kelor yang sehat, masak dan bermutu
-baik.</td>
-                  <td>Aktif"
+040202010001,"Sayur Beku",,Aktif
+040202010002,"Kentang Goreng Beku (Frozen French Fries)","Tepung daun kelor adalah produk tepung daun kelor yang diperoleh dari proses pengeringan daun kelor yang sehat, masak dan bermutu baik.",Aktif
 040202010003,"Perkedel Kentang Beku","Jamur dalam minyak zaitun atau jamur dalam minyak nabati lain adalah produk jamur yang diperoleh dari jamur segar, ataupun dari jamur yang telah diasinkan, baik bentuk utuh maupun irisan, dimasukkan dalam minyak zaitun atau minyak nabati lain, dikemas secara kedap (hermetis), disterilisasi dengan pemanasan untuk mencegah kerusakan. Karakteristik dasar: Kadar garam tidak lebih dari 1%.",Aktif
-040202020001,"Sayur Kering","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>040202020002","Rumput Laut Kering</td>
-                  <td></td>
-                  <td>Nonaktif"
+040202020001,"Sayur Kering",,Aktif
+040202020002,"Rumput Laut Kering",,Nonaktif
 040202020003,Nori,"Acar adalah produk acar yang diperoleh dari sayur yang dibersihkan, dicuci, diblansir, dan diawetkan dalam larutan cuka dengan atau tanpa penambahan garam, rempah-rempah, gula, minyak makan, asam asetat, asam laktat, asam sitrat atau asam askorbat, dapat dipanaskan atau dipasteurisasi. Contohnya adalah acar jamur, acar timun, acar bawang putih, acar jahe, acar cabe, dan acar lobak.",Aktif
-040202020004,"Sayur Asin Kering","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>040202020005","Kacang Kering dan Polong Kacang Kering</td>
-                  <td></td>
-                  <td>Nonaktif"
-040202020006,"Biji Bunga Matahari","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>040202020007","Biji Wijen</td>
-                  <td></td>
-                  <td>Nonaktif"
+040202020004,"Sayur Asin Kering",,Nonaktif
+040202020005,"Kacang Kering dan Polong Kacang Kering",,Nonaktif
+040202020006,"Biji Bunga Matahari",,Nonaktif
+040202020007,"Biji Wijen",,Nonaktif
 040202020008,Kuaci,"Wortel dalam kemasan adalah produk wortel yang diperoleh dari wortel (Daucus carota Linn.) yang bersih, sehat, daun dan bagian atas yang hijau telah dihilangkan, dikupas, dan dimasukkan ke dalam air atau medium yang sesuai, diproses dengan pemanasan sebelum atau setelah penutupan pengemas untuk mencegah pembusukan. Medium yang digunakan adalah air, bumbu dan bahan lain yang sesuai dengan produk. Jika ditambahkan mentega atau minyak dan lemak nabati atau lemak hewani maka kadarnya tidak kurang dari 3% berat produk akhir.",Aktif
 040202020009,"Emping Melinjo","Jamur dalam kemasan adalah produk jamur yang diperoleh dari jamur sehat yang dapat dimakan yang dibersihkan dalam keadaan utuh atau diiris, serpihan, dan akar, diblansir, dimasukkan ke dalam medium dengan penambahan bumbu yang sesuai, diproses dengan pemanasan sebelum dan sesudah penutupan pengemas untuk mencegah pembusukan. Medium yang digunakan dapat berupa air, larutan garam, jus jamur, mentega, saus krim, vinegar, dan minyak.",Aktif
 040202020010,"Emping Jengkol","Buncis dalam kemasan adalah produk buncis yang diperoleh dari polong buncis segar (Phaseolus vulgaris) tanpa batang dan tangkainya, yang dimasukkan ke dalam medium, dan disterilkan dengan pemanasan. Medium yang digunakan adalah air atau medium lainnya. Dapat ditambahkan gula, bumbu dan bahan lain yang sesuai dengan produk. Jika ditambahkan mentega, maka kadarnya tidak kurang dari 3% dari produk akhir.",Aktif
 040202020011,"Mete Gelondong","Asparagus dalam kemasan adalah produk asparagus yang diperoleh dari batang tanaman asparagus (Asparagus officinales L) dengan atau tanpa dikupas yang dimasukkan ke dalam air atau medium cair lain yang cocok, dikemas secara kedap (hermetis) dan diproses dengan panas untuk mencegah kerusakan. Karakteristik dasar: • Batang panjang (long shoots) : terdiri dari tunas dan batangnya dengan panjang antara 15 cm hingga 18 cm; • Batang atau potongan (shoots or spears) : terdiri dari tunas dan batangnya dengan panjang antara 10,5 cm hingga 15 cm; • Pucuk tunas (tips or points) : terdiri dari pucuk dan batangnya dengan panjang antara 4 cm hingga 10,5 cm; • Untuk jenis batang panjang, batang dan pucuk tunas : tidak kurang dari 75% batang dengan panjang lebih kurang 1 cm dari panjang yang dominan dan tidak lebih dari 95% potongan dengan panjang lebih kurang 2 cm dari panjang yang dominan; • Potongan (cuts) dan heads atau potongan batang (cut spears) : terdiri dari batang yang dipotong dengan atau tanpa heads dengan panjang antara 2 cm hingga 6 cm. Paling tidak 20% potongan dengan heads, kecuali jika batang dipotong dengan panjang 3 cm atau kurang maka 10% potongan harus berpucuk; • Potongan (cuts) : terdiri dari batang yang dipotong dengan panjang tidak kurang dari 6 cm. Potongan dengan pucuk bisa terdapat dalam produk; • Untuk jenis potongan dan heads atau potongan batang atau potongan: tidak kurang dari 75% batang dengan panjang lebih kurang 1 cm dari panjang yang dominan dan tidak kurang dari 90% potongan dengan panjang lebih kurang 2 cm dari panjang yang dominan; • Jenis putih : putih, krem, krem kekuningan; tidak lebih dari 20% potongan memiliki pucuk berwarna biru, hijau atau hijau kekuningan; • Pucuk putih dan biru; Pucuk putih dan hijau : batang panjang, batang dan pucuk: pucuk berwarna putih, krem atau putih kekuningan, yang boleh memiliki pucuk biru, hijau, hijau terang dan hijau kekuningan tidak lebih dari 25%; • Jenis hijau : berwarna hijau, hijau terang, hijau kekuningan; maksimum 20% potongan memiliki warna putih, krem atau putih kekuningan pada bagian bawah batang; • Jenis campuran : campuran putih, krem, putih kekuningan, biru, hijau, hijau terang atau hijau kekuningan.",Aktif
-040202020012,"Kentang Kering Serpih (Flakes)","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>040202020013","Tepung Tomat/Bubur Tomat Kering/Pasta Tomat Kering</td>
-                  <td></td>
-                  <td>Aktif"
-040202020014,"Tepung Bit","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>040202020015","Tepung Daun Kelor</td>
-                  <td></td>
-                  <td>Aktif"
-040202030001,"Jamur Dalam Minyak Zaitun atau Jamur Dalam Minyak Nabati Lain","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>040202030002","Sayur Asin</td>
-                  <td>Sayur asin adalah produk sayur yang diperoleh dari sayur yang diberi garam.</td>
-                  <td>Aktif"
+040202020012,"Kentang Kering Serpih (Flakes)",,Aktif
+040202020013,"Tepung Tomat/Bubur Tomat Kering/Pasta Tomat Kering",,Aktif
+040202020014,"Tepung Bit",,Aktif
+040202020015,"Tepung Daun Kelor",,Aktif
+040202030001,"Jamur Dalam Minyak Zaitun atau Jamur Dalam Minyak Nabati Lain",,Aktif
+040202030002,"Sayur Asin","Sayur asin adalah produk sayur yang diperoleh dari sayur yang diberi garam.",Aktif
 040202030003,"Jamur Asin","Jamur asin adalah produk jamur yang diperoleh dari satu jenis jamur segar, berbentuk utuh atau irisan, yang dibersihkan, dicuci, diblansir dan diawetkan dalam air garam.",Aktif
-040202030004,"Acar (Sweet Pickle)","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>040202030005","Asinan Jahe</td>
-                  <td>Asinan jahe adalah produk jahe (Zingiber officinale atau Zingiber officinale var Rubrum) yang diperoleh dari proses pengawetan jahe dengan penambahan garam dan larutan cuka atau larutan asam sitrat, atau asam lain yang sesuai. Dapat ditambahkan gula atau bahan pangan lain.</td>
-                  <td>Aktif"
-040202040001,"Sayur Dalam Kemasan","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>040202040002","Tomat Dalam Kemasan</td>
-                  <td></td>
-                  <td>Aktif"
+040202030004,"Acar (Sweet Pickle)",,Aktif
+040202030005,"Asinan Jahe","Asinan jahe adalah produk jahe (Zingiber officinale atau Zingiber officinale var Rubrum) yang diperoleh dari proses pengawetan jahe dengan penambahan garam dan larutan cuka atau larutan asam sitrat, atau asam lain yang sesuai. Dapat ditambahkan gula atau bahan pangan lain.",Aktif
+040202040001,"Sayur Dalam Kemasan",,Aktif
+040202040002,"Tomat Dalam Kemasan",,Aktif
 040202040003,"Jagung Manis Dalam Kemasan","Jagung manis dalam kemasan adalah produk jagung yang diperoleh dari pipilan jagung manis (Zea mays L.) yang bersih, dimasukkan ke dalam medium yang sesuai dan diproses dengan pemanasan sebelum atau sesudah kemasan ditutup untuk mencegah pembusukan. Medium yang digunakan dapat berupa larutan yang mengandung pati jagung, gula, bumbu dan bahan lain yang sesuai.",Aktif
 040202040004,"Wortel Dalam Kemasan","Wortel dalam kemasan adalah produk wortel yang diperoleh dari wortel (Daucus carota Linn.) yang bersih, sehat, daun dan bagian atas yang hijau telah dihilangkan, dikupas, dan dimasukkan ke dalam air atau medium yang sesuai, diproses dengan pemanasan sebelum atau setelah penutupan pengemas untuk mencegah pembusukan. Medium yang digunakan adalah air, bumbu dan bahan lain yang sesuai dengan produk. Jika ditambahkan mentega atau minyak dan lemak nabati atau lemak hewani maka kadarnya tidak kurang dari 3% berat produk akhir.",Aktif
 040202040005,"Jamur Dalam Kemasan","Jamur dalam kemasan adalah produk jamur yang diperoleh dari jamur sehat yang dapat dimakan yang dibersihkan dalam keadaan utuh atau diiris, serpihan, dan akar, diblansir, dimasukkan ke dalam medium dengan penambahan bumbu yang sesuai, diproses dengan pemanasan sebelum dan sesudah penutupan pengemas untuk mencegah pembusukan. Medium yang digunakan dapat berupa air, larutan garam, jus jamur, mentega, saus krim, vinegar, dan minyak.",Aktif
@@ -330,9 +314,8 @@ baik.</td>
 040202080004,"Vegetable Tsukudani","Vegetable tsukudani adalah produk sayur yang diperoleh dari sayur yang direbus dalam saus kedelai.",Aktif
 040202080005,"Kerupuk 4Jengkol","Kerupuk jengkol adalah produk yang diperoleh dari buah jengkol segar yang dicampur dengan adonan tepung, dikukus, dibentuk, dan dikeringkan.",Aktif
 040202080006,"Dodol Rumput Laut","Dodol rumput laut adalah produk olahan dengan bahan baku rumput laut kering atau bahan baku setengah jadi, dicampur gula dengan atau tanpa santan, dengan atau tanpa tepung beras ketan dan bahan lainnya yang selanjutnya mengalami pemasakan, pencetakan, pemotongan, dan pengeringan. Termasuk jenang rumput laut, gelamai rumput laut, lempok rumput laut, dan produk rumput laut sejenis lainnya.",Aktif
-040202080007,"Sayur Olahan Yang Dibentuk (Meat Analog / Fish Analog / Seafood Analog)","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>050101000001","Kakao Massa (Cocoa liquor)</td>
-                  <td>Kakao massa (Cocoa liquor) adalah produk kakao berupa pasta yang diperoleh dari kakao nib (keping biji kakao) melalui penggilingan tanpa menghilangkan kandungan lemaknya.</td>
-                  <td>Aktif"
+040202080007,"Sayur Olahan Yang Dibentuk (Meat Analog / Fish Analog / Seafood Analog)",,Aktif
+050101000001,"Kakao Massa (Cocoa liquor)","Kakao massa (Cocoa liquor) adalah produk kakao berupa pasta yang diperoleh dari kakao nib (keping biji kakao) melalui penggilingan tanpa menghilangkan kandungan lemaknya.",Aktif
 050101000002,"Keik Kakao/Bungkil Kakao","Keik kakao/bungkil kakao adalah produk kakao yang diperoleh dari pemisahan sebagian lemak dari keping biji kakao atau kakao massa. ",Aktif
 050101000003,"Kakao Bubuk","Kakao bubuk adalah produk yang dihasilkan dari pengurangan lemak yang terkandung pada kakao massa (cocoa liquor) dan pencetakan menjadi keik kakao. Keik kakao (cocoa cake) dihancurkan dan dihaluskan menjadi kakao bubuk.  Karakteristik dasar : • Kadar air tidak lebih dari 5%; • Kadar lemak tidak kurang dari 10%; • Kehalusan : tidak kurang dari 99,5% (b/b) lolos ayakan 200  mesh; • Kandungan kulit (shell) tidak lebih dari 1,75% (b/b) dihitung dari  alkali free nib (nib bebas alkali). ",Aktif
 050101000004,"Lemak Kakao (Cocoa Butter)","Lemak kakao (cocoa butter) adalah lemak yang diperoleh dari biji kakao  Karakteristik dasar : • Asam lemak bebas (sebagai asam oleat) tidak lebih dari 1,75%; • Bahan yang tidak tersaponifikasi tidak lebih dari 0,7%, kecuali  lemak kakao dari pengepresan tidak lebih dari 0,35%; • Kadar air tidak lebih dari 0,2%.",Aktif
@@ -435,13 +418,8 @@ baik.</td>
 060201000026,"Konjac Flour","Tepung konjac adalah tepung glukomanan yang diperoleh hasil ekstraksi umbi iles-iles (Amorphophallus konjac). ",Aktif
 060201000027,Maida,"Maida adalah tepung gandum hasil rafinasi dan pemutihan baik secara alami maupun kimiawi.",Aktif
 060201000028,"Tepung Iles-iles","Tepung iles-iles adalah tepung yang diperoleh dari penggilingan atau penumbukan umbi tanaman Amorphophallus muelleri.",Aktif
-060201000029,"Tepung Kacang Lainnya","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>060202000001","Pati Garut</td>
-                  <td>Pati garut adalah pati yang diperoleh dari sari umbi garut (Maranta arundinaceace L). 
-
-Karakteristik dasar:
-• Kadar air tidak lebih dari 16%;
-• Kehalusan: tidak kurang dari 95% lolos ayakan 100 mesh.</td>
-                  <td>Aktif"
+060201000029,"Tepung Kacang Lainnya",,Aktif
+060202000001,"Pati Garut","Pati garut adalah pati yang diperoleh dari sari umbi garut (Maranta arundinaceace L).   Karakteristik dasar: • Kadar air tidak lebih dari 16%; • Kehalusan: tidak kurang dari 95% lolos ayakan 100 mesh.",Aktif
 060202000002,"Pati Jagung atau Maizena","Pati jagung atau maizena adalah pati yang diperoleh dari biji jagung (Zea mays Linn) berbagai varietas.  Karakteristik dasar: Kadar air tidak lebih dari 10%.",Aktif
 060202000003,"Pati Sagu","Pati sagu adalah pati yang diperoleh dari pengolahan empulur pohon sagu (Metroxylon sp) yang bersih dan baik.  Karakteristik dasar: Kadar air tidak lebih dari 13%.",Aktif
 060202000004,"Pati Kacang Hijau/Hunkwee","Pati kacang hijau atau hunkwee adalah pati yang diperoleh dari kacang hijau (Phaseolusradiatus).  Karakteristik dasar: Kadar air tidak lebih dari 14%.",Aktif
@@ -494,12 +472,10 @@ Karakteristik dasar:
 060403000016,"Mi Soa","Mi soa adalah mi kering dengan diameter untaian yang kecil dibuat  dari tepung terigu dengan penambahan bahan pangan lain dan  berwarna putih.",Aktif
 060403000017,"Pangsit/Pastel/Lumpia/Risol/Samosa Pramasak","Pangsit/pastel/lumpia/risol/samosa pramasak adalah produk yang  dibuat dari adonan tepung dengan air dengan atau tanpa  penambahan bahan pangan lain, dan dimasak. Produk ini dapat  diisi dengan daging, ikan, sayuran, atau bahan pangan lain.  Termasuk dalam kategori ini adalah produk lain yang sejenis.",Aktif
 060403000018,"Kerupuk Mentah","Kerupuk4 mentah adalah produk berbahan baku pati/tepung atau  campurannya, dengan atau tanpa penambahan bahan pangan lain, melalui proses pengadukan, pencetakan, pengukusan atau perebusan, pendinginan, pengirisan, dan pengeringan.  Karakteristik dasar:  Kadar air tidak lebih dari 14,5%",Aktif
-060403000019,"Tepung Olahan / Pati Olahan / Protein Olahan (Meat Analog / Fish Analog / Seafood Analog)","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>060403000020","Cilok</td>
-                  <td></td>
-                  <td>Aktif"
-060403000021,"Cireng/Cireng Isi","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>060403000022","Nasi Siap Saji</td>
-                  <td></td>
-                  <td>Aktif"
+060403000019,"Tepung Olahan / Pati Olahan / Protein Olahan (Meat Analog / Fish Analog / Seafood Analog)",,Aktif
+060403000020,Cilok,,Aktif
+060403000021,"Cireng/Cireng Isi",,Aktif
+060403000022,"Nasi Siap Saji",,Aktif
 060500000001,"Tepung Custard Tanpa Telur (Eggless Custard)","Tepung custard tanpa telur (eggless custard) adalah tepung yang  dibuat dari campuran tapioka, pati jagung atau pati sagu, dengan  maupun tanpa bahan lain.",Aktif
 060500000002,"Sagu/Pati Mutiara","Sagu/pati mutiara adalah produk dengan tekstur kenyal terbuat  dari tepung sagu atau tepung serealia atau pati dengan campuran  bahan pangan lain.",Aktif
 060500000003,"Premiks Untuk Makanan Pencuci Mulut Berbasis Serealia dan Pati","Premiks untuk makanan pencuci mulut berbasis serealia dan pati  adalah produk berbentuk bubuk dengan bahan dasar tepung  serealia atau pati atau campurannya dengan penambahan gula dan  bahan pangan lain. Dalam penyiapannya harus ditambahkan air  atau susu dan/atau krim sebelum diolah lebih lanjut menjadi  makanan pencuci mulut.",Aktif
@@ -638,134 +614,93 @@ Karakteristik dasar:
 070202000013,Bakpia,"Produk bakeri yang adonannya dibuat dari tepung terigu, air,  lemak/minyak, dan isinya terbuat dari campuran gula dan kacang hijau yang dihaluskan, lalu dipanggang. Isi bakpia dapat diganti dengan cokelat, selai buah, atau bahan pangan lain.",Aktif
 070202000014,"Bolu Emprit","Bolu emprit adalah kue kering tradisional yang terbuat dari adonan tapioka, gula pasir, kelapa parut dan pengembang yang dicetak dan dipanggang.",Aktif
 070203000001,"Premiks Untuk Produk Bakeri Istimewa","Premiks untuk produk bakeri istimewa adalah campuran bahan kering yang dapat ditambahkan dengan ingredien basah (seperti air, susu, minyak, mentega, telur) untuk membuat adonan untuk pembuatan produk bakeri. ",Aktif
-080101000001,"Karkas Hewan Mamalia","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000002","Karkas Sapi</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000003,"Karkas Paruh Sapi (Half Carcass)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000004","Karkas Perempat Sapi</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000005,"Seperempat Karkas Bagian Belakang/Karkas Bagian Paha (Hind Quarter/Leg Quarter)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000006","Forequarter</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000007,Hindquarter,"</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000008","Forequarter dan Hindquarter</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000009,"Tulang Iga Pendek (Short Ribs)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000010","Tulang Iga Utama (Prime Rib)</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000011,"Karkas Kerbau","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000012","Karkas Kambing/Domba</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000013,"Karkas Paruh Depan dan Karkas Paruh Belakang Kambing/Domba","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000014","Karkas Paruh Kiri dan Karkas Paruh Kanan Kambing/Domba</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000015,"Karkas Perempat Kambing/Domba","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000016","Leg kambing/Domba</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000017,"Shoulder Kambing/Domba","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000018","Karkas Babi</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000019,"Bagian Mamalia Non Karkas","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000020","Offal</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000021,Jeroan,"</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000022","Rack</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000023,Breast,"</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000024","Foreshank Domba</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000025,"Karkas Ayam","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000026","Separuh Karkas (Half Poultry)</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000027,"Seperempat Karkas Bagian Depan/Karkas Bagian Dada (Front Quarter/Breast Quarter)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000028","Seperempat Karkas Bagian Belakang/Karkas Bagian Paha (Hind Quarter/ Leg Quarter)</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000029,"Punggung Utuh (Whole Back)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000030","Ekor (Brutu)</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000031,"Punggung (Back)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000032","Punggung Terkupas (Stripped Back)</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000033,"Dada Utuh (Full Breast)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000034","Dada Depan (Wishbone)</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000035,"Dada Hasil Trimming (Trimmed Breast)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000036","Separuh Dada Hasil Trimming (Half Trimmed Breast)</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000037,"Sayap (Wing)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000038","Sayap Atas (Wing Drumette)</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000039,"Sayap Bawah (Winglet atau V-Wing)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000040","Paha (Leg) Unggas</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000041,"Paha Atas (Thigh)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000042","Paha Bawah (Drumstick)</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000043,"Bagian Unggas Non Karkas","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000044","Kepala</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000045,Leher,"</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000046","Kaki atau Cakar</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000047,"Jeroan Unggas (Poultry Giblets)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000048","Daging</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000049,"Daging Dingin","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000050","Daging Beku</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000051,"Steik (Steaks) Daging Sapi Beku","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000052","Daging Sapi/Kerbau</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000053,"Daging Kambing/Domba","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000054","Daging Iga (Rib Meat)</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000055,"Jenis Potongan Bagian Daging","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000056","Lamusir (Rib Eye)</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000057,"Lamusir (Cuberoll)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000058","Sandung Lamur (Brisket)</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000059,"Sengkel (Shin dan Shank)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000060","Sengkel (Shank/Foreshank)</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000061,"Samcan (Thin Flank)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000062","Flank</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000063,"Has Dalam (Tenderloin)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000064","Has Luar (Striploin/Sirloin)</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000065,"Has (Tenderloin) Kambing/Domba","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000066","Loin Kambing/Domba</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000067,"Penutup (Top side)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000068","Pendasar (Riverside)</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000069,"Gandik (Eye Round)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000070","Tanjung (Rump)</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000071,"Kelapa (Round)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000072","Kijen (Chuck Tender)</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000073,"Sampil Besar (Chuck)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000074","Sampil Kecil (Blade)</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000075,"Daging Tanpa Tulang yang Dijual dalam Bentuk Kemasan Besar (Bulk Pack)","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000076","Tetelan</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000077,"Potongan Daging Unggas","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080101000078","Filet Dada (Breast Fillet)</td>
-                  <td></td>
-                  <td>Nonaktif"
-080101000079,Lemak,"</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>080102000001","Patties</td>
-                  <td>Patties adalah produk yang terbuat dari hasil pencincangan daging  mamalia dan atau unggas dengan atau tanpa penambahan bahan pangan lain (seperti tepung, air, bumbu dan rempah). Campuran dicetak atau diisikan dalam selongsong plastik dan didinginkan atau dibekukan sebagian sebelum diiris membentuk bulat atau bentuk lainnya.</td>
-                  <td>Aktif"
+080101000001,"Karkas Hewan Mamalia",,Nonaktif
+080101000002,"Karkas Sapi",,Nonaktif
+080101000003,"Karkas Paruh Sapi (Half Carcass)",,Nonaktif
+080101000004,"Karkas Perempat Sapi",,Nonaktif
+080101000005,"Seperempat Karkas Bagian Belakang/Karkas Bagian Paha (Hind Quarter/Leg Quarter)",,Nonaktif
+080101000006,Forequarter,,Nonaktif
+080101000007,Hindquarter,,Nonaktif
+080101000008,"Forequarter dan Hindquarter",,Nonaktif
+080101000009,"Tulang Iga Pendek (Short Ribs)",,Nonaktif
+080101000010,"Tulang Iga Utama (Prime Rib)",,Nonaktif
+080101000011,"Karkas Kerbau",,Nonaktif
+080101000012,"Karkas Kambing/Domba",,Nonaktif
+080101000013,"Karkas Paruh Depan dan Karkas Paruh Belakang Kambing/Domba",,Nonaktif
+080101000014,"Karkas Paruh Kiri dan Karkas Paruh Kanan Kambing/Domba",,Nonaktif
+080101000015,"Karkas Perempat Kambing/Domba",,Nonaktif
+080101000016,"Leg kambing/Domba",,Nonaktif
+080101000017,"Shoulder Kambing/Domba",,Nonaktif
+080101000018,"Karkas Babi",,Nonaktif
+080101000019,"Bagian Mamalia Non Karkas",,Nonaktif
+080101000020,Offal,,Nonaktif
+080101000021,Jeroan,,Nonaktif
+080101000022,Rack,,Nonaktif
+080101000023,Breast,,Nonaktif
+080101000024,"Foreshank Domba",,Nonaktif
+080101000025,"Karkas Ayam",,Nonaktif
+080101000026,"Separuh Karkas (Half Poultry)",,Nonaktif
+080101000027,"Seperempat Karkas Bagian Depan/Karkas Bagian Dada (Front Quarter/Breast Quarter)",,Nonaktif
+080101000028,"Seperempat Karkas Bagian Belakang/Karkas Bagian Paha (Hind Quarter/ Leg Quarter)",,Nonaktif
+080101000029,"Punggung Utuh (Whole Back)",,Nonaktif
+080101000030,"Ekor (Brutu)",,Nonaktif
+080101000031,"Punggung (Back)",,Nonaktif
+080101000032,"Punggung Terkupas (Stripped Back)",,Nonaktif
+080101000033,"Dada Utuh (Full Breast)",,Nonaktif
+080101000034,"Dada Depan (Wishbone)",,Nonaktif
+080101000035,"Dada Hasil Trimming (Trimmed Breast)",,Nonaktif
+080101000036,"Separuh Dada Hasil Trimming (Half Trimmed Breast)",,Nonaktif
+080101000037,"Sayap (Wing)",,Nonaktif
+080101000038,"Sayap Atas (Wing Drumette)",,Nonaktif
+080101000039,"Sayap Bawah (Winglet atau V-Wing)",,Nonaktif
+080101000040,"Paha (Leg) Unggas",,Nonaktif
+080101000041,"Paha Atas (Thigh)",,Nonaktif
+080101000042,"Paha Bawah (Drumstick)",,Nonaktif
+080101000043,"Bagian Unggas Non Karkas",,Nonaktif
+080101000044,Kepala,,Nonaktif
+080101000045,Leher,,Nonaktif
+080101000046,"Kaki atau Cakar",,Nonaktif
+080101000047,"Jeroan Unggas (Poultry Giblets)",,Nonaktif
+080101000048,Daging,,Nonaktif
+080101000049,"Daging Dingin",,Nonaktif
+080101000050,"Daging Beku",,Nonaktif
+080101000051,"Steik (Steaks) Daging Sapi Beku",,Nonaktif
+080101000052,"Daging Sapi/Kerbau",,Nonaktif
+080101000053,"Daging Kambing/Domba",,Nonaktif
+080101000054,"Daging Iga (Rib Meat)",,Nonaktif
+080101000055,"Jenis Potongan Bagian Daging",,Nonaktif
+080101000056,"Lamusir (Rib Eye)",,Nonaktif
+080101000057,"Lamusir (Cuberoll)",,Nonaktif
+080101000058,"Sandung Lamur (Brisket)",,Nonaktif
+080101000059,"Sengkel (Shin dan Shank)",,Nonaktif
+080101000060,"Sengkel (Shank/Foreshank)",,Nonaktif
+080101000061,"Samcan (Thin Flank)",,Nonaktif
+080101000062,Flank,,Nonaktif
+080101000063,"Has Dalam (Tenderloin)",,Nonaktif
+080101000064,"Has Luar (Striploin/Sirloin)",,Nonaktif
+080101000065,"Has (Tenderloin) Kambing/Domba",,Nonaktif
+080101000066,"Loin Kambing/Domba",,Nonaktif
+080101000067,"Penutup (Top side)",,Nonaktif
+080101000068,"Pendasar (Riverside)",,Nonaktif
+080101000069,"Gandik (Eye Round)",,Nonaktif
+080101000070,"Tanjung (Rump)",,Nonaktif
+080101000071,"Kelapa (Round)",,Nonaktif
+080101000072,"Kijen (Chuck Tender)",,Nonaktif
+080101000073,"Sampil Besar (Chuck)",,Nonaktif
+080101000074,"Sampil Kecil (Blade)",,Nonaktif
+080101000075,"Daging Tanpa Tulang yang Dijual dalam Bentuk Kemasan Besar (Bulk Pack)",,Nonaktif
+080101000076,Tetelan,,Nonaktif
+080101000077,"Potongan Daging Unggas",,Nonaktif
+080101000078,"Filet Dada (Breast Fillet)",,Nonaktif
+080101000079,Lemak,,Nonaktif
+080102000001,Patties,"Patties adalah produk yang terbuat dari hasil pencincangan daging  mamalia dan atau unggas dengan atau tanpa penambahan bahan pangan lain (seperti tepung, air, bumbu dan rempah). Campuran dicetak atau diisikan dalam selongsong plastik dan didinginkan atau dibekukan sebagian sebelum diiris membentuk bulat atau bentuk lainnya.",Aktif
 080102000002,"Sosis Mentah","Sosis mentah adalah sosis yang dibuat dari hasil penghalusan  daging mamalia dan atau unggas, selain daging babidengan  penambahan garam dan rempah-rempah antara lain : sosis  breakfast mentah.  Sosis mentah adalah sosis yang dibuat dari hasil penghalusan  daging mamalia dan atau unggas, selain daging babidengan  penambahan garam dan rempah-rempah antara lain : sosis  breakfast mentah.  Klasifikasi : a. Sosis Daging  Merupakan sosis dengan kandungan daging tidak kurang dari  35%. b. Sosis Daging Kombinasi  Merupakan sosis dengan kandungan daging tidak kurang dari  15%. Karakteristik dasar : • Kadar protein sosis daging tidak kurang dari 13% dan sosis  daging kombinasi tidak kurang dari 8%; • Kadar lemak tidak lebih dari 20%. ",Aktif
 080102000003,"Sosis Mentah Daging Babi","Sosis mentah daging babi adalah sosis yang dibuat dari hasil  penghalusan tetelan daging babi, dengan penambahan garam dan rempah-rempah.",Aktif
 080102000004,"Daging Cincang","Daging cincang adalah daging mentah yang telah dikecilkan  ukurannya dengan dicincang atau dicacah. ",Aktif
 080102000005,"Daging Giling","Daging giling adalah daging yang dikecilkan ukurannya dengan alat grinder/mincer.",Aktif
 080102000006,"Daging Murni Giling Tanpa Lemak","Daging murni giling tanpa lemak adalah daging murni (lean meat) yang dikecilkan ukurannya dengan alat grinder/mincer. Daging cincang atau daging giling yang dinyatakan sebagai daging murni giling tanpa lemak tidak boleh mengandung total lemak lebih dari 7%. Misal Breakfast Sausage",Aktif
-080102000007,"Potongan Daging Unggas dan Daging Hewan Buruan yang Dilepaskan dari Tulangnya, Digiling Mekanik dan Dibentuk (Dengan atau Tanpa Pembaluran atau Pelapisan)","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>080102000008","Mechanically Deboned Meat (MDM)</td>
-                  <td>Mechanically Deboned Meat (MDM) adalah daging yang dihasilkan dari pemisahan daging yang menempel pada tulang dengan perlakuan mekanis.</td>
-                  <td>Aktif"
+080102000007,"Potongan Daging Unggas dan Daging Hewan Buruan yang Dilepaskan dari Tulangnya, Digiling Mekanik dan Dibentuk (Dengan atau Tanpa Pembaluran atau Pelapisan)",,Aktif
+080102000008,"Mechanically Deboned Meat (MDM)","Mechanically Deboned Meat (MDM) adalah daging yang dihasilkan dari pemisahan daging yang menempel pada tulang dengan perlakuan mekanis.",Aktif
 080102000009,"Desinewed Minced Meat (DMM)","Desinewed Minced Meat (DMM) adalah daging yang dihasilkan dari pemisahan daging yang menempel pada tulang dengan perlakuan mekanis, menghasilkan produk yang lebih kasar dari MDM. ",Aktif
 080201010001,Bacon,"Bacon (yang di-curing, di-curing kering, di-curing rendam, di-curing injeksi) adalah daging babi yang di-curing dari bagian iga (belly bacon). Bacon dapat diasap maupun tidak diasap.",Nonaktif
 080201010002,"Bacon Sapi","Bacon sapi adalah produk olahan daging sapi yang dilakukan  curing, pengasapan yang berasal dari bagian sandung lamur  (brisket) sapi, dapat diasap maupun tidak diasap.",Nonaktif
@@ -837,30 +772,10 @@ Karakteristik dasar:
 080303000010,Keecho/Heecho,"Keecho/heecho adalah produk yang terbuat dari daging ayam yang  dihaluskan, dicampur dengan hasil perikanan yang dihaluskan atau  potongan, bumbu-bumbu, sayuran, dan bahan pangan lain, dilapis  dengan kulit tahu, dimasak, dikemas, dan dibekukan",Aktif
 080303000011,"Telur Bungkus Daging","Telur bungkus daging adalah produk yang terbuat dari daging ayam  yang dihaluskan, dicampur maupun tidak dengan hasil perikanan  yang dihaluskan atau potongan, bumbu-bumbu, sayuran, dan  bahan pangan lain, dibentuk bulat seperti bakso dengan bagian  tengahnya berisi telur; dilapis dengan kulit tahu, dimasak, dikemas,  dan dibekukan.",Aktif
 080303000012,"Bakso Goreng","Bakso goreng adalah produk yang terbuat dari daging yang  dihaluskan, dapat dicampur dengan hasil perikanan yang  dihaluskan atau potongan, bumbu-bumbu dan bahan pangan lain, lalu dibentuk bulat atau bentuk lainnya, digoreng, dibekukan,  dikemas dan disimpan beku.",Aktif
-080400000001,"Selongsong Sosis Kolagen","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>080400000002","Selongsong Sosis Dari Kolagen Ko-Ekstrusi</td>
-                  <td></td>
-                  <td>Aktif"
-080400000003,"Selongsong Sosis Alami","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>090101000001","Ikan Segar</td>
-                  <td>Ikan segar adalah ikan mentah yang belum mengalami perlakuan
- pengawetan kecuali pendinginan (chilling). Termasuk semua jenis
- ikan dari jenis ikan bersirip (pisces) hasil penangkapan atau
- budidaya.
- ? contoh ikan pomatomidae: Pomatomus saltatrix (sea-bass tribe);
- ? contoh ikan scombridae (scombroid): tuna, tongkol, cakalang,
- kembung, tenggiri/makerel;
- ? contoh ikan coryphaenedae: mahi-mahi (Coryphaena hipurus),
- pompano dolphin (Coryphaena equiseli);
- ? contoh ikan clupeidae: herring, layang, sardin, lemuru;
- ? contoh ikan predator: tuna, cucut, marlin, meka, bawal;
- ? contoh ikan hasil budidaya: nila, lele, gabus, patin, mas, gurame,
- tawes, mujair, bandeng;
- ? contoh ikan karang: kerapu, kakap, ekor kuning, kurisi;
- ? contoh ikan pelagis besar: tuna, cucut, hiu, cakalang, meka,
- marlin;
- ? contoh ikan pelagis kecil: sardin, kembung, selar, teri, lemuru,
- bawal, layur;
- ? belut; sidat.</td>
-                  <td>Nonaktif"
+080400000001,"Selongsong Sosis Kolagen",,Aktif
+080400000002,"Selongsong Sosis Dari Kolagen Ko-Ekstrusi",,Aktif
+080400000003,"Selongsong Sosis Alami",,Aktif
+090101000001,"Ikan Segar","Ikan segar adalah ikan mentah yang belum mengalami perlakuan  pengawetan kecuali pendinginan (chilling). Termasuk semua jenis  ikan dari jenis ikan bersirip (pisces) hasil penangkapan atau  budidaya.  ? contoh ikan pomatomidae: Pomatomus saltatrix (sea-bass tribe);  ? contoh ikan scombridae (scombroid): tuna, tongkol, cakalang,  kembung, tenggiri/makerel;  ? contoh ikan coryphaenedae: mahi-mahi (Coryphaena hipurus),  pompano dolphin (Coryphaena equiseli);  ? contoh ikan clupeidae: herring, layang, sardin, lemuru;  ? contoh ikan predator: tuna, cucut, marlin, meka, bawal;  ? contoh ikan hasil budidaya: nila, lele, gabus, patin, mas, gurame,  tawes, mujair, bandeng;  ? contoh ikan karang: kerapu, kakap, ekor kuning, kurisi;  ? contoh ikan pelagis besar: tuna, cucut, hiu, cakalang, meka,  marlin;  ? contoh ikan pelagis kecil: sardin, kembung, selar, teri, lemuru,  bawal, layur;  ? belut; sidat.",Nonaktif
 090101000002,"Sashimi Segar","Sashimi segar adalah daging ikan segar dalam bentuk irisan tipis,  yang berasal dari loin, kubus, steak, dan bentuk lainnya yang tidak  mengalami pengolahan lebih lanjut, dipertahankan pada suhu  dingin (chilled) dan dikonsumsi dalam keadaan mentah dan segar.  Contoh produk diantaranya ikan tuna segar untuk sashimi, ikan  salmon segar untuk sashimi, gindara segar untuk sashimi, red  snaper segar untuk sashimi.",Nonaktif
 090101000003,"Tuna Loin Segar","Tuna loin segar adalah daging ikan tuna yang diperoleh dari ikan  tuna segar yang dibelah menjadi empat bagian secara membujur,  dua bagian punggung (dorsal) dan dua bagian perut (belly), tanpa  kulit dan tulang, dan mengalami pendinginan dari jenis Tuna  Madidihang (Yellowfin Tuna/Thunnus albacores), Tuna Mata Besar  (Bigeye Tuna/Thunnus obesus), Tuna Sirip Biru (Bluefin  Tuna/Thunnus thynnus dan Thunnus maccoyii), Tuna Albakora  (Albacore/Thunnus alalunga).",Nonaktif
 090101000004,"Fillet Ikan Segar","Fillet ikan segar adalah sayatan ikan yang dipisahkan dari karkas  ikan dengan pemotongan paralel terhadap tulang belakang dengan  atau tanpa kulit serta dilakukan pendinginan (chilling) dengan  bahan baku adalah semua jenis ikan dari kelompok pisces hasil  penangkapan atau budidaya.",Nonaktif
@@ -1032,23 +947,13 @@ Karakteristik dasar:
 110400000003,"Sirup/Sirup Meja (Table Syrup)","Sirup meja (table syrup) adalah larutan 65% gula (sakarosa, gula invert dan fruktosa), umumnya digunakan sebagai topping atau pelengkap sajian.",Aktif
 110400000004,"Gula Hias ","Gula hias adalah gula untuk hiasan kue (contohnya kristal gula berwarna untuk kukis).",Aktif
 110400000005,"Sirup Agave","Sirup Agave adalah sirup yang diperoleh dari tanaman Agave.",Aktif
-110400000006,"Gula Merah Cair","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>110500000001","Madu</td>
-                  <td>Madu adalah cairan alami yang umumnya mempunyai rasa manis yang dihasilkan oleh lebah madu (Apis sp.) dari sari bunga tanaman (floral nektar) atau bagian lain dari tanaman (ekstra floral).
-Karakteristik dasar:
-• Kadar hidroksimetil furfural tidak lebih dari 50 mg/kg;
-• Aktivitas enzim diastase madu hutan dan madu lebah tanpa sengat tidak kurang dari 1 DN, madu budidaya tidak kurang dari 3 DN.</td>
-                  <td>Aktif"
+110400000006,"Gula Merah Cair",,Aktif
+110500000001,Madu,"Madu adalah cairan alami yang umumnya mempunyai rasa manis yang dihasilkan oleh lebah madu (Apis sp.) dari sari bunga tanaman (floral nektar) atau bagian lain dari tanaman (ekstra floral). Karakteristik dasar: • Kadar hidroksimetil furfural tidak lebih dari 50 mg/kg; • Aktivitas enzim diastase madu hutan dan madu lebah tanpa sengat tidak kurang dari 1 DN, madu budidaya tidak kurang dari 3 DN.",Aktif
 110500000002,"Madu Serbuk","Madu serbuk adalah produk yang diperoleh dari proses pengeringan madu dengan atau tanpa penambahan bahan pangan lain.",Aktif
-110600000001,"Sediaan Pemanis Alami","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>110600000002","Sediaan Pemanis Alami dan Buatan</td>
-                  <td></td>
-                  <td>Aktif"
-110600000003,"Sediaan Pemanis Buatan","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>120101000001","Garam Konsumsi Beriodium</td>
-                  <td>Garam konsumsi beriodium adalah produk pangan yang berbentuk padat dengan komponen utamanya natrium klorida (NaCl) dengan penambahan/fortifikasi kalium iodat (KIO3). Jumlah iodiumdihitung sebagai KIO3 tidak kurang dari 30 mg/kg. Sumber iodium lain yang dapat ditambahkan selain kalium iodat adalah kalium iodida, natrium iodida atau natrium iodat. Contoh nya adalah garam meja.
-Karakteristik dasar :
-• Kadar natrium klorida tidak kurang dari 94 %;
-• Kadar air tidak lebih dari 7%;
-• Bagian yang tidak larut dalam air tidak lebih dari 0,5%.</td>
-                  <td>Aktif"
+110600000001,"Sediaan Pemanis Alami",,Aktif
+110600000002,"Sediaan Pemanis Alami dan Buatan",,Aktif
+110600000003,"Sediaan Pemanis Buatan",,Aktif
+120101000001,"Garam Konsumsi Beriodium","Garam konsumsi beriodium adalah produk pangan yang berbentuk padat dengan komponen utamanya natrium klorida (NaCl) dengan penambahan/fortifikasi kalium iodat (KIO3). Jumlah iodiumdihitung sebagai KIO3 tidak kurang dari 30 mg/kg. Sumber iodium lain yang dapat ditambahkan selain kalium iodat adalah kalium iodida, natrium iodida atau natrium iodat. Contoh nya adalah garam meja. Karakteristik dasar : • Kadar natrium klorida tidak kurang dari 94 %; • Kadar air tidak lebih dari 7%; • Bagian yang tidak larut dalam air tidak lebih dari 0,5%.",Aktif
 120101000002,"Garam Konsumsi Cair Beriodium","Garam konsumsi cair beriodium adalah produk pangan berbentuk cair yang komponen utamanya natrium (NaCl) dan air (H2O) dengan penambahan kalium iodat (KIO3). Jumlah iodium dihitung sebagai KIO3 tidak kurang dari 30 mg/kg. Karakteristik dasar : Kadar NaCl 23% - 25%.",Aktif
 120101000003,"Garam Gurih","Garam gurih adalah garam konsumsi, dengan komponen utama natrium klorida (NaCl) dan telah ditambahkan senyawa iodium serta penguat rasa mononatrium L-glutamat (MSG). Karakteristik dasar : • Kadar NaCl tidak kurang dari 87%; • Penyedap rasa dihitung sebagai mononatrium L-glutamat (MSG) 9-12%; • Iodium, dihitung sebagai kalium iodat (KIO3) 30-80 mg/kg.",Aktif
 120101000004,"Garam Industri Aneka Pangan","Garam industri aneka pangan adalah garam beriodium yang digunakan sebagai bahan baku untuk industri aneka pangan. Karakteristik dasar : • Kadar NaCl tidak kurang dari 97% (basis kering); • Kadar iodium dihitung sebagai KIO3 tidak kurang dari 30 mg/kg.",Aktif
@@ -1157,9 +1062,8 @@ Karakteristik dasar :
 120201000097,Thymi/Thyme,"Thymi/thyme adalah herba yang diperoleh dari daun pucuk kering thymi dari tanaman Thymus serpyllum L. atau Thymus vulgaris atau Thymus zugis L. baik dalam bentuk utuh atau bubuk. Karakteristik dasar : • Kadar air tidak lebih dari 9%; • Kadar minyak atsiri tidak kurang dari 0,9% v/b.",Nonaktif
 120201000098,Wasabi,"Wasabi adalah produk yang diperoleh dari rimpang tanaman Wasabia japonica. ",Nonaktif
 120201000099,Wijen,"Wijen adalah produk yang diperoleh dari biji tanaman Sesamum indicum L. syn./Sesamum orientalis L.",Nonaktif
-120201000100,"Herba dan Rempah Olahan","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>120202000001","Bubuk Ngohyang</td>
-                  <td>Bubuk ngohyang adalah campuran dari lima macam rempah antara lain bunga lawang, kayu manis, lada hitam, jintan dan cengkeh.</td>
-                  <td>Aktif"
+120201000100,"Herba dan Rempah Olahan",,Aktif
+120202000001,"Bubuk Ngohyang","Bubuk ngohyang adalah campuran dari lima macam rempah antara lain bunga lawang, kayu manis, lada hitam, jintan dan cengkeh.",Aktif
 120202000002,"Bumbu Siap Pakai","Bumbu siap pakai adalah produk bumbu yang diperoleh dari campuran rempah dengan atau tanpa penambahan minyak untuk membuat masakan tertentu. Produk dapat ditambahkan bahan pangan lain. Produk dapat dikemas dalam kemasan plastik atau botol plastik atau botol kaca atau kemasan lainnya dan dapat diawetkan dengan pemanasan. Bumbu siap pakai dapat berbentuk basah (pasta) atau kering (bubuk atau blok).  Penamaan jenis produk yang berbentuk basah (pasta) hasil proses pemanasan misalnya bumbu instan soto, bumbu instan nasi goreng. Penamaan jenis produk yang berbentuk kering (bubuk atau blok) atau pasta hasil proses tanpa pemanasan misalnya bumbu soto, bumbu nasi goreng.",Aktif
 120202000003,"Bumbu Ekstrak Daging Sapi","Bumbu ekstrak daging sapi adalah produk bumbu yang mengandung ekstrak daging sapi, dengan penambahan bahan pangan lain dalam bentuk bubuk atau blok/kubus. Karakteristik dasar : • Kadar air tidak lebih dari 4%; • Kadar protein tidak kurang dari 7%.",Aktif
 120202000004,"Bumbu Rasa Sapi","Bumbu rasa sapi adalah produk bumbu yang mengandung perisa daging sapi, dengan penambahan bahan pangan lain dan dalam bentuk bubuk atau blok/kubus. ",Aktif
@@ -1251,13 +1155,10 @@ Karakteristik dasar :
 130103000012,"PKMK untuk Pasien Alergi Protein Susu Sapi (bagi anak usia 1-3 tahun)","PKMK untuk pasien alergi protein susu sapi diformulasi secara khusus sebagai tata laksana diet sehingga dapat memenuhi kebutuhan gizi pada pada bayi/anak alergi protein  susu sapi.     PKMK untuk pasien alergi protein susu sapi terdiri dari:  a. Formula berbasis protein susu sapi terhidrolisis ekstensif; atau  b. Formula berbasis asam amino.",Aktif
 130103000013,"PKMK untuk Diet Ketogenik Anak","PKMK Diet Ketogenik adalah pangan yang diformulasikan secara khusus bagi pasien yang membutuhkan sumber energi utama yang berasal dari lemak.    PKMK Diet Ketogenik digunakan sebagai tatalaksana :  a. Epilepsi intraktabel.  b. Kelainan metabolik bawaan tertentu, antara lain :  ? defisiensi piruvat dehidrogenase, yaitu kelainan metabolisme bawaan yang disebabkan defisiensi enzim pyruvate dehydrogenase complex (PDHC) yang  menyebabkan kegagalan konversi piruvat menjadi asetil-koA, sehingga terjadi penumpukan laktat yang selanjutnya menyebabkan berbagai manifestasi klinis.  Defisiensi PDHC menghambat pembentukan energi dari oksidasi karbohidrat, sehingga konsumsi karbohidrat akan memperberat asidemia laktat.  ? defisiensi glukosa transporter tipe 1 (GLUT 1), yaitu kelainan metabolisme bawaan yang disebabkan defek/gangguan pada protein GLUT1, yang berperan memfasilitasi transpor glukosa melewati sawar darah otak. Defek/gangguan ini menyebabkan kadar glukosa otak rendah dan menyebabkan berbagai manifestasi klinis, antara lain kejang.  c. Kelainan medis lain dimana diperlukan diet ketogenik.",Aktif
 130103000014,"PKMK untuk Bayi Intoleransi Laktosa","PKMK untuk Bayi Intoleransi Laktosa adalah pangan yang diformulasikan secara khusus bagi bayi yang mengalami intoleransi laktosa.",Aktif
-130103000015,"PKMK untuk Pasien Malabsorpsi","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>130103000016","PKMK untuk Pasien Inflammatory Bowel Diseases</td>
-                  <td></td>
-                  <td>Aktif"
-130103000017,"PKMK untuk Pasien Malabsorpsi","</td>                   <td>Nonaktif</td>               </tr>                         <tr>                   <td>130200000001","Makanan Pendamping Air Susu Ibu (MP-ASI) Pokok Siap Konsumsi</td>
-                  <td>MP-ASI Pokok adalah makanan bergizi yang diberikan disamping Air Susu Ibu yang diberikan pada waktu makan kepada bayi berusia 6 (enam) bulan keatas sampai anak usia
- 24 (dua puluh empat) bulan atau di luar rentang usia tersebut berdasarkan indikasi medis, untuk mencapai kecukupan gizi.</td>
-                  <td>Aktif"
+130103000015,"PKMK untuk Pasien Malabsorpsi",,Aktif
+130103000016,"PKMK untuk Pasien Inflammatory Bowel Diseases",,Aktif
+130103000017,"PKMK untuk Pasien Malabsorpsi",,Nonaktif
+130200000001,"Makanan Pendamping Air Susu Ibu (MP-ASI) Pokok Siap Konsumsi","MP-ASI Pokok adalah makanan bergizi yang diberikan disamping Air Susu Ibu yang diberikan pada waktu makan kepada bayi berusia 6 (enam) bulan keatas sampai anak usia  24 (dua puluh empat) bulan atau di luar rentang usia tersebut berdasarkan indikasi medis, untuk mencapai kecukupan gizi.",Aktif
 130200000002,"Makanan Pendamping Air Susu Ibu (MP-ASI) Pokok - Siap Masak","MP-ASI Pokok adalah makanan bergizi yang diberikan disamping Air Susu Ibu yang diberikan pada waktu makan kepada bayi berusia 6 (enam) bulan keatas sampai anak usia  24 (dua puluh empat) bulan atau di luar rentang usia tersebut berdasarkan indikasi medis, untuk mencapai kecukupan gizi.",Aktif
 130200000003,"Makanan Pendamping Air Susu Ibu (MP-ASI) Kudapan","Makanan Pendamping Air Susu Ibu (MP-ASI) Kudapan adalah makanan bergizi yang diberikan disamping Air Susu Ibu dan MP-ASI pokok yang diberikan diantara dua waktu makan kepada bayi berusia 6 (enam) bulan keatas sampai anak usia 24 (dua puluh empat) bulan atau di luar rentang usia tersebut berdasarkan indikasi medis, untuk mencapai kecukupan gizi.",Aktif
 130200000004,"Makanan Selingan Untuk Anak","Makanan selingan untuk anak adalah makanan yang diberikan untuk anak usia 1 (satu) sampai usia 3 (tiga) tahun di antara waktu makan.",Aktif
@@ -1287,14 +1188,8 @@ Karakteristik dasar :
 140101020005,"Air Minum Embun/Mineral/Demineral Berkarbonat","Definisi :  Air yang dikemas di dalam botol atau bentuk kemasan lainnya dan ditambahkan gas karbondioksida.  Karakteristik dasar :  Kadar CO2 tidak lebih dari 5.890 mg/L",Aktif
 140101020006,"Air Soda","Definisi :  Air soda adalah air minum yang mengandung gas karbondioksida, tidak berwarna, tidak berbau.  Karakteristik dasar :  Kadar CO2 tidak kurang dari 5.890 mg/L",Aktif
 140101020007,"Air Minum pH Tinggi","Definisi :  Air minum pH tinggi adalah air minum yang mengandung mineral dalam jumlah tertentu tanpa menambahkan mineral, dengan atau tanpa penambahan oksigen (O2) atau karbondioksida (CO2), dan memiliki pH tinggi.  Karakteristik dasar :  • pH antara 8,6 – 9,5  • memenuhi persyaratan mutu air mineral (selain pH)",Aktif
-140101020008,"Air Minum Olahan dengan Penambahan Garam Mineral","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>140102010001","Sari Buah</td>
-                  <td>Definisi :
- Sari buah adalah cairan yang diperoleh dari bagian buah yang dapat dimakan yang dicuci, dihancurkan, dijernihkan (jika dibutuhkan), dengan atau tanpa pasteurisasi dan dikemas untuk dapat dikonsumsi langsung. 
- Karakteristik dasar :
- • Kadar etanol tidak lebih dari 0,5%, kecuali sari buah yang ditetapkan kadar etanolnya sendiri;
- • Dapat ditambahkan konsentrat ke dalam sari buah dari jenis buah yang sama;
- • Dapat ditambahkan gula, tidak lebih dari 50 g/kg.</td>
-                  <td>Aktif"
+140101020008,"Air Minum Olahan dengan Penambahan Garam Mineral",,Aktif
+140102010001,"Sari Buah","Definisi :  Sari buah adalah cairan yang diperoleh dari bagian buah yang dapat dimakan yang dicuci, dihancurkan, dijernihkan (jika dibutuhkan), dengan atau tanpa pasteurisasi dan dikemas untuk dapat dikonsumsi langsung.   Karakteristik dasar :  • Kadar etanol tidak lebih dari 0,5%, kecuali sari buah yang ditetapkan kadar etanolnya sendiri;  • Dapat ditambahkan konsentrat ke dalam sari buah dari jenis buah yang sama;  • Dapat ditambahkan gula, tidak lebih dari 50 g/kg.",Aktif
 140102010002,"Sari Buah Campuran","Definisi :  Sari buah campuran adalah produk buah yang diperoleh dari dua  atau lebih jenis buah segar yang masak atau daging buah yang  diawetkan secara fisik, tidak difermentasi tetapi dapat terfermentasi,  berisi hancuran buah, keruh atau jernih, ditujukan untuk  dikonsumsi langsung. Sari buah diperoleh dengan proses mekanik  atau dapat diperoleh dari rekonstitusi sari buah konsentrat.  Sari buah dapat dipekatkan dan direkonstitusi dengan air untuk  mempertahankan komposisi esensial dan faktor mutu dari sari  buah.",Aktif
 140102010003,"Sari Buah dan Sari Sayur","Definisi :  Sari buah dan sari sayur adalah produk yang terdiri dari campuran sari buah dan sari sayur. Kandungan sari buah lebih banyak daripada sari sayur.",Aktif
 140102010004,"Sari Jeruk Nipis (Lime Juice)","Definisi :  Sari jeruk nipis adalah produk sari buah yang diperoleh dari jeruk nipis masak spesies Citrus aurantifolia atau varietas turunannya.  Karakteristik dasar:  • Total padatan tidak kurang dari 8 % (b/v);  • Total asam (sebagai asam sitrat anhidrat) tidak kurang dari 6% (b/v);  • Dengan level brix untuk sari buah rekonstitusi dan puree rekonstitusi tidak kurang dari 8,0°Brix (20°C).",Aktif
@@ -1381,16 +1276,8 @@ Karakteristik dasar :
 140104020010,Kapucino,"Definisi :  Kapucino adalah minuman yang dibuat dari espresso dan susu, yang merupakan minuman khas Italia.",Aktif
 140104020011,"Minuman Rasa Susu","Definisi : Minuman rasa susu adalah produk minuman yang diperoleh dari pencampuran air minum dengan susu untuk memberikan rasa, dengan atau tanpa penambahan bahan pangan lain.  Karakteristik dasar: • Kadar lemak susu kurang dari 0.3%; • Kadar CO2 tidak lebih dari 5.890 mg/L.",Aktif
 140104020012,"Minuman Citrus Comminutes","Definisi : Minuman citrus comminutes adalah minuman ringan yang diperoleh dari proses yang melibatkan kelompok buah citrus utuh.  Karakteristik dasar : • Kandungan buah dalam minuman 7% hingga 10% tergantung jenisnya sebelum diencerkan, dan 1,5% hingga 2% untuk minuman yang dikonsumsi tanpa pengenceran; • Dapat ditambahkan gula tidak lebih dari 100 g/kg.",Aktif
-140104020013,"Minuman Teh Fermentasi","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>140104030001","Konsentrat Lemonade Beku</td>
-                  <td>Definisi:
-Konsentrat lemonade beku adalah produk beku disiapkan dari satu atau dua sari buah jeruk lemon dengan satu atau lebih pemanis nutritif.
-
-Karakteristik dasar :
-• Total padatan terlarut (dihitung sebagai nilai sukrosa) tidak kurang dari 48% yang diukur dengan refraktometer;
-• Saat produk diencerkan mengikuti aturan label untuk membuat lemonade, keasaman lemonade (sebagai asam sitrat anhidrat) tidak kurang dari 0,77 % b/v, dan total padatan terlarut tidak kurang dari 10,5%;
-• Bahan sari buah lemon : sari buah lemon atau sari buah lemon beku atau campurannya; konsentrat sari buah lemon atau konsentrat sari buah lemon beku atau campurannya;
-• Sari buah lemon tidak diencerkan dan diperoleh dari buah masak dan dari jenis asam.</td>
-                  <td>Aktif"
+140104020013,"Minuman Teh Fermentasi",,Aktif
+140104030001,"Konsentrat Lemonade Beku","Definisi: Konsentrat lemonade beku adalah produk beku disiapkan dari satu atau dua sari buah jeruk lemon dengan satu atau lebih pemanis nutritif.  Karakteristik dasar : • Total padatan terlarut (dihitung sebagai nilai sukrosa) tidak kurang dari 48% yang diukur dengan refraktometer; • Saat produk diencerkan mengikuti aturan label untuk membuat lemonade, keasaman lemonade (sebagai asam sitrat anhidrat) tidak kurang dari 0,77 % b/v, dan total padatan terlarut tidak kurang dari 10,5%; • Bahan sari buah lemon : sari buah lemon atau sari buah lemon beku atau campurannya; konsentrat sari buah lemon atau konsentrat sari buah lemon beku atau campurannya; • Sari buah lemon tidak diencerkan dan diperoleh dari buah masak dan dari jenis asam.",Aktif
 140104030002,"Konsentrat Minuman Rasa/Berperisa Berkarbonat atau Tidak Berkarbonat (Serbuk/ Cair/ Pasta)","Definisi : Konsentrat minuman rasa/berperisa adalah produk minuman dalam bentuk konsentrat (cair atau padat) yang diperoleh dari campuran bahan pangan, dengan atau tanpa perisa, dan dalam penggunaannya diencerkan dengan air. Termasuk dalam nama jenis ini diantaranya minuman serbuk rasa, minuman serbuk berperisa.",Aktif
 140104030003,Squash,"Definisi : Squash adalah minuman yang diperoleh dari campuran sirup atau gula dan sari buah dengan atau tanpa bagian yang dapat dimakan dari satu jenis buah atau lebih dan dalam penggunaannya diencerkan dengan air.  Karakteristik dasar : • Kadar gula sebagai sakarosa 25% hingga 55%; • Total padatan terlarut tidak kurang dari 30%; • Kandungan sari buah tidak kurang dari 10%",Aktif
 140104030004,"Squash Berperisa/Rasa","Definisi : Squash berperisa/rasa adalah produk yang diperoleh dari proses pencampuran sirup atau gula dan perisa dengan atau tanpa bagian yang dapat dimakan dari satu jenis buah-buahan atau lebih dan dalam penggunaannya harus diencerkan terlebih dahulu.  Karakteristik dasar : Kadar gula sebagai sakarosa 25% hingga 55%.",Aktif
@@ -1432,13 +1319,8 @@ Karakteristik dasar :
 140105000028,"Serbuk Sekoteng","Definisi : Serbuk sekoteng adalah produk minuman berbentuk serbuk atau granula yang diperoleh dari campuran gula dan rempah dengan penambahan bahan pangan lain (biji delima, buah kolang-kaling, kacang hijau, kacang tanah, roti tawar).",Aktif
 140105000029,"Minuman Sari Kacang Hijau","Definisi : Minuman sari kacang hijau adalah minuman yang diperoleh dari sari kacang hijau dengan penambahan air, gula dan bahan pangan lain, melalui pemanasan dan dikemas secara kedap (hermetis).",Aktif
 140105000030,"Serealia Celup","Definisi : Serealia celup adalah produk berbentuk serbuk yang diperoleh dari biji-bijian/serealia dengan atau tanpa penambahan bahan pangan lain, dan dikemas dalam kantong dengan atau tanpa tali maupun perekat untuk dicelup.",Aktif
-140105000031,"Minuman Serealia","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>140201000001","Bir</td>
-                  <td>Definisi :
-Bir adalah minuman mengandung etanol sebagai hasil proses fermentasi khamir (yeast) terhadap bahan baku utama malt, hops (Humulus lupulus) dan air yang memberikan aroma, rasa, dan sifat khas bir dapat ditambahkan bahan pangan lain seperti: beras, jagung, gula, tapioka, barley, barley yang disangrai. Malt merupakan hasil proses pengecambahan/germinasi barley (Hordeum vulgare), gandum (Triticum sp.), atau rye (Secale cereale).
-
-Karakteristik dasar :
-Kadar etanol 0,5% hingga 8%.</td>
-                  <td>Aktif"
+140105000031,"Minuman Serealia",,Aktif
+140201000001,Bir,"Definisi : Bir adalah minuman mengandung etanol sebagai hasil proses fermentasi khamir (yeast) terhadap bahan baku utama malt, hops (Humulus lupulus) dan air yang memberikan aroma, rasa, dan sifat khas bir dapat ditambahkan bahan pangan lain seperti: beras, jagung, gula, tapioka, barley, barley yang disangrai. Malt merupakan hasil proses pengecambahan/germinasi barley (Hordeum vulgare), gandum (Triticum sp.), atau rye (Secale cereale).  Karakteristik dasar : Kadar etanol 0,5% hingga 8%.",Aktif
 140201000002,"Bir Hitam (Stout)","Definisi : Bir hitam (stout) adalah minuman hasil fermentasi kamir yang mengapung dari malt dan biji barley (Hordeum vulgare) yang disangrai dan ditambahkan hops (Lupuli glandulae) dengan aroma hops yang kuat, berwarna hitam kecoklatan, dengan atau tanpa bahan pangan lain.  Karakteristik dasar : Kadar etanol 2% hingga 8%.",Aktif
 140202000001,"Cider atau Anggur Apel","Definisi : Cider atau anggur apel adalah minuman hasil fermentasi lumatan buah apel dan atau produk yang berasal dari buah apel (sari buah apel, konsentrat apel).  Karakteristik dasar : Kadar etanol tidak lebih dari 8,5%.",Aktif
 140202000002,Perry,"Definisi : Perry adalah minuman yang dibuat melalui fermentasi sari buah pir/pear atau campuran sari buah pir/pear dan apel dimana jumlah sari buah apel tidak lebih dari 25% v/v dari total jumlah sari buah.  Karakteristik dasar : Kadar etanol tidak lebih dari 8,5%.",Aktif
@@ -1474,17 +1356,10 @@ Kadar etanol 0,5% hingga 8%.</td>
 140207000004,"Koktail Anggur (Wine Cocktail)","Definisi : Koktail anggur (wine cocktail) adalah anggur atau anggur fortifikasi yang ditambah dengan salah satu atau campuran dari vegetable bitters, bahan aroma, buah, sari buah atau bahan aroma buah, herbal kering dan atau aromanya.  Karakteristik dasar : Kadar etanol 7% hingga 24%.",Aktif
 140207000005,"Meat Wine","Definisi : Meat wine adalah anggur yang ditambah dengan sari daging atau sari daging sapi.  Karakteristik dasar : • Kadar protein tidak kurang dari 20 g/l; • Kadar etanol 7% hingga 24%.",Aktif
 140207000006,"Anggur Mengandung bahan pangan lain (antara lain : Ginseng/kolesom/temulawak)","Definisi : Anggur mengandung bahan pangan lain adalah anggur ditambah dengan sari atau bahan pangan lain.  Karakteristik dasar : Kadar etanol 7% hingga 24%;",Aktif
-140207000007,"Minuman Beralkohol Golongan A","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>140207000008","Minuman Beralkohol Golongan B</td>
-                  <td></td>
-                  <td>Aktif"
-140207000009,"Minuman Beralkohol Golongan C","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>150100000001","Keripik Kentang</td>
-                  <td>Definisi :
-Keripik kentang adalah makanan ringan yang dibuat dari umbi kentang (Solanum tuberosum) berbentuk irisan tipis dari kentang utuh atau irisan dari kentang yang sudah dipotong dan diolah dengan proses penggorengan atau pemanggangan atau proses lain yang sesuai sehingga diperoleh produk bertekstur renyah siap konsumsi dengan atau tanpa penambahan bahan pangan lain.
-
-Karakteristik dasar :
-• Tekstur renyah;
-• Kadar air tidak lebih dari 3%. (dusty), tidak lebih dari 7% (salut).</td>
-                  <td>Aktif"
+140207000007,"Minuman Beralkohol Golongan A",,Aktif
+140207000008,"Minuman Beralkohol Golongan B",,Aktif
+140207000009,"Minuman Beralkohol Golongan C",,Aktif
+150100000001,"Keripik Kentang","Definisi : Keripik kentang adalah makanan ringan yang dibuat dari umbi kentang (Solanum tuberosum) berbentuk irisan tipis dari kentang utuh atau irisan dari kentang yang sudah dipotong dan diolah dengan proses penggorengan atau pemanggangan atau proses lain yang sesuai sehingga diperoleh produk bertekstur renyah siap konsumsi dengan atau tanpa penambahan bahan pangan lain.  Karakteristik dasar : • Tekstur renyah; • Kadar air tidak lebih dari 3%. (dusty), tidak lebih dari 7% (salut).",Aktif
 150100000002,"Keripik Gadung","Definisi : Keripik gadung adalah makanan kering yang dibuat dari gadung (Dioscorea hispida) berbentuk irisan tipis yang digoreng dengan atau tanpa penambahan bahan pangan lain.  Karakteristik dasar : • Tekstur renyah; • Kadar air tidak lebih dari 6%.",Aktif
 150100000003,"Krekers Beras (Senbei)","Definisi : Kreker beras (senbei) adalah makanan ringan yang terbuat dari beras atau tepung beras dengan campuran bahan atau pati lain dan bahan pangan lain.  Karakteristik dasar : Kadar air tidak lebih dari 3%.",Aktif
 150100000004,"Keripik Singkong ","Definisi : Keripik singkong adalah makanan ringan yang dibuat dari umbi singkong (Manihot sp.) berbentuk irisan tipis dari singkong utuh atau irisan singkong yang sudah dipotong dan diolah dengan proses penggorengan atau pemanggangan atau proses lain yang sesuai, sehingga diperoleh produk bertekstur renyah siap konsumsi dengan atau tanpa penambahan bahan pangan lain.  Karakteristik dasar : • Tekstur renyah; • Kadar air maksimal 6% (dusty), 7% (salut)",Aktif
@@ -1518,13 +1393,8 @@ Karakteristik dasar :
 150100000032,"Krekers Rasa","Definisi : Krekers rasa adalah jenis krekers dari terigu dan/atau non terigu yang dalam pembuatannya memerlukan proses fermentasi atau tidak, serta melalui proses laminasi sehingga menghasilkan bentuk pipih dan bila dipatahkan penampangnya tampak berlapis-lapis, diberi bahan sebagai sumber rasa misalnya gula, keju, abon, cokelat. Nama jenis untuk kategori ini disesuaikan dengan bahan sumber rasanya, misalnya krekers abon, krekers cokelat, krekers manis, krekers gurih.  Karakteristik dasar : Kadar air tidak lebih dari 5%",Aktif
 150100000033,"Krekers Sandwich ","Definisi : Krekers sandwich adalah jenis krekers dari terigu dan/atau non terigu dengan menggunakan krim filling (rasa keju, rasa coklat, rasa buah, dan lain-lain) sedikitnya terdiri dari 2 (dua) keping krekers.",Aktif
 150100000034,"Malkist ","Definisi : Malkist adalah jenis krekers dari terigu dan/atau non terigu fermentasi yang pada proses laminasinya menggunakan cracker dust di antara lapisan-lapisannya yang permukaannya disalut atau ditaburi gula.  Karakteristik dasar : Kadar air tidak lebih dari 5%.",Aktif
-150100000035,"Keripik Lainnya","</td>                   <td>Aktif</td>               </tr>                         <tr>                   <td>150200000001","Kacang Garing/Kacang Kulit</td>
-                  <td>Definisi :
-Kacang garing/kacang kulit adalah kacang tanah atau kacang lainnya yang masih dalam kulitnya, direndam, direbus dengan atau tanpa penambahan bahan pangan lain, ditiriskan kemudian dipanggang/dioven.
-
-Karakteristik dasar :
-Kadar air tidak lebih dari 3%</td>
-                  <td>Aktif"
+150100000035,"Keripik Lainnya",,Aktif
+150200000001,"Kacang Garing/Kacang Kulit","Definisi : Kacang garing/kacang kulit adalah kacang tanah atau kacang lainnya yang masih dalam kulitnya, direndam, direbus dengan atau tanpa penambahan bahan pangan lain, ditiriskan kemudian dipanggang/dioven.  Karakteristik dasar : Kadar air tidak lebih dari 3%",Aktif
 150200000002,"Kacang Sangrai ","Definisi : Kacang sangrai adalah kacang tanah yang masih dalam kulitnya dan disangrai.  Karakteristik dasar : Kadar air tidak lebih dari 3%",Aktif
 150200000003,"Kacang Goreng","Definisi : Kacang goreng adalah kacang tanah dengan atau tanpa kulit ari, yang telah digoreng, dengan atau tanpa penambahan bahan pangan lain.",Aktif
 150200000004,"Kacang Goreng Lainnya ","Definisi : Kacang goreng lainnya adalah kacang selain kacang tanah dengan atau tanpa kulit ari, yang telah digoreng, dengan atau tanpa penambahan bahan pangan lain. Nama jenis untuk produk ini misalnya kacang kedelai goreng, kacang koro goreng, kacang kapri goreng, kacang bogor goreng.",Aktif
