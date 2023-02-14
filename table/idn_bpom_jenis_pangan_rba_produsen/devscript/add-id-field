@@ -1,0 +1,2 @@
+#!/bin/bash
+csv-add-fields --no-input-header --no-output-header --eval '++$i' -f id --at 1 data0.csv

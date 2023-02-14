@@ -1,0 +1,34 @@
+#!/usr/bin/env perl
+
+use 5.014;
+use strict;
+use warnings;
+use Log::ger::Screen;
+
+use File::Slurper qw(read_text);
+use Text::CSV;
+
+sub _oneline {
+    my $text = shift;
+    $text =~ s/\R/ /g;
+    $text;
+}
+
+my $html = read_text("jpprodusen");
+my $csv = Text::CSV->new({binary=>1});
+
+while ($html =~ m!
+                  <tr>\s*
+                  <td>\s*(\d+)\s*</td>\s* # 1. KBLI
+                  <td>\s*(\d+)\s*</td>\s* # 2. kode bentuk sediaan
+                  <td>(.*?)</td>\s* # 3. nama bentuk sediaan
+                  <td>\s*(\d+)\s*</td>\s* # 4. kategori pangan
+                  <td>(.*?)</td>\s* # 5. nama kategori pangan
+                  <td>\s*(\d+)\s*</td>\s* # 6. (harga) daftar baru
+                  <td>\s*(\d+)\s*</td>\s* # 7. (harga) daftar ulang
+                  <td>\s*(\d+)\s*</td>\s* # 8. (harga) perubahan
+                  <td>(.+?)</td>\s* # 9. status
+                  </tr>
+                 !gmsx) {
+    $csv->say(\*STDOUT, [$1, $2, $3, _oneline($4), $5, $6, $7, $8, $9]);
+}

@@ -1,0 +1,83 @@
+summary: Food types in BPOM processed food division (RBA version, for importers)
+summary.alt.lang.id_ID: Jenis pangan di BPOM pangan olahan (versi RBA, importir)
+fields:
+  id:
+    schema: ['posint*'],
+    pos: 0
+    summary: "Numeric ID"
+    sortable: Yes
+    unique: Yes
+    filterable_regex: Yes
+  kbli_code:
+    schema: ['str*', {match: '^[0-9]+$'}]
+    pos: 1
+    summary: "KBLI code"
+    'summary.alt.lang.id': "Kode KBLI"
+    sortable: Yes
+    unique: No
+    filterable_regex: Yes
+  dosage_form_code:
+    schema: ['str*', {match: '^[0-9]+$'}]
+    pos: 2
+    summary: "Dosage form code"
+    'summary.alt.lang.id': "Kode bentuk sediaan"
+    sortable: Yes
+    unique: No
+    filterable_regex: Yes
+  dosage_form_name:
+    schema: ['str*']
+    pos: 3
+    summary: "Dosage form name"
+    'summary.alt.lang.id': "Nama bentuk sediaan"
+    sortable: Yes
+    unique: No
+    filterable_regex: Yes
+  category_code:
+    schema: ['str*', {match: '^[0-9]+$'}]
+    pos: 4
+    summary: "Food category code"
+    'summary.alt.lang.id': "Kode kategori pangan"
+    sortable: Yes
+    unique: No
+    filterable_regex: Yes
+  category_code:
+    schema: ['str*']
+    pos: 5
+    summary: "Food category name"
+    'summary.alt.lang.id': "Nama kategori pangan"
+    sortable: Yes
+    unique: No
+    filterable_regex: Yes
+  new_reg_price:
+    schema: ['ufloat*']
+    pos: 6
+    summary: "Price for new registration of new product"
+    'summary.alt.lang.id': "Harga daftar baru produ"
+    sortable: Yes
+    unique: No
+    filterable_regex: Yes
+  rereg_price:
+    schema: ['ufloat*']
+    pos: 7
+    summary: "Price for re-registration of product"
+    'summary.alt.lang.id': "Harga daftar ulang produk"
+    sortable: Yes
+    unique: No
+    filterable_regex: Yes
+  mod_price:
+    schema: ['ufloat*']
+    pos: 8
+    summary: "Price for modification of product"
+    'summary.alt.lang.id': "Harga perubahan product"
+    sortable: Yes
+    unique: No
+    filterable_regex: Yes
+  status:
+    schema: ['str*']
+    pos: 8
+    summary: "Status"
+    'summary.alt.lang.id': "Status"
+    sortable: Yes
+    unique: No
+    filterable_regex: Yes
+pk: id
