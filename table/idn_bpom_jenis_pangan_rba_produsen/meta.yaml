@@ -2,7 +2,7 @@ summary: Food types in BPOM processed food division (RBA version, for importers)
 summary.alt.lang.id_ID: Jenis pangan di BPOM pangan olahan (versi RBA, importir)
 fields:
   id:
-    schema: ['posint*'],
+    schema: ['posint*']
     pos: 0
     summary: "Numeric ID"
     sortable: Yes
