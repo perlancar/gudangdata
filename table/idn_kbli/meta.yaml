@@ -1,0 +1,28 @@
+summary: KBLI codes (2020)
+summary.alt.lang.id_ID: Kode KBLI (2020)
+fields:
+  code:
+    schema: ['str*', {match: '^[0-9]{2,5}$'}]
+    pos: 0
+    summary: "Code"
+    "summary.alt.lang.id_ID": "Kode"
+    sortable: Yes
+    filterable_regex: Yes
+    unique: Yes
+  title:
+    schema: "str*"
+    pos: 1
+    summary: "Title"
+    "summary.alt.lang.id_ID": "Judul"
+    sortable: Yes
+    filterable_regex: Yes
+    unique: No
+  description:
+    schema: "str*"
+    pos: 1
+    summary: Description
+    "summary.alt.lang.id_ID": "Uraian"
+    sortable: Yes
+    filterable_regex: Yes
+    unique: No
+pk: code

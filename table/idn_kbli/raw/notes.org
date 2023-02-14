@@ -1,0 +1,18 @@
+Retrieved JSON response from https://infiniti.id/kbli then edit (an invalid
+Unicode character), then convert to CSV:
+
+    % jpath '$.data[*]' FILE.json | pp-json > FILE.json.edit
+    % # edit FILE.json.edit
+    % td as-csv FILE.json.edit > data0.csv
+
+There are some category rows which we eliminate using:
+
+    % csv-grep -He '$_->{kbli} =~ /\A\d+\z/' data0.csv > data1.csv
+
+Some further edits to data1.csv:
+
+    - 8421 -> 842 PENYEDIAAN LAYANAN UNTUK MASYARAKAT DALAM BIDANG HUBUNGAN LUAR NEGERI, ...
+
+We select fields that actually contain values and rename them:
+
+    % csv-select-fields -f kbli -f judul -f uraian data1.csv | csv-sort-fields --by-examples-json '["kbli","judul","uraian"]' - > data2.csv
