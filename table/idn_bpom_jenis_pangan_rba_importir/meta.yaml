@@ -74,7 +74,7 @@ fields:
     filterable_regex: Yes
   status:
     schema: ['str*']
-    pos: 8
+    pos: 9
     summary: "Status"
     'summary.alt.lang.id': "Status"
     sortable: Yes
