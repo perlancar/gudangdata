@@ -1,0 +1,45 @@
+summary: E number
+fields:
+  code:
+    schema: ['str*', {match: '^E[1-9][0-9]{2,3}'}]
+    pos: 0
+    summary: "Code"
+    sortable: Yes
+    filterable_regex: Yes
+    unique: Yes
+  names:
+    schema: "str*"
+    pos: 1
+    summary: "Name(s)"
+    sortable: Yes
+    filterable_regex: Yes
+    unique: No
+  purpose:
+    schema: "str*"
+    pos: 2
+    summary: "Purpose"
+    sortable: Yes
+    filterable_regex: Yes
+    unique: No
+  colour:
+    schema: "str*"
+    pos: 3
+    summary: Colour
+    sortable: Yes
+    filterable_regex: Yes
+    unique: No
+  color_index:
+    schema: "posint*"
+    pos: 4
+    summary: "Colour Index (CI number)"
+    sortable: Yes
+    filterable_regex: Yes
+    unique: No
+  status:
+    schema: "str*"
+    pos: 5
+    summary: Colour
+    sortable: Yes
+    filterable_regex: Yes
+    unique: No
+pk: code

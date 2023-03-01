@@ -1,0 +1,24 @@
+summary: E number range
+fields:
+  range:
+    schema: ['str*']
+    pos: 0
+    summary: "Range"
+    sortable: Yes
+    filterable_regex: Yes
+    unique: No
+  subrange:
+    schema: ['str*']
+    pos: 1
+    summary: "Subrange"
+    sortable: Yes
+    filterable_regex: Yes
+    unique: Yes
+  description:
+    schema: "str*"
+    pos: 2
+    summary: "Description"
+    sortable: Yes
+    filterable_regex: Yes
+    unique: No
+pk: subrange
