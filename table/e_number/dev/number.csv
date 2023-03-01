@@ -1,516 +1,516 @@
 code,names,purpose,color,color_index,status
-E100 ,Curcumin (from turmeric) ,color,Yellow-orange ,,Approved in the EU.[8] Approved in the US.[9] 
-E101 ,"Riboflavin (Vitamin B2), formerly called lactoflavin ",color,Yellow-orange ,,Approved in the EU.[8] Approved in the US.[9] 
-E101a ,Riboflavin-5'-Phosphate ,color,Yellow-orange ,,Approved in the EU.[8] 
-E102 ,Tartrazine (FD&C Yellow 5) ,color,Yellow ,19140,Approved in the EU.[8] Approved in the US.[9] 
-E103 ,Alkannin[10] ,color,Red-brown ,,
-E104 ,Quinoline Yellow WS ,color,Dull or greenish yellow ,47005,Restricted use approved in the EU.[8][11] 
-E105 ,Fast Yellow AB ,color,Yellow ,,
-E106 ,Riboflavin-5-Sodium Phosphate ,color,Yellow ,,
-E107 ,Yellow 2G ,color,Yellow ,,
-E110 ,"Sunset Yellow FCF (Orange Yellow S, FD&C Yellow 6) ",color,Yellow-orange ,15985,Restricted use approved in the EU.[8][11] Banned in Norway.[12] Products in the EU require warnings and its use is being phased out.[11] Approved in the US.[9] 
-E111 ,Orange GGN ,color,Orange ,,
-E120 ,"Cochineal, Carminic acid, Carmine (Natural Red 4) ",color,Crimson ,,Approved in the EU.[8] Approved in the US.[9] 
-E121 ,Citrus Red 2 ,color,Dark red ,,Approved in the United States only for use in colouring the skin of oranges.[13] 
-E122 ,Carmoisine (azorubine) ,color,Red to maroon ,14720,"Approved in the EU.[8] Undergoing a voluntary phase-out in the UK. Currently banned in Canada, Japan, Norway, USA .[citation needed] EU currently evaluating health risks.[citation needed] "
-E123 ,Amaranth (FD&C Red 2) ,color,Red ,,Approved in the EU.[8] Banned in the United States.[14] 
-E124 ,"Ponceau 4R (Cochineal Red A, Brilliant Scarlet 4R) ",color,Red ,16255,Restricted use approved in the EU.[8][11] 
-E125 ,"Ponceau SX, Scarlet GN ",color,Red ,,Only permitted for externally applied drugs and cosmetics in the US.[15][16][17] 
-E126 ,Ponceau 6R ,color,Red ,,
-E127 ,Erythrosine (FD&C Red 3) ,color,Red ,,Approved in the EU.[8] Approved in the US except for lake variant.[9] 
-E128 ,Red 2G ,color,Red or pink ,,Not approved in the EU.[11] 
-E129 ,Allura Red AC (FD&C Red 40) ,color,Red ,16035,Approved in the EU.[8] Banned in Switzerland.[citation needed] Undergoing a voluntary phase out in the UK. Approved in the US.[9] 
-E130 ,Indanthrene blue RS ,color,Blue ,,
-E131 ,Patent Blue V ,color,Dark blue ,,Approved in the EU.[8] 
-E132 ,"Indigo carmine (indigotine, FD&C Blue 2) ",color,Indigo ,,Approved in the EU.[8] Approved in the US.[9] 
-E133 ,Brilliant blue FCF (FD&C Blue 1) ,color,Reddish blue ,42090,Approved in the EU.[8] Approved in the US.[9] 
-E140 ,Chlorophylls and Chlorophyllins: (i) Chlorophylls (ii) Chlorophyllins ,color,Green ,,Approved in the EU.[8] 
-E141 ,Copper complexes of chlorophylls and chlorophyllins (i) Copper complexes of chlorophylls (ii) Copper complexes of chlorophyllins ,color,Green ,,Approved in the EU.[8] Approved in the US.[9] 
-E142 ,Green S ,color,Green ,,Approved in the EU.[8] 
-E143 ,Fast Green FCF (FD&C Green 3) ,color,Green ,,Approved in the US. Banned in the EU. 
-E150a ,"Plain caramel, Caramel I ",color,Brown ,,Approved in the EU.[8] Approved in the US.[9] 
-E150b ,"Caustic sulfite caramel, Caramel II",color,Brown ,,Approved in the EU.[8] Approved in the US.[9] 
-E150c ,"Ammonia caramel, Caramel III",color,Brown ,,Approved in the EU.[8] Approved in the US.[9] 
-E150d ,"Sulfite ammonia caramel, Caramel IV",color,Brown ,,Approved in the EU.[8] Approved in the US.[9] 
-E151 ,"Black PN, Brilliant Black BN ",color,Black ,,Approved in the EU.[8] 
-E152 ,Carbon black (hydrocarbon) ,color,Black ,,
-E153 ,Vegetable carbon ,color,Black ,,Approved in the EU.[8] 
-E154 ,Brown FK (kipper brown) ,color,Brown ,,Previously approved in the EU for dyeing kippers only: approval withdrawn November 2011.[11] 
-E155 ,Brown HT (chocolate brown HT) ,color,Brown ,,Approved in the EU.[8] 
-E160a ,"Alpha-carotene, Beta-carotene, Gamma-carotene ",color,Yellow-orange to brown ,,Approved in the EU.[8] 
-E160b ,"Annatto, bixin, norbixin ",color,Orange ,,Approved in the EU.[8] Approved in the US.[9] 
-E160c ,"Paprika oleoresin: (i) capsanthin, (ii) capsorubin ",color,Red ,,Approved in the EU.[8] Approved in the US.[9] 
-E160d ,Lycopene ,color,Bright to deep red ,,Restricted use approved in the EU.[8][11] Approved in the US.[9] 
-E160e ,Beta-apo-8'-carotenal (C 30) ,color,Orange-red to yellow ,,Approved in the EU.[8] Approved in the US.[9] 
-E160f ,Ethyl ester of beta-apo-8'-carotenic acid (C 30) ,color,Orange-red to yellow ,,Not approved in the EU.[11] 
-E161a ,Flavoxanthin ,color,Golden-yellow and brownish ,,
-E161b ,Lutein ,color,Orange-red to yellow ,,Approved in the EU.[8] 
-E161c ,Cryptoxanthin ,color,Orange-red ,,
-E161d ,Rubixanthin ,color,Orange-red ,,
-E161e ,Violaxanthin ,color,Orange ,,
-E161f ,Rhodoxanthin ,color,Purple ,,
-E161g ,Canthaxanthin ,color,Violet ,,Not approved in the EU.[11] Approved in the US.[9] 
-E161h ,Zeaxanthin ,color,Orange-red ,,
-E161i ,Citranaxanthin ,color,Deep violet ,,
-E161j ,Astaxanthin ,color,Red ,,
-E162 ,"Beetroot Red, Betanin ",color,Red ,,Approved in the EU.[8] Approved in the US.[9] 
-E163 ,Anthocyanins ,color,"pH dependent(Red, green and purple ranges) ",,Approved in the EU.[8] 
-E164 ,Saffron ,color,Orange-red[colour?] ,,Approved in the US.[9] 
-E170 ,"Calcium carbonate, Chalk ",color,White ,,Approved in the EU.[8] 
-E171 ,Titanium dioxide ,color,White ,77891,"No longer approved in the EU as of June 2022,[18] due to the identification of potential carcinogenic effects.[19] Approved in the US.[9] "
-E172 ,Iron oxides and iron hydroxides ,color,Brown ,,Approved in the EU.[8] Approved in the US for sausage casings.[9] 
-E173 ,Aluminium ,color,Silver to grey ,,Approved in the EU.[8] 
-E174 ,Silver ,color,Silver ,,Approved in the EU.[8] 
-E175 ,Gold ,color,Gold ,,Approved in the EU.[8] 
-E180 ,"Pigment Rubine, Lithol Rubine BK ",color,Red ,,Approved in the EU.[8] 
-E181 ,Tannin ,color,Brown ,,
-E182 ,"Orcein, Orchil ",color,Purple ,,
-E200 ,Sorbic acid ,preservative ,,,Approved in the EU.[8] 
-E201 ,Sodium sorbate ,preservative ,,,
-E202 ,Potassium sorbate ,preservative ,,,Approved in the EU.[8] 
-E203 ,Calcium sorbate ,preservative ,,,Approved in the EU.[8] 
-E209 ,Heptyl p-hydroxybenzoate ,preservative ,,,
-E210 ,Benzoic acid ,preservative ,,,Approved in the EU.[8] 
-E211 ,Sodium benzoate ,preservative ,,,Approved in the EU.[8] 
-E212 ,Potassium benzoate ,preservative ,,,Approved in the EU.[8] 
-E213 ,Calcium benzoate ,preservative ,,,Approved in the EU.[8] 
-E214 ,Ethylparaben (ethyl para-hydroxybenzoate) ,preservative ,,,Approved in the EU.[8] 
-E215 ,Sodium ethyl para-hydroxybenzoate ,preservative ,,,Approved in the EU.[8] 
-E216 ,Propylparaben (propyl para-hydroxybenzoate) ,preservative ,,,
-E217 ,Sodium propyl para-hydroxybenzoate ,preservative ,,,
-E218 ,Methylparaben (methyl para-hydroxybenzoate) ,preservative ,,,Approved in the EU.[8] 
-E219 ,Sodium methyl para-hydroxybenzoate ,preservative ,,,Approved in the EU.[8] 
-E220 ,Sulfur dioxide ,preservative ,,,Approved in the EU.[8] 
-E221 ,Sodium sulfite ,preservative ,,,Approved in the EU.[8] 
-E222 ,Sodium bisulfite (sodium hydrogen sulfite) ,preservative ,,,Approved in the EU.[8] 
-E223 ,Sodium metabisulfite ,preservative ,,,Approved in the EU.[8] 
-E224 ,Potassium metabisulfite ,preservative ,,,Approved in the EU.[8] 
-E225 ,Potassium sulfite ,preservative ,,,
-E226 ,Calcium sulfite ,preservative ,,,Approved in the EU.[8] 
-E227 ,Calcium hydrogen sulfite (preservative) ,firming agent ,,,Approved in the EU.[8] 
-E228 ,Potassium hydrogen sulfite ,preservative ,,,Approved in the EU.[8] 
-E230 ,"Biphenyl, diphenyl ",preservative ,,,Not approved in the EU. 
-E231 ,Orthophenyl phenol ,preservative ,,,Not approved in the EU. 
-E232 ,Sodium orthophenyl phenol ,preservative ,,,Not approved in the EU. 
-E233 ,Thiabendazole ,preservative ,,,Not approved in the EU. 
-E234 ,Nisin ,preservative ,,,Approved in the EU.[8] 
-E235 ,"Natamycin, Pimaracin ",preservative ,,,Approved in the EU.[8] 
-E236 ,Formic acid ,preservative ,,,
-E237 ,Sodium formate ,preservative ,,,
-E238 ,Calcium formate ,preservative ,,,
-E239 ,Hexamine (hexamethylene tetramine) ,preservative ,,,Approved in the EU.[8] 
-E240 ,Formaldehyde ,preservative ,,,
-E242 ,Dimethyl dicarbonate ,preservative ,,,Approved in the EU.[8] 
-E249 ,Potassium nitrite ,preservative ,,,Approved in the EU.[8] 
-E250 ,Sodium nitrite ,preservative ,,,Approved in the EU.[8] 
-E251 ,Sodium nitrate (Chile saltpetre) ,preservative ,,,Approved in the EU.[8] 
-E252 ,Potassium nitrate (Saltpetre) ,preservative ,,,Approved in the EU.[8] 
-E260 ,Acetic acid (preservative) ,acidity regulator ,,,Approved in the EU.[20] 
-E261 ,Potassium acetate (preservative) ,acidity regulator ,,,Approved in the EU.[20] 
-E262 ,Sodium acetates (i) Sodium acetate (ii) Sodium diacetate (sodium hydrogen acetate) ,"preservative, acidity regulator ",,,Approved in the EU.[20] 
-E263 ,Calcium acetate (preservative) ,acidity regulator ,,,Approved in the EU.[20] 
-E264 ,Ammonium acetate ,preservative ,,,Approved in Australia and New Zealand[21] 
-E265 ,Dehydroacetic acid ,preservative ,,,
-E266 ,Sodium dehydroacetate ,preservative ,,,
-E270 ,Lactic acid (preservative) ,antioxidant ,,,Approved in the EU.[20] 
-E280 ,Propionic acid ,preservative ,,,Approved in the EU.[8] 
-E281 ,Sodium propionate ,preservative ,,,Approved in the EU.[8] 
-E282 ,Calcium propionate ,preservative ,,,Approved in the EU.[8] 
-E283 ,Potassium propionate ,preservative ,,,Approved in the EU.[8] 
-E284 ,Boric acid ,preservative ,,,Approved in the EU.[8] 
-E285 ,Sodium tetraborate (borax) ,preservative ,,,Approved in the EU.[8] 
-E290 ,Carbon dioxide ,acidity regulator ,,,Approved in the EU.[20] 
-E296 ,Malic acid (acid) ,acidity regulator ,,,Approved in the EU.[20] 
-E297 ,Fumaric acid ,acidity regulator ,,,Approved in the EU.[20] 
-E300 ,Ascorbic acid (Vitamin C) ,antioxidant ,,,Approved in the EU.[22] 
-E301 ,Sodium ascorbate ,antioxidant ,,,Approved in the EU.[22] 
-E302 ,Calcium ascorbate ,antioxidant ,,,Approved in the EU.[22] 
-E303 ,Potassium ascorbate ,antioxidant ,,,
-E304 ,Fatty acid esters of ascorbic acid (Ascorbyl palmitate) ,antioxidant ,,,Approved in the EU.[22] 
-E305 ,Ascorbyl stearate ,antioxidant ,,,
-E306 ,"Tocopherols (Vitamin E, natural) ",antioxidant ,,,Approved in the EU.[22] 
-E307 ,Alpha-Tocopherol (synthetic) ,antioxidant ,,,Approved in the EU.[22] 
-E308 ,Gamma-Tocopherol (synthetic) ,antioxidant ,,,Approved in the EU.[22] 
-E309 ,Delta-Tocopherol (synthetic) ,antioxidant ,,,Approved in the EU.[22] 
-E310 ,Propyl gallate ,antioxidant ,,,Approved in the EU.[22] 
-E311 ,Octyl gallate ,antioxidant ,,,Approved in the EU.[22] 
-E312 ,Dodecyl gallate ,antioxidant ,,,Approved in the EU.[22] 
-E313 ,Ethyl gallate ,antioxidant ,,,
-E314 ,Guaiac resin ,antioxidant ,,,
-E315 ,Erythorbic acid ,antioxidant ,,,Approved in the EU.[22] 
-E316 ,Sodium erythorbate ,antioxidant ,,,Approved in the EU.[22] 
-E317 ,Erythorbin acid[citation needed] ,antioxidant ,,,
-E318 ,Sodium erythorbin[citation needed] ,antioxidant ,,,
-E319 ,tert-Butylhydroquinone (TBHQ) ,antioxidant ,,,Approved in the EU.[22] 
-E320 ,Butylated hydroxyanisole (BHA) ,antioxidant ,,,Approved in the EU.[22] 
-E321 ,Butylated hydroxytoluene (BHT) ,antioxidant ,,,Approved in the EU.[22] 
-E322 ,Lecithin ,emulsifier ,,,Approved in the EU.[23] 
-E323 ,Anoxomer ,antioxidant ,,,
-E324 ,Ethoxyquin ,antioxidant ,,,
-E325 ,Sodium lactate ,acidity regulator ,,,Approved in the EU.[20] 
-E326 ,Potassium lactate (antioxidant) ,acidity regulator ,,,Approved in the EU.[20] 
-E327 ,Calcium lactate ,acidity regulator ,,,Approved in the EU.[20] 
-E328 ,Ammonium lactate ,acidity regulator ,,,
-E329 ,Magnesium lactate ,acidity regulator ,,,
-E330 ,Citric acid ,"acid, acidity regulator ",,,Approved in the EU.[20] 
-E331 ,Sodium citrates (i) Monosodium citrate (ii) Disodium citrate (iii) Sodium citrate (trisodium citrate) ,acidity regulator ,,,Approved in the EU.[20] 
-E332 ,Potassium citrates (i) Monopotassium citrate (ii) Potassium citrate (tripotassium citrate) ,acidity regulator ,,,Approved in the EU.[20] 
-E333 ,Calcium citrates (i) Monocalcium citrate (ii) Dicalcium citrate (iii) Calcium citrate (tricalcium citrate) ,"acidity regulator, firming agent, sequestrant ",,,Approved in the EU.[20] 
-E334 ,Tartaric acid (L(+)-) ,(acid) ,,,Approved in the EU.[20] 
-E335 ,"Sodium tartrates (i) Monosodium tartrate (ii), Disodium tartrate ",acidity regulator ,,,Approved in the EU.[20] 
-E336 ,Potassium tartrates (i) Monopotassium tartrate (cream of tartar) (ii) Dipotassium tartrate ,acidity regulator ,,,Approved in the EU.[20] 
-E337 ,Sodium potassium tartrate ,acidity regulator ,,,Approved in the EU.[20] 
-E338 ,Phosphoric acid ,acid ,,,Approved in the EU.[20] 
-E339 ,Sodium phosphates (i) Monosodium phosphate (ii) Disodium phosphate (iii) Trisodium phosphate ,antioxidant ,,,Approved in the EU.[20] 
-E340 ,Potassium phosphates (i) Monopotassium phosphate (ii) Dipotassium phosphate (iii) Tripotassium phosphate ,antioxidant ,,,Approved in the EU.[20] 
-E341 ,Calcium phosphates (i) Monocalcium phosphate (ii) Dicalcium phosphate (iii) Tricalcium phosphate ,"anti-caking agent, firming agent ",,,Approved in the EU.[20] 
-E342 ,Ammonium phosphates: (i) monoammonium phosphate (ii) diammonium phosphate ,,,,
-E343 ,Magnesium phosphates (i) monomagnesium phosphate (ii) Dimagnesium phosphate ,anti-caking agent ,,,Approved in the EU.[20] This additive is under discussion and may be included in a future amendment to the Directive on miscellaneous additives. 
-E344 ,Lecithin citrate ,acidity regulator ,,,Not approved in the UK[24] 
-E345 ,Magnesium citrate ,acidity regulator ,,,
-E349 ,Ammonium malate ,acidity regulator ,,,
-E350 ,Sodium malates (i) Sodium malate (ii) Sodium hydrogen malate ,acidity regulator ,,,Approved in the EU.[20] 
-E351 ,Potassium malate ,acidity regulator ,,,Approved in the EU.[20] 
-E352 ,Calcium malates (i) Calcium malate (ii) Calcium hydrogen malate ,acidity regulator ,,,Approved in the EU.[20] 
-E353 ,Metatartaric acid ,emulsifier ,,,Approved in the EU.[20] 
-E354 ,Calcium tartrate ,emulsifier ,,,Approved in the EU.[20] 
-E355 ,Adipic acid ,acidity regulator ,,,Approved in the EU.[20] 
-E356 ,Sodium adipate ,acidity regulator ,,,Approved in the EU.[20] 
-E357 ,Potassium adipate ,acidity regulator ,,,Approved in the EU.[20] 
-E359 ,Ammonium adipate ,acidity regulator ,,,
-E363 ,Succinic acid ,acidity regulator ,,,Approved in the EU.[20] 
-E365 ,Monosodium fumarate ,acidity regulator ,,,
-E366 ,Potassium fumarate ,acidity regulator ,,,
-E367 ,Calcium fumarate ,acidity regulator ,,,
-E368 ,Ammonium fumarate ,acidity regulator ,,,
-E370 ,"1,4-Heptonolactone ",acidity regulator ,,,
-E375 ,Niacin ,acidity regulator ,,,
-E380 ,Triammonium citrate ,acidity regulator ,,,Approved in the EU.[20] 
-E381 ,Ammonium ferric citrate ,acidity regulator ,,,
-E383 ,Calcium glycerylphosphate ,acidity regulator ,,,
-E384 ,Isopropyl citrate ,acidity regulator ,,,
-E385 ,"Calcium disodium ethylene diamine tetraacetate, (Calcium disodium EDTA) ",sequestrant ,,,Approved in the EU.[20] 
-E386 ,Disodium ethylene diamine tetraacetate (Disodium EDTA) ,sequestrant ,,,
-E387 ,Oxystearin ,stabiliser ,,,
-E388 ,Thiodipropionic acid ,,,,
-E389 ,Dilauryl thiodipropionate ,,,,
-E390 ,Distearyl thiodipropionate ,,,,
-E391 ,Phytic acid ,,,,
-E392 ,Extracts of rosemary ,,,,Approved in 2010[25] 
-E399 ,Calcium lactobionate ,,,,
-E400 ,Alginic acid (thickener) (stabiliser) (gelling agent) ,emulsifier ,,,Approved in the EU.[23] 
-E401 ,Sodium alginate (thickener) (stabiliser) (gelling agent) ,emulsifier ,,,Approved in the EU.[23] 
-E402 ,Potassium alginate (thickener) (stabiliser) (gelling agent) ,emulsifier ,,,Approved in the EU.[23] 
-E403 ,Ammonium alginate (thickener) (stabiliser) ,emulsifier ,,,Approved in the EU.[23] 
-E404 ,Calcium alginate (thickener) (stabiliser) (gelling agent) ,emulsifier ,,,Approved in the EU.[23] 
-E405 ,"Propane-1,2-diol alginate (Propylene glycol alginate) (thickener) (stabiliser) ",emulsifier ,,,Approved in the EU.[23] 
-E406 ,Agar (thickener) (gelling agent) ,stabiliser ,,,Approved in the EU.[23] 
-E407 ,Carrageenan (thickener) (stabiliser) (gelling agent) ,emulsifier ,,,Approved in the EU.[23] 
-E407a ,Processed eucheuma seaweed (thickener) (stabiliser) (gelling agent) ,emulsifier ,,,Approved in the EU.[23] 
-E408 ,Bakers yeast glycan ,,,,
-E409 ,Arabinogalactan ,,,,
-E410 ,Locust bean gum (Carob gum) (thickener) (stabiliser) (gelling agent) ,emulsifier ,,,Approved in the EU.[23] 
-E411 ,Oat gum (thickener) ,stabiliser ,,,
-E412 ,Guar gum (thickener) ,stabiliser ,,,Approved in the EU.[23] 
-E413 ,Tragacanth (thickener) (stabiliser) ,emulsifier ,,,Approved in the EU.[23] 
-E414 ,Acacia gum (gum arabic) (thickener) (stabiliser) ,emulsifier ,,,Approved in the EU.[23] 
-E415 ,Xanthan gum (thickener) ,stabiliser ,,,Approved in the EU.[23] 
-E416 ,Karaya gum (thickener) (stabiliser) ,emulsifier ,,,Approved in the EU.[23] 
-E417 ,Tara gum (thickener) ,stabiliser ,,,Approved in the EU.[23] 
-E418 ,Gellan gum (thickener) (stabiliser) ,emulsifier ,,,Approved in the EU.[23] 
-E419 ,Gum ghatti (thickener) (stabiliser) ,emulsifier ,,,
-E420 ,Sorbitol (i) Sorbitol (ii) Sorbitol syrup (emulsifier) (sweetener) ,humectant ,,,Approved in the EU.[26] 
-E421 ,Mannitol (anti-caking agent) ,sweetener ,,,Approved in the EU.[26] 
-E422 ,Glycerol (emulsifier) ,sweetener ,,,Approved in the EU.[20] 
-E424 ,Curdlan ,gelling agent ,,,
-E425 ,Konjac (i) Konjac gum (ii) Konjac glucomannane ,emulsifier ,,,Approved in the EU.[23] May not be used in confectionery owing to choking risk.[citation needed] 
-E426 ,Soybean hemicellulose ,,,,Approved in the EU.[23] 
-E427 ,Cassia gum ,,,,Approved in 2010[25] 
-E429 ,Peptones ,,,,
-E430 ,Polyoxyethene (8) stearate (emulsifier) ,stabiliser ,,,
-E431 ,Polyoxyethene (40) stearate ,emulsifier ,,,Approved in the EU.[20] 
-E432 ,Polyoxyethene (20) sorbitan monolaurate (polysorbate 20) ,emulsifier ,,,Approved in the EU.[23] 
-E433 ,Polyoxyethene (20) sorbitan monooleate (polysorbate 80) ,emulsifier ,,,Approved in the EU.[23] 
-E434 ,Polyoxyethene (20) sorbitan monopalmitate (polysorbate 40) ,emulsifier ,,,Approved in the EU.[23] 
-E435 ,Polyoxyethene (20) sorbitan monostearate (polysorbate 60) ,emulsifier ,,,Approved in the EU.[23] 
-E436 ,Polyoxyethene (20) sorbitan tristearate (polysorbate 65) ,emulsifier ,,,Approved in the EU.[23] 
-E440 ,Pectins (i) pectin (ii) amidated pectin ,emulsifier ,,,Approved in the EU.[23] 
-E441 ,Gelatine (emulsifier) ,gelling agent ,,,
-E442 ,Ammonium phosphatides ,emulsifier ,,,Approved in the EU.[23] 
-E443 ,Brominated vegetable oil ,emulsifier ,,,
-E444 ,Sucrose acetate isobutyrate ,emulsifier ,,,
-E445 ,Glycerol esters of wood rosins ,emulsifier ,,,Approved in the EU.[23] 
-E446 ,Succistearin ,,,,
-E450 ,Diphosphates (i) Disodium diphosphate (ii) Trisodium diphosphate (iii) Tetrasodium diphosphate (iv) Dipotassium diphosphate (v) Tetrapotassium diphosphate (vi) Dicalcium diphosphate (vii) Calcium dihydrogen diphosphate ,emulsifier ,,,Approved in the EU.[20] 
-E451 ,Triphosphates (i) Sodium triphosphate (pentasodium triphosphate) (ii) Pentapotassium triphosphate ,emulsifier ,,,Approved in the EU.[20] 
-E452 ,Polyphosphates (i) Sodium polyphosphates (ii) Potassium polyphosphates (iii) Sodium calcium polyphosphate (iv) Calcium polyphosphates (v) Ammonium polyphosphate ,emulsifier ,,,Approved in the EU.[20] 
-E459 ,Beta-cyclodextrin ,emulsifier ,,,Approved in the EU.[20] 
-E460 ,Cellulose (i) Microcrystalline cellulose (ii) Powdered cellulose ,emulsifier ,,,Approved in the EU.[23] 
-E461 ,Methyl cellulose ,emulsifier ,,,Approved in the EU.[23] 
-E462 ,Ethyl cellulose ,emulsifier ,,,Approved in the EU.[23] 
-E463 ,Hydroxypropyl cellulose ,emulsifier ,,,Approved in the EU.[23] 
-E464 ,Hypromellose (hydroxypropyl methylcellulose) ,emulsifier ,,,Approved in the EU.[23] 
-E465 ,Ethyl methyl cellulose ,emulsifier ,,,Approved in the EU.[23] 
-E466 ,"Carboxymethyl cellulose, Sodium carboxymethyl cellulose ",emulsifier ,,,Approved in the EU.[23] 
-E467 ,Ethyl hydroxyethyl cellulose ,,,,
-E468 ,Crosslinked sodium carboxymethyl cellulose (Croscarmellose) ,emulsifier ,,,Approved in the EU.[23] This additive is under discussion and may be included in a future amendment to the Directive on miscellaneous additives 
-E469 ,Enzymically hydrolysed carboxymethylcellulose ,emulsifier ,,,Approved in the EU.[23] 
-E470a ,"Sodium, potassium and calcium salts of fatty acids (emulsifier) ",anti-caking agent ,,,Approved in the EU.[23] 
-E470b ,Magnesium salts of fatty acids (emulsifier) ,anti-caking agent ,,,Approved in the EU.[23] 
-E471 ,"Mono- and diglycerides of fatty acids (glyceryl monostearate, glyceryl distearate) ",emulsifier ,,,Approved in the EU.[23] 
-E472a ,Acetic acid esters of mono- and diglycerides of fatty acids ,emulsifier ,,,Approved in the EU.[23] 
-E472b ,Lactic acid esters of mono- and diglycerides of fatty acids ,emulsifier ,,,Approved in the EU.[23] 
-E472c ,Citric acid esters of mono- and diglycerides of fatty acids ,emulsifier ,,,Approved in the EU.[23] 
-E472d ,Tartaric acid esters of mono- and diglycerides of fatty acids ,emulsifier ,,,Approved in the EU.[23] 
-E472e ,Mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids ,emulsifier ,,,Approved in the EU.[23] 
-E472f ,Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids ,emulsifier ,,,Approved in the EU.[23] 
-E472g ,Succinylated monoglycerides ,emulsifier ,,,
-E473 ,Sucrose esters of fatty acids ,emulsifier ,,,Approved in the EU.[23] 
-E474 ,Sucroglycerides ,emulsifier ,,,Approved in the EU.[23] 
-E475 ,Polyglycerol esters of fatty acids ,emulsifier ,,,Approved in the EU.[23] 
-E476 ,Polyglycerol polyricinoleate ,emulsifier ,,,Approved in the EU.[23] 
-E477 ,"Propane-1,2-diol esters of fatty acids, propylene glycol esters of fatty acids ",emulsifier ,,,Approved in the EU.[23] 
-E478 ,Lactylated fatty acid esters of glycerol and propane-1 ,emulsifier ,,,
-E479b ,Thermally oxidized soya bean oil interacted with mono- and diglycerides of fatty acids ,emulsifier ,,,Approved in the EU.[23] 
-E480 ,Dioctyl sodium sulfosuccinate ,emulsifier ,,,
-E481 ,Sodium stearoyl-2-lactylate ,emulsifier ,,,Approved in the EU.[23] 
-E482 ,Calcium stearoyl-2-lactylate ,emulsifier ,,,Approved in the EU.[23] 
-E483 ,Stearyl tartrate ,emulsifier ,,,Approved in the EU.[23] 
-E484 ,Stearyl citrate ,emulsifier ,,,
-E485 ,Sodium stearoyl fumarate ,emulsifier ,,,
-E486 ,Calcium stearoyl fumarate ,emulsifier ,,,
-E487 ,Sodium laurylsulfate ,emulsifier ,,,
-E488 ,Ethoxylated Mono- and Di-Glycerides ,emulsifier ,,,
-E489 ,Methyl glucoside-coconut oil ester ,emulsifier ,,,
-E490 ,"Propane-1,2-diol ",,,,
-E491 ,Sorbitan monostearate ,emulsifier ,,,Approved in the EU.[23] 
-E492 ,Sorbitan tristearate ,emulsifier ,,,Approved in the EU.[23] 
-E493 ,Sorbitan monolaurate ,emulsifier ,,,Approved in the EU.[23] 
-E494 ,Sorbitan monooleate ,emulsifier ,,,Approved in the EU.[23] 
-E495 ,Sorbitan monopalmitate ,emulsifier ,,,Approved in the EU.[23] 
-E496 ,Sorbitan trioleate ,emulsifier ,,,
-E497 ,Polyoxypropylene-polyoxyethylene polymers ,,,,
-E498 ,Partial polyglycerol esters of polycondensed fatty acids of castor oil ,,,,
-E499 ,Stigmasterol-rich plant sterols ,,,,Approved in the EU.[23]
-E500 ,Sodium carbonates: (i) Sodium carbonate (ii) Sodium bicarbonate (Sodium hydrogen carbonate) (iii) Sodium sesquicarbonate (acidity regulator) ,raising agent ,,,Approved in the EU.[20] 
-E501 ,Potassium carbonates: (i) Potassium carbonate (ii) Potassium bicarbonate (Potassium hydrogen carbonate) ,acidity regulator ,,,Approved in the EU.[20] 
-E503 ,Ammonium carbonates: (i) Ammonium carbonate (ii) Ammonium bicarbonate (Ammonium hydrogen carbonate) ,acidity regulator ,,,Approved in the EU.[20] 
-E504 ,Magnesium carbonates: (i) Magnesium carbonate (ii) Magnesium bicarbonate Magnesium hydrogen carbonate ,"acidity regulator, anti-caking agent ",,,Approved in the EU.[20] 
-E505 ,Ferrous carbonate ,acidity regulator ,,,
-E507 ,Hydrochloric acid ,acid ,,,Approved in the EU.[20] 
-E508 ,Potassium chloride (gelling agent) ,seasoning ,,,Approved in the EU.[20] 
-E509 ,Calcium chloride (sequestrant) ,firming agent ,,,Approved in the EU.[20] 
-E510 ,"Ammonium chloride, ammonia solution (acidity regulator) ",improving agent ,,,
-E511 ,Magnesium chloride ,firming agent ,,,Approved in the EU.[20] 
-E512 ,Stannous chloride ,antioxidant ,,,Approved in the EU.[20] 
-E513 ,Sulfuric acid ,acid ,,,Approved in the EU.[20] 
-E514 ,Sodium sulfates (i) Sodium sulfate (ii) sodium bisulfate ,acid ,,,Approved in the EU.[20] 
-E515 ,Potassium sulfates (i) potassium sulfate (ii) potassium bisulfate ,,,,Approved in the EU.[20] 
-E516 ,Calcium sulfate ,,,,Approved in the EU.[20] 
-E517 ,Ammonium sulfate ,acidity regulator ,,,Approved in the EU.[20] 
-E518 ,"Magnesium sulfate (Epsom salts), (acidity regulator) ",firming agent ,,,
-E519 ,Copper(II) sulfate ,preservative ,,,
-E520 ,Aluminium sulfate ,firming agent ,,,Approved in the EU.[20] 
-E521 ,Aluminium sodium sulfate ,firming agent ,,,Approved in the EU.[20] 
-E522 ,Aluminium potassium sulfate ,acidity regulator ,,,Approved in the EU.[20] 
-E523 ,Aluminium ammonium sulfate ,acidity regulator ,,,Approved in the EU.[20] 
-E524 ,Sodium hydroxide ,acidity regulator ,,,Approved in the EU.[20] 
-E525 ,Potassium hydroxide ,acidity regulator ,,,Approved in the EU.[20] 
-E526 ,Calcium hydroxide (acidity regulator) ,firming agent ,,,Approved in the EU.[20] 
-E527 ,Ammonium hydroxide ,acidity regulator ,,,Approved in the EU.[20] 
-E528 ,Magnesium hydroxide ,acidity regulator ,,,Approved in the EU.[20] 
-E529 ,Calcium oxide (acidity regulator) ,improving agent ,,,Approved in the EU.[20] 
-E530 ,Magnesium oxide (acidity regulator) ,anti-caking agent ,,,Approved in the EU.[20] 
-E535 ,Sodium ferrocyanide (acidity regulator) ,anti-caking agent ,,,Approved in the EU.[20] 
-E536 ,Potassium ferrocyanide ,anti-caking agent ,,,Approved in the EU.[20] 
-E537 ,Ferrous hexacyanomanganate ,anti-caking agent ,,,
-E538 ,Calcium ferrocyanide ,anti-caking agent ,,,Approved in the EU.[20] 
-E539 ,Sodium thiosulfate ,antioxidant ,,,
-E540 ,Dicalcium diphosphate[citation needed] (acidity regulator) ,emulsifier ,,,
-E541 ,Sodium aluminium phosphate (i) Acidic (ii) Basic ,emulsifier ,,,Approved in the EU.[20] 
-E542 ,"Bone phosphate (Essentiale Calcium Phosphate, Tribasic) ",anti-caking agent ,,,
-E543 ,Calcium sodium polyphosphate ,emulsifier ,,,
-E544 ,Calcium polyphosphate ,emulsifier ,,,
-E545 ,Ammonium polyphosphate ,emulsifier ,,,
-E550 ,Sodium Silicates (i) Sodium silicate (ii) Sodium metasilicate ,anti-caking agent ,,,
-E551 ,Silicon dioxide (Silica) ,anti-caking agent ,,,Approved in the EU.[20] 
-E552 ,Calcium silicate ,anti-caking agent ,,,Approved in the EU.[20] 
-E553a ,(i) Magnesium silicate (ii) Magnesium trisilicate ,anti-caking agent ,,,Approved in the EU.[20] 
-E553b ,Talc ,anti-caking agent ,,,Approved in the EU.[20] 
-E554 ,Sodium aluminosilicate (sodium aluminium silicate) ,anti-caking agent ,,,removed from list per Commission Regulation (EU) No 380/2012 of 3 May 2012 
-E555 ,Potassium aluminium silicate ,anti-caking agent ,,,removed from list per Commission Regulation (EU) No 380/2012 of 3 May 2012 
-E556 ,Calcium aluminosilicate (calcium aluminium silicate) ,anti-caking agent ,,,removed from list per Commission Regulation (EU) No 380/2012 of 3 May 2012 
-E557 ,Zinc silicate ,anti-caking agent ,,,removed from list per Commission Regulation (EU) No 380/2012 of 3 May 2012 
-E558 ,Bentonite ,anti-caking agent ,,,removed from list per Commission Regulation (EU) No 380/2012 of 3 May 2012 
-E559 ,Aluminium silicate (Kaolin) ,anti-caking agent ,,,removed from list per Commission Regulation (EU) No 380/2012 of 3 May 2012 
-E560 ,Potassium silicate ,anti-caking agent ,,,
-E561 ,Vermiculite ,,,,
-E562 ,Sepiolite ,,,,
-E563 ,Sepiolitic clay ,,,,
-E565 ,Lignosulfonates ,,,,
-E566 ,Natrolite-phonolite ,,,,
-E570 ,Fatty acids ,anti-caking agent ,,,Approved in the EU.[20] 
-E572 ,"Magnesium stearate, calcium stearate (emulsifier) ",anti-caking agent ,,,
-E574 ,Gluconic acid ,acidity regulator ,,,Approved in the EU.[20] 
-E575 ,Glucono delta-lactone (acidity regulator) ,sequestrant ,,,Approved in the EU.[20] 
-E576 ,Sodium gluconate ,sequestrant ,,,Approved in the EU.[20] 
-E577 ,Potassium gluconate ,sequestrant ,,,Approved in the EU.[20] 
-E578 ,Calcium gluconate ,firming agent ,,,Approved in the EU.[20] 
-E579 ,Ferrous gluconate ,food colouring ,,,Approved in the EU.[20] 
-E580 ,Magnesium gluconate ,,,,
-E585 ,Ferrous lactate ,food colouring ,,,Approved in the EU.[20] 
-E586 ,4-Hexylresorcinol ,antioxidant ,,,Approved in the EU.[22] 
-E598 ,Synthetic calcium aluminates ,,,,
-E599 ,Perlite ,,,,
-E620 ,Glutamic acid ,flavour enhancer ,,,Approved in the EU.[20] 
-E621 ,Monosodium glutamate (MSG) ,flavour enhancer ,,,Approved in the EU.[20] 
-E622 ,Monopotassium glutamate ,flavour enhancer ,,,Approved in the EU.[20] 
-E623 ,Calcium diglutamate ,flavour enhancer ,,,Approved in the EU.[20] 
-E624 ,Monoammonium glutamate ,flavour enhancer ,,,Approved in the EU.[20] 
-E625 ,Magnesium diglutamate ,flavour enhancer ,,,Approved in the EU.[20] 
-E626 ,Guanylic acid ,flavour enhancer ,,,Approved in the EU.[20] 
-E627 ,"Disodium guanylate, sodium guanylate ",flavour enhancer ,,,Approved in the EU.[20] 
-E628 ,Dipotassium guanylate ,flavour enhancer ,,,Approved in the EU.[20] 
-E629 ,Calcium guanylate ,flavour enhancer ,,,Approved in the EU.[20] 
-E630 ,Inosinic acid ,flavour enhancer ,,,Approved in the EU.[20] 
-E631 ,Disodium inosinate ,flavour enhancer ,,,Approved in the EU.[20] 
-E632 ,Dipotassium inosinate ,flavour enhancer ,,,Approved in the EU.[20] 
-E633 ,Calcium inosinate ,flavour enhancer ,,,Approved in the EU.[20] 
-E634 ,Calcium 5'-ribonucleotides ,flavour enhancer ,,,Approved in the EU.[20] 
-E635 ,Disodium 5'-ribonucleotides ,flavour enhancer ,,,Approved in the EU.[20] 
-E636 ,Maltol ,flavour enhancer ,,,
-E637 ,Ethyl maltol ,flavour enhancer ,,,
-E640 ,Glycine and its sodium salt ,flavour enhancer ,,,Approved in the EU.[20] 
-E650 ,Zinc acetate ,flavour enhancer ,,,Approved in the EU.[20]
-E701 ,Tetracyclines ,antibiotic ,,,
-E702 ,Chlortetracycline ,antibiotic ,,,
-E703 ,Oxytetracycline ,antibiotic ,,,
-E704 ,Oleandomycin ,antibiotic ,,,
-E705 ,Penicillin G potassium ,antibiotic ,,,
-E706 ,Penicillin G sodium ,antibiotic ,,,
-E707 ,Penicillin G procaine ,antibiotic ,,,
-E708 ,Penicillin G benzathine ,antibiotic ,,,
-E710 ,Spiramycins ,antibiotic ,,,
-E711 ,Virginiamycins ,antibiotic ,,,
-E712 ,Flavomycin ,antibiotic ,,,
-E713 ,Tylosin ,antibiotic ,,,
-E714 ,Monensin A ,antibiotic ,,,
-E715 ,Avoparcin ,antibiotic ,,,
-E716 ,Salinomycin ,antibiotic ,,,
-E717 ,Avilamycin ,antibiotic ,,,
-E900 ,Dimethyl polysiloxane (anti-foaming agent) ,anti-caking agent ,,,Approved in the EU.[20] 
-E901 ,"Beeswax, white and yellow ",glazing agent ,,,Approved in the EU.[20] 
-E902 ,Candelilla wax ,glazing agent ,,,Approved in the EU.[20] 
-E903 ,Carnauba wax ,glazing agent ,,,Approved in the EU.[20] 
-E904 ,Shellac ,glazing agent ,,,Approved in the EU.[20] 
-E905 ,Paraffins ,,,,Approved in the EU.[20] 
-E905a ,Mineral oil ,anti-foaming agent ,,,
-E905b ,Petrolatum ,,,,
-E905c ,Petroleum wax (i)Microcrystalline wax (ii) Paraffin wax ,glazing agent ,,,
-E906 ,Gum benzoic ,flavour enhancer ,,,
-E907 ,Crystalline wax ,glazing agent ,,,
-E908 ,Rice bran wax ,glazing agent ,,,
-E909 ,Spermaceti wax ,glazing agent ,,,
-E910 ,Wax esters ,glazing agent ,,,
-E911 ,Methyl esters of fatty acids ,glazing agent ,,,
-E912 ,"Montanic acid esters, Montan acid esters ",glazing agent ,,,Approved in the EU.[20] 
-E913 ,"Lanolin, sheep wool grease ",glazing agent ,,,
-E914 ,"Oxidized polyethylene wax, oxidized polyethylene ",glazing agent ,,,Approved in the EU.[20] 
-E915 ,Esters of colophony ,glazing agent ,,,
-E916 ,Calcium iodate ,,,,
-E917 ,Potassium iodate ,,,,
-E918 ,Nitrogen oxides ,,,,
-E919 ,Nitrosyl chloride ,,,,
-E920 ,L-cysteine ,improving agent ,,,Approved in the EU[28] 
-E921 ,L-cystine ,improving agent ,,,
-E922 ,Potassium persulfate ,improving agent ,,,
-E923 ,Ammonium persulfate ,improving agent ,,,
-E924 ,Potassium bromate ,improving agent ,,,Banned in the EU;[29] genotoxic carcinogen[30] 
-E924b ,Calcium bromate ,improving agent ,,,
-E925 ,Chlorine ,"preservative, bleach, improving agent ",,,
-E926 ,Chlorine dioxide (preservative) ,bleach ,,,
-E927a ,Azodicarbonamide ,improving agent ,,,identified as a Substance of Very High Concern in EU.[31] 
-E927b ,Carbamide (urea) ,improving agent ,,,Approved in the EU.[20] 
-E928 ,Benzoyl peroxide (improving agent) ,bleach ,,,
-E929 ,Acetone peroxide ,,,,
-E930 ,Calcium peroxide (improving agent) ,bleach ,,,
-E938 ,Argon ,packaging gas ,,,Approved in the EU.[20] 
-E939 ,Helium ,packaging gas ,,,Approved in the EU.[20] 
-E940 ,Dichlorodifluoromethane ,packaging gas ,,,"Banned in all countries, in compliance with the Montreal Protocol. "
-E941 ,Nitrogen (packaging gas) ,propellant ,,,Approved in the EU.[20] 
-E942 ,Nitrous oxide ,propellant ,,,Approved in the EU.[20] 
-E943a ,Butane ,propellant ,,,Approved in the EU.[20] 
-E943b ,Isobutane ,propellant ,,,Approved in the EU.[20] 
-E944 ,Propane ,propellant ,,,Approved in the EU.[20] 
-E945 ,Chloropentafluoroethane ,propellant ,,,
-E946 ,Octafluorocyclobutane ,propellant ,,,
-E948 ,Oxygen ,packaging gas ,,,Approved in the EU.[20] 
-E949 ,Hydrogen ,packaging gas ,,,Approved in the EU.[20] 
-E950 ,Acesulfame potassium ,sweetener ,,,Approved in the EU.[26] 
-E951 ,Aspartame ,sweetener ,,,Approved in the EU.[26] 
-E952 ,"Cyclamic acid and its sodium and calcium salts, also known as Cyclamate ",sweetener ,,,Approved in the EU.[26] 
-E953 ,"Isomalt, Isomaltitol ",sweetener ,,,Approved in the EU.[26] 
-E954 ,"Saccharin and its sodium, potassium and calcium salts ",sweetener ,,,Approved in the EU.[26] 
-E955 ,Sucralose (Trichlorogalactosucrose) ,sweetener ,,,Approved in the EU.[26] 
-E956 ,Alitame ,sweetener ,,,
-E957 ,Thaumatin (sweetener) ,flavour enhancer ,,,Approved in the EU.[26] 
-E958 ,Glycyrrhizin (sweetener) ,flavour enhancer ,,,
-E959 ,Neohesperidine dihydrochalcone (sweetener) ,flavour enhancer ,,,Approved in the EU.[26] 
-E960 ,Steviol glycosides ,sweetener ,,,Approved in the EU.[32] 
-E961 ,Neotame ,sweetener ,,,Approved in 2010[25] 
-E962 ,Aspartame-acesulfame salt (sweetener) ,stabiliser ,,,Approved in the EU.[26] 
-E965 ,Maltitol (i) Maltitol (ii) Maltitol syrup (sweetener) (stabiliser) ,humectant ,,,Approved in the EU.[26] 
-E966 ,Lactitol ,sweetener ,,,Approved in the EU.[26] 
-E967 ,Xylitol ,sweetener ,,,Approved in the EU.[26] 
-E968 ,Erythritol ,sweetener ,,,Approved in the EU.[26] 
-E969 ,Advantame ,sweetener ,,,Approved in the EU.[26] 
-E999 ,Quillaia extract ,foaming agent ,,,Approved in the EU.[20]
-E1000 ,Cholic acid ,emulsifier ,,,
-E1001 ,Choline salts ,emulsifier ,,,
-E1100 ,Amylase ,"stabiliser, flavour enhancer ",,,
-E1101 ,"Proteases ((i)Protease, (ii)Papain, (iii)Bromelain, (iv)Ficin) ","stabiliser, flavour enhancer ",,,
-E1102 ,Glucose oxidase ,antioxidant ,,,
-E1103 ,Invertase ,stabiliser ,,,Approved in the EU.[23] 
-E1104 ,Lipases ,,,,
-E1105 ,Lysozyme ,preservative ,,,
-E1200 ,Polydextrose ,"stabiliser, thickening agent, humectant, carrier ",,,Approved in the EU.[20] 
-E1201 ,Polyvinylpyrrolidone ,stabiliser ,,,Approved in the EU.[20] 
-E1202 ,Polyvinylpolypyrrolidone (carrier) ,stabiliser ,,,Approved in the EU.[20] 
-E1203 ,Polyvinyl alcohol ,,,,Approved in 2010[25] 
-E1204 ,Pullulan ,,,,Approved in the EU.[20] 
-E1400 ,"Dextrin (Dextrins, roasted starch white and yellow) (stabiliser) ",thickening agent ,,,
-E1401 ,Modified starch ((Acid-treated starch) stabiliser) ,thickening agent ,,,
-E1402 ,Alkaline modified starch (stabiliser) ,thickening agent ,,,
-E1403 ,Bleached starch (stabiliser) ,thickening agent ,,,
-E1404 ,Oxidized starch (emulsifier) ,thickening agent ,,,Approved in the EU.[20] 
-E1405 ,Enzyme treated starch ,,,,
-E1410 ,Monostarch phosphate (stabiliser) ,thickening agent ,,,Approved in the EU.[20] 
-E1411 ,Distarch glycerol (thickening agent) ,emulsifier ,,,
-E1412 ,Distarch phosphate esterified with sodium trimetasphosphate; esterified with phosphorus oxychloride (stabiliser) ,thickening agent ,,,Approved in the EU.[20] 
-E1413 ,Phosphated distarch phosphate (stabiliser) ,thickening agent ,,,Approved in the EU.[20] 
-E1414 ,Acetylated distarch phosphate (emulsifier) ,thickening agent ,,,Approved in the EU.[20] 
-E1420 ,Starch acetate esterified with acetic anhydride (stabiliser) ,thickening agent ,,,Approved in the EU.[20] 
-E1421 ,Starch acetate esterified with vinyl acetate (stabiliser) ,thickening agent ,,,
-E1422 ,Acetylated distarch adipate (stabiliser) ,thickening agent ,,,Approved in the EU.[20] 
-E1423 ,Acetylated distarch glycerol ,thickening agent ,,,
-E1430 ,Distarch glycerine (stabiliser) ,thickening agent ,,,
-E1440 ,Hydroxy propyl starch (emulsifier) ,thickening agent ,,,Approved in the EU.[20] 
-E1441 ,Hydroxy propyl distarch glycerine (stabiliser) ,thickening agent ,,,
-E1442 ,Hydroxy propyl distarch phosphate (stabiliser) ,thickening agent ,,,Approved in the EU.[20] 
-E1443 ,Hydroxy propyl distarch glycerol ,,,,
-E1450 ,Starch sodium octenyl succinate (emulsifier) (stabiliser) ,thickening agent ,,,Approved in the EU.[20] 
-E1451 ,Acetylated oxidised starch (emulsifier) ,thickening agent ,,,Approved in the EU.[20] 
-E1452 ,Starch aluminium octenyl succinate ,,,,Approved in the EU.[20] 
-E1501 ,Benzylated hydrocarbons ,,,,
-E1502 ,"Butane-1, 3-diol ",,,,
-E1503 ,Castor oil ,resolving agent ,,,
-E1504 ,Ethyl acetate ,flavour solvent ,,,
-E1505 ,Triethyl citrate ,foam stabiliser ,,,Approved in the EU.[20] 
-E1510 ,Ethanol ,,,,
-E1516 ,Glyceryl monoacetate ,flavour solvent ,,,
-E1517 ,Glyceryl diacetate or diacetin ,flavour solvent ,,,
-E1518 ,Glyceryl triacetate or triacetin ,humectant and flavour solvent ,,,Approved in the EU.[20] 
-E1519 ,Benzyl alcohol ,,,,
-E1520 ,Propylene glycol ,humectant and flavour solvent ,,,Approved in the EU.[20] 
-E1521 ,Polyethylene glycol 8000[33] ,,,,Approved in 2010[25] 
-E1525 ,Hydroxyethyl cellulose ,thickening agent ,,,
+E100,"Curcumin (from turmeric)",color,Yellow-orange,,"Approved in the EU.[8] Approved in the US.[9]"
+E101,"Riboflavin (Vitamin B2), formerly called lactoflavin",color,Yellow-orange,,"Approved in the EU.[8] Approved in the US.[9]"
+E101a,Riboflavin-5'-Phosphate,color,Yellow-orange,,"Approved in the EU.[8]"
+E102,"Tartrazine (FD&C Yellow 5)",color,Yellow,19140,"Approved in the EU.[8] Approved in the US.[9]"
+E103,Alkannin[10],color,Red-brown,,
+E104,"Quinoline Yellow WS",color,"Dull or greenish yellow",47005,"Restricted use approved in the EU.[8][11]"
+E105,"Fast Yellow AB",color,Yellow,,
+E106,"Riboflavin-5-Sodium Phosphate",color,Yellow,,
+E107,"Yellow 2G",color,Yellow,,
+E110,"Sunset Yellow FCF (Orange Yellow S, FD&C Yellow 6)",color,Yellow-orange,15985,"Restricted use approved in the EU.[8][11] Banned in Norway.[12] Products in the EU require warnings and its use is being phased out.[11] Approved in the US.[9]"
+E111,"Orange GGN",color,Orange,,
+E120,"Cochineal, Carminic acid, Carmine (Natural Red 4)",color,Crimson,,"Approved in the EU.[8] Approved in the US.[9]"
+E121,"Citrus Red 2",color,"Dark red",,"Approved in the United States only for use in colouring the skin of oranges.[13]"
+E122,"Carmoisine (azorubine)",color,"Red to maroon",14720,"Approved in the EU.[8] Undergoing a voluntary phase-out in the UK. Currently banned in Canada, Japan, Norway, USA .[citation needed] EU currently evaluating health risks.[citation needed]"
+E123,"Amaranth (FD&C Red 2)",color,Red,,"Approved in the EU.[8] Banned in the United States.[14]"
+E124,"Ponceau 4R (Cochineal Red A, Brilliant Scarlet 4R)",color,Red,16255,"Restricted use approved in the EU.[8][11]"
+E125,"Ponceau SX, Scarlet GN",color,Red,,"Only permitted for externally applied drugs and cosmetics in the US.[15][16][17]"
+E126,"Ponceau 6R",color,Red,,
+E127,"Erythrosine (FD&C Red 3)",color,Red,,"Approved in the EU.[8] Approved in the US except for lake variant.[9]"
+E128,"Red 2G",color,"Red or pink",,"Not approved in the EU.[11]"
+E129,"Allura Red AC (FD&C Red 40)",color,Red,16035,"Approved in the EU.[8] Banned in Switzerland.[citation needed] Undergoing a voluntary phase out in the UK. Approved in the US.[9]"
+E130,"Indanthrene blue RS",color,Blue,,
+E131,"Patent Blue V",color,"Dark blue",,"Approved in the EU.[8]"
+E132,"Indigo carmine (indigotine, FD&C Blue 2)",color,Indigo,,"Approved in the EU.[8] Approved in the US.[9]"
+E133,"Brilliant blue FCF (FD&C Blue 1)",color,"Reddish blue",42090,"Approved in the EU.[8] Approved in the US.[9]"
+E140,"Chlorophylls and Chlorophyllins: (i) Chlorophylls (ii) Chlorophyllins",color,Green,,"Approved in the EU.[8]"
+E141,"Copper complexes of chlorophylls and chlorophyllins (i) Copper complexes of chlorophylls (ii) Copper complexes of chlorophyllins",color,Green,,"Approved in the EU.[8] Approved in the US.[9]"
+E142,"Green S",color,Green,,"Approved in the EU.[8]"
+E143,"Fast Green FCF (FD&C Green 3)",color,Green,,"Approved in the US. Banned in the EU."
+E150a,"Plain caramel, Caramel I",color,Brown,,"Approved in the EU.[8] Approved in the US.[9]"
+E150b,"Caustic sulfite caramel, Caramel II",color,Brown,,"Approved in the EU.[8] Approved in the US.[9]"
+E150c,"Ammonia caramel, Caramel III",color,Brown,,"Approved in the EU.[8] Approved in the US.[9]"
+E150d,"Sulfite ammonia caramel, Caramel IV",color,Brown,,"Approved in the EU.[8] Approved in the US.[9]"
+E151,"Black PN, Brilliant Black BN",color,Black,,"Approved in the EU.[8]"
+E152,"Carbon black (hydrocarbon)",color,Black,,
+E153,"Vegetable carbon",color,Black,,"Approved in the EU.[8]"
+E154,"Brown FK (kipper brown)",color,Brown,,"Previously approved in the EU for dyeing kippers only: approval withdrawn November 2011.[11]"
+E155,"Brown HT (chocolate brown HT)",color,Brown,,"Approved in the EU.[8]"
+E160a,"Alpha-carotene, Beta-carotene, Gamma-carotene",color,"Yellow-orange to brown",,"Approved in the EU.[8]"
+E160b,"Annatto, bixin, norbixin",color,Orange,,"Approved in the EU.[8] Approved in the US.[9]"
+E160c,"Paprika oleoresin: (i) capsanthin, (ii) capsorubin",color,Red,,"Approved in the EU.[8] Approved in the US.[9]"
+E160d,Lycopene,color,"Bright to deep red",,"Restricted use approved in the EU.[8][11] Approved in the US.[9]"
+E160e,"Beta-apo-8'-carotenal (C 30)",color,"Orange-red to yellow",,"Approved in the EU.[8] Approved in the US.[9]"
+E160f,"Ethyl ester of beta-apo-8'-carotenic acid (C 30)",color,"Orange-red to yellow",,"Not approved in the EU.[11]"
+E161a,Flavoxanthin,color,"Golden-yellow and brownish",,
+E161b,Lutein,color,"Orange-red to yellow",,"Approved in the EU.[8]"
+E161c,Cryptoxanthin,color,Orange-red,,
+E161d,Rubixanthin,color,Orange-red,,
+E161e,Violaxanthin,color,Orange,,
+E161f,Rhodoxanthin,color,Purple,,
+E161g,Canthaxanthin,color,Violet,,"Not approved in the EU.[11] Approved in the US.[9]"
+E161h,Zeaxanthin,color,Orange-red,,
+E161i,Citranaxanthin,color,"Deep violet",,
+E161j,Astaxanthin,color,Red,,
+E162,"Beetroot Red, Betanin",color,Red,,"Approved in the EU.[8] Approved in the US.[9]"
+E163,Anthocyanins,color,"pH dependent(Red, green and purple ranges)",,"Approved in the EU.[8]"
+E164,Saffron,color,Orange-red[colour?],,"Approved in the US.[9]"
+E170,"Calcium carbonate, Chalk",color,White,,"Approved in the EU.[8]"
+E171,"Titanium dioxide",color,White,77891,"No longer approved in the EU as of June 2022,[18] due to the identification of potential carcinogenic effects.[19] Approved in the US.[9]"
+E172,"Iron oxides and iron hydroxides",color,Brown,,"Approved in the EU.[8] Approved in the US for sausage casings.[9]"
+E173,Aluminium,color,"Silver to grey",,"Approved in the EU.[8]"
+E174,Silver,color,Silver,,"Approved in the EU.[8]"
+E175,Gold,color,Gold,,"Approved in the EU.[8]"
+E180,"Pigment Rubine, Lithol Rubine BK",color,Red,,"Approved in the EU.[8]"
+E181,Tannin,color,Brown,,
+E182,"Orcein, Orchil",color,Purple,,
+E200,"Sorbic acid",preservative,,,"Approved in the EU.[8]"
+E201,"Sodium sorbate",preservative,,,
+E202,"Potassium sorbate",preservative,,,"Approved in the EU.[8]"
+E203,"Calcium sorbate",preservative,,,"Approved in the EU.[8]"
+E209,"Heptyl p-hydroxybenzoate",preservative,,,
+E210,"Benzoic acid",preservative,,,"Approved in the EU.[8]"
+E211,"Sodium benzoate",preservative,,,"Approved in the EU.[8]"
+E212,"Potassium benzoate",preservative,,,"Approved in the EU.[8]"
+E213,"Calcium benzoate",preservative,,,"Approved in the EU.[8]"
+E214,"Ethylparaben (ethyl para-hydroxybenzoate)",preservative,,,"Approved in the EU.[8]"
+E215,"Sodium ethyl para-hydroxybenzoate",preservative,,,"Approved in the EU.[8]"
+E216,"Propylparaben (propyl para-hydroxybenzoate)",preservative,,,
+E217,"Sodium propyl para-hydroxybenzoate",preservative,,,
+E218,"Methylparaben (methyl para-hydroxybenzoate)",preservative,,,"Approved in the EU.[8]"
+E219,"Sodium methyl para-hydroxybenzoate",preservative,,,"Approved in the EU.[8]"
+E220,"Sulfur dioxide",preservative,,,"Approved in the EU.[8]"
+E221,"Sodium sulfite",preservative,,,"Approved in the EU.[8]"
+E222,"Sodium bisulfite (sodium hydrogen sulfite)",preservative,,,"Approved in the EU.[8]"
+E223,"Sodium metabisulfite",preservative,,,"Approved in the EU.[8]"
+E224,"Potassium metabisulfite",preservative,,,"Approved in the EU.[8]"
+E225,"Potassium sulfite",preservative,,,
+E226,"Calcium sulfite",preservative,,,"Approved in the EU.[8]"
+E227,"Calcium hydrogen sulfite (preservative)","firming agent",,,"Approved in the EU.[8]"
+E228,"Potassium hydrogen sulfite",preservative,,,"Approved in the EU.[8]"
+E230,"Biphenyl, diphenyl",preservative,,,"Not approved in the EU."
+E231,"Orthophenyl phenol",preservative,,,"Not approved in the EU."
+E232,"Sodium orthophenyl phenol",preservative,,,"Not approved in the EU."
+E233,Thiabendazole,preservative,,,"Not approved in the EU."
+E234,Nisin,preservative,,,"Approved in the EU.[8]"
+E235,"Natamycin, Pimaracin",preservative,,,"Approved in the EU.[8]"
+E236,"Formic acid",preservative,,,
+E237,"Sodium formate",preservative,,,
+E238,"Calcium formate",preservative,,,
+E239,"Hexamine (hexamethylene tetramine)",preservative,,,"Approved in the EU.[8]"
+E240,Formaldehyde,preservative,,,
+E242,"Dimethyl dicarbonate",preservative,,,"Approved in the EU.[8]"
+E249,"Potassium nitrite",preservative,,,"Approved in the EU.[8]"
+E250,"Sodium nitrite",preservative,,,"Approved in the EU.[8]"
+E251,"Sodium nitrate (Chile saltpetre)",preservative,,,"Approved in the EU.[8]"
+E252,"Potassium nitrate (Saltpetre)",preservative,,,"Approved in the EU.[8]"
+E260,"Acetic acid (preservative)","acidity regulator",,,"Approved in the EU.[20]"
+E261,"Potassium acetate (preservative)","acidity regulator",,,"Approved in the EU.[20]"
+E262,"Sodium acetates (i) Sodium acetate (ii) Sodium diacetate (sodium hydrogen acetate)","preservative, acidity regulator",,,"Approved in the EU.[20]"
+E263,"Calcium acetate (preservative)","acidity regulator",,,"Approved in the EU.[20]"
+E264,"Ammonium acetate",preservative,,,"Approved in Australia and New Zealand[21]"
+E265,"Dehydroacetic acid",preservative,,,
+E266,"Sodium dehydroacetate",preservative,,,
+E270,"Lactic acid (preservative)",antioxidant,,,"Approved in the EU.[20]"
+E280,"Propionic acid",preservative,,,"Approved in the EU.[8]"
+E281,"Sodium propionate",preservative,,,"Approved in the EU.[8]"
+E282,"Calcium propionate",preservative,,,"Approved in the EU.[8]"
+E283,"Potassium propionate",preservative,,,"Approved in the EU.[8]"
+E284,"Boric acid",preservative,,,"Approved in the EU.[8]"
+E285,"Sodium tetraborate (borax)",preservative,,,"Approved in the EU.[8]"
+E290,"Carbon dioxide","acidity regulator",,,"Approved in the EU.[20]"
+E296,"Malic acid (acid)","acidity regulator",,,"Approved in the EU.[20]"
+E297,"Fumaric acid","acidity regulator",,,"Approved in the EU.[20]"
+E300,"Ascorbic acid (Vitamin C)",antioxidant,,,"Approved in the EU.[22]"
+E301,"Sodium ascorbate",antioxidant,,,"Approved in the EU.[22]"
+E302,"Calcium ascorbate",antioxidant,,,"Approved in the EU.[22]"
+E303,"Potassium ascorbate",antioxidant,,,
+E304,"Fatty acid esters of ascorbic acid (Ascorbyl palmitate)",antioxidant,,,"Approved in the EU.[22]"
+E305,"Ascorbyl stearate",antioxidant,,,
+E306,"Tocopherols (Vitamin E, natural)",antioxidant,,,"Approved in the EU.[22]"
+E307,"Alpha-Tocopherol (synthetic)",antioxidant,,,"Approved in the EU.[22]"
+E308,"Gamma-Tocopherol (synthetic)",antioxidant,,,"Approved in the EU.[22]"
+E309,"Delta-Tocopherol (synthetic)",antioxidant,,,"Approved in the EU.[22]"
+E310,"Propyl gallate",antioxidant,,,"Approved in the EU.[22]"
+E311,"Octyl gallate",antioxidant,,,"Approved in the EU.[22]"
+E312,"Dodecyl gallate",antioxidant,,,"Approved in the EU.[22]"
+E313,"Ethyl gallate",antioxidant,,,
+E314,"Guaiac resin",antioxidant,,,
+E315,"Erythorbic acid",antioxidant,,,"Approved in the EU.[22]"
+E316,"Sodium erythorbate",antioxidant,,,"Approved in the EU.[22]"
+E317,"Erythorbin acid[citation needed]",antioxidant,,,
+E318,"Sodium erythorbin[citation needed]",antioxidant,,,
+E319,"tert-Butylhydroquinone (TBHQ)",antioxidant,,,"Approved in the EU.[22]"
+E320,"Butylated hydroxyanisole (BHA)",antioxidant,,,"Approved in the EU.[22]"
+E321,"Butylated hydroxytoluene (BHT)",antioxidant,,,"Approved in the EU.[22]"
+E322,Lecithin,emulsifier,,,"Approved in the EU.[23]"
+E323,Anoxomer,antioxidant,,,
+E324,Ethoxyquin,antioxidant,,,
+E325,"Sodium lactate","acidity regulator",,,"Approved in the EU.[20]"
+E326,"Potassium lactate (antioxidant)","acidity regulator",,,"Approved in the EU.[20]"
+E327,"Calcium lactate","acidity regulator",,,"Approved in the EU.[20]"
+E328,"Ammonium lactate","acidity regulator",,,
+E329,"Magnesium lactate","acidity regulator",,,
+E330,"Citric acid","acid, acidity regulator",,,"Approved in the EU.[20]"
+E331,"Sodium citrates (i) Monosodium citrate (ii) Disodium citrate (iii) Sodium citrate (trisodium citrate)","acidity regulator",,,"Approved in the EU.[20]"
+E332,"Potassium citrates (i) Monopotassium citrate (ii) Potassium citrate (tripotassium citrate)","acidity regulator",,,"Approved in the EU.[20]"
+E333,"Calcium citrates (i) Monocalcium citrate (ii) Dicalcium citrate (iii) Calcium citrate (tricalcium citrate)","acidity regulator, firming agent, sequestrant",,,"Approved in the EU.[20]"
+E334,"Tartaric acid (L(+)-)",(acid),,,"Approved in the EU.[20]"
+E335,"Sodium tartrates (i) Monosodium tartrate (ii), Disodium tartrate","acidity regulator",,,"Approved in the EU.[20]"
+E336,"Potassium tartrates (i) Monopotassium tartrate (cream of tartar) (ii) Dipotassium tartrate","acidity regulator",,,"Approved in the EU.[20]"
+E337,"Sodium potassium tartrate","acidity regulator",,,"Approved in the EU.[20]"
+E338,"Phosphoric acid",acid,,,"Approved in the EU.[20]"
+E339,"Sodium phosphates (i) Monosodium phosphate (ii) Disodium phosphate (iii) Trisodium phosphate",antioxidant,,,"Approved in the EU.[20]"
+E340,"Potassium phosphates (i) Monopotassium phosphate (ii) Dipotassium phosphate (iii) Tripotassium phosphate",antioxidant,,,"Approved in the EU.[20]"
+E341,"Calcium phosphates (i) Monocalcium phosphate (ii) Dicalcium phosphate (iii) Tricalcium phosphate","anti-caking agent, firming agent",,,"Approved in the EU.[20]"
+E342,"Ammonium phosphates: (i) monoammonium phosphate (ii) diammonium phosphate",,,,
+E343,"Magnesium phosphates (i) monomagnesium phosphate (ii) Dimagnesium phosphate","anti-caking agent",,,"Approved in the EU.[20] This additive is under discussion and may be included in a future amendment to the Directive on miscellaneous additives."
+E344,"Lecithin citrate","acidity regulator",,,"Not approved in the UK[24]"
+E345,"Magnesium citrate","acidity regulator",,,
+E349,"Ammonium malate","acidity regulator",,,
+E350,"Sodium malates (i) Sodium malate (ii) Sodium hydrogen malate","acidity regulator",,,"Approved in the EU.[20]"
+E351,"Potassium malate","acidity regulator",,,"Approved in the EU.[20]"
+E352,"Calcium malates (i) Calcium malate (ii) Calcium hydrogen malate","acidity regulator",,,"Approved in the EU.[20]"
+E353,"Metatartaric acid",emulsifier,,,"Approved in the EU.[20]"
+E354,"Calcium tartrate",emulsifier,,,"Approved in the EU.[20]"
+E355,"Adipic acid","acidity regulator",,,"Approved in the EU.[20]"
+E356,"Sodium adipate","acidity regulator",,,"Approved in the EU.[20]"
+E357,"Potassium adipate","acidity regulator",,,"Approved in the EU.[20]"
+E359,"Ammonium adipate","acidity regulator",,,
+E363,"Succinic acid","acidity regulator",,,"Approved in the EU.[20]"
+E365,"Monosodium fumarate","acidity regulator",,,
+E366,"Potassium fumarate","acidity regulator",,,
+E367,"Calcium fumarate","acidity regulator",,,
+E368,"Ammonium fumarate","acidity regulator",,,
+E370,"1,4-Heptonolactone","acidity regulator",,,
+E375,Niacin,"acidity regulator",,,
+E380,"Triammonium citrate","acidity regulator",,,"Approved in the EU.[20]"
+E381,"Ammonium ferric citrate","acidity regulator",,,
+E383,"Calcium glycerylphosphate","acidity regulator",,,
+E384,"Isopropyl citrate","acidity regulator",,,
+E385,"Calcium disodium ethylene diamine tetraacetate, (Calcium disodium EDTA)",sequestrant,,,"Approved in the EU.[20]"
+E386,"Disodium ethylene diamine tetraacetate (Disodium EDTA)",sequestrant,,,
+E387,Oxystearin,stabiliser,,,
+E388,"Thiodipropionic acid",,,,
+E389,"Dilauryl thiodipropionate",,,,
+E390,"Distearyl thiodipropionate",,,,
+E391,"Phytic acid",,,,
+E392,"Extracts of rosemary",,,,"Approved in 2010[25]"
+E399,"Calcium lactobionate",,,,
+E400,"Alginic acid (thickener) (stabiliser) (gelling agent)",emulsifier,,,"Approved in the EU.[23]"
+E401,"Sodium alginate (thickener) (stabiliser) (gelling agent)",emulsifier,,,"Approved in the EU.[23]"
+E402,"Potassium alginate (thickener) (stabiliser) (gelling agent)",emulsifier,,,"Approved in the EU.[23]"
+E403,"Ammonium alginate (thickener) (stabiliser)",emulsifier,,,"Approved in the EU.[23]"
+E404,"Calcium alginate (thickener) (stabiliser) (gelling agent)",emulsifier,,,"Approved in the EU.[23]"
+E405,"Propane-1,2-diol alginate (Propylene glycol alginate) (thickener) (stabiliser)",emulsifier,,,"Approved in the EU.[23]"
+E406,"Agar (thickener) (gelling agent)",stabiliser,,,"Approved in the EU.[23]"
+E407,"Carrageenan (thickener) (stabiliser) (gelling agent)",emulsifier,,,"Approved in the EU.[23]"
+E407a,"Processed eucheuma seaweed (thickener) (stabiliser) (gelling agent)",emulsifier,,,"Approved in the EU.[23]"
+E408,"Bakers yeast glycan",,,,
+E409,Arabinogalactan,,,,
+E410,"Locust bean gum (Carob gum) (thickener) (stabiliser) (gelling agent)",emulsifier,,,"Approved in the EU.[23]"
+E411,"Oat gum (thickener)",stabiliser,,,
+E412,"Guar gum (thickener)",stabiliser,,,"Approved in the EU.[23]"
+E413,"Tragacanth (thickener) (stabiliser)",emulsifier,,,"Approved in the EU.[23]"
+E414,"Acacia gum (gum arabic) (thickener) (stabiliser)",emulsifier,,,"Approved in the EU.[23]"
+E415,"Xanthan gum (thickener)",stabiliser,,,"Approved in the EU.[23]"
+E416,"Karaya gum (thickener) (stabiliser)",emulsifier,,,"Approved in the EU.[23]"
+E417,"Tara gum (thickener)",stabiliser,,,"Approved in the EU.[23]"
+E418,"Gellan gum (thickener) (stabiliser)",emulsifier,,,"Approved in the EU.[23]"
+E419,"Gum ghatti (thickener) (stabiliser)",emulsifier,,,
+E420,"Sorbitol (i) Sorbitol (ii) Sorbitol syrup (emulsifier) (sweetener)",humectant,,,"Approved in the EU.[26]"
+E421,"Mannitol (anti-caking agent)",sweetener,,,"Approved in the EU.[26]"
+E422,"Glycerol (emulsifier)",sweetener,,,"Approved in the EU.[20]"
+E424,Curdlan,"gelling agent",,,
+E425,"Konjac (i) Konjac gum (ii) Konjac glucomannane",emulsifier,,,"Approved in the EU.[23] May not be used in confectionery owing to choking risk.[citation needed]"
+E426,"Soybean hemicellulose",,,,"Approved in the EU.[23]"
+E427,"Cassia gum",,,,"Approved in 2010[25]"
+E429,Peptones,,,,
+E430,"Polyoxyethene (8) stearate (emulsifier)",stabiliser,,,
+E431,"Polyoxyethene (40) stearate",emulsifier,,,"Approved in the EU.[20]"
+E432,"Polyoxyethene (20) sorbitan monolaurate (polysorbate 20)",emulsifier,,,"Approved in the EU.[23]"
+E433,"Polyoxyethene (20) sorbitan monooleate (polysorbate 80)",emulsifier,,,"Approved in the EU.[23]"
+E434,"Polyoxyethene (20) sorbitan monopalmitate (polysorbate 40)",emulsifier,,,"Approved in the EU.[23]"
+E435,"Polyoxyethene (20) sorbitan monostearate (polysorbate 60)",emulsifier,,,"Approved in the EU.[23]"
+E436,"Polyoxyethene (20) sorbitan tristearate (polysorbate 65)",emulsifier,,,"Approved in the EU.[23]"
+E440,"Pectins (i) pectin (ii) amidated pectin",emulsifier,,,"Approved in the EU.[23]"
+E441,"Gelatine (emulsifier)","gelling agent",,,
+E442,"Ammonium phosphatides",emulsifier,,,"Approved in the EU.[23]"
+E443,"Brominated vegetable oil",emulsifier,,,
+E444,"Sucrose acetate isobutyrate",emulsifier,,,
+E445,"Glycerol esters of wood rosins",emulsifier,,,"Approved in the EU.[23]"
+E446,Succistearin,,,,
+E450,"Diphosphates (i) Disodium diphosphate (ii) Trisodium diphosphate (iii) Tetrasodium diphosphate (iv) Dipotassium diphosphate (v) Tetrapotassium diphosphate (vi) Dicalcium diphosphate (vii) Calcium dihydrogen diphosphate",emulsifier,,,"Approved in the EU.[20]"
+E451,"Triphosphates (i) Sodium triphosphate (pentasodium triphosphate) (ii) Pentapotassium triphosphate",emulsifier,,,"Approved in the EU.[20]"
+E452,"Polyphosphates (i) Sodium polyphosphates (ii) Potassium polyphosphates (iii) Sodium calcium polyphosphate (iv) Calcium polyphosphates (v) Ammonium polyphosphate",emulsifier,,,"Approved in the EU.[20]"
+E459,Beta-cyclodextrin,emulsifier,,,"Approved in the EU.[20]"
+E460,"Cellulose (i) Microcrystalline cellulose (ii) Powdered cellulose",emulsifier,,,"Approved in the EU.[23]"
+E461,"Methyl cellulose",emulsifier,,,"Approved in the EU.[23]"
+E462,"Ethyl cellulose",emulsifier,,,"Approved in the EU.[23]"
+E463,"Hydroxypropyl cellulose",emulsifier,,,"Approved in the EU.[23]"
+E464,"Hypromellose (hydroxypropyl methylcellulose)",emulsifier,,,"Approved in the EU.[23]"
+E465,"Ethyl methyl cellulose",emulsifier,,,"Approved in the EU.[23]"
+E466,"Carboxymethyl cellulose, Sodium carboxymethyl cellulose",emulsifier,,,"Approved in the EU.[23]"
+E467,"Ethyl hydroxyethyl cellulose",,,,
+E468,"Crosslinked sodium carboxymethyl cellulose (Croscarmellose)",emulsifier,,,"Approved in the EU.[23] This additive is under discussion and may be included in a future amendment to the Directive on miscellaneous additives"
+E469,"Enzymically hydrolysed carboxymethylcellulose",emulsifier,,,"Approved in the EU.[23]"
+E470a,"Sodium, potassium and calcium salts of fatty acids (emulsifier)","anti-caking agent",,,"Approved in the EU.[23]"
+E470b,"Magnesium salts of fatty acids (emulsifier)","anti-caking agent",,,"Approved in the EU.[23]"
+E471,"Mono- and diglycerides of fatty acids (glyceryl monostearate, glyceryl distearate)",emulsifier,,,"Approved in the EU.[23]"
+E472a,"Acetic acid esters of mono- and diglycerides of fatty acids",emulsifier,,,"Approved in the EU.[23]"
+E472b,"Lactic acid esters of mono- and diglycerides of fatty acids",emulsifier,,,"Approved in the EU.[23]"
+E472c,"Citric acid esters of mono- and diglycerides of fatty acids",emulsifier,,,"Approved in the EU.[23]"
+E472d,"Tartaric acid esters of mono- and diglycerides of fatty acids",emulsifier,,,"Approved in the EU.[23]"
+E472e,"Mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids",emulsifier,,,"Approved in the EU.[23]"
+E472f,"Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids",emulsifier,,,"Approved in the EU.[23]"
+E472g,"Succinylated monoglycerides",emulsifier,,,
+E473,"Sucrose esters of fatty acids",emulsifier,,,"Approved in the EU.[23]"
+E474,Sucroglycerides,emulsifier,,,"Approved in the EU.[23]"
+E475,"Polyglycerol esters of fatty acids",emulsifier,,,"Approved in the EU.[23]"
+E476,"Polyglycerol polyricinoleate",emulsifier,,,"Approved in the EU.[23]"
+E477,"Propane-1,2-diol esters of fatty acids, propylene glycol esters of fatty acids",emulsifier,,,"Approved in the EU.[23]"
+E478,"Lactylated fatty acid esters of glycerol and propane-1",emulsifier,,,
+E479b,"Thermally oxidized soya bean oil interacted with mono- and diglycerides of fatty acids",emulsifier,,,"Approved in the EU.[23]"
+E480,"Dioctyl sodium sulfosuccinate",emulsifier,,,
+E481,"Sodium stearoyl-2-lactylate",emulsifier,,,"Approved in the EU.[23]"
+E482,"Calcium stearoyl-2-lactylate",emulsifier,,,"Approved in the EU.[23]"
+E483,"Stearyl tartrate",emulsifier,,,"Approved in the EU.[23]"
+E484,"Stearyl citrate",emulsifier,,,
+E485,"Sodium stearoyl fumarate",emulsifier,,,
+E486,"Calcium stearoyl fumarate",emulsifier,,,
+E487,"Sodium laurylsulfate",emulsifier,,,
+E488,"Ethoxylated Mono- and Di-Glycerides",emulsifier,,,
+E489,"Methyl glucoside-coconut oil ester",emulsifier,,,
+E490,"Propane-1,2-diol",,,,
+E491,"Sorbitan monostearate",emulsifier,,,"Approved in the EU.[23]"
+E492,"Sorbitan tristearate",emulsifier,,,"Approved in the EU.[23]"
+E493,"Sorbitan monolaurate",emulsifier,,,"Approved in the EU.[23]"
+E494,"Sorbitan monooleate",emulsifier,,,"Approved in the EU.[23]"
+E495,"Sorbitan monopalmitate",emulsifier,,,"Approved in the EU.[23]"
+E496,"Sorbitan trioleate",emulsifier,,,
+E497,"Polyoxypropylene-polyoxyethylene polymers",,,,
+E498,"Partial polyglycerol esters of polycondensed fatty acids of castor oil",,,,
+E499,"Stigmasterol-rich plant sterols",,,,"Approved in the EU.[23]"
+E500,"Sodium carbonates: (i) Sodium carbonate (ii) Sodium bicarbonate (Sodium hydrogen carbonate) (iii) Sodium sesquicarbonate (acidity regulator)","raising agent",,,"Approved in the EU.[20]"
+E501,"Potassium carbonates: (i) Potassium carbonate (ii) Potassium bicarbonate (Potassium hydrogen carbonate)","acidity regulator",,,"Approved in the EU.[20]"
+E503,"Ammonium carbonates: (i) Ammonium carbonate (ii) Ammonium bicarbonate (Ammonium hydrogen carbonate)","acidity regulator",,,"Approved in the EU.[20]"
+E504,"Magnesium carbonates: (i) Magnesium carbonate (ii) Magnesium bicarbonate Magnesium hydrogen carbonate","acidity regulator, anti-caking agent",,,"Approved in the EU.[20]"
+E505,"Ferrous carbonate","acidity regulator",,,
+E507,"Hydrochloric acid",acid,,,"Approved in the EU.[20]"
+E508,"Potassium chloride (gelling agent)",seasoning,,,"Approved in the EU.[20]"
+E509,"Calcium chloride (sequestrant)","firming agent",,,"Approved in the EU.[20]"
+E510,"Ammonium chloride, ammonia solution (acidity regulator)","improving agent",,,
+E511,"Magnesium chloride","firming agent",,,"Approved in the EU.[20]"
+E512,"Stannous chloride",antioxidant,,,"Approved in the EU.[20]"
+E513,"Sulfuric acid",acid,,,"Approved in the EU.[20]"
+E514,"Sodium sulfates (i) Sodium sulfate (ii) sodium bisulfate",acid,,,"Approved in the EU.[20]"
+E515,"Potassium sulfates (i) potassium sulfate (ii) potassium bisulfate",,,,"Approved in the EU.[20]"
+E516,"Calcium sulfate",,,,"Approved in the EU.[20]"
+E517,"Ammonium sulfate","acidity regulator",,,"Approved in the EU.[20]"
+E518,"Magnesium sulfate (Epsom salts), (acidity regulator)","firming agent",,,
+E519,"Copper(II) sulfate",preservative,,,
+E520,"Aluminium sulfate","firming agent",,,"Approved in the EU.[20]"
+E521,"Aluminium sodium sulfate","firming agent",,,"Approved in the EU.[20]"
+E522,"Aluminium potassium sulfate","acidity regulator",,,"Approved in the EU.[20]"
+E523,"Aluminium ammonium sulfate","acidity regulator",,,"Approved in the EU.[20]"
+E524,"Sodium hydroxide","acidity regulator",,,"Approved in the EU.[20]"
+E525,"Potassium hydroxide","acidity regulator",,,"Approved in the EU.[20]"
+E526,"Calcium hydroxide (acidity regulator)","firming agent",,,"Approved in the EU.[20]"
+E527,"Ammonium hydroxide","acidity regulator",,,"Approved in the EU.[20]"
+E528,"Magnesium hydroxide","acidity regulator",,,"Approved in the EU.[20]"
+E529,"Calcium oxide (acidity regulator)","improving agent",,,"Approved in the EU.[20]"
+E530,"Magnesium oxide (acidity regulator)","anti-caking agent",,,"Approved in the EU.[20]"
+E535,"Sodium ferrocyanide (acidity regulator)","anti-caking agent",,,"Approved in the EU.[20]"
+E536,"Potassium ferrocyanide","anti-caking agent",,,"Approved in the EU.[20]"
+E537,"Ferrous hexacyanomanganate","anti-caking agent",,,
+E538,"Calcium ferrocyanide","anti-caking agent",,,"Approved in the EU.[20]"
+E539,"Sodium thiosulfate",antioxidant,,,
+E540,"Dicalcium diphosphate[citation needed] (acidity regulator)",emulsifier,,,
+E541,"Sodium aluminium phosphate (i) Acidic (ii) Basic",emulsifier,,,"Approved in the EU.[20]"
+E542,"Bone phosphate (Essentiale Calcium Phosphate, Tribasic)","anti-caking agent",,,
+E543,"Calcium sodium polyphosphate",emulsifier,,,
+E544,"Calcium polyphosphate",emulsifier,,,
+E545,"Ammonium polyphosphate",emulsifier,,,
+E550,"Sodium Silicates (i) Sodium silicate (ii) Sodium metasilicate","anti-caking agent",,,
+E551,"Silicon dioxide (Silica)","anti-caking agent",,,"Approved in the EU.[20]"
+E552,"Calcium silicate","anti-caking agent",,,"Approved in the EU.[20]"
+E553a,"(i) Magnesium silicate (ii) Magnesium trisilicate","anti-caking agent",,,"Approved in the EU.[20]"
+E553b,Talc,"anti-caking agent",,,"Approved in the EU.[20]"
+E554,"Sodium aluminosilicate (sodium aluminium silicate)","anti-caking agent",,,"removed from list per Commission Regulation (EU) No 380/2012 of 3 May 2012"
+E555,"Potassium aluminium silicate","anti-caking agent",,,"removed from list per Commission Regulation (EU) No 380/2012 of 3 May 2012"
+E556,"Calcium aluminosilicate (calcium aluminium silicate)","anti-caking agent",,,"removed from list per Commission Regulation (EU) No 380/2012 of 3 May 2012"
+E557,"Zinc silicate","anti-caking agent",,,"removed from list per Commission Regulation (EU) No 380/2012 of 3 May 2012"
+E558,Bentonite,"anti-caking agent",,,"removed from list per Commission Regulation (EU) No 380/2012 of 3 May 2012"
+E559,"Aluminium silicate (Kaolin)","anti-caking agent",,,"removed from list per Commission Regulation (EU) No 380/2012 of 3 May 2012"
+E560,"Potassium silicate","anti-caking agent",,,
+E561,Vermiculite,,,,
+E562,Sepiolite,,,,
+E563,"Sepiolitic clay",,,,
+E565,Lignosulfonates,,,,
+E566,Natrolite-phonolite,,,,
+E570,"Fatty acids","anti-caking agent",,,"Approved in the EU.[20]"
+E572,"Magnesium stearate, calcium stearate (emulsifier)","anti-caking agent",,,
+E574,"Gluconic acid","acidity regulator",,,"Approved in the EU.[20]"
+E575,"Glucono delta-lactone (acidity regulator)",sequestrant,,,"Approved in the EU.[20]"
+E576,"Sodium gluconate",sequestrant,,,"Approved in the EU.[20]"
+E577,"Potassium gluconate",sequestrant,,,"Approved in the EU.[20]"
+E578,"Calcium gluconate","firming agent",,,"Approved in the EU.[20]"
+E579,"Ferrous gluconate","food colouring",,,"Approved in the EU.[20]"
+E580,"Magnesium gluconate",,,,
+E585,"Ferrous lactate","food colouring",,,"Approved in the EU.[20]"
+E586,4-Hexylresorcinol,antioxidant,,,"Approved in the EU.[22]"
+E598,"Synthetic calcium aluminates",,,,
+E599,Perlite,,,,
+E620,"Glutamic acid","flavour enhancer",,,"Approved in the EU.[20]"
+E621,"Monosodium glutamate (MSG)","flavour enhancer",,,"Approved in the EU.[20]"
+E622,"Monopotassium glutamate","flavour enhancer",,,"Approved in the EU.[20]"
+E623,"Calcium diglutamate","flavour enhancer",,,"Approved in the EU.[20]"
+E624,"Monoammonium glutamate","flavour enhancer",,,"Approved in the EU.[20]"
+E625,"Magnesium diglutamate","flavour enhancer",,,"Approved in the EU.[20]"
+E626,"Guanylic acid","flavour enhancer",,,"Approved in the EU.[20]"
+E627,"Disodium guanylate, sodium guanylate","flavour enhancer",,,"Approved in the EU.[20]"
+E628,"Dipotassium guanylate","flavour enhancer",,,"Approved in the EU.[20]"
+E629,"Calcium guanylate","flavour enhancer",,,"Approved in the EU.[20]"
+E630,"Inosinic acid","flavour enhancer",,,"Approved in the EU.[20]"
+E631,"Disodium inosinate","flavour enhancer",,,"Approved in the EU.[20]"
+E632,"Dipotassium inosinate","flavour enhancer",,,"Approved in the EU.[20]"
+E633,"Calcium inosinate","flavour enhancer",,,"Approved in the EU.[20]"
+E634,"Calcium 5'-ribonucleotides","flavour enhancer",,,"Approved in the EU.[20]"
+E635,"Disodium 5'-ribonucleotides","flavour enhancer",,,"Approved in the EU.[20]"
+E636,Maltol,"flavour enhancer",,,
+E637,"Ethyl maltol","flavour enhancer",,,
+E640,"Glycine and its sodium salt","flavour enhancer",,,"Approved in the EU.[20]"
+E650,"Zinc acetate","flavour enhancer",,,"Approved in the EU.[20]"
+E701,Tetracyclines,antibiotic,,,
+E702,Chlortetracycline,antibiotic,,,
+E703,Oxytetracycline,antibiotic,,,
+E704,Oleandomycin,antibiotic,,,
+E705,"Penicillin G potassium",antibiotic,,,
+E706,"Penicillin G sodium",antibiotic,,,
+E707,"Penicillin G procaine",antibiotic,,,
+E708,"Penicillin G benzathine",antibiotic,,,
+E710,Spiramycins,antibiotic,,,
+E711,Virginiamycins,antibiotic,,,
+E712,Flavomycin,antibiotic,,,
+E713,Tylosin,antibiotic,,,
+E714,"Monensin A",antibiotic,,,
+E715,Avoparcin,antibiotic,,,
+E716,Salinomycin,antibiotic,,,
+E717,Avilamycin,antibiotic,,,
+E900,"Dimethyl polysiloxane (anti-foaming agent)","anti-caking agent",,,"Approved in the EU.[20]"
+E901,"Beeswax, white and yellow","glazing agent",,,"Approved in the EU.[20]"
+E902,"Candelilla wax","glazing agent",,,"Approved in the EU.[20]"
+E903,"Carnauba wax","glazing agent",,,"Approved in the EU.[20]"
+E904,Shellac,"glazing agent",,,"Approved in the EU.[20]"
+E905,Paraffins,,,,"Approved in the EU.[20]"
+E905a,"Mineral oil","anti-foaming agent",,,
+E905b,Petrolatum,,,,
+E905c,"Petroleum wax (i)Microcrystalline wax (ii) Paraffin wax","glazing agent",,,
+E906,"Gum benzoic","flavour enhancer",,,
+E907,"Crystalline wax","glazing agent",,,
+E908,"Rice bran wax","glazing agent",,,
+E909,"Spermaceti wax","glazing agent",,,
+E910,"Wax esters","glazing agent",,,
+E911,"Methyl esters of fatty acids","glazing agent",,,
+E912,"Montanic acid esters, Montan acid esters","glazing agent",,,"Approved in the EU.[20]"
+E913,"Lanolin, sheep wool grease","glazing agent",,,
+E914,"Oxidized polyethylene wax, oxidized polyethylene","glazing agent",,,"Approved in the EU.[20]"
+E915,"Esters of colophony","glazing agent",,,
+E916,"Calcium iodate",,,,
+E917,"Potassium iodate",,,,
+E918,"Nitrogen oxides",,,,
+E919,"Nitrosyl chloride",,,,
+E920,L-cysteine,"improving agent",,,"Approved in the EU[28]"
+E921,L-cystine,"improving agent",,,
+E922,"Potassium persulfate","improving agent",,,
+E923,"Ammonium persulfate","improving agent",,,
+E924,"Potassium bromate","improving agent",,,"Banned in the EU;[29] genotoxic carcinogen[30]"
+E924b,"Calcium bromate","improving agent",,,
+E925,Chlorine,"preservative, bleach, improving agent",,,
+E926,"Chlorine dioxide (preservative)",bleach,,,
+E927a,Azodicarbonamide,"improving agent",,,"identified as a Substance of Very High Concern in EU.[31]"
+E927b,"Carbamide (urea)","improving agent",,,"Approved in the EU.[20]"
+E928,"Benzoyl peroxide (improving agent)",bleach,,,
+E929,"Acetone peroxide",,,,
+E930,"Calcium peroxide (improving agent)",bleach,,,
+E938,Argon,"packaging gas",,,"Approved in the EU.[20]"
+E939,Helium,"packaging gas",,,"Approved in the EU.[20]"
+E940,Dichlorodifluoromethane,"packaging gas",,,"Banned in all countries, in compliance with the Montreal Protocol."
+E941,"Nitrogen (packaging gas)",propellant,,,"Approved in the EU.[20]"
+E942,"Nitrous oxide",propellant,,,"Approved in the EU.[20]"
+E943a,Butane,propellant,,,"Approved in the EU.[20]"
+E943b,Isobutane,propellant,,,"Approved in the EU.[20]"
+E944,Propane,propellant,,,"Approved in the EU.[20]"
+E945,Chloropentafluoroethane,propellant,,,
+E946,Octafluorocyclobutane,propellant,,,
+E948,Oxygen,"packaging gas",,,"Approved in the EU.[20]"
+E949,Hydrogen,"packaging gas",,,"Approved in the EU.[20]"
+E950,"Acesulfame potassium",sweetener,,,"Approved in the EU.[26]"
+E951,Aspartame,sweetener,,,"Approved in the EU.[26]"
+E952,"Cyclamic acid and its sodium and calcium salts, also known as Cyclamate",sweetener,,,"Approved in the EU.[26]"
+E953,"Isomalt, Isomaltitol",sweetener,,,"Approved in the EU.[26]"
+E954,"Saccharin and its sodium, potassium and calcium salts",sweetener,,,"Approved in the EU.[26]"
+E955,"Sucralose (Trichlorogalactosucrose)",sweetener,,,"Approved in the EU.[26]"
+E956,Alitame,sweetener,,,
+E957,"Thaumatin (sweetener)","flavour enhancer",,,"Approved in the EU.[26]"
+E958,"Glycyrrhizin (sweetener)","flavour enhancer",,,
+E959,"Neohesperidine dihydrochalcone (sweetener)","flavour enhancer",,,"Approved in the EU.[26]"
+E960,"Steviol glycosides",sweetener,,,"Approved in the EU.[32]"
+E961,Neotame,sweetener,,,"Approved in 2010[25]"
+E962,"Aspartame-acesulfame salt (sweetener)",stabiliser,,,"Approved in the EU.[26]"
+E965,"Maltitol (i) Maltitol (ii) Maltitol syrup (sweetener) (stabiliser)",humectant,,,"Approved in the EU.[26]"
+E966,Lactitol,sweetener,,,"Approved in the EU.[26]"
+E967,Xylitol,sweetener,,,"Approved in the EU.[26]"
+E968,Erythritol,sweetener,,,"Approved in the EU.[26]"
+E969,Advantame,sweetener,,,"Approved in the EU.[26]"
+E999,"Quillaia extract","foaming agent",,,"Approved in the EU.[20]"
+E1000,"Cholic acid",emulsifier,,,
+E1001,"Choline salts",emulsifier,,,
+E1100,Amylase,"stabiliser, flavour enhancer",,,
+E1101,"Proteases ((i)Protease, (ii)Papain, (iii)Bromelain, (iv)Ficin)","stabiliser, flavour enhancer",,,
+E1102,"Glucose oxidase",antioxidant,,,
+E1103,Invertase,stabiliser,,,"Approved in the EU.[23]"
+E1104,Lipases,,,,
+E1105,Lysozyme,preservative,,,
+E1200,Polydextrose,"stabiliser, thickening agent, humectant, carrier",,,"Approved in the EU.[20]"
+E1201,Polyvinylpyrrolidone,stabiliser,,,"Approved in the EU.[20]"
+E1202,"Polyvinylpolypyrrolidone (carrier)",stabiliser,,,"Approved in the EU.[20]"
+E1203,"Polyvinyl alcohol",,,,"Approved in 2010[25]"
+E1204,Pullulan,,,,"Approved in the EU.[20]"
+E1400,"Dextrin (Dextrins, roasted starch white and yellow) (stabiliser)","thickening agent",,,
+E1401,"Modified starch ((Acid-treated starch) stabiliser)","thickening agent",,,
+E1402,"Alkaline modified starch (stabiliser)","thickening agent",,,
+E1403,"Bleached starch (stabiliser)","thickening agent",,,
+E1404,"Oxidized starch (emulsifier)","thickening agent",,,"Approved in the EU.[20]"
+E1405,"Enzyme treated starch",,,,
+E1410,"Monostarch phosphate (stabiliser)","thickening agent",,,"Approved in the EU.[20]"
+E1411,"Distarch glycerol (thickening agent)",emulsifier,,,
+E1412,"Distarch phosphate esterified with sodium trimetasphosphate; esterified with phosphorus oxychloride (stabiliser)","thickening agent",,,"Approved in the EU.[20]"
+E1413,"Phosphated distarch phosphate (stabiliser)","thickening agent",,,"Approved in the EU.[20]"
+E1414,"Acetylated distarch phosphate (emulsifier)","thickening agent",,,"Approved in the EU.[20]"
+E1420,"Starch acetate esterified with acetic anhydride (stabiliser)","thickening agent",,,"Approved in the EU.[20]"
+E1421,"Starch acetate esterified with vinyl acetate (stabiliser)","thickening agent",,,
+E1422,"Acetylated distarch adipate (stabiliser)","thickening agent",,,"Approved in the EU.[20]"
+E1423,"Acetylated distarch glycerol","thickening agent",,,
+E1430,"Distarch glycerine (stabiliser)","thickening agent",,,
+E1440,"Hydroxy propyl starch (emulsifier)","thickening agent",,,"Approved in the EU.[20]"
+E1441,"Hydroxy propyl distarch glycerine (stabiliser)","thickening agent",,,
+E1442,"Hydroxy propyl distarch phosphate (stabiliser)","thickening agent",,,"Approved in the EU.[20]"
+E1443,"Hydroxy propyl distarch glycerol",,,,
+E1450,"Starch sodium octenyl succinate (emulsifier) (stabiliser)","thickening agent",,,"Approved in the EU.[20]"
+E1451,"Acetylated oxidised starch (emulsifier)","thickening agent",,,"Approved in the EU.[20]"
+E1452,"Starch aluminium octenyl succinate",,,,"Approved in the EU.[20]"
+E1501,"Benzylated hydrocarbons",,,,
+E1502,"Butane-1, 3-diol",,,,
+E1503,"Castor oil","resolving agent",,,
+E1504,"Ethyl acetate","flavour solvent",,,
+E1505,"Triethyl citrate","foam stabiliser",,,"Approved in the EU.[20]"
+E1510,Ethanol,,,,
+E1516,"Glyceryl monoacetate","flavour solvent",,,
+E1517,"Glyceryl diacetate or diacetin","flavour solvent",,,
+E1518,"Glyceryl triacetate or triacetin","humectant and flavour solvent",,,"Approved in the EU.[20]"
+E1519,"Benzyl alcohol",,,,
+E1520,"Propylene glycol","humectant and flavour solvent",,,"Approved in the EU.[20]"
+E1521,"Polyethylene glycol 8000[33]",,,,"Approved in 2010[25]"
+E1525,"Hydroxyethyl cellulose","thickening agent",,,

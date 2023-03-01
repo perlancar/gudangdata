@@ -1,60 +1,60 @@
 range,subrange,description
 100-199,100-199,Colours
-100-199,100–109,yellows 
-100-199,110–119,oranges 
-100-199,120–129,reds 
-100-199,130–139,blues and violets 
-100-199,140–149,greens 
-100-199,150–159,browns and blacks 
-100-199,160–199,gold and others 
+100-199,"100–109",yellows
+100-199,"110–119",oranges
+100-199,"120–129",reds
+100-199,"130–139","blues and violets"
+100-199,"140–149",greens
+100-199,"150–159","browns and blacks"
+100-199,"160–199","gold and others"
 200-299,200-299,Preservatives
-200-299,200–209,sorbates 
-200-299,210–219,benzoates 
-200-299,220–229,sulfites 
-200-299,230–239,phenols and formates (methanoates) 
-200-299,240–259,nitrates 
-200-299,260–269,acetates (ethanoates) 
-200-299,270–279,lactates 
-200-299,280–289,propionates (propanoates) 
-200-299,290–299,others 
-300-399,300-399,Antioxidants and acidity regulators
-300-399,300–305,ascorbates (vitamin C) 
-300-399,306–309,Tocopherol (vitamin E) 
-300-399,310–319,gallates and erythorbates 
-300-399,320–329,lactates 
-300-399,330–339,citrates and tartrates 
-300-399,340–349,phosphates 
-300-399,350–359,malates and adipates 
-300-399,360–369,succinates and fumarates 
-300-399,370–399,others 
+200-299,"200–209",sorbates
+200-299,"210–219",benzoates
+200-299,"220–229",sulfites
+200-299,"230–239","phenols and formates (methanoates)"
+200-299,"240–259",nitrates
+200-299,"260–269","acetates (ethanoates)"
+200-299,"270–279",lactates
+200-299,"280–289","propionates (propanoates)"
+200-299,"290–299",others
+300-399,300-399,"Antioxidants and acidity regulators"
+300-399,"300–305","ascorbates (vitamin C)"
+300-399,"306–309","Tocopherol (vitamin E)"
+300-399,"310–319","gallates and erythorbates"
+300-399,"320–329",lactates
+300-399,"330–339","citrates and tartrates"
+300-399,"340–349",phosphates
+300-399,"350–359","malates and adipates"
+300-399,"360–369","succinates and fumarates"
+300-399,"370–399",others
 400-499,400-499,"Thickeners, stabilisers and emulsifiers"
-400-499,400–409,alginates 
-400-499,410–419,natural gums 
-400-499,420–429,other natural agents 
-400-499,430–439,polyoxyethene compounds 
-400-499,440–449,natural emulsifiers 
-400-499,450–459,phosphates 
-400-499,460–469,cellulose compounds 
-400-499,470–489,fatty acids and compounds 
-400-499,490–499,others 
-500-599,500-599,pH regulators and anti-caking agents
-500-599,500–509,mineral acids and bases 
-500-599,510–519,chlorides and sulfates 
-500-599,520–529,sulfates and hydroxides 
-500-599,530–549,alkali metal compounds 
-500-599,550–559,silicates 
-500-599,570–579,stearates and gluconates 
-500-599,580–599,others 
-600-699,600-699,Flavour enhancers
-600-699,620–629,glutamates and guanylates 
-600-699,630–639,inosinates 
-600-699,640–649,others 
+400-499,"400–409",alginates
+400-499,"410–419","natural gums"
+400-499,"420–429","other natural agents"
+400-499,"430–439","polyoxyethene compounds"
+400-499,"440–449","natural emulsifiers"
+400-499,"450–459",phosphates
+400-499,"460–469","cellulose compounds"
+400-499,"470–489","fatty acids and compounds"
+400-499,"490–499",others
+500-599,500-599,"pH regulators and anti-caking agents"
+500-599,"500–509","mineral acids and bases"
+500-599,"510–519","chlorides and sulfates"
+500-599,"520–529","sulfates and hydroxides"
+500-599,"530–549","alkali metal compounds"
+500-599,"550–559",silicates
+500-599,"570–579","stearates and gluconates"
+500-599,"580–599",others
+600-699,600-699,"Flavour enhancers"
+600-699,"620–629","glutamates and guanylates"
+600-699,"630–639",inosinates
+600-699,"640–649",others
 700-799,700-799,Antibiotics
 900-999,900-999,"Glazing agents, gases and sweeteners"
-900-999,900–909,waxes 
-900-999,910–919,synthetic glazes 
-900-999,920–929,improving agents 
-900-999,930–949,packaging gases 
-900-999,950–969,sweeteners 
-900-999,990–999,foaming agents
-1000-1599,1000-1599,Additional additives 
+900-999,"900–909",waxes
+900-999,"910–919","synthetic glazes"
+900-999,"920–929","improving agents"
+900-999,"930–949","packaging gases"
+900-999,"950–969",sweeteners
+900-999,"990–999","foaming agents"
+1000-1599,1000-1599,"Additional additives"
