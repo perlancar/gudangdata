@@ -319,10 +319,8 @@
 319,10312,0408,"Jem (selai), jeli dan marmalad",040102050001,"Jem Buah atau Selai Buah",500000,400000,250000,Aktif
 320,10312,0408,"Jem (selai), jeli dan marmalad",040102050002,"Jeli Buah",500000,400000,250000,Aktif
 321,10312,0408,"Jem (selai), jeli dan marmalad",040102050003,Marmalad,500000,400000,250000,Aktif
-322,10312,0411,"Pangan kategori 4 risiko rendah lainnya",040102060001,"
-Chutney Mangga (Mango Chutney)",500000,400000,250000,Aktif
-323,82920,0411,"Pangan kategori 4 risiko rendah lainnya",040102060001,"
-Chutney Mangga (Mango Chutney)",500000,400000,250000,Aktif
+322,10312,0411,"Pangan kategori 4 risiko rendah lainnya",040102060001," Chutney Mangga (Mango Chutney)",500000,400000,250000,Aktif
+323,82920,0411,"Pangan kategori 4 risiko rendah lainnya",040102060001," Chutney Mangga (Mango Chutney)",500000,400000,250000,Aktif
 324,10733,0401,"Buah bergula",040102070001,"Buah Bersalut",500000,400000,250000,Aktif
 325,10733,0401,"Buah bergula",040102070002,"Buah Bergula",500000,400000,250000,Aktif
 326,10733,0401,"Buah bergula",040102070003,"Buah Berkristal",500000,400000,250000,Aktif
@@ -1298,24 +1296,12 @@ Chutney Mangga (Mango Chutney)",500000,400000,250000,Aktif
 1296,10799,1004,"Produk-Produk Telur yang Dikeringkan dan/atau Dipanaskan Hingga Terkoagulasi",100203000005,"Telur Pindang",500000,400000,250000,Aktif
 1297,10799,1004,"Produk-Produk Telur yang Dikeringkan dan/atau Dipanaskan Hingga Terkoagulasi",100203000006,"Tepung Telur Campuran/Premiks Tepung Telur",500000,400000,250000,Aktif
 1298,10799,1004,"Produk-Produk Telur yang Dikeringkan dan/atau Dipanaskan Hingga Terkoagulasi",100203000007,"Rendang Telur",500000,400000,250000,Aktif
-1299,10799,1006,"""Telur yang Diawetkan, Termasuk Produk Tradisional Telur Yang
-Diawetkan, Termasuk Dengan Cara Dibasakan, Diasinkan dan
-Dikalengkan""",100300000001,"Telur Asin Mentah",500000,400000,250000,Nonaktif
-1300,10799,1006,"""Telur yang Diawetkan, Termasuk Produk Tradisional Telur Yang
-Diawetkan, Termasuk Dengan Cara Dibasakan, Diasinkan dan
-Dikalengkan""",100300000002,"Telur Asin Matang",500000,400000,250000,Aktif
-1301,10799,1006,"""Telur yang Diawetkan, Termasuk Produk Tradisional Telur Yang
-Diawetkan, Termasuk Dengan Cara Dibasakan, Diasinkan dan
-Dikalengkan""",100300000003,"Telur Olahan Steril",500000,400000,250000,Aktif
-1302,10799,1006,"""Telur yang Diawetkan, Termasuk Produk Tradisional Telur Yang
-Diawetkan, Termasuk Dengan Cara Dibasakan, Diasinkan dan
-Dikalengkan""",100300000004,"Telur Hitam (Pidan/Pitan/Bitan)",500000,400000,250000,Aktif
-1303,10799,1006,"""Telur yang Diawetkan, Termasuk Produk Tradisional Telur Yang
-Diawetkan, Termasuk Dengan Cara Dibasakan, Diasinkan dan
-Dikalengkan""",100300000005,Hulidan,500000,400000,250000,Aktif
-1304,10799,1006,"""Telur yang Diawetkan, Termasuk Produk Tradisional Telur Yang
-Diawetkan, Termasuk Dengan Cara Dibasakan, Diasinkan dan
-Dikalengkan""",100300000006,Dsaudan,500000,400000,250000,Aktif
+1299,10799,1006,"""Telur yang Diawetkan, Termasuk Produk Tradisional Telur Yang Diawetkan, Termasuk Dengan Cara Dibasakan, Diasinkan dan Dikalengkan""",100300000001,"Telur Asin Mentah",500000,400000,250000,Nonaktif
+1300,10799,1006,"""Telur yang Diawetkan, Termasuk Produk Tradisional Telur Yang Diawetkan, Termasuk Dengan Cara Dibasakan, Diasinkan dan Dikalengkan""",100300000002,"Telur Asin Matang",500000,400000,250000,Aktif
+1301,10799,1006,"""Telur yang Diawetkan, Termasuk Produk Tradisional Telur Yang Diawetkan, Termasuk Dengan Cara Dibasakan, Diasinkan dan Dikalengkan""",100300000003,"Telur Olahan Steril",500000,400000,250000,Aktif
+1302,10799,1006,"""Telur yang Diawetkan, Termasuk Produk Tradisional Telur Yang Diawetkan, Termasuk Dengan Cara Dibasakan, Diasinkan dan Dikalengkan""",100300000004,"Telur Hitam (Pidan/Pitan/Bitan)",500000,400000,250000,Aktif
+1303,10799,1006,"""Telur yang Diawetkan, Termasuk Produk Tradisional Telur Yang Diawetkan, Termasuk Dengan Cara Dibasakan, Diasinkan dan Dikalengkan""",100300000005,Hulidan,500000,400000,250000,Aktif
+1304,10799,1006,"""Telur yang Diawetkan, Termasuk Produk Tradisional Telur Yang Diawetkan, Termasuk Dengan Cara Dibasakan, Diasinkan dan Dikalengkan""",100300000006,Dsaudan,500000,400000,250000,Aktif
 1305,10799,1001,"Makanan Pencuci Mulut Berbahan Dasar Telur (Misalnya Custard)",100400000001,"Selai Kaya",500000,400000,250000,Aktif
 1306,10799,1001,"Makanan Pencuci Mulut Berbahan Dasar Telur (Misalnya Custard)",100400000002,Custard,500000,400000,250000,Aktif
 1307,10799,1001,"Makanan Pencuci Mulut Berbahan Dasar Telur (Misalnya Custard)",100400000003,"Tepung Custard",500000,400000,250000,Aktif
