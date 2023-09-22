@@ -14,7 +14,15 @@ sub _strip_tags {
     $$htmlref =~ s!</?[^>]+>! !gs;
 }
 
-my $columns = [qw/accreditation_number lab_name address phone scope expiry_date/];
+my $columns = [qw/
+                     accreditation_number
+                     lab_name
+                     address
+                     phone
+                     scope
+                     expiry_date
+                     note
+                 /];
 my $csv = Text::CSV->new({ binary => 1, auto_diag => 1 });
 $csv->say(\*STDOUT, $columns);
 
@@ -37,13 +45,13 @@ for my $file (sort <$Bin/../raw/*>) {
                   <td[^>]*> \s*(?:<p[^>]*>)?\s* (\d+)         \s*(?:</p>)?\s*                    </td> \s* # 1. nomor
                   <td[^>]*> \s*(?:<p[^>]*>)?\s* (\w+-\d+-\w+) \s*(?:</p>)?\s* (?:<p>\s*</p>)?\s* </td> \s* # 2. accreditation_number
                   .+?
-                  (Nomor\s+Akreditasi\s+dicabut|Nomor\s+(?:akreditasi\s+)?dil?gabung\s+dengan\s+\S+|Nomor\s+tidak\s+digunakan(?:\s+lagi)?)
+                  (Nomor\s+Akreditasi\s+dicabut|Nomor\s+(?:akreditasi\s+)?dil?gabung\s+dengan\s+\S+|Nomor\s+tidak\s+digunakan(?:\s+lagi)?) # 3. note
                   .+?
                  !gimsx
                      and do {
                          log_trace "No $1 ($3)";
-                         my $row = [$2, "Revoked"];
-                         next REC;
+                         my $row = [$2, undef, undef, undef, undef, undef, $3];
+                         goto ADD_ROW;
                      };
         $rec =~ m!\A
                      <td[^>]*> \s*(?:<p[^>]*>)?\s* (\d+)         \s*(?:</p>)?\s*                    </td> \s* # 1. nomor
@@ -58,12 +66,14 @@ for my $file (sort <$Bin/../raw/*>) {
                  !gmsx
                      or die "Record does not match regex: $rec";
         log_trace "No $1";
-        my $row = [$2, $3, $4, $5, $6, $7];
+        my $row = [$2, $3, $4, $5, $6, $7, ''];
         _strip_tags(\( $row->[1] )); # alamat ada mengandung tags
         _strip_tags(\( $row->[2] )); # alamat ada mengandung tags
         _strip_tags(\( $row->[3] )); # phone
         _strip_tags(\( $row->[5] )); # expiry_date juga kolom manual format bervariasi, ada tag
         for (@$row) { s/\s{2,}/ /gs; s/^\s+//; s/\s+$//; s/\xa0/ /g }
+
+      ADD_ROW:
         $csv->say(\*STDOUT, $row);
     }
 }
