@@ -1,0 +1,69 @@
+#!/usr/bin/env perl
+
+use 5.014;
+use strict;
+use warnings;
+use FindBin '$Bin';
+use Log::ger::Screen;
+
+use File::Slurper qw(read_text);
+use Text::CSV;
+
+sub _strip_tags {
+    my $htmlref = shift;
+    $$htmlref =~ s!</?[^>]+>! !gs;
+}
+
+my $columns = [qw/accreditation_number lab_name address phone scope expiry_date/];
+my $csv = Text::CSV->new({ binary => 1, auto_diag => 1 });
+$csv->say(\*STDOUT, $columns);
+
+for my $file (sort <$Bin/../raw/*>) {
+    log_info "Processing file $file ...";
+    my $html = read_text($file);
+    my @recs;
+    while ($html =~ m!
+                         <tr[^>]*> \s*
+                         (.+?)
+                         </tr>
+                     !gmsx) {
+        push @recs, $1;
+    }
+  REC:
+    for my $rec (@recs) {
+        next if $rec =~ /<th|NAMA LABORATORIUM/;
+        #log_trace $rec;
+        $rec =~ m!\A
+                  <td[^>]*> \s*(?:<p[^>]*>)?\s* (\d+)         \s*(?:</p>)?\s*                    </td> \s* # 1. nomor
+                  <td[^>]*> \s*(?:<p[^>]*>)?\s* (\w+-\d+-\w+) \s*(?:</p>)?\s* (?:<p>\s*</p>)?\s* </td> \s* # 2. accreditation_number
+                  .+?
+                  (Nomor\s+Akreditasi\s+dicabut|Nomor\s+(?:akreditasi\s+)?dil?gabung\s+dengan\s+\S+|Nomor\s+tidak\s+digunakan(?:\s+lagi)?)
+                  .+?
+                 !gimsx
+                     and do {
+                         log_trace "No $1 ($3)";
+                         my $row = [$2, "Revoked"];
+                         next REC;
+                     };
+        $rec =~ m!\A
+                     <td[^>]*> \s*(?:<p[^>]*>)?\s* (\d+)         \s*(?:</p>)?\s*                    </td> \s* # 1. nomor
+                     <td[^>]*> \s*(?:<p[^>]*>)?\s* (\w+-\d+-\w+) \s*(?:</p>)?\s* (?:<p>\s*</p>)?\s* </td> \s* # 2. accreditation_number
+                     <td[^>]*> \s*(?:<p[^>]*>)?\s* (.+?)         \s*(?:</p>)?\s* (?:<p>\s*</p>)?\s* </td> \s* # 3. lab_name
+                     <td[^>]*> \s*(?:<p[^>]*>)?\s* (.+?)         \s*(?:</p>)?\s* (?:<p>\s*</p>)?\s* </td> \s* # 4. address
+                     <td[^>]*> \s*(?:<p[^>]*>)?\s* (.*?)         \s*(?:</p>)?\s* (?:<p>\s*</p>)?\s* </td> \s* # 5. phone
+                     <td[^>]*>.+?</td> \s*                # email
+                     <td[^>]*> \s*(?:<p[^>]*>)?\s* ([^<]+)         \s*(?:</p>)?\s* .*?</td> \s* # 6. scope
+                     <td[^>]*>(.+?)</td> \s* # 7. expiry_date
+                     .*?
+                 !gmsx
+                     or die "Record does not match regex: $rec";
+        log_trace "No $1";
+        my $row = [$2, $3, $4, $5, $6, $7];
+        _strip_tags(\( $row->[1] )); # alamat ada mengandung tags
+        _strip_tags(\( $row->[2] )); # alamat ada mengandung tags
+        _strip_tags(\( $row->[3] )); # phone
+        _strip_tags(\( $row->[5] )); # expiry_date juga kolom manual format bervariasi, ada tag
+        for (@$row) { s/\s{2,}/ /gs; s/^\s+//; s/\s+$//; s/\xa0/ /g }
+        $csv->say(\*STDOUT, $row);
+    }
+}

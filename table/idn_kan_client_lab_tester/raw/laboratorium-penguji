@@ -1,0 +1,1352 @@
+<head>
+<meta name="facebook-domain-verification" content="5678xw1luemagmm59d6xgvewpyw9w9" />
+</head>
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><!-- Komite Akreditasi Nasional 2.1.0 Free -->
+<html lang="en-gb" dir="ltr" >
+	<head>
+		
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" type="text/javascript"></script>
+	<script type="text/javascript">jQuery.noConflict();</script>
+		<base href="https://kan.or.id/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Ari Al Machi" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Laboratorium Penguji</title>
+	<link href="http://kan.or.id/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji" rel="canonical" />
+	<link href="/templates/at_tahoma/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/modules/mod_at_social_links/assets/css/at.social.css" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_at_social_links/assets/css/enews-effect-1/enews-effect-1.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+
+        a.flag {font-size:24px;padding:1px 0;background-repeat:no-repeat;background-image:url('/modules/mod_gtranslate/tmpl/lang/24a.png');}
+        a.flag:hover {background-image:url('/modules/mod_gtranslate/tmpl/lang/24.png');}
+        a.flag img {border:0;}
+        a.alt_flag {font-size:24px;padding:1px 0;background-repeat:no-repeat;background-image:url('/modules/mod_gtranslate/tmpl/lang/alt_flagsa.png');}
+        a.alt_flag:hover {background-image:url('/modules/mod_gtranslate/tmpl/lang/alt_flags.png');}
+        a.alt_flag img {border:0;}
+    
+	</style>
+	<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+	<script src="/media/system/js/core.js" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(function($){ $(".hasTooltip").tooltip({"html": true,"container": "body"}); });
+	</script>
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/system/css/editor.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/at_tahoma/core/assets/css/layout.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/at_tahoma/core/assets/css/core_joomla.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/at_tahoma/core/libraries/bootstrap/css/bootstrap.min.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/at_tahoma/core/libraries/bootstrap/css/bootstrap-theme.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/at_tahoma/core/libraries/scroll/css/animate.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/at_tahoma/css/template.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/at_tahoma/css/typography.css" type="text/css"/>
+<link rel="stylesheet" href="/templates/at_tahoma/css/icon-font.css" type="text/css"/>
+<script src='/templates/at_tahoma/core/libraries/bootstrap/js/bootstrap.min.js' type='text/javascript'></script>
+<script src='/templates/at_tahoma/js/avatar-template.js' type='text/javascript'></script>
+<script src='/templates/at_tahoma/core/assets/js/jquery.lazy.min.js' type='text/javascript'></script>
+<script src='/templates/at_tahoma/core/assets/js/modernizr.custom.js' type='text/javascript'></script>
+<script src='/templates/at_tahoma/core/assets/js/touch_effects.js' type='text/javascript'></script>
+<script src='/templates/at_tahoma/core/libraries/scroll/js/jquery.viewportchecker.js' type='text/javascript'></script>
+<script src='' type='text/javascript'></script>
+<meta name="viewport" content="width=1024" />
+<script>
+			jQuery.noConflict();
+			(function($){
+				$(document).ready(function()
+				{
+					if (!($('body').hasClass('avatar-responsive')))
+					{
+						$('.avatar-wrapper').css('min-width','1024px');
+						$('#avatar-template').css('min-width','1024px');
+					}
+				});
+			})(jQuery)
+		</script>
+	 		<script type='text/javascript'>
+				jQuery.noConflict();
+				(function($){
+					$(document).ready(function()
+					{
+						avatarTemplate.template.name = "at_tahoma" 
+						avatarTemplate.image.initEffects();
+						avatarTemplate.layout.init();
+						avatarTemplate.settingPanel.init();
+					});
+				})(jQuery)
+			</script>
+	 	<style type="text/css">
+body { background-image: url(https://kan.or.id/templates/at_tahoma/backgrounds/square_bg.png);}
+</style>		<style type="text/css">
+			.avatar-wrapper{
+				width: 1024px;
+				margin: auto;
+			}
+			
+			#avatar-pos-top-left {
+				width: 30%;
+			}
+			#avatar-pos-top-middle {
+				width: 0%;
+			}
+			#avatar-pos-top-right {
+				width: 70%;
+			}
+			
+			#avatar-pos-footer-left {
+				width: 50%;
+			}
+			#avatar-pos-footer-middle {
+				width: 5%;
+			}
+			#avatar-pos-footer-right {
+				width: 45%;
+			}
+			
+			#avatar-pos-promo-top-left {
+				width: 33.33%;
+			}
+			#avatar-pos-promo-top-middle {
+				width: 100%;
+			}
+			#avatar-pos-promo-top-right {
+				width: 33.33%;
+			}
+			
+			#avatar-pos-promo-bottom-left {
+				width: 55%;
+			}
+			#avatar-pos-promo-bottom-middle {
+				width: 100%;
+			}
+			#avatar-pos-promo-bottom-right {
+				width: 45%;
+			}
+			
+			#avatar-left {
+				width: 30%;
+			}
+			#avatar-right {
+				width: 30%;
+			}
+			#avatar-content {
+				width: 100%;
+			}
+			#avatar-pos-inner-left {
+				width: 23%;
+			}
+			#avatar-pos-inner-right {
+				width: 23%;
+			}
+			
+			#avatar-main-content{
+				width: 100%;
+			}
+					</style>
+		
+			</head>
+	<body id="avatar-template" class="avatar-non-responsive">
+		<div id="top"></div>
+		<div id="avatar-template-copyright">Powered by <a href="http://www.kan.or.id">Komite Akreditasi Nasional</a> 2017 - All Rights Reserved.</div>				<div class="clearfix">
+									
+						
+						
+						
+						
+															
+							<div id="avatar-header-block">
+					<div class="avatar-wrapper block-max-width-100">
+								<div class="at-module  avatar-search no-padding-margin-side at-mod-92">
+					<div class="at-module-content">
+				<div class="search">
+	<form action="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji" method="post" class="form-inline">
+		<label for="mod-search-searchword" class="element-invisible">Search ...</label> <input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="text" size="20" value="Search ..."  onblur="if (this.value=='') this.value='Search ...';" onfocus="if (this.value=='Search ...') this.value='';" /> <input type="image" value="Search" class="button" src="/templates/at_tahoma/images/searchButton.gif" onclick="this.form.searchword.focus();"/>		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="114" />
+	</form>
+</div>
+			</div>
+		</div>
+			<div class="at-module at-social no-padding-margin-tb at-mod-181">
+					<div class="at-module-content">
+				<div class="at-social-links">
+<div class="at-social-enews-effect-1">
+<ul class="at-social-list">
+	<li class="at-social-item" style="height: 28px;width: 28px;">
+		<a href="https://www.facebook.com/kan.akreditasi/" target="_blank"><div style="height: 18px;width: 18px;background-image: url('/images/sampledata/socials/facebook.png')"></div></a>
+	</li>	
+	<li class="at-social-item" style="height: 28px;width: 28px;">
+		<a href="https://www.youtube.com/channel/UCxMPTZ4P9nk2hfBnjqWO_Cw?view_as=subscriber" target="_blank"><div style="height: 18px;width: 18px;background-image: url('/images/sampledata/socials/youtube.png')"></div></a>
+	</li>	
+	<li class="at-social-item" style="height: 28px;width: 28px;">
+		<a href="https://twitter.com/kan_akreditasi" target="_blank"><div style="height: 18px;width: 18px;background-image: url('/images/sampledata/socials/twitter.png')"></div></a>
+	</li>	
+<li class="clearbreak"></li>
+</ul>
+</div></div>			</div>
+		</div>
+			<div class="at-module  at-mod-188">
+					<div class="at-module-content">
+				
+
+<script type="text/javascript">
+/* <![CDATA[ */
+eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('6 7(a,b){n{4(2.9){3 c=2.9("o");c.p(b,f,f);a.q(c)}g{3 c=2.r();a.s(\'t\'+b,c)}}u(e){}}6 h(a){4(a.8)a=a.8;4(a==\'\')v;3 b=a.w(\'|\')[1];3 c;3 d=2.x(\'y\');z(3 i=0;i<d.5;i++)4(d[i].A==\'B-C-D\')c=d[i];4(2.j(\'k\')==E||2.j(\'k\').l.5==0||c.5==0||c.l.5==0){F(6(){h(a)},G)}g{c.8=b;7(c,\'m\');7(c,\'m\')}}',43,43,'||document|var|if|length|function|GTranslateFireEvent|value|createEvent||||||true|else|doGTranslate||getElementById|google_translate_element2|innerHTML|change|try|HTMLEvents|initEvent|dispatchEvent|createEventObject|fireEvent|on|catch|return|split|getElementsByTagName|select|for|className|goog|te|combo|null|setTimeout|500'.split('|'),0,{}))
+/* ]]> */
+</script>
+
+
+<div id="google_translate_element2"></div>
+<script type="text/javascript">function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'id', autoDisplay: false}, 'google_translate_element2');}</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+
+<a href="#" onclick="doGTranslate('id|id');return false;" title="Indonesian" class="flag nturl" style="background-position:-300px -300px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="24" width="24" alt="Indonesian" /></a> <a href="#" onclick="doGTranslate('id|en');return false;" title="English" class="alt_flag" style="background-position:-0px -100px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="24" width="24" alt="English" /></a>  			</div>
+		</div>
+	
+						<div class="clearbreak"></div>
+					</div>
+				</div>
+						
+							<div id="avatar-header-inside-block">
+					<div class="avatar-wrapper block-max-width-100">
+											<div id="avatar-pos-top-left">
+									<div class="at-module  at-mod-88">
+					<div class="at-module-content">
+				
+
+<div class="custom"  >
+	<p><a href="/index.php"><span class="at-color"></span><img src="/images/kan.png" alt="" width="149" height="61" /></a></p></div>
+			</div>
+		</div>
+	
+						</div>
+										
+										
+											<div id="avatar-pos-top-right">
+									<div class="at-module no-padding-margin at-mod-87">
+					<div class="at-module-content">
+				
+<div class="at-nav-responsive at-menu">
+<span class="menu-pull"></span>
+<ul class="at-menu-horizontal menu clearfix at-main-menu">
+<li class="item-101 active left"><a href="/index.php" >Home</a></li><li class="item-119 left deeper parent"><span class="pull"></span><a href="/index.php/aboutkan" >Tentang KAN</a><ul><li class="item-112"><a href="/index.php/aboutkan/leadership" >Sejarah dan Fungsi KAN</a></li><li class="item-315"><a href="/index.php/aboutkan/struktur-organisasi" >Struktur Organisasi</a></li><li class="item-162"><a href="/index.php/aboutkan/ketidakberpihakan" >Ketidakberpihakan</a></li><li class="item-157"><a href="/index.php/aboutkan/recognitions" >Pengakuan Internasional</a></li><li class="item-220"><a href="/index.php/aboutkan/kan-konsil" >Anggota KAN</a></li><li class="item-247"><a href="/index.php/aboutkan/maklumat-layanan" >Maklumat Layanan</a></li><li class="item-322"><a href="/index.php/aboutkan/standar-layanan-akreditasi" >Standar Layanan Akreditasi</a></li></ul></li><li class="item-172 left deeper parent"><span class="pull"></span><span class="separator ">Proses Akreditasi</span>
+<ul><li class="item-173"><a href="/index.php/akreditasi/proses-akreditasi" >Proses Akreditasi</a></li><li class="item-174"><a href="/index.php/akreditasi/tarif-akreditasi" >Tarif Akreditasi</a></li><li class="item-261"><a href="http://kan.or.id/index.php/download/106-pelaporan" >Penanganan Komplain</a></li><li class="item-262"><a href="http://kan.or.id/unduh/PALS/Penanganan Banding KAN.pdf" >Penanganan Banding</a></li><li class="item-244 parent"><span class="pull"></span><a href="/index.php/akreditasi/kepuasan-pelanggan" >Survey Kepuasan Pelanggan</a></li></ul></li><li class="item-105 right deeper parent"><span class="pull"></span><span class="separator ">Layanan Akreditasi</span>
+<ul><li class="item-143 parent"><span class="pull"></span><a href="/index.php/programs/sni-iso-iec-17025" >Laboratorium</a></li><li class="item-108 parent"><span class="pull"></span><a href="/index.php/programs/sni-iso-iec-17020" >Lembaga Inspeksi</a></li><li class="item-370 parent"><span class="pull"></span><a href="/index.php/programs/lembaga-verifikasi-dan-atau-validasi" >Lembaga Verifikasi dan/atau Validasi</a></li><li class="item-167"><a href="/index.php/programs/sni-iso-iec-17043" >Penyelenggara Uji Profisiensi</a></li><li class="item-241"><a href="/index.php/programs/sni-iso-iec-17034" >Produsen Bahan Acuan</a></li><li class="item-129 parent"><span class="pull"></span><a href="/index.php/programs/sni-iso-iec-17021" >Sistem Manajemen</a></li><li class="item-109"><a href="/index.php/programs/sni-iso-iec-17024" >Sertifikasi Person</a></li><li class="item-114 parent"><span class="pull"></span><a href="/index.php/programs/sni-iso-iec-17065" >Sertifikasi Berdasarkan SNI ISO/IEC 17065</a></li><li class="item-305 parent"><span class="pull"></span><a href="/index.php/programs/sni-iso-iec-17065-1" >Sertifikasi Pembangunan Berkelanjutan</a></li></ul></li><li class="item-102 right deeper parent"><span class="pull"></span><span class="separator ">Direktori LPK</span>
+<ul><li class="item-233 parent"><span class="pull"></span><a href="/index.php/documents/terakreditasi" >Terakreditasi</a></li><li class="item-234 parent"><span class="pull"></span><a href="/index.php/documents/dibekukan" >Akreditasi Dibekukan</a></li><li class="item-235 parent"><span class="pull"></span><a href="/index.php/documents/akreditasi-dicabut" >Akreditasi Dicabut</a></li></ul></li><li class="item-171 right deeper parent"><span class="pull"></span><a href="/index.php/download" >Download</a><ul><li class="item-243 parent"><span class="pull"></span><a href="/index.php/download/dokumen-akreditasi" >Dokumen Akreditasi</a></li><li class="item-240"><a href="/index.php/download/materi-kegiatan" >Materi Kegiatan</a></li><li class="item-342"><a href="https://drive.google.com/file/d/1EIqOdLjRCCJSvoqGMb9utamSn31OMPWg/view?usp=share_link" >Artikel Penilaian Kesesuaian</a></li><li class="item-344"><a href="http://kan.or.id/index.php/download/114-dokumen-internasional" >Dokumen Internasional</a></li></ul></li></ul>
+<div class="clearbreak"></div>
+</div>
+			</div>
+		</div>
+	
+						</div>
+										<div class="clearbreak"></div>
+					</div>
+				</div>
+						
+			<div id="avatar-tool-block">
+				<div class="avatar-wrapper block-max-width-100">
+									</div>
+			</div>
+			
+								
+									
+			<div id="avatar-body-middle-block" class=" ">
+				<div class="avatar-wrapper block-default-width">
+									<div id="avatar-pos-breadcrumbs">
+								<div class="at-module  no-padding-margin at-mod-97">
+					<div class="at-module-content">
+				
+<ul itemscope itemtype="https://schema.org/BreadcrumbList" class="breadcrumb no-padding-margin">
+			<li class="active">
+			<span class="divider icon-location"></span>
+		</li>
+	
+				<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+									<a itemprop="item" href="/index.php" class="pathway"><span itemprop="name">Home</span></a>
+				
+									<span class="divider">
+						 					</span>
+								<meta itemprop="position" content="1">
+			</li>
+					<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+									<span itemprop="name">
+						Direktori LPK					</span>
+				
+									<span class="divider">
+						 					</span>
+								<meta itemprop="position" content="2">
+			</li>
+					<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+									<a itemprop="item" href="/index.php/documents/terakreditasi" class="pathway"><span itemprop="name">Terakreditasi</span></a>
+				
+									<span class="divider">
+						 					</span>
+								<meta itemprop="position" content="3">
+			</li>
+					<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+									<span itemprop="name">
+						Laboratorium 					</span>
+				
+									<span class="divider">
+						 					</span>
+								<meta itemprop="position" content="4">
+			</li>
+					<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+									<span itemprop="name">
+						SNI ISO/IEC 17025					</span>
+				
+								<meta itemprop="position" content="5">
+			</li>
+		</ul>
+			</div>
+		</div>
+	
+					</div>	
+								<div class="inner">
+								
+				<div id="avatar-content">
+					<div class="inner">
+												
+						<div id="avatar-main-content">
+							<div id="avatar-main-content-inner">
+							
+															<div id="avatar-pos-message">
+									<div id="system-message-container">
+	</div>
+
+								</div>	
+														
+														
+														
+														
+														
+															<div id="avatar-pos-main-body">
+																			<div class="item-page " itemscope itemtype="https://schema.org/Article">
+	<meta itemprop="inLanguage" content="en-GB" />
+	
+		
+		
+	<div class='at-item-page'>
+								
+					
+												
+				<div class="page-header">
+			<h2 itemprop="name">
+									Direktori Klien Laboratorium Penguji							</h2>
+											</div>
+			
+		
+						<div itemprop="articleBody">
+			<table style="border-collapse: collapse; width: 1583px;" border="2" cellspacing="1" cellpadding="1"><colgroup><col style="mso-width-source: userset; mso-width-alt: 2121; width: 44pt;" width="58" /> <col style="mso-width-source: userset; mso-width-alt: 4973; width: 102pt;" width="136" /> <col style="mso-width-source: userset; mso-width-alt: 10020; width: 206pt;" width="274" /> <col style="mso-width-source: userset; mso-width-alt: 11227; width: 230pt;" width="307" /> <col style="mso-width-source: userset; mso-width-alt: 5449; width: 112pt;" width="149" /> <col style="mso-width-source: userset; mso-width-alt: 7204; width: 148pt;" width="197" /> <col style="mso-width-source: userset; mso-width-alt: 16237; width: 333pt;" width="444" /> <col style="mso-width-source: userset; mso-width-alt: 4900; width: 101pt;" width="134" /> </colgroup>
+<tbody>
+<tr style="height: 83px;">
+<th class="xl68" style="height: 83px; width: 54px; text-align: center;" scope="row">NO.</th>
+<th class="xl68" style="height: 83px; width: 126px; text-align: center;" scope="row">NO. AKREDITASI</th>
+<th class="xl68" style="height: 83px; width: 213px; text-align: center;" scope="row">NAMA LABORATORIUM</th>
+<th class="xl68" style="height: 83px; width: 277px; text-align: center;" scope="row">ALAMAT</th>
+<th class="xl68" style="height: 83px; width: 90px; text-align: center;" scope="row">TELP</th>
+<th class="xl68" style="height: 83px; width: 233.867px; text-align: center;" scope="row">EMAIL  </th>
+<th class="xl68" style="height: 83px; width: 407.133px; text-align: center;" scope="row">LINGKUP </th>
+<th class="xl68" style="height: 83px; width: 126px; text-align: center;" scope="row">MASA BERLAKU AKREDITASI</th>
+</tr>
+<tr style="height: 125px;">
+<td class="xl71" style="height: 125px; width: 54px; text-align: center; vertical-align: top;">1</td>
+<td class="xl71" style="height: 125px; width: 126px; text-align: left; vertical-align: top;">
+<p style="text-align: center;">LP-001-IDN</p>
+<p> </p>
+</td>
+<td class="xl71" style="height: 125px; width: 213px; text-align: left; vertical-align: top;">PT. Mutuagung Lestari</td>
+<td class="xl71" style="height: 125px; width: 277px; text-align: left; vertical-align: top;">Jl. Raya Bogor Km. 33,5 No. 19 Cimanggis, Depok, Jawa Barat</td>
+<td class="xl71" style="height: 125px; width: 90px; vertical-align: top; text-align: center;">(021) 8740202 </td>
+<td class="xl71" style="height: 125px; width: 233.867px; text-align: left; vertical-align: top;">
+<p style="text-align: center;"><span id="cloak1361742fbe1c9dcaa263ce3d65325e32">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak1361742fbe1c9dcaa263ce3d65325e32').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy1361742fbe1c9dcaa263ce3d65325e32 = 'q&#97;' + '&#64;';
+				addy1361742fbe1c9dcaa263ce3d65325e32 = addy1361742fbe1c9dcaa263ce3d65325e32 + 'm&#117;t&#117;c&#101;rt&#105;f&#105;c&#97;t&#105;&#111;n' + '&#46;' + 'c&#111;m';
+				var addy_text1361742fbe1c9dcaa263ce3d65325e32 = 'q&#97;' + '&#64;' + 'm&#117;t&#117;c&#101;rt&#105;f&#105;c&#97;t&#105;&#111;n' + '&#46;' + 'c&#111;m';document.getElementById('cloak1361742fbe1c9dcaa263ce3d65325e32').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy1361742fbe1c9dcaa263ce3d65325e32 + '\'>'+addy_text1361742fbe1c9dcaa263ce3d65325e32+'<\/a>';
+		</script></p>
+</td>
+<td class="xl72" style="width: 407.133px; height: 125px; vertical-align: top;">
+<p>Beras, Produk perikanan (Shrimp, Cat Fish, Milk Fish, Tilapia Mollusca), Pangan Segar Asal Tumbuhan, Buah (buah segar), Sayur, rumput laut, kacang dan bijian-bijian (sayur, rumput laut, kacang dan bijian-bijian segar), Kacang-Kacangan, lada, Kopi Roasted, Serealia &amp; Produk Serealia, Biskuit, Daging dan produk daging, Crde Palm Oil (CPO) dan turunannya, Pupuk Urea, Pupuk Triple Super Fosfat, Pupuk Fosfat Alam untuk Pertanian (Rock Phosphate), Pupuk NPK Padat, Pupuk Dolomit, Pupuk Kalium Klorida (KCl), Pupuk Urea Ammonium Phosphat (UAP), Pupuk Guano, Pupuk Ammonium Sulfat, Pupuk Ammonium Klorida, Pupuk Kalsium Nitrat (CaNO₃), Pupuk Kalium Nitrat (KNO₃), Pupuk Mono Ammonium Phosphate (MAP), Pupuk SP 36, Pupuk Kalium Sulfat , Pupuk Kieserit, Pupuk Kaptan, Pupuk CuSO₄, Pupuk ZnSO₄, Pupuk Organik , Jaringan Tanaman, Tanah, Produk - produk susu dan analognya, Telur dan produk telur, Daging dan produk daging termasuk daging unggas dan daging hewan buruan, Buah dan sayur, rumput laut, biji-bijian (buah segar, buah olahan, sayur, kacang dan biji-bijian segar, sayur, rumput laut, kacang dan biji-bijian olahan), Serealia &amp; produk serealia yang merupakan produk turunan dari biji serelia, akar, &amp; umbi, kacang-kacangan &amp; empulur tidak termasuk produk bakeri dari kategori 07 &amp; kacang dari kategori 04, Ikan dan produk perikanan termasuk molusca, krustasea, dan ekinodermata serta amfibi dan reptil, Minuman tidak termasuk produk susu, Kayu Lapis (Plywood), Veneer Lamina (Laminated Veneer Lumber), Kayu Laminasi (Glued Laminated Timber), Lantai Kayu (Flooring), Papan Partikel (Particle Board), Papan Serat (Fiber Board), Produk kayu, Panel Kayu, Papan Serat (Fiber Board) &amp; Papan Partikel (Particle Board), Panel Kayu, Air untuk keperluan hygiene dan sanitasi, Air Minum, Air Mineral , Air sumur, air danau, air sungai, air muara, air rawa, air rawa besar, air situ, air mata air, air waduk, Air limbah , Air Limbah dari Industri Minyak Sawit, Air laut, Udara ambien, Getaran, Kebisingan, Kebauan, Lingkungan kerja, Emisi sumber tidak bergerak</p>
+<p><a href="https://drive.google.com/file/d/1qEu0rJrrq-iRb8BoS4B2jabbkvn7-w5m/view?usp=sharing">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1Eo8H8Sw-LmIlNYPdQNidDmR0oqME1ssb/view?usp=sharing">LIHAT LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/1Jw6ln7J5Ng2xu9L_xwY0v2GbzYi8Jgir/view?usp=sharing" target="_blank">LIHAT LINGKUP SUPLEMEN</a></p>
+<p><a href="https://drive.google.com/file/d/1cRcHT7CE2fYhcdg6WtZOXdv9yM9-rIkX/view?usp=share_link" target="_blank" title="Suplemen 06 Mar 2023">LIHAT LINGKUP SUPLEMEN 2</a></p>
+</td>
+<td class="xl76" style="width: 126px; height: 125px; text-align: center; vertical-align: top;"><strong>24/04/2026</strong></td>
+</tr>
+<tr style="height: 255px;">
+<td class="xl71" style="height: 255px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">2</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-005-IDN</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">PT PLN (Persero) Pusat Sertifikasi - LMK Lab</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Duren Tiga No. 102, Kalibata, Jakarta Selatan       </td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(021) 7940428</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 233.867px; text-align: left; vertical-align: top;">
+<ol>
+<li style="text-align: center;"><span id="cloakc67f8e53b4c7a6a6bdcbacfee546fd69">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloakc67f8e53b4c7a6a6bdcbacfee546fd69').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyc67f8e53b4c7a6a6bdcbacfee546fd69 = 'c&#117;st&#111;m&#101;rc&#97;r&#101;' + '&#64;';
+				addyc67f8e53b4c7a6a6bdcbacfee546fd69 = addyc67f8e53b4c7a6a6bdcbacfee546fd69 + 'pln-l&#105;tb&#97;ng' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';
+				var addy_textc67f8e53b4c7a6a6bdcbacfee546fd69 = 'c&#117;st&#111;m&#101;rc&#97;r&#101;@pln-l&#105;tb&#97;ng.c&#111;.&#105;d; ';document.getElementById('cloakc67f8e53b4c7a6a6bdcbacfee546fd69').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyc67f8e53b4c7a6a6bdcbacfee546fd69 + '\'>'+addy_textc67f8e53b4c7a6a6bdcbacfee546fd69+'<\/a>';
+		</script></li>
+<li style="text-align: center;"><span id="cloak6c5b6829abf784767e3109b66223d2ac">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak6c5b6829abf784767e3109b66223d2ac').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy6c5b6829abf784767e3109b66223d2ac = 'c&#117;st&#111;m&#101;rc&#97;r&#101;' + '&#64;';
+				addy6c5b6829abf784767e3109b66223d2ac = addy6c5b6829abf784767e3109b66223d2ac + 'pln-l&#105;tb&#97;ng' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';
+				var addy_text6c5b6829abf784767e3109b66223d2ac = 'y&#101;n&#105;.h&#101;ry&#97;n&#105;' + '&#64;' + 'pln' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';document.getElementById('cloak6c5b6829abf784767e3109b66223d2ac').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy6c5b6829abf784767e3109b66223d2ac + '\'>'+addy_text6c5b6829abf784767e3109b66223d2ac+'<\/a>';
+		</script></li>
+</ol>
+</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Vibrasi, minyak insulasi pakai dan baru, Batubara, Tube, KWh meter, pemutus tenaga mini (MCB), kabel berinsulasi PVC dengan tegangan pengenal 450/750 V bag.3: kabel tanpa selubung untuk pemasangan tetap (magun), kabel berinsulasi PVC dengan tegangan pengenal 450/750 V bag.4: kabel berselubung untuk pemasangan tetap (magun), <span class="font5">kabel daya dengan insulasi terekstruksi dengan tegangan pengenal 1 kV s/d 30 kV bag.1: kabel untuk tegangan pengenal 1 kV s/d 3 kV, </span><span class="font5"> kabel pilin udara: NF2X/NFA2X, NF2X-T, isolator, stick isolasi, </span><span class="font5">PHB TR, PHB TM, lengkapan kabel,</span><span class="font5"> trafo distribusi, transformator arus (CT), transformator tegangan (PT), relai jarak, relai diferensial kawat pilot, relai arus lebih, relai tegangan lebih/kurang, relai arah, relai cek sinkron, relai gangguan tanah terbatas (REF), relai penutup balik, relai diferensial trafo tenaga, relai tunda waktu, relai penguat medan hilang, relai thermal overload, transformator tenaga, transformator tegangan (PT), transformator arus (CT),</span><span class="font6"> </span><span class="font5">penangkap petir</span></p>
+<p><a href="https://drive.google.com/open?id=1D1QNkPE_E4KmRGa6QNkr6sJBhor-O6QH" target="_blank">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/open?id=1TL7nVfLE7TqhpmeFfWN91aDO9SSoLPjb" target="_blank">LIHAT LINGKUP</a></p>
+</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>23/04/2024</strong></td>
+</tr>
+<tr style="height: 255px;">
+<td class="xl71" style="height: 255px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">3</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-007-IDN </td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">Balai Besar Standardisasi dan Pelayanan Jasa Industri Bahan dan Barang Teknik</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Sangkuriang No. 14, Bandung, Jawa Barat 40135</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(022) 2504088, 2510682, 2504828</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 233.867px; text-align: left; vertical-align: top;">
+<ol>
+<li style="text-align: center;"><span id="cloak157704f81e411df7f2f0ca37ee1de65c">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak157704f81e411df7f2f0ca37ee1de65c').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy157704f81e411df7f2f0ca37ee1de65c = 'b4t' + '&#64;';
+				addy157704f81e411df7f2f0ca37ee1de65c = addy157704f81e411df7f2f0ca37ee1de65c + 'b4t' + '&#46;' + 'g&#111;' + '&#46;' + '&#105;d';
+				var addy_text157704f81e411df7f2f0ca37ee1de65c = '&#105;nf&#111;' + '&#64;' + 'b4t' + '&#46;' + 'g&#111;' + '&#46;' + '&#105;d';document.getElementById('cloak157704f81e411df7f2f0ca37ee1de65c').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy157704f81e411df7f2f0ca37ee1de65c + '\'>'+addy_text157704f81e411df7f2f0ca37ee1de65c+'<\/a>';
+		</script></li>
+<li style="text-align: center;"><span id="cloakc4534eeaec0115a67f09a1e23b47aec4">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloakc4534eeaec0115a67f09a1e23b47aec4').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyc4534eeaec0115a67f09a1e23b47aec4 = 'b4t' + '&#64;';
+				addyc4534eeaec0115a67f09a1e23b47aec4 = addyc4534eeaec0115a67f09a1e23b47aec4 + 'b4t' + '&#46;' + 'g&#111;' + '&#46;' + '&#105;d';
+				var addy_textc4534eeaec0115a67f09a1e23b47aec4 = 'b4t' + '&#64;' + 'b4t' + '&#46;' + 'g&#111;' + '&#46;' + '&#105;d';document.getElementById('cloakc4534eeaec0115a67f09a1e23b47aec4').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyc4534eeaec0115a67f09a1e23b47aec4 + '\'>'+addy_textc4534eeaec0115a67f09a1e23b47aec4+'<\/a>';
+		</script></li>
+</ol>
+</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p class="MsoNormal" style="text-indent: 0cm;"><span lang="IN">PVC, LPG steel tube, </span><span style="mso-ansi-language: EN-US;" lang="EN-US">pelek</span><span lang="IN">, Cat Tembok Emulsi, Kaca spion kendaraan bermotor roda 2 (Kategori L), Kaca spion kendaraan bermotor roda 4 (Kategori M dan N), Komponen Elektronik, Komponen Listrik, Produk elektronika</span><span style="mso-ansi-language: EN-US;" lang="EN-US"> dan Listrik </span><span lang="IN">, Air limbah, </span><span style="mso-ansi-language: EN-US;" lang="EN-US">Air untuk keperluan hygiene dan sanitasi</span><span lang="IN">,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Stainless Steel, BJLS/pipa/ lembaran /roll/ baut dan mur / baja tuangan dan tempaan, Baja karbon, Besi cor, plastic/polimer, deterjen</span><span style="mso-ansi-language: EN-US;" lang="EN-US">, Serbuk Beton, </span><span lang="IN">Minyak lumas motor bensin 4 langkah </span><span style="mso-ansi-language: EN-US;" lang="EN-US">kendaraan ber</span><span lang="IN">motor,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Minyak lumas motor bensin 4 langkah sepeda motor,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Minyak lumas motor bensin 2 langkah dengan pendingin udara, Minyak lumas motor bensin 2 langkah dengan pendingin air, Minyak lumas motor diesel putaran tinggi, Minyak lumas roda gigi transmisi manual dan gardan, Minyak lumas roda gigi transmisi otomatis, Minyak lumas hidrolik industri jenis anti aus, Minyak Lumas roda gigi industri tertutup,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">minyak lumas motor diesel putaran sedang, minyak lumas diesel putaran rendah, minyak lumas motor gas stasioner, minyak lumas turbin, minyak lumas kompresor udara, minyak lumas sirkulasi,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Minyak rem (brake fluid) untuk kendaraan bermotor,</span><span style="mso-ansi-language: EN-US;" lang="EN-US"> semen, Bahan Baku Semen (CaCO3), </span><span lang="IN">Semen Portland Tipe I-V, Semen Portland Komposit, Semen Portland Pozolan, Semen Portland Campur, Semen Portland Putih, Semen Portland Slag,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Semen Pemboran,</span><span style="mso-ansi-language: EN-US;" lang="EN-US"> semen mansory, Abu terbang dan pozzolan lainnya, slag abrasive, Semen Hidraulis, </span><span lang="IN">Ban Sepeda Motor, Ban Mobil Penumpang, Ban truk ringan, Ban truk dan bus,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Pelek kendaraan bermotor roda dua (kategori L) Baja, Pelek kendaraan bermotor roda dua (kategori L) Logam Paduan Ringan,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Pelek kendaraan bermotor roda 4 (kategori M, N, dan O), Kampas rem kendaraan bermotor, Kaca Spion Kendaraan Bermotor Roda Dua (Kategori L),</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Kaca Spion Kendaraan Bermotor Roda Empat (Kategori M dan N), Pipa Baja (Kampuh) Spiral,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">paduan besi dan baja austenit,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Line pipe API 5L (pipa penyalur), Pipa baja dengan atau tanpa lapis seng untuk saluran air,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Pipa dan pelat las, Baja lembaran lapis seng (BJLS), Baja lembaran, pelat dan gulungan canai panas untuk tabung gas (Bj TG), Baja lembaran dan gulungan canai dingin (BjD),</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Baja tulangan beton dalam bentuk gulungan, Baja lembaran pelat dan gulungan canai panas (BjP), Baja lembaran dan gulungan lapis paduan aluminium dan seng (BjLAS), Baja tulangan beton,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Baja profil I-Beam proses canai panas (Bj.P I-Beam), Baja profil kanal U proses canai panas (BjP kanal U), Baja profil siku sama kaki proses canai panas (BjP siku sama kaki), Baja profil WF Beam proses canai panas (BjP WF Beam), Baja tulangan beton hasil canai panas ulang, Tali kawat baja,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Tali kawat baja untuk industri minyak dan gas bumi, Penyambung pipa berulir dari besi cor maleable hitam, Baja profil – H</span><span style="mso-ansi-language: EN-US;" lang="EN-US">, </span><span lang="IN">CNG Cylinder, Kawat baja tanpa lapisan dipilin untuk konstruksi beton pratekan (PC Strand/KBjP-P7), Kawat baja tanpa lapisan untuk konstruksi beton pratekan (PC  wire/KBjP),</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">pengelasan dengan filler untuk konstruksi umum, Kawat baja kuens (quench) untuk konstruksi beton pratekan (PC bar/KBjP-Q), Baja tahan karat (Stainless Steel) canai dingin bentuk lembaran dan gulungan, Pipa baja karbon untuk konstruksi umum,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Baja batangan untuk keperluan umum (Bj KU),</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Logam dan paduan,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Pasir,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">paving blok</span><span style="mso-ansi-language: EN-US;" lang="EN-US">, </span><span lang="IN">Silinder Beton, Kubus Beton, Kubus Beton, Agregat Halus, Agregat Kasar,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Karet perapat (rubber seal) pada katup tabung LPG, Kursi baja untuk kantor, Kursi lipat kerangka baja, Tangki air, Regulator tekanan rendah untuk tabung baja LPG, Katup tabung baja LPG,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Kompor gas bahan bakar LPG satu</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">tungku dengan sistem pemantik</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">mekanik,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Helm pengendara kendaraan bermotor roda dua, Pipa PVC untuk saluran air minum , Geotextile, Ban dalam kendaraan , Helm Industri, Vulkanisat karet kompon bantalan dermaga, Selang plastik elastomer untuk kompor gas LPG, Tangki Air Silinder Vertikal PE,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Selang karet untuk kompor gas LPG, Kompor gas tekanan rendah jenis dua dan tiga tungku dengan sistem pemantik, Lampu swa-balast untuk pelayanan pencahayaan umum Persyaratan keselamatan, Lampu swa-balast untuk pelayanan pencahayaan umum Persyaratan unjuk kerja, Baterai Primer,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Aki untuk kendaraan bermotor roda  empat atau lebih , Aki untuk kendaraan bermotor kategori L, Baterai Sepeda Motor, Lead-Acid Starter Battery, Lampu LED swa-balast untuk pelayanan pencahayaan umum - Persyaratan kinerja, Lampu LED Swa-Balast untuk Layanan Pencahayaan Umum dengan Tegangan &gt; 50 V - Spesifikasi Keselamatan, Pengisi Baterai, Setrika Listrik, Pompa Listrik,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Pompa kalor listrik, pengkondisi udara dan pengering udara, Audio video, Peralatan pendingin, peralatan es krim dan pembuat es,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Mesin cuci</span><span style="mso-ansi-language: EN-US;" lang="EN-US">, </span><span lang="IN">Household Appliances/ Peralatan listrik Rumah Tangga (Mesin cuci, Peralatan pendingin, peralatan es krim dan pembuat es), Audio video (TV, DVD player, audio amplifier, radio, set top box), Information Technology Equipment / ITE (Monitor, Notebook, PC, printer, scanner), Lampu/Luminaire,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Mainan Elektrik, Peralatan Pemanas Cairan,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Peralatan Dapur, Kipas Angin, Alat cukur, alat pangkas rambut dan peranti sejenis,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Peranti perawatan kulit dan rambut, Multimedia Equipment (Smart TV), Medical Equipment (Operation Table), Pemanggang kontak, pemanggang roti, pemasak portabel, Peralatan teknologi informasi, penanak nasi, multimedia equipment – immunity requirement, pembersih vakum, pembersih sedot vakum, oven gelombang mikro, pengekstraksi putar,</span><span style="mso-ansi-language: EN-US;" lang="EN-US"> Multimedia Equipment – Emission Requirement, Pemanas Air Celup/ Pemanas rendam Portabel, </span><span lang="IN">peranti pijar listrik, bor listrik, gerinda listrik, mesin serut, gergaji listrik, moped dan sepeda motor berpenggerak listrik – uji keselamatan,</span><span style="mso-ansi-language: EN-US;" lang="EN-US"> televisi, setrika, Persyaratan khusus untuk peralatan pendingin komersial dengan unit refrigerant atau kompresor tergabung atau terpisah, Low Power Devices, Bluetooth 2,4 GHz Devices, WLAN 2,4 GHz Devices, WLAN 5,8 GHz Devices, Pesawat Telepon seluler LTE, Pesawat telepon seluler GSM, Bank Daya(p</span><span lang="IN">ower bank</span><span style="mso-ansi-language: EN-US;" lang="EN-US">) ion</span><span lang="IN"> lithium</span><span style="mso-ansi-language: EN-US;" lang="EN-US"></span></p>
+<p><a href="https://drive.google.com/file/d/1VEKLqYlFfFHXR6gsSdX2zysl6yj2JmhN/view?usp=sharing" target="_blank">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1hqHOxCeeEiNe58Y6kmZjzCPz-b3lUYoY/view?usp=sharing" target="_blank">LIHAT LINGKUP</a></p>
+</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>28/08/2027</strong></td>
+</tr>
+<tr style="height: 123px;">
+<td class="xl71" style="height: 123px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">4</td>
+<td class="xl71" style="height: 123px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-010-IDN</td>
+<td class="xl71" style="height: 123px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">Balai Besar Pengujian Minyak dan Gas Bumi LEMIGAS – Laboratorium Proses</td>
+<td class="xl71" style="height: 123px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Ciledug Raya, Cipulir, Kebayoran Lama Jakarta Selatan, DKI Jakarta</td>
+<td class="xl71" style="height: 123px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(021) 74394422</td>
+<td class="xl71" style="height: 123px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloak758078c4b6ca0ce01498db61b134fc50">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak758078c4b6ca0ce01498db61b134fc50').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy758078c4b6ca0ce01498db61b134fc50 = 'h&#101;rl&#105;n&#97;' + '&#64;';
+				addy758078c4b6ca0ce01498db61b134fc50 = addy758078c4b6ca0ce01498db61b134fc50 + 'l&#101;m&#105;g&#97;s' + '&#46;' + '&#101;sdm' + '&#46;' + 'g&#111;' + '&#46;' + '&#105;d';
+				var addy_text758078c4b6ca0ce01498db61b134fc50 = 'h&#101;rl&#105;n&#97;@l&#101;m&#105;g&#97;s.&#101;sdm.g&#111;.&#105;d; m&#101;l&#105;s&#117;ry&#97;n&#105;@l&#101;m&#105;g&#97;s.&#101;sdm.g&#111;.&#105;d';document.getElementById('cloak758078c4b6ca0ce01498db61b134fc50').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy758078c4b6ca0ce01498db61b134fc50 + '\'>'+addy_text758078c4b6ca0ce01498db61b134fc50+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 123px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Aviation Gasoline, Bensin (Gasoline), Kerosin, Solar (Diesel Fuel), Biosolar, Minyak Bakar, Minyak Lumas, Minyak Bumi, Air Buangan/Air Formasi/Air Produksi, Lumpur Pemboran, Sedimen, Tanah, Surfaktan/Dispersan, Air Minum, Larutan Kimia, Biodiesel B-100, Bioetanol, Aviation Turbine Fuel  (AVTUR)</p>
+<p><a href="https://drive.google.com/file/d/1xBjJ5iydrX2DaDlB_sc5bRKjN7xFLUEW/view?usp=sharing" target="_blank">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1VKaQW_-cHA-uEohuvR7JG8yiX9h-ORuB/view?usp=sharing" target="_blank">LIHAT LINGKUP</a></p>
+</td>
+<td class="xl71" style="height: 123px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>02/07/2026</strong></td>
+</tr>
+<tr style="height: 255px;">
+<td class="xl71" style="height: 255px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">5</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-011-IDN</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">Laboratorium Unit Pengelola Penilaian Kesesuaian Bahan dan Barang Teknik </td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Letjen Suprapto Kav 3, Cempaka Putih, Jakarta Pusat</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;"> (021) 4209179</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;">
+<p><span id="cloakdc414b3c6ef8742d594d9105f09aef49">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloakdc414b3c6ef8742d594d9105f09aef49').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addydc414b3c6ef8742d594d9105f09aef49 = 'm&#117;t&#117;.b&#97;h&#97;n' + '&#64;';
+				addydc414b3c6ef8742d594d9105f09aef49 = addydc414b3c6ef8742d594d9105f09aef49 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+				var addy_textdc414b3c6ef8742d594d9105f09aef49 = 'm&#117;t&#117;.b&#97;h&#97;n' + '&#64;' + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';document.getElementById('cloakdc414b3c6ef8742d594d9105f09aef49').innerHTML += '<a ' + path + '\'' + prefix + ':' + addydc414b3c6ef8742d594d9105f09aef49 + '\'>'+addy_textdc414b3c6ef8742d594d9105f09aef49+'<\/a>';
+		</script></p>
+<p><span id="cloak79e167e3d747d0afaf68c32b09ce699d">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak79e167e3d747d0afaf68c32b09ce699d').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy79e167e3d747d0afaf68c32b09ce699d = 'd&#105;n&#97;s&#105;nd&#101;rg&#105;.b&#97;h&#97;n' + '&#64;';
+				addy79e167e3d747d0afaf68c32b09ce699d = addy79e167e3d747d0afaf68c32b09ce699d + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+				var addy_text79e167e3d747d0afaf68c32b09ce699d = 'd&#105;n&#97;s&#105;nd&#101;rg&#105;.b&#97;h&#97;n' + '&#64;' + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';document.getElementById('cloak79e167e3d747d0afaf68c32b09ce699d').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy79e167e3d747d0afaf68c32b09ce699d + '\'>'+addy_text79e167e3d747d0afaf68c32b09ce699d+'<\/a>';
+		</script></p>
+</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p class="MsoNormal">baja tulangan, jaringan kawat baja las untuk tulangan beton dari kawat baja, baja lembaran lapis seng, pipa baja saluran air dengan atau tanpa lapisan seng, pipa baja konstruksi umum, material logam, baja batangan untuk keperluan umum (BjKU), baja lembaran, pelat dan gulungan canai panas (BjP), baja lembaran dan gulungan canai dingin (BjD), baja lembaran dan gulungan lapis paduan aluminium-seng (BjLAS), baja profil WF-beam proses canai panas (BjPWF-beam), baja profil kanal U canai panas (BjP kanal U), baja profil I-beam proses canai panas (BJ P I-beam),  baja profil siku sama kaki proses canai panas (Bj siku sama kaki), baja profil H (Bj PH-beam), kawat baja kuens (quench) temper untuk konstruksi beton pratekan (PC-Bar/KBjP-Q), tujuh kawat baja tanpa lapisan dipilin untuk konstruksi beton pratekan (PC strand/KBjP-P7), kawat baja tanpa lapisan konstruksi beton pra tekan (PC Wire/KBjP), kawat baja tanpa lapisan untuk konstruksi beton, penyambung pipa berulir besi cor malleable hitam, berojong kawat, kawat brojong dan brojong berlapis PVC, kawat baja karbon rendah, batang kawat baja karbon rendah, billet baja tuang kontinyu untuk baja tulangan beton dan baja profit ringan, silinder beton, lembaran semen rata, lembaran semen gelombang simetris, genteng beton, genteng keramik berglazur, bata beton (paving block), kloset duduk, keramik berglasir-tableware-alat makan dan minum, ubin keramik, pipa PVC untuk saluran air minum, pipa PVC untuk saluran air buangan didalam dan diluar bangunan, sambungan pipa PVC untuk saluran air minum, system perpipaan plastik – pipa polietilena (PE) dan fitting untuk system penyediaan air minum – bagian 1: umum, system perpipaan plastik – pipa polietilena (PE) dan fitting untuk system penyediaan air minum – bagian 2 pipa, cat tembok emulsi, sistem perpipaan plastik untuk penyaluran bahan bakar gas – polietilena (PE) – bagian 2: pipa, sistem perpipaan plastik untuk instalasi air panas dan dingin – polipropilena (PP) – bagian 2: pipa, profil rangka baja ringan, pipa baja untuk pancang, Sistem perpipaan plastik Pipa Polietilena (PE) dan Fiting untuk sistem penyediaan air minum Bagian 3: Fiting, Blok Beton Ringan Bergelembung Udara (Aerated) dengan proses Otoklaf, Beton aerasi autoklaf, Bata ringan untuk pasangan dinding, Papan semen rata non asbestos, Lembaran Rata Kalsium Silikat, Baja lembaran, pelat, dan gulungan canai panas untuk<br />aplikasi struktur umum dan struktur las (Bj PS), Baja lembaran, pelat, dan gulungan canai panas lunak (Bj PL), Baja lembaran lapis seng warna (Bj LS Warna), Baja lembaran dan gulungan lapis paduan aluminiumseng dan lapis paduan aluminium-magnesium lapis cat warna (Bj LS Warna) (Bj LAS Warna Bj LAM Kawat bronjong dan bronjong berlapis PVC (Polivinil chlorida), Galvanisasi celup panas (hot dip galvanized ) pada produk besi dan baja), Pipa baja untuk perancah, Material logam, Baja lembaran dan gulungan canai dingin (Bj D)</p>
+<p><a href="https://drive.google.com/file/d/1G1m9T4GLVsffKpi0JBJ_HZtcvMpSi0BU/view?usp=sharing" target="_blank">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/open?id=1ON_3_6hMx33eh3DnzTHBYnlsGj3B44pC" target="_blank">LIHAT LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/1dcQNDh7mbaFu4IYEYmTgGzJ7QgVX25VY/view?usp=share_link" target="_blank">LIHAT LINGKUP SUPLEMEN</a></p>
+</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>01/09/2024</strong></td>
+</tr>
+<tr style="height: 61px;">
+<td class="xl71" style="height: 61px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">6</td>
+<td class="xl71" style="height: 61px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-012-IDN</td>
+<td class="xl71" style="height: 61px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">UPTD Balai Pengujian dan Sertifikasi Mutu Barang Provinsi Sumatera Barat</td>
+<td class="xl71" style="height: 61px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Belibis No. 3, Air Tawar, Padang, Sumatera Barat</td>
+<td class="xl71" style="height: 61px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(0751) 7054202</td>
+<td class="xl71" style="height: 61px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloakdabff3c05bbaa0eef170514dc16fff78">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloakdabff3c05bbaa0eef170514dc16fff78').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addydabff3c05bbaa0eef170514dc16fff78 = 'bpmb.p&#97;d&#97;ng' + '&#64;';
+				addydabff3c05bbaa0eef170514dc16fff78 = addydabff3c05bbaa0eef170514dc16fff78 + 'y&#97;h&#111;&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';
+				var addy_textdabff3c05bbaa0eef170514dc16fff78 = 'bpmb.p&#97;d&#97;ng' + '&#64;' + 'y&#97;h&#111;&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';document.getElementById('cloakdabff3c05bbaa0eef170514dc16fff78').innerHTML += '<a ' + path + '\'' + prefix + ':' + addydabff3c05bbaa0eef170514dc16fff78 + '\'>'+addy_textdabff3c05bbaa0eef170514dc16fff78+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 61px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Minyak pala, cassia Indonesia, karet SIR, biji kopi</p>
+<p><a href="https://drive.google.com/open?id=1lwAYpAwiG-D2AYY1u4knpeoV-T198rOW" title="Sert LP 012" target="_blank">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/open?id=1z4fmDpq_r-Dp_OfjH71CJ1aZM1eGAGMS" target="_blank">LIHAT LINGKUP</a></p>
+</td>
+<td class="xl71" style="height: 61px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><b>19/03/2024</b></td>
+</tr>
+<tr style="height: 142px;">
+<td class="xl71" style="height: 142px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">7</td>
+<td class="xl71" style="height: 142px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-013-IDN</td>
+<td class="xl71" style="height: 142px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">PT. Mutuagung Lestari Samarinda</td>
+<td class="xl71" style="height: 142px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Teuku Umar No. 18, Sungai Kunjang, Samarinda, Kalimantan Timur</td>
+<td class="xl71" style="height: 142px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(0541) 272600     </td>
+<td class="xl71" style="height: 142px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloak41616726004455260d3f8729a93adc76">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak41616726004455260d3f8729a93adc76').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy41616726004455260d3f8729a93adc76 = 'q&#97;' + '&#64;';
+				addy41616726004455260d3f8729a93adc76 = addy41616726004455260d3f8729a93adc76 + 'm&#117;t&#117;c&#101;rt&#105;f&#105;c&#97;t&#105;&#111;n' + '&#46;' + 'c&#111;m';
+				var addy_text41616726004455260d3f8729a93adc76 = 'q&#97;m&#117;t&#117;&#101;n&#101;rgy' + '&#64;' + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';document.getElementById('cloak41616726004455260d3f8729a93adc76').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy41616726004455260d3f8729a93adc76 + '\'>'+addy_text41616726004455260d3f8729a93adc76+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 142px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>kayu lapis struktural/structural plywood, kayu lapis penggunaan umum/general use), Venir lamina (Laminated Veneer Lumber/LVL)<br />, air bersih, air limbah, udara ambien, air minum, badan air penerima, kebauan, Emisi Sumber Tidak Bergerak, Lingkungan Kerja, kebisingan lingkungan</p>
+<p><a href="https://drive.google.com/open?id=1s4oYtrFuTAe-Wa2Ds1UjM2xn5VLCNUcz" title="Sert LP 013" target="_blank">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1k4diE41a8LkwUa0tbOtziKmLNOjuNNy2/view?usp=sharing" target="_blank">LIHAT LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/1aVi2NTANJm-1_c7FUuA2YkcmmgIKf9_L/view?usp=share_link" target="_blank" title="suplemen">LIHAT LINGKUP SUPLEMEN</a></p>
+</td>
+<td class="xl71" style="height: 142px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>19/03/2024</strong></td>
+</tr>
+<tr style="height: 76px;">
+<td class="xl71" style="height: 76px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">8</td>
+<td class="xl71" style="height: 76px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-014-IDN</td>
+<td class="xl71" style="height: 76px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">Balai Pengujian dan Sertifikasi Mutu Barang Provinsi Kalimantan Selatan</td>
+<td class="xl71" style="height: 76px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Panglima Batur Banjarbaru, Kalimantan Selatan</td>
+<td class="xl71" style="height: 76px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(0511) 4772237</td>
+<td class="xl71" style="height: 76px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloak52f5d20d8e43521754a88e5097366870">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak52f5d20d8e43521754a88e5097366870').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy52f5d20d8e43521754a88e5097366870 = 'bpsmpr&#111;vk&#97;ls&#101;l' + '&#64;';
+				addy52f5d20d8e43521754a88e5097366870 = addy52f5d20d8e43521754a88e5097366870 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+				var addy_text52f5d20d8e43521754a88e5097366870 = 'bpsmpr&#111;vk&#97;ls&#101;l' + '&#64;' + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';document.getElementById('cloak52f5d20d8e43521754a88e5097366870').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy52f5d20d8e43521754a88e5097366870 + '\'>'+addy_text52f5d20d8e43521754a88e5097366870+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 76px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Karet spesifikasi teknis/Standard Indonesia Rubber (SIR), karet konvensional, plastik, beras</p>
+<p><a href="https://drive.google.com/open?id=1Ls6WfS_lIlrf17VzN_W4Lu7fnr_tGZ3O" target="_blank">DOWNLOAD SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/open?id=1lHTkbIMOholJzCz-feu8AXkNvZUFLT1R" target="_blank" title="LP-014-IDN_18Mar20">DOWNLOAD LINGKUP</a></p>
+</td>
+<td class="xl71" style="height: 76px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>23/08/2025</strong></td>
+</tr>
+<tr style="height: 112px;">
+<td class="xl71" style="height: 112px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">9</td>
+<td class="xl71" style="height: 112px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-018-IDN</td>
+<td class="xl71" style="height: 112px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">Pusat Produksi, Inspeksi &amp; Sertifikasi Hasil Perikanan Provinsi DKI Jakarta</td>
+<td class="xl71" style="height: 112px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Lokasi 1: Jl. Pluit Permai No. 1, Pluit - Penjaringan - Jakarta Utara<br /> Lokasi 2: Jl. R.M Kahfi I No. 1, Kel. Cipedak, Kec. Jagakarsa - Jakarta Selatan</td>
+<td class="xl71" style="height: 112px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(021) 78885839/6684224</td>
+<td class="xl71" style="height: 112px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloak2dade9fa71197accb13171957d2efa36">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak2dade9fa71197accb13171957d2efa36').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy2dade9fa71197accb13171957d2efa36 = 'l&#97;bm&#117;t&#117;_dk&#105;' + '&#64;';
+				addy2dade9fa71197accb13171957d2efa36 = addy2dade9fa71197accb13171957d2efa36 + 'y&#97;h&#111;&#111;' + '&#46;' + 'c&#111;m';
+				var addy_text2dade9fa71197accb13171957d2efa36 = 'l&#97;bm&#117;t&#117;_dk&#105;' + '&#64;' + 'y&#97;h&#111;&#111;' + '&#46;' + 'c&#111;m';document.getElementById('cloak2dade9fa71197accb13171957d2efa36').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy2dade9fa71197accb13171957d2efa36 + '\'>'+addy_text2dade9fa71197accb13171957d2efa36+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 112px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>udang, lobster, paha kodok, ikan, ubur-ubur, Tepung ikan, kepiting, rajungan, Kekerangan, Kerupuk produk perikanan, ikan kering/asin,Rumput laut, Tuna dalam kemasan kaleng, sarden dan makerel dalam kemasan kaleng, Bakso Ikan, Siomay Ikan, otak-otak ikan, kaki naga ikan, sosis ikan, Pempek ikan, naget ikan, Ikan pindang, Produk perikanan lainnya, Air minum, Marlin, tuna, tengiri, tongkol, cakalang, layang, Ikan segar, produk ikan kering (teri nasi kering, ebi, ikan asin), Produk olahan Ikan beku, Produk Udang Beku, Produk Perikanan Beku, Ikan Budidaya (nila &amp; lele), Air kolam ikan, Ikan air laut segar, Ikan beku, Produk ikan kering</p>
+<p><a href="https://drive.google.com/file/d/1ApnBrHxzyUSYja5ZsfUtcMvcfELJ-chm/view?usp=sharing">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1g5KozTm964JcNKSAlNlx4dvTrG7e8G3W/view?usp=sharing">LIHAT LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/1hlf-2pMnXOheCvpLg8ESC_swfc9HWaxn/view?usp=share_link" target="_blank" title="suplemen 24okt2022">LIHAT LINGKUP SUPLEMEN</a></p>
+</td>
+<td class="xl71" style="height: 112px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>15/02/2026</strong></td>
+</tr>
+<tr style="height: 247px;">
+<td class="xl71" style="height: 247px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">10</td>
+<td class="xl71" style="height: 247px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-021-IDN</td>
+<td class="xl71" style="height: 247px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">Balai Besar Standardisasi dan Pelayanan Jasa Industri Logam dan Mesin</td>
+<td class="xl71" style="height: 247px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Sangkuriang No. 12, Bandung, Jawa Barat</td>
+<td class="xl71" style="height: 247px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(022) 2503171</td>
+<td class="xl71" style="height: 247px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloak3c21da5d633f2beee23f9c46f89ec7fb">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak3c21da5d633f2beee23f9c46f89ec7fb').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy3c21da5d633f2beee23f9c46f89ec7fb = 'm&#117;s2606' + '&#64;';
+				addy3c21da5d633f2beee23f9c46f89ec7fb = addy3c21da5d633f2beee23f9c46f89ec7fb + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+				var addy_text3c21da5d633f2beee23f9c46f89ec7fb = 'm&#117;s2606' + '&#64;' + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';document.getElementById('cloak3c21da5d633f2beee23f9c46f89ec7fb').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy3c21da5d633f2beee23f9c46f89ec7fb + '\'>'+addy_text3c21da5d633f2beee23f9c46f89ec7fb+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 247px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Logam dan Paduannya, Produk Logam  (Baja), Produk Logam / Produk Pengelasan , Baja tulangan Beton, Baja Tulangan Beton Hasil Canai Panas Ulang, Baja Siku Sama Kaki Bertepi Bulat Canai Panas hasil Reroling, Mutu dan cara uji, Keran Air Rumah Tangga Jenis Katup Pintu, Tabung Baja LPG, Regulator Tekanan Rendah untuk Tabung Baja LPG, Regulator Tekanan Tinggi untuk tabung baja LPG , Katup Tabung Baja LPG, Katup Tabung LPG, katup tabung  LPG tipe koneksi ulir, Baja Tulangan Beton dalam bentuk Gulungan, Sepeda, Garpu Tarik (Cangkrang), Belincong, Garpu Tanah, Gergaji Kayu Tangan, Parang, Sekop, Cangkul, Linggis, Kored, Sabit / Arit, Sabit Bergerigi, Kampak, Baja Karbon dan Paduan Rendah, Besi Cor, Baja Tahan Karat, Paduan Nikel(Ni hard), Baja Karbon, Baja Tahan Karat, Paduan Tinggi, Carbon &amp; Low Alloy Steel, Cr-Ni Steel ( Stainless Steel ), Low Alloy Cast Iron, Aluminium Alloys, Universal Copper , Brasses ( Kuningan ), Silicon Bronzes, Baja Profil Siku Sama  Kaki Proses Canai Panas  (Bj P Siku Sama Kaki), Batang Kawat Baja Karbon Rendah, Selang Karet untuk Kompor Gas LPG, Selang Termoplastik  untuk kompor gas LPG, Kompor Gas Bahan Bakar LPG satu tungku dengan sistem pemantik, Kompor  Gas Tekanan Rendah Jenis Dua dan Tiga Tungku Dengan Sistem Pemantik, Baja Lembaran Lapis Seng, Baja Profil H (Bj P H-Beam), Baja Profil Kanal U Proses Canai panas  (Bj-P Kanal U), Bj-P I Beam, Baja Profil WF - Beam proses canai panas, Baja Beton Pratekan Bag.3: Kawat (Quench and Temper), Kawat baja quens (quench) temper untuk konstruksi beton pratekan (PC bar /KBjP-Q), Kawat Baja Tanpa Lapisan Untuk Beton pratekan (PC wire/KBjP), Tujuh Kawat Baja Tanpa Lapisan dipilin untuk Konstruksi Beton Pratekan(PC strand / KBjP-P7), Penyambung Pipa Berulir Cor Maleable Hitam, Baja Lembaran , pelat dan  gulungan canai  panas (Bj P), Meter Air Minum, Baja Lembaran dan gulungan canai dingin (Bj D), Baja lembaran dan gulungan  lapis paduan aluminium  seng (Bj.L AS), Pipa baja saluran air dengan atau tanpa lapis seng, Sepatu Rem Besi Cor Kelabu untuk Kereta Api, Paku Baja, Katup pintu kuningan berulir 1,0 Mpa dan 1,5 Mpa ( 10 kgf/cm2 dan 15 kgf/cm2), Katup pintu kuningan berulir 125, 150, dan 200 untuk air, minyak, dan gas</p>
+<p><a href="https://drive.google.com/file/d/1oM-Q9ZfE6W1MPOaUg_xMvmgh3hq35YFC/view?usp=sharing" target="_blank">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1GVlm7Mki2uKJ9Kj9POV-ePDFkU93pGyY/view?usp=sharing">LIHAT LINGKUP</a></p>
+<p>LIHAT LINGKUP 2</p>
+</td>
+<td class="xl71" style="height: 247px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>05/10/2026</strong></td>
+</tr>
+<tr style="height: 138px;">
+<td class="xl71" style="height: 138px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">11</td>
+<td class="xl71" style="height: 138px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-022-IDN</td>
+<td class="xl71" style="height: 138px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">Balai Besar Standardisasi dan Pelayanan Jasa Industri Kulit, Karet dan Plastik</td>
+<td class="xl71" style="height: 138px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Sokonandi No. 9, Yogyakarta</td>
+<td class="xl71" style="height: 138px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(0274) 512929; 563655</td>
+<td class="xl71" style="height: 138px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloak46ea485e252ba8605391add570cb243d">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak46ea485e252ba8605391add570cb243d').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy46ea485e252ba8605391add570cb243d = 'l&#117;kk&#97;lbbkkp' + '&#64;';
+				addy46ea485e252ba8605391add570cb243d = addy46ea485e252ba8605391add570cb243d + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+				var addy_text46ea485e252ba8605391add570cb243d = 'l&#117;kk&#97;lbbkkp' + '&#64;' + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';document.getElementById('cloak46ea485e252ba8605391add570cb243d').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy46ea485e252ba8605391add570cb243d + '\'>'+addy_text46ea485e252ba8605391add570cb243d+'<\/a>';
+		</script>; <span id="cloak02ef3c5b8dd824c31eb132233cd9db5d">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak02ef3c5b8dd824c31eb132233cd9db5d').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy02ef3c5b8dd824c31eb132233cd9db5d = 'bbkkp_j&#111;gj&#97;' + '&#64;';
+				addy02ef3c5b8dd824c31eb132233cd9db5d = addy02ef3c5b8dd824c31eb132233cd9db5d + 'k&#101;m&#101;np&#101;r&#105;n' + '&#46;' + 'g&#111;' + '&#46;' + '&#105;d';
+				var addy_text02ef3c5b8dd824c31eb132233cd9db5d = 'bbkkp_j&#111;gj&#97;' + '&#64;' + 'k&#101;m&#101;np&#101;r&#105;n' + '&#46;' + 'g&#111;' + '&#46;' + '&#105;d';document.getElementById('cloak02ef3c5b8dd824c31eb132233cd9db5d').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy02ef3c5b8dd824c31eb132233cd9db5d + '\'>'+addy_text02ef3c5b8dd824c31eb132233cd9db5d+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 138px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Kulit, Karet, Ban dalam kendaraan bermotor, Ban mobil penumpang, Ban sepeda motor, Ban truk dan bus, Ban truk ringan, Rol karet pengupas gabah, Sol karet cetak, Karet Bantalan Dermaga, Sepatu pengaman, Karung tenun polipropilena (PP) untuk bahan pangan curah, Sepatu bot PVC, Sepatu bot PU, Sepatu Kulit Sistem Lem (Bagian 1: Wanita), Sepatu Kulit sistem Lem (Bagian 2 : Pria), Air Hyginie sanitasi, Air Sungai, Air sumur dan air danau, Air limbah, SIR, RSS</p>
+<p><a href="https://drive.google.com/file/d/13pD5Zz36plOnIC0H8qZLLB5O85xra2P-/view?usp=share_link" target="_blank">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1z5Sb4JktIhsZgXpzpOtnQfWQ5rWqia2P/view?usp=sharing" title="2020">LIHAT LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/1peHg-SyydIwdc9RwJx5HVC57Cy--rqtN/view?usp=share_link" target="_blank" title="suplemen 28nov2022">LIHAT LINGKUP SUPLEMEN</a></p>
+</td>
+<td class="xl71" style="height: 138px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>20/09/2025</strong></td>
+</tr>
+<tr style="height: 80px;">
+<td class="xl71" style="height: 80px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">12</td>
+<td class="xl71" style="height: 80px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-023-IDN</td>
+<td class="xl71" style="height: 80px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">Unit Pengelola Pengujian dan Inspeksi, Sertifikasi Produk Perindustrian, Perdagangan, Koperasi Usaha Kecil dan Menengah DKI Jakarta</td>
+<td class="xl71" style="height: 80px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Let. Jend Soeprapto, Kav. 3, Cempaka Putih, Jakarta Pusat, DKI Jakarta</td>
+<td class="xl71" style="height: 80px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(021) 4244835</td>
+<td class="xl71" style="height: 80px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloakdd22a025a08653458cc14170bfec7c30">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloakdd22a025a08653458cc14170bfec7c30').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addydd22a025a08653458cc14170bfec7c30 = 'd&#105;n&#97;s&#105;nd&#101;rg&#105;.t&#101;kst&#105;l' + '&#64;';
+				addydd22a025a08653458cc14170bfec7c30 = addydd22a025a08653458cc14170bfec7c30 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+				var addy_textdd22a025a08653458cc14170bfec7c30 = '&#117;&#105;kt.dk&#105;j&#97;k&#97;rt&#97;' + '&#64;' + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';document.getElementById('cloakdd22a025a08653458cc14170bfec7c30').innerHTML += '<a ' + path + '\'' + prefix + ':' + addydd22a025a08653458cc14170bfec7c30 + '\'>'+addy_textdd22a025a08653458cc14170bfec7c30+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 80px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Benang, kain, tekstil dan produk tekstil, kulit, sepatu wanita, sepatu pria, kulit imitasi, sol luar (karet), karton kulit (leather board), sepatu olahraga, Alat Pelindung Diri - Sepatu Pengaman (Bahan Kulit)</p>
+<p><a href="https://drive.google.com/file/d/1XDyq1QSL72lmqQN8MklP-qMDSNLDrVQv/view?usp=sharing">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1TAAaQf87lWW0ir5aOqyIwyAGTegAqhug/view?usp=sharing">LIHAT LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/1IgzHJkrzWK8QAhYfrZJ0lsch6VFNsDKG/view?usp=share_link" target="_blank" title="Suplemen 06 Maret 2023">LIHAT LINGKUP SUPLEMEN</a></p>
+</td>
+<td class="xl71" style="height: 80px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>22/08/2026</strong></td>
+</tr>
+<tr style="height: 255px;">
+<td class="xl71" style="height: 255px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">13</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-024-IDN</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">PT Sucofindo (Persero) SBU Laboratory</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Arteri Tol Cibitung No. 1, Cikarang Barat, Kab. Bekasi, Jawa Barat</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;"> (021) 88321176 </td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloak5c6c6f84afb4fdab757b0b4eb61f074c">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak5c6c6f84afb4fdab757b0b4eb61f074c').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy5c6c6f84afb4fdab757b0b4eb61f074c = 'r&#111;l&#105;&#97;' + '&#64;';
+				addy5c6c6f84afb4fdab757b0b4eb61f074c = addy5c6c6f84afb4fdab757b0b4eb61f074c + 's&#117;c&#111;f&#105;nd&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';
+				var addy_text5c6c6f84afb4fdab757b0b4eb61f074c = 'c&#105;b&#105;t&#117;ng' + '&#64;' + 's&#117;c&#111;f&#105;nd&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';document.getElementById('cloak5c6c6f84afb4fdab757b0b4eb61f074c').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy5c6c6f84afb4fdab757b0b4eb61f074c + '\'>'+addy_text5c6c6f84afb4fdab757b0b4eb61f074c+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p class="MsoNormal">General :<br />Gula kristal mentah (raw sugar), gula kristal rafinasi, tepung terigu sebagai bahan makanan, sayur dan buah segar, beras, palm oil dan turunannya, RBD palm olein, crude palm kernel oil, palm cooking oil, minyak kelapa virgin (VCO), biji kakao, pakan hewan, gula kristal putih, garam konsumsi beryodium, complementary foods for infants, sweet, sugar syrup dan honey, minuman kopi, kopi instant, minuman teh, teh instan, ikan mie, pangsit, bakso, cemaran mikroba dalam daging telur dan susu serta hasil olahannya mie instan, biscuit, meat and its processed products, powdered drink mixes and beverage, canned sardines and mackerel, canned tuna, kosmetik, gliserin, sabun mandi, deterjen serbuk, sabun mandi cair, sabun cuci, pembalut wanita, deterjen cuci cair, contraceptive pills, contraceptive injections, drugs (tablets, capsule, syrup, active pharmaceutical ingredients, hand wash, hand sanitizer, mosquito repellent, talc, antacids (suspension, tablet), suplemen, urine bag, foley catheter, IV catheter, Infusion sets, sterile sets, sterils glove, implants, syringes, contact lenses, catgut suture, sterile gauze, ampoules, vials (powder medicine, liquid medicine), infusion fluid, air laut, air sungai, air danau, karet, textile, plastic, komponen elektrik dan elektronik, mainan anak, ceramicware – mineral water container, ceramic, glassceramicware, vitreous enamel ware, melamine product tableware, plastic tableware polystyrene- foam, plastic packaging, olefin plastic packaging, paper and board, Footwear materials (leather, textile, polymer), Mainan anak berbahan plastik, Child use and care articles -Cutlery and feeding utensils-Safety requirements and tests, Kemasan Pangan-PC, Paints, Popok Bayi Sekali Pakai, Ubin keramik</p>
+<p class="MsoNormal">Minyak &amp; Gas:<br />lubricating oils for 4 stroke gasoline engines of motorized vehicles, lubricating oils for 4 stroke gasoline engines of motor cycle, lubricating oils for 2 stroke gasoline engines with air coolers, lubricating oils for 2 stroke gasoline engines with water coolers, lubricating oils of high rotation diesel engines, lubricating oils of gears, lubricating oils of automatics transmisions, lubricating oils, biodiesel, biodiesel, gas alam, oil trafo, minyak mentah dan kondensat, gasoil/HSD/solar/biosolar, marine fuel oil (MFO), Industrial fuel oil (IFO), industrial diesel oil (IDO), galosine, avtur/kerosene, hydraulic oil, Biodiesel (B100), Transformer oil (New &amp; Used), Gasoil/HSD B0, B10, B20, B30,</p>
+<p class="MsoNormal">Petrokimia :<br />pupuk Tripel Super Fosfat (TSP), pupuk fosfat alam untuk pertanian, pupuk borat, pupuk SP-36, pupuk Diamonium Phospat/DAP, pupuk urea amonium phospat, pupuk mono amonium phosphat, pupuk kalium klorida, pupuk dolomit, pupuk NPK padat, pupuk Tripel Superphospat plus Zn, pupuk amonium klorida, pupuk amonium sulfat, pupuk organik dan anorganik, pupuk urea, pupuk super fosfat, herbisida, aluminium sulfat, asam sulfat, seng oksida, sodium tripolifosfat,</p>
+<p class="MsoNormal">Teknik :<br />kipas angin, vacum cleaner, setrika listrik, mesin cuci, grill, toaster and similar appliances, mesin dapur, pemanas air/heating liquid, refrigerator/kulkas, AC, perawatan kulit dan rambut, pompa air, alat cukur dan pemangkas rambut, microwave, commercial electric cooking ranges, ovens, hobs dan hob element, compressor, pengisi baterai, instantaneous water heaters, massage appliance, pembunuh serangga, audio video &amp; similar electronic apparatus-safety, mainan listrik, tusuk kontak/kotak kontak (plug and socket outlet for household and similar), switches for household and similar purposes, switch electronic, RCCB (residual current circuit braker), MCB (miniatur circuit braker), kabel daya dengan insulasi terekstrusi dan lengkapannya, kabel berinsulasi PVC dengan tegangan pengenal 450/750V - Bagian I : persyaratan umum; bagian 2 : metode uji; bagian 3 : kabel nirselubung untuk perkawatan magun; bagian 4 : kabel berselubung untuk perkawatan magun; bagian 5 : kabel fleksibel (kabel senur);kabel berinsulasi karet dengan tegangan 450/750 V bagian 1: persyaratan umum; bagian 8 : Cord for application requiring high flexibility, lamp cap, cord extention sets, adaptors (plugs and socket outlets for household and similar purposes), rice box, kompor gas 1 tungku, kompor gas 2 tungku, luminer, luminer magun kegunaan umum, luminer tanam, luminer pencahayaan jalan umum, perlengkapan kendali lampu, portable luminaires, floodlights, electronic ballast, baterai primer, baterai sekunder dan cell, lampu sehen, fluorescent lamp, self-ballast lamp, self-ballasted LED lamps, indect protection (Kode IP), single capped fluorescent, kWh meter, kloset duduk, concrete, metal rubber film plastic, metal material, bead wire, baja tulangan beton, material plastic &amp; rubber, regulator tekanan rendah untuk LPG, horse/pipe/pressurized unit, material plastic, fabric, wood, foam, door &amp; wall, paving block, Diesel genset stationer &lt; 50 kVA for telecommunication, Diesel genset stationer <span style="mso-spacerun: yes;"> </span>50-500 kVA for telecommunication, weighing machines for children under five, children and adult, castor, sphygmomanometer non-otomatis, medical electronic equipment, infant incubator, medical bed, safety of information technology equioment- part 1, wheeled steel bed for hospital, LTE Cellular devices, WCDMA Cellular devices, GSM Cellular devices, Bluetooth devices, Wireless Local Area Network devices, Pemanas Rendam Portabel, Luminer Lampu Tidur, Radio Komunikasi HF/VHF/UHF, Short Range Device, Peralatan Elektromedik (Rotator, centrifuge, Inkubator Bayi, Medical Refrigerator, Fetal Doppler, Electrocardiograph,  Suction Pump, Blood Bank Refrigerator, Syringe Pump, Nebulizer, dan alat kesehatan sejenis lainnya), Set Top Box, Smart TV, Rantai Cahaya, Kotak dan selungkup untuk lengkapan pada instalasi listrik magun rumah tangga, Fitting lampu, Sistem Konduit Kaku, Sistem Konduit Semi Fleksibel, Bahan isolasi panas, penyarap suara dan tahan api dari mineral wool, Pengukuran Kinerja Seterika Listrik, Pengukuran Kinerja Lemari Pendingin, Polipropilena Kopolimer Impak untuk Komponen Otomotif, Pendingin komersial dengan unit refrigerant tergabung atau terpisah, Lampu LED swa-balast untuk layanan penerangan umum dengan tegangan suplai &gt; 50V - Persyaratan Kinerja, Kotak dan selungkup untuk lengkapan listrik pada instalasi listrik magun rumah tangga dan sejenis - bagian 23 : Persyaratan khusus untuk kotak dan selungkup lantai,</p>
+<p class="MsoNormal">Lingkungan :<br />Waste Water (air limbah dan air limbah domestik), industrial water, surface water, drinking water, clean water,hemodialysis water, mineral water, demineral water, natural mineral water, Sea Water, Complete Water (air terproduksi), Soil/Sludge (hazardous waste), clean water,water, air ambient, Industrial Hygiene and Indoor Air Quality, udara emisi sumber tidak bergerak, udara emisi sumber bergerak (berbahan bakar solar), Limbah B3 padat</p>
+<p><a href="https://drive.google.com/file/d/1taW78MHg2FDPBvZyT6icU7nhLF06hc5t/view?usp=sharing" title="Sert LP 024">DOWNLOAD SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1o2gro_M2k8W-KSsve5U24BwA6Mc47Wdi/view?usp=sharing">DOWNLOAD LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/1gUNoNbNM9Ko8ywfSwrdO1QeQk0MEhG4n/view?usp=sharing">LIHAT LINGKUP SUPLEMEN</a></p>
+<p><a href="https://drive.google.com/file/d/1tEUUYDeRCBH3pZrlBdQyZ7SHes00diMY/view?usp=sharing" target="_blank">LIHAT LINGKUP SUPLEMEN 2</a></p>
+<p><a href="https://drive.google.com/file/d/178gZ7MGsKwShSzrkkpmt7ItzpXNPYnuF/view?usp=share_link" target="_blank" title="Suplemen 29 Maret 2023">LIHAT LINGKUP SUPLEMEN 3</a></p>
+</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>24/09/2024</strong></td>
+</tr>
+<tr style="height: 255px;">
+<td class="xl71" style="height: 255px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">14</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-025-IDN</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">Balai Pengujian Mutu Barang Jakarta  </td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Raya Bogor Km. 26, Ciracas – Jakarta 13740</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(021) 87721002; 8703881</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloak8e29edbb5abbf9b6b716cf4224e34ef2">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak8e29edbb5abbf9b6b716cf4224e34ef2').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy8e29edbb5abbf9b6b716cf4224e34ef2 = 'spjp_bpmb025' + '&#64;';
+				addy8e29edbb5abbf9b6b716cf4224e34ef2 = addy8e29edbb5abbf9b6b716cf4224e34ef2 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+				var addy_text8e29edbb5abbf9b6b716cf4224e34ef2 = 'spjp_bpmb025' + '&#64;' + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';document.getElementById('cloak8e29edbb5abbf9b6b716cf4224e34ef2').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy8e29edbb5abbf9b6b716cf4224e34ef2 + '\'>'+addy_text8e29edbb5abbf9b6b716cf4224e34ef2+'<\/a>';
+		</script> ; <span id="cloak222c99b07e65b9eda035273f953031d7">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak222c99b07e65b9eda035273f953031d7').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy222c99b07e65b9eda035273f953031d7 = 'bpmb' + '&#64;';
+				addy222c99b07e65b9eda035273f953031d7 = addy222c99b07e65b9eda035273f953031d7 + 'k&#101;m&#101;nd&#97;g' + '&#46;' + 'g&#111;' + '&#46;' + '&#105;d';
+				var addy_text222c99b07e65b9eda035273f953031d7 = 'bpmb' + '&#64;' + 'k&#101;m&#101;nd&#97;g' + '&#46;' + 'g&#111;' + '&#46;' + '&#105;d';document.getElementById('cloak222c99b07e65b9eda035273f953031d7').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy222c99b07e65b9eda035273f953031d7 + '\'>'+addy_text222c99b07e65b9eda035273f953031d7+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p class="MsoNormal" style="text-indent: 0cm; text-align: justify;"><span lang="IN">minyak nilam, minyak pala,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">Minyak sereh,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">pupuk Dolomit, pupuk NPK padat,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">pupuk Di Amonium Fosfat (DAP),</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">pupuk tripel super fosfat,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">pupuk SP-36,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">pupuk fosfat alam untuk pertanian, pupuk borat,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">pupuk urea,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">pupuk kalium sulfat,</span><span style="mso-ansi-language: EN-US;" lang="EN-US"> pupuk kieserite, </span><span lang="IN">pupuk Amonium Sulfat,</span><span style="mso-ansi-language: EN-US;" lang="EN-US"> skin cream, </span><span lang="IN">sabun mandi/toilet soap, sabun cuci, deterjen cuci cair, sabun mandi cair,</span><span style="mso-ansi-language: EN-US;" lang="EN-US"> cairan pembersih, sabun cair, pelembut pakaian, semir cair, </span><span lang="IN">Standar Indonesia Rubber/SIR, karet konvensional RSS/TPC/TBC, ban dalam kendaraan bermotor, ban sepeda motor, ban truk dan bus,</span><span style="mso-ansi-language: EN-US;" lang="EN-US"> ban mobil penumpang, </span><span lang="IN">ban truk ringan,</span><span style="mso-ansi-language: EN-US;" lang="EN-US"> vulkanisir ban mobil penumpang dan komersil, </span><span lang="IN">biji pinang bukan untuk obat,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">semen portland, semen portland pozolan,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">semen portland campur (mixed cement),</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">semen mansory,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">semen portland putih, semen portland komposit,</span><span style="mso-ansi-language: EN-US;" lang="EN-US"> gambir, </span><span lang="IN">kayu lapis,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">kayu lapis penggunaan umum, kursi putar kerja dari kayu, kursi makan dari kayu, kursi rotan tunggal,</span><span style="mso-ansi-language: EN-US;" lang="EN-US"> kursi belajar untuk sekolah dasar, kursi belajar untuk sekolah menengah pertama, kursi belajar untuk sekolah menengah atas, meja belajar untuk sekolah dasar, meja belajar untuk sekolah menengah pertama, meja belajar untuk sekolah menengah atas, kayu, helm, </span><span lang="IN">karet compound,</span><span style="mso-ansi-language: EN-US;" lang="EN-US"> Tali plastic straping, </span><span lang="IN">tekstil dan produk tekstil</span><span style="mso-ansi-language: EN-US;" lang="EN-US">, handuk, </span><span lang="IN">mainan anak</span><span style="mso-ansi-language: EN-US;" lang="EN-US">, </span><span lang="IN">kompor gas</span><span style="mso-ansi-language: EN-US;" lang="EN-US"> 1 tungku</span><span lang="IN">, selang kompor gas, kompor minyak tanah, korek api gas,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">sepatu pengaman dari kulit dengan sol karet sistem cetak vulkanisasi,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">sepatu pengaman dari kulit dengan sol poliuretan dan termoplastik poliuretan sistem cetak injeksi, produk melamin untuk perlengkapan makan dan minum,</span><span style="mso-ansi-language: EN-US;" lang="EN-US"> kompor gas 2 tungku, </span><span lang="IN">plastic kemasan, plastic sheeting,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">minyak dan lemak (umum</span><span style="mso-ansi-language: EN-US;" lang="EN-US">, CPO, margarin, shortening</span><span lang="IN">)</span><span style="mso-ansi-language: EN-US;" lang="EN-US">,</span><span lang="EN-US"> </span><span lang="IN">minyak goreng sawit,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">lada hitam, lada putih,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">biji pala, fulli, panili,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">bungkil </span><span style="mso-ansi-language: EN-US;" lang="EN-US">kelapa – bahan pakan ternak</span><span lang="IN">, bungkil inti kelapa sawit,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">pakan buatan bagi udang, gula kristal mentah, tepung terigu, gula kristal rafinasi/refined sugar, gula kristal putih, AMDK, garam konsumsi beryodium,</span><span style="mso-ansi-language: EN-US;" lang="EN-US"> produk produk susu dan analognya lemak, minyak dan emulsi lemak, buah dan sayur termasuk jamur, umbi, kacang, rumput laut, biji bijian, kembang gula/permen dan cokelat, serealia dan produk serealiayang merupakan produk turunan dari biji serealia, akar dan umbi, pemanis termasuk madu, garam, rempah, sup, saus, salad, produk protein, produk pangan untuk keperluan gizi khusus, minuman, makanan ringan siap santap, Minuman beralkohol (</span><span lang="IN">cognae, bir hitam, bir, vodca, anggur/wine, GIN, genever, anggur buah, anggur buah, arak, spirit anggur (untuk fortifikasi), ligueur, whisky</span><span style="mso-ansi-language: EN-US;" lang="EN-US">)</span><span lang="IN">,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">minuman ringan beralkhohol </span><span style="mso-ansi-language: EN-US;" lang="EN-US">(</span><span lang="IN">shand, RUM, brendi, anggur fortifikasi, koktail anggur/wine coctail, spirits, sparking wine, anggur tonikum kirina, anggur beras ketan, vegetable wine</span><span style="mso-ansi-language: EN-US;" lang="EN-US">)</span><span lang="IN">,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">kedelai, jagung, beras, cassia indo</span><span style="mso-ansi-language: EN-US;" lang="EN-US">ne</span><span lang="IN">sia</span><span style="mso-ansi-language: EN-US;" lang="EN-US">, </span><span lang="IN">minyak goreng, kakao bubuk,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">susu bubuk,</span><span style="mso-ansi-language: EN-US;" lang="EN-US"> susu cair, cokelat, Tepung (beras, kedelai, jagung, tapioca, sorgum, singkong, dedak, sagu, kacang hijau, gaplek, kulit ari, umbi lainnya), biskuit, hasil pertanian dan perkebunan biji bijian, produk pertanian kadar air tinggi (apel, pear, apricot, cherry, persik, pisang, bawang, daun bawang, tomat, paprika, timun, melon, kol, kubis, brokoli, selada, bayam, kemangi, seledri, asparagus, kacang polong, kacang Panjang, jamur, sugar beet, wortel, kentang, ubi), Produk pertanian kadar asam tinggi dan kadar air tinggi (lemon, jeruk, strawberry, blueberry, anggur, kismis), produk pertanian kadar minyak tinggi (kacang kacangan, kacang tanah, biji, alpukat), produk pertanian kadar protein/karbohidrat tinggi ([kedelai, jagung, gandum, padi, beras, sorgum, ketela, ubi kayu), produk pertanian komoditas unik dan sulit (the, tembakau, rempah rempah, kopi, kakao, lada), teh, minyak canola, minyak biji bunga matahari, minyak jagung, minyak samin, minyak kelapa, minyak kedelai, minyak wijen, minyak kacang tanah, minyak zaitun, minyak inti kelapa sawit, minyak sayur, minyak salad, minyak reroti, minyak mentega, minyak margarin, ikan asap, daging asap, ikan dan daging yang diberi perlakuan panas, ikan salmon, ikan tuna, ikan tenggiri, ikan bawal, ikan kakap, ikan gurami, ikan marlin, ikan makarel, ikan tongkol, ikan kaleng, ikan asap, udang, susu kedelai, isolate soy protein, </span><span lang="IN">biji kopi,</span><span style="mso-ansi-language: EN-US;" lang="EN-US"> kopi instan, biji kakao, </span><span lang="IN">teh hitam, teh hijau,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">lada hitam bubuk,</span><span style="mso-ansi-language: EN-US;" lang="EN-US"> daging dan susu serta hasil olahannya, produk makanan olahan (kembang gula dan cokelat, serealia dan produk serealia, produk bakery, makanan ringan siap santap, minuman tidak mengandung susu), herba dan rempah, proudk pakan (pakan ikan, pakan udang, pakan ternak),<span style="mso-spacerun: yes;">  </span>plastic, papersack, </span><span lang="IN">baterai primer, setrika listrik, kipas angin </span><span style="mso-ansi-language: EN-US;" lang="EN-US">(</span><span lang="IN">kipas angin plafon, angin, kipas angin partisi, kipas angin tumpu, kipas angin meja</span><span style="mso-ansi-language: EN-US;" lang="EN-US">)</span><span lang="IN">, lampu swaballast, lampu pijar, kabel berinsulasi PVC tegangan pengenal sd. 450/750 V</span><span style="mso-ansi-language: EN-US;" lang="EN-US">, </span><span lang="IN">sakelar untuk instalasi listrik tetap rumahtangga dan sejenisnya - bagian 1 : persyaratan umum; tusuk kontak dan kotak kontak untuk keperluan rumah tangga dan persyaratan umum,</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">peranti listrik rumah tanga dan sejenisnya - keselamatan-bagian 2-7 : persyaratan khusus untuk mesin cuci, keselamatan-bagian 2-24 : persyaratan khusus untuk lemari pendingin (peralatan pendingin, peralatan es krim dan pembuat es),</span><span style="mso-ansi-language: EN-US;" lang="IN"> </span><span lang="IN">mesin dapur</span><span style="mso-ansi-language: EN-US;" lang="EN-US">, mainan anak anak elektrik, pompa air, MCB, </span><span lang="IN">pemanas cairan, pemanggang,</span><span style="mso-ansi-language: EN-US;" lang="EN-US">kemasan aerosol, </span><span lang="IN">alat peraga,</span><span style="mso-ansi-language: EN-US;" lang="EN-US"> sarung tangan karet rumah tangga, Sarung tangan terbuat dari lateks untuk pemeriksaan medis sekali pakai, Sarung tangan terbuat dari Polivinil Klorida (PVC) untuk pemeriksaan medis sekali pakai, Sarung tangan karet steril untuk keperluan bedah sekali pakai, masker medis, masker kain, pakaian bayi, Kecap, hydrolysed vegetable protein (HVP), pangan olahan yang mengandung protein nabati terhidrolisis, Susu formula, susu pertumbuhan, MP- ASI, biskuit, bubur bayi, makanan yang berbasis minyak, pupuk organic, pembersih vacuum dan piranti pembersih sedot air, piranti perawatan kulit dan rambut, microwave oven, piranti alat cukur, alat pangkas dan sejanisnya, piranti pijat, pemanas air sesaat, bor listrik, gerinda, pemoles dan pengampelas jenis cakram, mesin serut, gergaji listrik, Bantalan elastomer tipe polos dan tipe berlapis untuk perletakan jembatan, Produk vulkanisat atau termoplastik, Pakaian dalam wanita, Kain untuk pelindung diri, Sepatu, Pestisida Formulasi, Luminer (Luminer kegunaan Umum, Luminer magun kegunaan umum, Luminer tanam, Luminer pencahayaan jalan umum, Luminer kegunaan umum portable, Luminer lampu sorot, Luminer lampu tidur)<br /></span></p>
+<p><a href="https://drive.google.com/file/d/18EskobnfUx-WL9d_NbmQX7uCl0X1TUWQ/view?usp=sharing">DOWNLOAD SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/open?id=1WbsI-RT84ZzbgHi7iV9L8r3RG7QLdwSW">DOWNLOAD LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/10or6DsJ-RFfIjYivcYhksyrG_LokbDsX/view?usp=sharing">LIHAT LINGKUP SUPLEMEN</a></p>
+<p><a href="https://drive.google.com/file/d/1svhpoDKVeAjKmLI2gWkiKQF3NSqieRJ5/view?usp=share_link" target="_blank" title="suplemen 29 Mar 2023">LIHAT LINGKUP SUPLEMEN 2</a></p>
+</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>30/09/2024</strong></td>
+</tr>
+<tr style="height: 255px;">
+<td class="xl71" style="height: 255px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">15</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-028-IDN</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">PT Sucofindo - Laboratorium Cabang Surabaya</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Jend. Ahmad Yani No. 315, Surabaya</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(031) 8470547</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;">
+<ol>
+<li style="text-align: center;"><span id="cloakf9e4ec9494a72e086f0b0f85a291a83d">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloakf9e4ec9494a72e086f0b0f85a291a83d').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyf9e4ec9494a72e086f0b0f85a291a83d = 'l&#97;bs&#117;r&#97;b&#97;y&#97;' + '&#64;';
+				addyf9e4ec9494a72e086f0b0f85a291a83d = addyf9e4ec9494a72e086f0b0f85a291a83d + 's&#117;c&#111;f&#105;nd&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';
+				var addy_textf9e4ec9494a72e086f0b0f85a291a83d = 'l&#97;bs&#117;r&#97;b&#97;y&#97;' + '&#64;' + 's&#117;c&#111;f&#105;nd&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';document.getElementById('cloakf9e4ec9494a72e086f0b0f85a291a83d').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyf9e4ec9494a72e086f0b0f85a291a83d + '\'>'+addy_textf9e4ec9494a72e086f0b0f85a291a83d+'<\/a>';
+		</script></li>
+<li style="text-align: center;"><span id="cloak7299591fbb4c40a961d8ea69daaf7bd9">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak7299591fbb4c40a961d8ea69daaf7bd9').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy7299591fbb4c40a961d8ea69daaf7bd9 = '&#101;b&#97;g&#97;s' + '&#64;';
+				addy7299591fbb4c40a961d8ea69daaf7bd9 = addy7299591fbb4c40a961d8ea69daaf7bd9 + 's&#117;c&#111;f&#105;nd&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';
+				var addy_text7299591fbb4c40a961d8ea69daaf7bd9 = '&#101;b&#97;g&#97;s' + '&#64;' + 's&#117;c&#111;f&#105;nd&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';document.getElementById('cloak7299591fbb4c40a961d8ea69daaf7bd9').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy7299591fbb4c40a961d8ea69daaf7bd9 + '\'>'+addy_text7299591fbb4c40a961d8ea69daaf7bd9+'<\/a>';
+		</script></li>
+<li style="text-align: center;"><span id="cloak13b84f84a59e22714216761380dde846">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak13b84f84a59e22714216761380dde846').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy13b84f84a59e22714216761380dde846 = 'wd&#97;m&#97;y&#97;nt&#105;' + '&#64;';
+				addy13b84f84a59e22714216761380dde846 = addy13b84f84a59e22714216761380dde846 + 's&#117;c&#111;f&#105;nd&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';
+				var addy_text13b84f84a59e22714216761380dde846 = 'wd&#97;m&#97;y&#97;nt&#105;' + '&#64;' + 's&#117;c&#111;f&#105;nd&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';document.getElementById('cloak13b84f84a59e22714216761380dde846').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy13b84f84a59e22714216761380dde846 + '\'>'+addy_text13b84f84a59e22714216761380dde846+'<\/a>';
+		</script></li>
+<li style="text-align: center;"><span id="cloak16b28989348d47343388f7cbb9284479">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak16b28989348d47343388f7cbb9284479').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy16b28989348d47343388f7cbb9284479 = 'pr&#105;m&#97;y&#117;n&#105;t&#97;' + '&#64;';
+				addy16b28989348d47343388f7cbb9284479 = addy16b28989348d47343388f7cbb9284479 + 's&#117;c&#111;f&#105;nd&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';
+				var addy_text16b28989348d47343388f7cbb9284479 = 'pr&#105;m&#97;y&#117;n&#105;t&#97;' + '&#64;' + 's&#117;c&#111;f&#105;nd&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';document.getElementById('cloak16b28989348d47343388f7cbb9284479').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy16b28989348d47343388f7cbb9284479 + '\'>'+addy_text16b28989348d47343388f7cbb9284479+'<\/a>';
+		</script></li>
+</ol>
+</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Gaplek, Biji Kopi, Biji Kakao, Pupuk Triple Super Fosfat (TSP), Pupuk Ammonium Sulfat, Pupuk Ammonium Klorida, Pupuk NPK Padat, Pupuk Dolomit, Pupuk Kalium Klorida, Pupuk Mono Fosfat Diamonium Phosphat (DAP), Pupuk SP-36, Pupuk Fosfat Alam untuk Pertanian, Pupuk sisa proses Asam amino (Haspramin), Pupuk Borat, Pupuk Urea, Aluminium Sulfat padat, Aluminium  Sulfat cair, Asam Sulfat Teknis, Gula Kristal Mentah (raw sugar), Gula Kristal Putih, Gula Kristal Rafinasi, Bahan Pangan dan Pakan ( Virgin Oil, Minyak Goreng, Mentega, Margarin, Produk Kakao dan Cokelat), Cemaran Mikroba dalam daging, telur, susu serta hasil olahannya  (susu pasteurisasi, daging sapi giling segar,  daging olahan, telur segar dan telur asin), Air Minum Dalam Kemasan, Kopi Instan, Mie Instant, Minyak Goreng Sawit, Minyak makan dan turunannya, Air Mineral, Air Mineral Alami, Air Demineral, Air Permukaan dan, Air Sungai, Air Limbah, Air Untuk Keperluan Higiene Sanitasi, Air Minum, Limbah Padat dan Semi Padat, Udara Emisi Sumber Tidak Bergerak , Udara Ambien, Udara Lingkungan Kerja / Industrial Hygiene, Batu Kapur (Lime stone), Bijih besi &amp; pasir besi, Bijih Mangan (Manganese ore), Batubara, Timah, Cu Cathode, Lead, Zircon Sand, Makanan &amp; Minuman (Kue kering, keripik, jus buah, jamu, teh, es krim) (Nutrition Fact), Garam Konsumsi Beriodium, Solar 48, Bio Solar (B20), Pupuk (Anorganik dan Organik), Biskuit, Bahan Pangan dan Pakan (biskuit, produk kakao dan coklat, fishmeal), Palm Kernel, CPO, Beras, Lubricating oils, Solar/Biosolar, Marine Fuel Oil (MFO), Air RO/Hemodialisa,</p>
+<p><a href="https://drive.google.com/file/d/1_0hELtNmd1c61TY47TGAfu-4T8-gKwUV/view?usp=share_link" target="_blank">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1W4MU5XdfKfy_INdE1OocYXAfEqg8e-eY/view?usp=share_link" target="_blank">LIHAT LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/1q6tKwrQ1TTOSl_OMFDNaqHw2h7rCknRh/view?usp=sharing" target="_blank">LIHAT LINGKUP SUPLEMEN</a></p>
+</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>20/09/2025</strong></td>
+</tr>
+<tr style="height: 255px;">
+<td class="xl71" style="height: 255px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">16</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-029-IDN</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">Pusat Penelitian Karet Unit Riset Bogor Getas – PT Riset Perkebunan Nusantara</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Salak No. 1, Bogor 16151</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(0251) 8319817</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;">
+<p><span id="cloak0167eb32fc729747254a7885b9c1b0c2">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak0167eb32fc729747254a7885b9c1b0c2').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy0167eb32fc729747254a7885b9c1b0c2 = 'l&#97;pk&#97;r&#101;t' + '&#64;';
+				addy0167eb32fc729747254a7885b9c1b0c2 = addy0167eb32fc729747254a7885b9c1b0c2 + 'bptkbgr' + '&#46;' + 'c&#111;m';
+				var addy_text0167eb32fc729747254a7885b9c1b0c2 = 'l&#97;pk&#97;r&#101;t' + '&#64;' + 'bptkbgr' + '&#46;' + 'c&#111;m';document.getElementById('cloak0167eb32fc729747254a7885b9c1b0c2').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy0167eb32fc729747254a7885b9c1b0c2 + '\'>'+addy_text0167eb32fc729747254a7885b9c1b0c2+'<\/a>';
+		</script></p>
+<p><span id="cloakd3fce312b11fd0b3c8f498d74dae85d0">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloakd3fce312b11fd0b3c8f498d74dae85d0').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyd3fce312b11fd0b3c8f498d74dae85d0 = 'ppkb&#111;g&#111;r' + '&#64;';
+				addyd3fce312b11fd0b3c8f498d74dae85d0 = addyd3fce312b11fd0b3c8f498d74dae85d0 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+				var addy_textd3fce312b11fd0b3c8f498d74dae85d0 = 'ppkb&#111;g&#111;r' + '&#64;' + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';document.getElementById('cloakd3fce312b11fd0b3c8f498d74dae85d0').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyd3fce312b11fd0b3c8f498d74dae85d0 + '\'>'+addy_textd3fce312b11fd0b3c8f498d74dae85d0+'<\/a>';
+		</script></p>
+</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Lateks alam, vulkanisat/kompon, selang karet untuk kompor gas LPG, ban mobil penumpang, ban truk ringan, ban truk dan bus, ban sepeda motor, rol karet pengupas gabah, vulkanisat karet pompa air tangan, karet mentah, karet pegangan selang (grip handle) sepeda motor, lis karet pintu lemari es, karet perapat (rubber seal) pada katup tabung LPG, spesifikasi bantalan elastomer tipe polos dan tiper berlapis untuk perletakan jembatan, karet spesifikasi teknis, ban dalam kendaraan bermotor, selang termoplastik elastomer untuk kompor gas, ban dalam sepeda, vulkanist karet kompon bantalan dermaga, sarung tangan karet steril untuk keperluan bedah sekali pakai, sarung tangan untuk pemeriksaan medis sekali pakai - bagian 1: spesifikasi untuk sarung tangan terbuat dari lateks atau larutan karet, ban vulkanisir (ban truk ringan)</p>
+<p><a href="https://drive.google.com/open?id=1mcaBOdSakSHyUAGaFMTWVe2mO-UonzDO" title="Sert LP 029">DOWNLOAD SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/open?id=1aaZdNyB1Ne0f6wECC3E9bDUT_VI_gJxT">DOWNLOAD LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/12KVUiQyh4lKG6EvGHEr4paKKWNhDpNKw/view?usp=share_link" target="_blank" title="suplemen 22 Feb 2023">LIHAT LINGKUP SUPLEMEN</a></p>
+</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>15/10/2024</strong></td>
+</tr>
+<tr style="height: 105px;">
+<td class="xl71" style="height: 105px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">17</td>
+<td class="xl71" style="height: 105px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-030-IDN</td>
+<td class="xl71" style="height: 105px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">UPT Pengujian dan Sertifikasi Mutu Barang Provinsi Kalimantan Barat</td>
+<td class="xl71" style="height: 105px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Abdurrachman Saleh No.31, Pontianak, Kalimantan Barat</td>
+<td class="xl71" style="height: 105px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(0561) 762849</td>
+<td class="xl71" style="height: 105px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloak50dcd32bc6e19027be767dbd50a162f3">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak50dcd32bc6e19027be767dbd50a162f3').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy50dcd32bc6e19027be767dbd50a162f3 = '&#117;psmbk&#97;lb&#97;r' + '&#64;';
+				addy50dcd32bc6e19027be767dbd50a162f3 = addy50dcd32bc6e19027be767dbd50a162f3 + 'y&#97;h&#111;&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';
+				var addy_text50dcd32bc6e19027be767dbd50a162f3 = '&#117;psmbk&#97;lb&#97;r' + '&#64;' + 'y&#97;h&#111;&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';document.getElementById('cloak50dcd32bc6e19027be767dbd50a162f3').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy50dcd32bc6e19027be767dbd50a162f3 + '\'>'+addy_text50dcd32bc6e19027be767dbd50a162f3+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 105px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Karet alam - Standard Indonesian Rubber (SIR), plastik pembungkus bandela, Crude Palm Oil (CPO), garam konsumsi beryodium, BOKAR, lada putih, lada hitam, inti kelapa sawit (palm kernel), minyak kelapa mentah, minyak goreng sawit, minyak goreng</p>
+<p><a href="https://drive.google.com/file/d/1W74jOO-nn1KTWDjUKHZI1QtxQ1xXze9_/view?usp=sharing" target="_blank">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1sUQZ_M3UuGvDutUpDSZtchcmfxnAwv_p/view?usp=sharing" target="_blank">LIHAT LINGKUP</a></p>
+</td>
+<td class="xl71" style="height: 105px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>24/10/2026</strong></td>
+</tr>
+<tr style="height: 105px;">
+<td class="xl71" style="height: 105px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">18</td>
+<td class="xl71" style="height: 105px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-031-IDN</td>
+<td class="xl71" style="height: 105px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">
+<p>UPT Pengujian dan Sertifikasi Mutu Barang, Dinas Perdagangan, Koperasi, Usaha Kecil dan Menengah Provinsi Riau</p>
+</td>
+<td class="xl71" style="height: 105px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Dr. Sutomo No. 108, Pekanbaru <br />  </td>
+<td class="xl71" style="height: 105px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(0761) 21325</td>
+<td class="xl71" style="height: 105px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloak23939a3c0441da87f3191fa8036b9502">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak23939a3c0441da87f3191fa8036b9502').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy23939a3c0441da87f3191fa8036b9502 = 'bpmb_p&#101;k&#97;nb&#97;r&#117;' + '&#64;';
+				addy23939a3c0441da87f3191fa8036b9502 = addy23939a3c0441da87f3191fa8036b9502 + 'y&#97;h&#111;&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';
+				var addy_text23939a3c0441da87f3191fa8036b9502 = 'bpmb_p&#101;k&#97;nb&#97;r&#117;' + '&#64;' + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';document.getElementById('cloak23939a3c0441da87f3191fa8036b9502').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy23939a3c0441da87f3191fa8036b9502 + '\'>'+addy_text23939a3c0441da87f3191fa8036b9502+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 105px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Air minum, air untuk keperluan sanitasi hygiene, air mineral/demineral, daging telur dan susu serta hasil olahannya, minyak kelapa mentah, minyak kelapa sawit mentah (Crude Palm Oil), tepung terigu sebagai bahan makanan, gula kristal putih, makanan (bakso, bubur ayam, nuget, brownis, kue kering), karet alam (SIR), pupuk NPK, pupuk Kalium Klorida (KCl), pupuk fosfat alam, limbah cair</p>
+<p><a href="https://drive.google.com/file/d/1MUGrqJ7GQC_jR4G0GwESlZMmSKOU6kq3/view?usp=sharing" target="_blank" title="2020">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1Sf-2YnX9E-u_maJHkjv9qekJedeeLjjg/view?usp=sharing" title="2020">LIHAT LINGKUP</a></p>
+</td>
+<td class="xl71" style="height: 105px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>16/02/2025</strong></td>
+</tr>
+<tr style="height: 88px;">
+<td class="xl71" style="height: 88px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">19</td>
+<td class="xl71" style="height: 88px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-032-IDN</td>
+<td class="xl71" style="height: 88px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">UPTD Balai Pengujian dan Sertifikasi Mutu Barang Dinas Perindustrian dan Perdagangan Provinsi Jambi</td>
+<td class="xl71" style="height: 88px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Letjen Suprapto No. 29, Telanaipura, Jambi</td>
+<td class="xl71" style="height: 88px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(0741) 60822</td>
+<td class="xl71" style="height: 88px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloake5a97472452d0b60b285ae578cfb24be">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloake5a97472452d0b60b285ae578cfb24be').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addye5a97472452d0b60b285ae578cfb24be = '&#117;ptdbpsmb.j&#97;mb&#105;' + '&#64;';
+				addye5a97472452d0b60b285ae578cfb24be = addye5a97472452d0b60b285ae578cfb24be + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+				var addy_texte5a97472452d0b60b285ae578cfb24be = '&#117;ptdbpsmb.j&#97;mb&#105;' + '&#64;' + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';document.getElementById('cloake5a97472452d0b60b285ae578cfb24be').innerHTML += '<a ' + path + '\'' + prefix + ':' + addye5a97472452d0b60b285ae578cfb24be + '\'>'+addy_texte5a97472452d0b60b285ae578cfb24be+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 88px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>SIR, biji pinang bukan obat, biji kopi, cassia Indonesia, Crude Palm Oil (CPO), garam konsumsi beryodium, pupuk NPK padat, pupuk KCl, pupuk TSP, air minum dalam kemasan (AMDK), minyak goreng, minyak goreng sawit, kopi bubuk, madu, Beras, Plastik Pembungkus Bandela</p>
+<p><a href="https://drive.google.com/file/d/1NvO-GJmt6Y6jXZ_r5ZbY1l-T3_fu5CeZ/view?usp=sharing" target="_blank">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1tZfxjrFQyu_F56mRtbUGkOAWbERgOJK8/view?usp=sharing" target="_blank">LIHAT LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/1EcUyPTSyoM_yFxUE0eh5OfJRt4gC6Ibb/view?usp=sharing" target="_blank" title="Suplemen juli 2023">LIHAT LINGKUP SUPLEMEN</a></p>
+</td>
+<td class="xl71" style="height: 88px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>22/08/2026</strong></td>
+</tr>
+<tr style="height: 167px;">
+<td class="xl71" style="height: 167px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">20</td>
+<td class="xl71" style="height: 167px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-035-IDN</td>
+<td class="xl71" style="height: 167px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">
+<p>UPT Pengujian Sertifikasi Mutu Barang - Lembaga Tembakau Jember</p>
+<p><strong> </strong></p>
+</td>
+<td class="xl71" style="height: 167px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Kalimantan No. 1  Jember, Jawa Timur</td>
+<td class="xl71" style="height: 167px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(0331) 338396</td>
+<td class="xl71" style="height: 167px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloak76f01dd00372f2b7b70dc90c592aea5b">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak76f01dd00372f2b7b70dc90c592aea5b').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy76f01dd00372f2b7b70dc90c592aea5b = 'p&#101;ng&#117;j&#105;&#97;nm&#117;t&#117;t&#101;mb&#97;k&#97;&#117;' + '&#64;';
+				addy76f01dd00372f2b7b70dc90c592aea5b = addy76f01dd00372f2b7b70dc90c592aea5b + 'y&#97;h&#111;&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';
+				var addy_text76f01dd00372f2b7b70dc90c592aea5b = 'p&#101;ng&#117;j&#105;&#97;nm&#117;t&#117;t&#101;mb&#97;k&#97;&#117;' + '&#64;' + 'y&#97;h&#111;&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';document.getElementById('cloak76f01dd00372f2b7b70dc90c592aea5b').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy76f01dd00372f2b7b70dc90c592aea5b + '\'>'+addy_text76f01dd00372f2b7b70dc90c592aea5b+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 167px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Benih Tembakau, Beras, Garam konsumsi beriodium, Kasturi, Komoditas unik tembakau, Pupuk organik, Pupuk organik padat, Rajangan Maesan, Rajangan Paiton, Rokok, Tembakau, Tembakau bawah naungan (TBN), Tembakau BES VO Ekspor, Tembakau Boyolali Asepan, Tembakau Cerutu Besuki Bagian I : Bahan olahan, Tembakau Cerutu Besuki Bagian I : Asalan, Tembakau Jawa Timur Voor Oogst, Tembakau Kedu, Tembakau krosok Madura VO, Tembakau Lumajang, Tembakau rajangan Madura, Tembakau rajangan virginia Bojonegoro, Tembakau Virginia FC, Tembakau Vorstenlanden, Sayuran dan buah berkadar air tinggi (Sayuran bunga (kubis), sayuran daun (sawi), sayuran polong (edamame), sayuran buah (cabai)), Phosphin</p>
+<p><a href="https://drive.google.com/file/d/1tw4n6LnPX3um6ioBCn9S3SZmE6hMgFw7/view?usp=sharing" title="2025">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1b0Zrs116rERBiYJg_b5KmJN-3FEcnHhC/view?usp=sharing">LIHAT LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/1gJ8fCenTKhayxjTe8DZNR4COCznZjrZR/view?usp=share_link" target="_blank" title="suplemen 29 Maret 2023">LIHAT LINGKUP SUPLEMEN</a></p>
+</td>
+<td class="xl71" style="height: 167px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>27/07/2025</strong></td>
+</tr>
+<tr style="height: 255px;">
+<td class="xl71" style="height: 255px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">21</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-036-IDN</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">
+<p>UPT Pengujian dan Sertifikasi Mutu Barang - Lembaga Tembakau Surabaya</p>
+<p><strong> </strong></p>
+<p><strong><span style="color: red;"> </span></strong></p>
+</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Gayung Kebonsari Dalam No.12A Surabaya</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(031) 8280762</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloak8616a31bf154c9d22d7030797fada665">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak8616a31bf154c9d22d7030797fada665').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy8616a31bf154c9d22d7030797fada665 = 'l&#97;b&#117;j&#105;bpsmb' + '&#64;';
+				addy8616a31bf154c9d22d7030797fada665 = addy8616a31bf154c9d22d7030797fada665 + 'y&#97;h&#111;&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';
+				var addy_text8616a31bf154c9d22d7030797fada665 = 'psmbs&#117;r&#97;b&#97;y&#97;-&#105;nd&#97;g@j&#97;t&#105;mpr&#111;v.g&#111;.&#105;d; p&#101;ng&#101;mb&#97;ng&#97;n.psmbltsby@gm&#97;&#105;l.c&#111;m';document.getElementById('cloak8616a31bf154c9d22d7030797fada665').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy8616a31bf154c9d22d7030797fada665 + '\'>'+addy_text8616a31bf154c9d22d7030797fada665+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Asam Sulfat Pekat Teknis, Beras, Biji Kakao, Biji Kopi, Biji Pala , Fuli, Gabah, Garam Bahan Baku untuk Industri Garam Beryodium, Garam Konsumsi Beryodium, Jagung, Karet Konvensional, Lada Putih, Minyak Goreng Sawit, Pupuk Amonium Sulfat, Pupuk Diamonium Fosfat, Pupuk Dolomit, Pupuk Fosfat Alam Untuk Pertanian, Pupuk Kalium Klorida, Pupuk Kalium Sulfat, Pupuk Monoamonium Fosfat (MAP), Pupuk NPK Padat, Pupuk SP-36, Pupuk Super Fosfat Tunggal, Pupuk Tripel Super Fosfat, Pupuk Urea, Pupuk Organik Padat, Tembakau Besuki NO, Tembakau Besuki Voor-Oogst Ekspor, Tembakau Boyolali Asepan, Tembakau Jawa Timur Voor Oogst, (Jatim VO), Tembakau Virginia FC, Tepung Terigu sebagai bahan makanan</p>
+<p><a href="https://drive.google.com/file/d/1PcaRtIZd9gUJn_q0JK-H491xos36mRQf/view?usp=sharing">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1Y47YauY2WJq7h0reT58AUbusJ8tRUxFw/view?usp=sharing" title="2020">LIHAT LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/1LvPPf6ORtRJLi5CW-94LCln_Of0fhqpj/view?usp=share_link" target="_blank" title="suplemen 29 Maret 2023">LIHAT LINGKUP SUPLEMEN</a></p>
+</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>21/06/2025</strong></td>
+</tr>
+<tr style="height: 185px;">
+<td class="xl71" style="height: 185px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">22</td>
+<td class="xl71" style="height: 185px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-037-IDN</td>
+<td class="xl71" style="height: 185px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">Balai Pengujian dan Sertifikasi Mutu Barang Surakarta</td>
+<td class="xl71" style="height: 185px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Panjang – Kartasura Km.8, Pabelan, Kartasura, Sukoharjo, Jawa Tengah</td>
+<td class="xl71" style="height: 185px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(0271) 743959 ; 7881926</td>
+<td class="xl71" style="height: 185px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloakdcbc534e8f203d4fa4f172b220c5ed38">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloakdcbc534e8f203d4fa4f172b220c5ed38').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addydcbc534e8f203d4fa4f172b220c5ed38 = 'bpsmbs&#117;r&#97;k&#97;rt&#97;' + '&#64;';
+				addydcbc534e8f203d4fa4f172b220c5ed38 = addydcbc534e8f203d4fa4f172b220c5ed38 + 'y&#97;h&#111;&#111;' + '&#46;' + 'c&#111;m';
+				var addy_textdcbc534e8f203d4fa4f172b220c5ed38 = 'bpsmbs&#117;r&#97;k&#97;rt&#97;' + '&#64;' + 'y&#97;h&#111;&#111;' + '&#46;' + 'c&#111;m';document.getElementById('cloakdcbc534e8f203d4fa4f172b220c5ed38').innerHTML += '<a ' + path + '\'' + prefix + ':' + addydcbc534e8f203d4fa4f172b220c5ed38 + '\'>'+addy_textdcbc534e8f203d4fa4f172b220c5ed38+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 185px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Minyak Daun Cengkeh, Teh Hitam, Biji Kopi, Teh Hijau, Tembakau Rajangan Boyolali, Tembakau Rajangan Temanggung, Tembakau Rajangan Weleri, Tembakau Rajangan Muntilan, Tembakau Rajangan Mranggen, Tembakau Boyolali Asepan, Tembakau Vorstenlanden, Tembakau Kedu, Gabah, Jagung, Beras, Air Minum Dalam Kemasan (air mineral, air demineral, air embun), Daging, telur dan susu serta hasil olahannya, Kopi Bubuk, Kopi Instan, Jamu (Kapsul, Cair, Pil, Serbuk), Pupuk Organik</p>
+<p><a href="https://drive.google.com/file/d/1Cf5hvpnpoETWKItB50Bpm65ROaQ5L8pn/view?usp=sharing" target="_blank">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1KPfOJoldRKBoxzPXEe_uYJgadDyA4QdO/view?usp=sharing" target="_blank">LIHAT LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/14hJbJl-WdCQXZz_reu0HxYEvNpREcKPR/view?usp=share_link" target="_blank" title="suplemen 22 Feb 2023">LIHAT LINGKUP SUPLEMEN</a></p>
+</td>
+<td class="xl71" style="height: 185px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>13/06/2026</strong></td>
+</tr>
+<tr style="height: 96px;">
+<td class="xl71" style="height: 96px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">23</td>
+<td class="xl71" style="height: 96px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-043-IDN</td>
+<td class="xl71" style="height: 96px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">
+<p>PT Sucofindo (Persero) Cabang Semarang</p>
+<p><strong><span style="color: red;"> </span></strong></p>
+</td>
+<td class="xl71" style="height: 96px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">
+<p>Jl. Raya Kaligawe No. 8, Kel. Trimulyo, Kec. Genuk, Semarang, Jawa Tengah</p>
+<p> </p>
+</td>
+<td class="xl71" style="height: 96px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(024) 6590547, 3516616</td>
+<td class="xl71" style="height: 96px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloak1c5a2a0cd34cbedacaf33eb30bce6791">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak1c5a2a0cd34cbedacaf33eb30bce6791').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy1c5a2a0cd34cbedacaf33eb30bce6791 = 'l&#97;bk&#97;l&#105;g&#97;w&#101;' + '&#64;';
+				addy1c5a2a0cd34cbedacaf33eb30bce6791 = addy1c5a2a0cd34cbedacaf33eb30bce6791 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+				var addy_text1c5a2a0cd34cbedacaf33eb30bce6791 = 'l&#97;bk&#97;l&#105;g&#97;w&#101;' + '&#64;' + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';document.getElementById('cloak1c5a2a0cd34cbedacaf33eb30bce6791').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy1c5a2a0cd34cbedacaf33eb30bce6791 + '\'>'+addy_text1c5a2a0cd34cbedacaf33eb30bce6791+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 96px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Air limbah, air minum, air untuk keperuan hygiene dan sanitasi, air sungai, air mineral, air laut, air hemodialisa, udara emeisi sumber tidak bergerak, udara ambien, pupuk NPK padat, pupuk fosfat alam untuk pertanian, pupuk kalium klorida, pupuk ammonium sulfat, pupuk SP-36, pupuk tripel super fosfat, pupuk kalium sulfat, pupuk organik</p>
+<p><a href="https://drive.google.com/file/d/1MvJ4VyCC1-OJqUydBVS-KFe6EyKwU8PA/view?usp=sharing">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1hf-T-NlwvOIJXNviEnLp1UCE56BhPpKY/view?usp=sharing">LIHAT LINGKUP</a></p>
+</td>
+<td class="xl71" style="height: 96px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>01/12/2025</strong></td>
+</tr>
+<tr style="height: 56px;">
+<td class="xl71" style="height: 56px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">44</td>
+<td class="xl71" style="height: 56px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-044-IDN</td>
+<td class="xl71" style="height: 56px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">Laboratorium Cabang Bandar Lampung, PT. Sucofindo (Persero)</td>
+<td class="xl71" style="height: 56px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Gatot Subroto No. 161, Pecoh Raya, Bandar Lampung 35228</td>
+<td class="xl71" style="height: 56px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(0721) 474660</td>
+<td class="xl71" style="height: 56px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloak3a2c2c30ff7e1857b6e4253a3cf2c1da">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak3a2c2c30ff7e1857b6e4253a3cf2c1da').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy3a2c2c30ff7e1857b6e4253a3cf2c1da = 'm&#117;sl&#105;m' + '&#64;';
+				addy3a2c2c30ff7e1857b6e4253a3cf2c1da = addy3a2c2c30ff7e1857b6e4253a3cf2c1da + 's&#117;c&#111;f&#105;nd&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';
+				var addy_text3a2c2c30ff7e1857b6e4253a3cf2c1da = 'm&#117;sl&#105;m' + '&#64;' + 's&#117;c&#111;f&#105;nd&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';document.getElementById('cloak3a2c2c30ff7e1857b6e4253a3cf2c1da').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy3a2c2c30ff7e1857b6e4253a3cf2c1da + '\'>'+addy_text3a2c2c30ff7e1857b6e4253a3cf2c1da+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 56px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Batubara, crude palm oil, air limbah, air sungai, air danau</p>
+<p><a href="https://drive.google.com/file/d/1GLZKeo3beoBP2PxXBn5vXuaaRk6VdjGu/view?usp=share_link" title="LP 044 IDN" target="_blank">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/13YVT3uvq0g9_JvoaerB7w2Yhi4BrIf80/view?usp=share_link" title="19 DES 2022" target="_blank">LIHAT LINGKUP</a></p>
+</td>
+<td class="xl71" style="height: 56px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>18/12/2027</strong></td>
+</tr>
+<tr style="height: 103px;">
+<td class="xl71" style="height: 103px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">24</td>
+<td class="xl71" style="height: 103px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-045-IDN</td>
+<td class="xl71" style="height: 103px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">PT. Freeport Indonesia</td>
+<td class="xl71" style="height: 103px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Airport Mozes Kilangin No. 1, Timika, Papua</td>
+<td class="xl71" style="height: 103px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(0901) 463076</td>
+<td class="xl71" style="height: 103px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloakcaa58d525c981d3e18c73316096a758d">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloakcaa58d525c981d3e18c73316096a758d').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addycaa58d525c981d3e18c73316096a758d = 'T&#105;m&#105;k&#97;Env&#105;r&#111;nm&#101;nt&#97;lL&#97;b&#111;r&#97;t&#111;ryTPRA' + '&#64;';
+				addycaa58d525c981d3e18c73316096a758d = addycaa58d525c981d3e18c73316096a758d + 'fm&#105;' + '&#46;' + 'c&#111;m';
+				var addy_textcaa58d525c981d3e18c73316096a758d = 'T&#105;m&#105;k&#97;Env&#105;r&#111;nm&#101;nt&#97;lL&#97;b&#111;r&#97;t&#111;ryTPRA' + '&#64;' + 'fm&#105;' + '&#46;' + 'c&#111;m';document.getElementById('cloakcaa58d525c981d3e18c73316096a758d').innerHTML += '<a ' + path + '\'' + prefix + ':' + addycaa58d525c981d3e18c73316096a758d + '\'>'+addy_textcaa58d525c981d3e18c73316096a758d+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 103px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Air untuk keperluan higiene dan sanitasi, Air Sumur, Air Sungai, Air Danau, air laut dan air muara, Air Limbah, tailing, sedimen, jaringan tanaman dan hewan</p>
+<p><a href="https://drive.google.com/file/d/1rFHo4TnZNrvA-oDV4YJ_rY1CEnrtvqJ4/view?usp=sharing" target="_blank">LIHAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1LjSBsNqF5w_OHQZMVMLVRVyOFRZ6cwIq/view?usp=sharing" target="_blank">LIHAT LINGKUP</a></p>
+</td>
+<td class="xl71" style="height: 103px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>27/6/2027</strong></td>
+</tr>
+<tr style="height: 133px;">
+<td class="xl71" style="height: 133px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">25</td>
+<td class="xl71" style="height: 133px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-046-IDN</td>
+<td class="xl71" style="height: 133px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">Balai Besar Standardisasi dan Pelayanan Jasa Industri Selulosa</td>
+<td class="xl71" style="height: 133px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Raya Dayeuhkolot No. 132, Bandung, Jawa Barat</td>
+<td class="xl71" style="height: 133px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(022) 5202980, 5202871</td>
+<td class="xl71" style="height: 133px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloak15d34a263ebe5b96d3b9703c051e5b1d">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak15d34a263ebe5b96d3b9703c051e5b1d').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy15d34a263ebe5b96d3b9703c051e5b1d = 'bbpk' + '&#64;';
+				addy15d34a263ebe5b96d3b9703c051e5b1d = addy15d34a263ebe5b96d3b9703c051e5b1d + 'bbpk' + '&#46;' + 'g&#111;' + '&#46;' + '&#105;d';
+				var addy_text15d34a263ebe5b96d3b9703c051e5b1d = 'bbpk' + '&#64;' + 'bbpk' + '&#46;' + 'g&#111;' + '&#46;' + '&#105;d';document.getElementById('cloak15d34a263ebe5b96d3b9703c051e5b1d').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy15d34a263ebe5b96d3b9703c051e5b1d + '\'>'+addy_text15d34a263ebe5b96d3b9703c051e5b1d+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 133px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p style="text-align: justify;">Lembaran Pulp/ Pulp sheet, Kertas, Karton, Karton dupleks, Kertas pengganda tanpa karbon, Kertas komputer kontinu, Kertas karbon, Pita kertas berperekat, Pita kertas berperekat peka tekanan, Kertas sigaret, Buku tulis sekolah, Tisu, Kertas tisu toilet, Air limbah, Air Sungai, Emisi sumber tidak bergerak, Udara Ambient, Kebauan, Udara Lingkungan Kerja, Kebisingan, Air mineral dan demineral, garam konsumsi beriodium</p>
+<p><a href="https://drive.google.com/file/d/1LzIJ5XdcK0jQ-kcsdVLjqZ0bnuI2g9hT/view?usp=sharing" target="_blank">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1HtD3s73czT8ZjiSQ17Y0veOdKFHX38hQ/view?usp=sharing" target="_blank">LIHAT LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/1TqeMB3FB6UqpMXDCe5aaJD259KmF0Moj/view?usp=share_link" target="_blank" title="suplemen 28 Nov 2022">LIHAT LINGKUP SUPLEMEN</a></p>
+<p><a href="https://drive.google.com/file/d/1St-OqolLDQKpjWAdvXhMkaW_KvyiuYoh/view?usp=sharing" target="_blank" title="suplemen juli 2023">LIHAT LINGKUP SUPLEMEN 2</a></p>
+</td>
+<td class="xl71" style="height: 133px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>19/09/2026</strong></td>
+</tr>
+<tr style="height: 69px;">
+<td class="xl71" style="height: 69px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">26</td>
+<td class="xl71" style="height: 69px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-049-IDN</td>
+<td class="xl71" style="height: 69px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">UPT Pengawasan dan Sertifikasi Benih Tanaman Pangan dan Hortikultura Provinsi Jawa Timur</td>
+<td class="xl71" style="height: 69px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Gayung Kebonsari 175 A, Surabaya - Jawa Timur </td>
+<td class="xl71" style="height: 69px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(031) 8292079</td>
+<td class="xl71" style="height: 69px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"> <span id="cloakb410550fad870b513c37c574ac36843d">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloakb410550fad870b513c37c574ac36843d').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyb410550fad870b513c37c574ac36843d = 'l&#97;bb&#101;n&#105;hsby' + '&#64;';
+				addyb410550fad870b513c37c574ac36843d = addyb410550fad870b513c37c574ac36843d + 'y&#97;h&#111;&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';
+				var addy_textb410550fad870b513c37c574ac36843d = 'l&#97;bb&#101;n&#105;hsby' + '&#64;' + 'y&#97;h&#111;&#111;' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';document.getElementById('cloakb410550fad870b513c37c574ac36843d').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyb410550fad870b513c37c574ac36843d + '\'>'+addy_textb410550fad870b513c37c574ac36843d+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 69px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Padi, jagung, kedelai, kacang tanah, kacang hijau, gandum, kacang panjang, sawi, buncis, labu, semangka, mentimun, bayam, terong, tomat, cabai</p>
+<p><a href="https://drive.google.com/open?id=1590BaDljXZ_bpLvtUPJb1s_Y-zz8sZxE" target="_blank">DOWNLOAD SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/15Iq-dhVQE8V3lTZOMFwtkqZen2gi8lWC/view?usp=sharing" target="_blank">DOWNLOAD LINGKUP</a></p>
+</td>
+<td class="xl71" style="height: 69px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>17/05/2025</strong></td>
+</tr>
+<tr style="height: 55px;">
+<td class="xl71" style="height: 55px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">27</td>
+<td class="xl71" style="height: 55px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-053-IDN</td>
+<td class="xl71" style="height: 55px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">PT Antam, Tbk UBPP Logam Mulia-Laboratorium Pengujian Kualitas</td>
+<td class="xl71" style="height: 55px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Raya Bekasi Km. 18, Jatinegara Kaum, Pulogadung, Jakarta Timur</td>
+<td class="xl71" style="height: 55px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(021) 29980900</td>
+<td class="xl71" style="height: 55px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;">
+<p><span id="cloakbc7e5b22c9bb0acaf7a83db2b282f0e4">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloakbc7e5b22c9bb0acaf7a83db2b282f0e4').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addybc7e5b22c9bb0acaf7a83db2b282f0e4 = 'R&#117;st&#105;n&#105;' + '&#64;';
+				addybc7e5b22c9bb0acaf7a83db2b282f0e4 = addybc7e5b22c9bb0acaf7a83db2b282f0e4 + '&#97;nt&#97;m' + '&#46;' + 'c&#111;m';
+				var addy_textbc7e5b22c9bb0acaf7a83db2b282f0e4 = 'R&#117;st&#105;n&#105;' + '&#64;' + '&#97;nt&#97;m' + '&#46;' + 'c&#111;m';document.getElementById('cloakbc7e5b22c9bb0acaf7a83db2b282f0e4').innerHTML += '<a ' + path + '\'' + prefix + ':' + addybc7e5b22c9bb0acaf7a83db2b282f0e4 + '\'>'+addy_textbc7e5b22c9bb0acaf7a83db2b282f0e4+'<\/a>';
+		</script></p>
+<p><span id="cloaka22f797ff80211fbc37fb36abd4e244d">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloaka22f797ff80211fbc37fb36abd4e244d').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addya22f797ff80211fbc37fb36abd4e244d = '&#97;dm&#105;nl&#97;b.lm' + '&#64;';
+				addya22f797ff80211fbc37fb36abd4e244d = addya22f797ff80211fbc37fb36abd4e244d + '&#97;nt&#97;m' + '&#46;' + 'c&#111;m';
+				var addy_texta22f797ff80211fbc37fb36abd4e244d = '&#97;dm&#105;nl&#97;b.lm' + '&#64;' + '&#97;nt&#97;m' + '&#46;' + 'c&#111;m';document.getElementById('cloaka22f797ff80211fbc37fb36abd4e244d').innerHTML += '<a ' + path + '\'' + prefix + ':' + addya22f797ff80211fbc37fb36abd4e244d + '\'>'+addy_texta22f797ff80211fbc37fb36abd4e244d+'<\/a>';
+		</script></p>
+</td>
+<td class="xl71" style="height: 55px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Bullion, logam, batuan, pasir dan konsentrat, emas paduan, emas murni, logam</p>
+<p><a href="https://drive.google.com/file/d/1EhyM5ae68uJSBJLOLbF129XVv3NChc0c/view?usp=sharing" target="_blank">DOWNLOAD SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/open?id=1n5vUFjePqQKZUuxHxLYjqFj2wDwuBled">DOWNLOAD LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/1gxZ9gHmUitkXFRB4OwrTSIvGF7ORi8Ib/view?usp=share_link" target="_blank" title="suplemen 22 Feb 2023">LIHAT LINGKUP SUPLEMEN</a></p>
+</td>
+<td class="xl71" style="height: 55px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>15/09/2024 <br /></strong></td>
+</tr>
+<tr style="height: 242px;">
+<td class="xl71" style="height: 242px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">28</td>
+<td class="xl71" style="height: 242px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-057-IDN</td>
+<td class="xl71" style="height: 242px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">Balai Besar Standardisasi dan Pelayanan Jasa Industri Agro</td>
+<td class="xl71" style="height: 242px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Ir. H. Juanda 11 Bogor, Jawa Barat</td>
+<td class="xl71" style="height: 242px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(0251) 8324068</td>
+<td class="xl71" style="height: 242px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloak6eeefb5ed04392c9962627e0f3e87126">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak6eeefb5ed04392c9962627e0f3e87126').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy6eeefb5ed04392c9962627e0f3e87126 = 'c&#97;b&#105;' + '&#64;';
+				addy6eeefb5ed04392c9962627e0f3e87126 = addy6eeefb5ed04392c9962627e0f3e87126 + 'bb&#105;&#97;' + '&#46;' + 'g&#111;' + '&#46;' + '&#105;d';
+				var addy_text6eeefb5ed04392c9962627e0f3e87126 = 'c&#97;b&#105;' + '&#64;' + 'bb&#105;&#97;' + '&#46;' + 'g&#111;' + '&#46;' + '&#105;d';document.getElementById('cloak6eeefb5ed04392c9962627e0f3e87126').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy6eeefb5ed04392c9962627e0f3e87126 + '\'>'+addy_text6eeefb5ed04392c9962627e0f3e87126+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 242px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Abon sapi, abon ikan, acar, agar-agar tepung,air kelapa olahan, air kelapa dalam kemasan, bahan baku minuman, bakpia kacang hijau, bakso ikan, bakso daging, ikan bandeng presto, bangket sagu, Bawang merah goreng, bihun, bihun instan, bihun jagung, bika ambon, biskuit, biskuit diet diabetes, biskuit untuk bayi dan balita, buah kering, bumbu rasa ayam, bumbu rasa sapi, cokelat butir, dendeng sapi, dekstrin industri pangan, dodol, dodol sirsak, emping melinjo, es krim, es berbasis susu, formula lanjutan, garam bahan baku untuk industri garam beryodium, garam konsumsi beryodium, gula kristal mentah, gula kristal putih, gula kristal rafinasi, gula palma, ikan dan hasil olahannya, jeli, kacang garing, kacang goyang, kakao bubuk, kakao massa, kakao butter (lemak kakao), kecap ikan, kecap kedelai, kecap kedelai asin, kecap kedelai manis, keju cedar olahan, kembang gula (karet, keras, lunak), keripik kentang, keripik singkong, keripik buah, kerupuk beras, kerupuk kulit, kerupuk ikan, kerupuk udang, kopi bubuk, kopi celup, kopi instan, kopi mix, kopi premiks, kopi gula susu dalam kemasan, kopra, corned beef, krimer nabati bubuk, kue lapis, kue wingko, lemak reroti, lombok kering, madu, makanan MP-ASI (bubuk instan, biskuit, siap masak, siap santai), makanan ringan ekstrudat, makaroni, manisan pala, margarin, mayones, mentega kacang, mie basah, mie instan (berlaku untuk kepiting dan bumbunya), mie kering, mie makanan ringan (cemilan), minuman energi, minuman kopi dalam kemasan, minuman isotonik, minuman jeli, minuman sari buah, minuman serbuk berperisa, minuman teh dalam kemasan, minuman susu fermentasi berperisa, minyak goreng, minyak goreng kelapa, minyak goreng sawit, minyak jagung sebagai minyak makan, minyak kedelai sebagai minyak  makan, minyak kelapa sawit (crude palm oil), minyak safflower sebagai minyak makan, minyak wijen sebagai minyak makan, MSG, nugget ayam (chicken nugget), nanas dalam kaleng, nata dalam kemasan, rambutan dalam kaleng, rempah-rempah bubuk, remah roti, roti Tawar, Roti manis, roti kenari, sale pisang, sambal, Produk Santan (Santan encer, Santan, Santan krim, Santan konsentrat, Santan bubuk), sarden dan makarel dalam kemasan kaleng, sari buah anggur, sari buah apel, sari buah tomat, sauerkraut dalam kemasan, saus cabe, saus tiram, saus tomat, selai buah, selai buah diet diabetes, serbuk minuman tradisional, sirup, sirup untuk diabetes, sirup fruktosa (HFS), sosis daging, spagheti, pasta, sup instan, susu bubuk, susu coklat bubuk, susu evaporasi, susu kedelai, susu kental manis, susu pasteurisasi, susu segar, susu sereal, susu UHT, tahu, tapioca, tauco, teh hijau, teh hijau celup, teh hijau bubuk, teh hitam, teh hitam celup, teh kering dalam kemasan, teh wangi, tempe kedelai, sohun, tepung beras, tepung beras ketan, tepung bumbu, tepung es krim, tepung gula, tepung hunkwe, tepung jagung, tepung kacang hijau, tepung ketan, tepung mokaf, tepung sagu, tepung singkong, tepung terigu sebagai bahan makanan, tepung untuk kue siap pakai, Terasi Udang, wajik, yogurt, Air Mineral, air demineral, air mineral alami, air minum embun, air minum, air minum pH tinggi, air untuk keperluan hygiene sanitasi, air limbah, udara ambien, kebisingan, pakan buatan bagi udang, pupuk urea, pupuk tripel super posfat, pupuk NPK, pupuk super posfat (SP-36), pupuk amonium sulfat, pupuk super fosfat tunggal, pupuk fosfat alam untuk pertanian, pupuk kalium klorida, ransum anak ayam; ras pedaging; ransum anak ayam ras petelur; ransum ayam ras, pedaging, ransum dara ayam ayam ras petelur, ransum itik petelur dara; ransum puyuh petelur pemula, swab test.</p>
+<p><a href="https://drive.google.com/file/d/1_lx6KvFMqRBsvwyHeAHaAJqo8mDNoauY/view?usp=sharing" target="_blank">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1KXomj_VnMaDzGummji1sk8Hca3g56dbQ/view?usp=sharing" target="_blank">LIHAT LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/1tPxDi9I1RYbFhEAHp9Vub3o2fSZ-_YqL/view?usp=share_link" target="_blank" title="Suplemen 24 okt 2022">LIHAT LINGKUP SUPLEMEN</a></p>
+</td>
+<td class="xl71" style="height: 242px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>02/10/2025</strong></td>
+</tr>
+<tr style="height: 101px;">
+<td class="xl71" style="height: 101px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">29</td>
+<td class="xl71" style="height: 101px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-060-IDN</td>
+<td class="xl71" style="height: 101px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">Balai Standardisasi dan Pelayanan Jasa Industri Samarinda</td>
+<td class="xl71" style="height: 101px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. MT. Haryono/Banggeris No. 1, Samarinda, Kalimantan Timur</td>
+<td class="xl71" style="height: 101px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(0541) 745431; 7771364</td>
+<td class="xl71" style="height: 101px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloak6d3d0a522d70c39e4b38630719a6c093">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak6d3d0a522d70c39e4b38630719a6c093').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy6d3d0a522d70c39e4b38630719a6c093 = 'b&#97;r&#105;st&#97;nds&#97;m&#97;r&#105;nd&#97;' + '&#64;';
+				addy6d3d0a522d70c39e4b38630719a6c093 = addy6d3d0a522d70c39e4b38630719a6c093 + 'k&#101;m&#101;np&#101;r&#105;n' + '&#46;' + 'g&#111;' + '&#46;' + '&#105;d';
+				var addy_text6d3d0a522d70c39e4b38630719a6c093 = 'b&#97;r&#105;st&#97;nds&#97;m&#97;r&#105;nd&#97;' + '&#64;' + 'k&#101;m&#101;np&#101;r&#105;n' + '&#46;' + 'g&#111;' + '&#46;' + '&#105;d';document.getElementById('cloak6d3d0a522d70c39e4b38630719a6c093').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy6d3d0a522d70c39e4b38630719a6c093 + '\'>'+addy_text6d3d0a522d70c39e4b38630719a6c093+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 101px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Air minum dalam kemasan (AMDK), air limbah, air permukaan, Air sungai, air danau, air tanah, pupuk urea, pupuk NPK, garam konsumsi, udara ambient, Udara Emisi Sumber Tidak Bergerak, Udara Emisi Sumber Bergerak, minyak kelapa sawit mentah (CPO), minyak goreng sawit</p>
+<p><a href="https://drive.google.com/file/d/1cTKklXwA_qOzYNONCx0tfK2CT1AzrR4D/view?usp=share_link" target="_blank">DOWNLOAD SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/19UwH4GwIwpmXpf-xncbfv4r0T2RupLR_/view?usp=share_link" target="_blank">DOWNLOAD LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/1R7w5cWfA2ILgTE_jufag1EcK9mnCXt8f/view?usp=share_link" target="_blank" title="suplemen 28 Desember 2022">LIHAT LINGKUP SUPLEMEN</a></p>
+</td>
+<td class="xl71" style="height: 101px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>06/05/2024 <br /></strong></td>
+</tr>
+<tr style="height: 28.8px;">
+<td class="xl71" style="height: 28.8px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">
+<p>30</p>
+</td>
+<td class="xl71" style="height: 28.8px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">
+<p>LP-061-IDN</p>
+</td>
+<td class="xl71" style="height: 28.8px; border-top: medium none; width: 1347px; vertical-align: top; text-align: center;" colspan="6">
+<p><strong>Nomor Akreditasi dicabut</strong></p>
+</td>
+</tr>
+<tr style="height: 28.8px;">
+<td class="xl71" style="height: 28.8px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">
+<p>31</p>
+</td>
+<td class="xl71" style="height: 28.8px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">
+<p>LP-062-IDN</p>
+</td>
+<td class="xl71" style="height: 28.8px; border-top: medium none; width: 1347px; vertical-align: top; text-align: center;" colspan="6">
+<p><strong>Nomor Akreditasi dicabut</strong></p>
+</td>
+</tr>
+<tr style="height: 26px;">
+<td class="xl71" style="height: 26px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">
+<p>32</p>
+</td>
+<td class="xl71" style="height: 26px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">
+<p>LP-063-IDN</p>
+</td>
+<td class="xl71" style="height: 26px; border-top: medium none; width: 1347px; vertical-align: top; text-align: center;" colspan="6">
+<p><strong>Nomor Akreditasi dicabut</strong></p>
+</td>
+</tr>
+<tr style="height: 26px;">
+<td class="xl71" style="height: 26px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">33</td>
+<td class="xl71" style="height: 26px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">
+<p>LP-064-IDN</p>
+</td>
+<td class="xl71" style="height: 26px; border-top: medium none; width: 1347px; vertical-align: top; text-align: center;" colspan="6">
+<p><strong>Nomor Akreditasi dicabut</strong></p>
+</td>
+</tr>
+<tr style="height: 26px;">
+<td class="xl71" style="height: 26px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">
+<p>34</p>
+</td>
+<td class="xl71" style="height: 26px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">
+<p>LP-065-IDN</p>
+</td>
+<td class="xl71" style="height: 26px; border-top: medium none; width: 1347px; vertical-align: top; text-align: center;" colspan="6">
+<p><strong>Nomor Akreditasi dicabut</strong></p>
+</td>
+</tr>
+<tr style="height: 100px;">
+<td class="xl71" style="height: 100px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">35</td>
+<td class="xl71" style="height: 100px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-066-IDN</td>
+<td class="xl71" style="height: 100px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">PT Pupuk Kalimantan Timur </td>
+<td class="xl71" style="height: 100px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. James Simandjuntak No. 1, Bontang, Kalimantan Timur</td>
+<td class="xl71" style="height: 100px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(0548) 41202</td>
+<td class="xl71" style="height: 100px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloak3212b12f79731be9582612f93c263719">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak3212b12f79731be9582612f93c263719').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy3212b12f79731be9582612f93c263719 = '&#105;sn&#97;.n&#117;r&#117;ld&#117;kh&#97;' + '&#64;';
+				addy3212b12f79731be9582612f93c263719 = addy3212b12f79731be9582612f93c263719 + 'p&#117;p&#117;kk&#97;lt&#105;m' + '&#46;' + 'c&#111;m';
+				var addy_text3212b12f79731be9582612f93c263719 = 'l&#111;ss&#105;.h&#111;tm&#97;&#105;d&#97;s&#105;m&#97;nj&#117;nt&#97;k' + '&#64;' + 'p&#117;p&#117;kk&#97;lt&#105;m' + '&#46;' + 'c&#111;m';document.getElementById('cloak3212b12f79731be9582612f93c263719').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy3212b12f79731be9582612f93c263719 + '\'>'+addy_text3212b12f79731be9582612f93c263719+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 100px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Pupuk urea, amoniak cair, pupuk NPK padat, pupuk kalium klorida, pupuk diamonium pospat (DAP), gas alam, air limbah, air laut, emisi gas buang sumber tidak bergerak, emisi gas buang sumber bergerak, udara ambien, kebisingan</p>
+<p><a href="https://drive.google.com/file/d/1mwC8Ak_vbCSlIuOradnE9GRCFeJ6rwDY/view?usp=sharing" target="_blank">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1Gm5j0N9WaJb-z_-Cs0WcwJYo9ffarIi-/view?usp=sharing" target="_blank">LIHAT LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/1JMVe16F2nTm_UTRtMYxug6hLRz9QSVCK/view?usp=share_link" target="_blank" title="Suplemen 17 April 2023">LIHAT LINGKUP SUPLEMEN</a></p>
+<p><a href="https://drive.google.com/file/d/1n9iT1vAOPYrjPvUe9qIinwsFNr0KVFN5/view?usp=share_link" target="_blank">SK SURVAILEN PERUBAHAN LINGKUP</a></p>
+</td>
+<td class="xl71" style="height: 100px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>19/09/2026</strong></td>
+</tr>
+<tr style="height: 255px;">
+<td class="xl71" style="height: 255px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">36</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-067-IDN</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">MBRIO Food Laboratory</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Villa Indah Pajajaran Blok B-17, Pulo Armin, Bogor, Jawa Barat</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(0251) 8346986</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;">
+<p><span id="cloakf2cf97a27183be406307b502b73dd851">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloakf2cf97a27183be406307b502b73dd851').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyf2cf97a27183be406307b502b73dd851 = 'l&#97;b&#111;r&#97;t&#111;ry' + '&#64;';
+				addyf2cf97a27183be406307b502b73dd851 = addyf2cf97a27183be406307b502b73dd851 + 'mbr&#105;&#111;-f&#111;&#111;d' + '&#46;' + 'c&#111;m';
+				var addy_textf2cf97a27183be406307b502b73dd851 = 'f&#111;&#111;dl&#97;b@mbr&#105;&#111;-f&#111;&#111;d.c&#111;m; ';document.getElementById('cloakf2cf97a27183be406307b502b73dd851').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyf2cf97a27183be406307b502b73dd851 + '\'>'+addy_textf2cf97a27183be406307b502b73dd851+'<\/a>';
+		</script></p>
+<p><span id="cloak15579070940b16da896db1abbbadff03">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak15579070940b16da896db1abbbadff03').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy15579070940b16da896db1abbbadff03 = 'l&#97;b&#111;r&#97;t&#111;ry' + '&#64;';
+				addy15579070940b16da896db1abbbadff03 = addy15579070940b16da896db1abbbadff03 + 'mbr&#105;&#111;-f&#111;&#111;d' + '&#46;' + 'c&#111;m';
+				var addy_text15579070940b16da896db1abbbadff03 = 'b&#105;&#111;t&#101;k&#105;nd&#111;' + '&#64;' + 'mbr&#105;&#111;-f&#111;&#111;d' + '&#46;' + 'c&#111;m';document.getElementById('cloak15579070940b16da896db1abbbadff03').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy15579070940b16da896db1abbbadff03 + '\'>'+addy_text15579070940b16da896db1abbbadff03+'<\/a>';
+		</script></p>
+</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Abon daging sapi, Air bersih, Air minum dalam kemasan, Biskuit, Buah segar dan buah dalam kemasan, Bumbu bubuk kering, bumbu pasta, Daging ayam segar, daging unggas dan daging hewan buruan yang dihaluskan dan diolah dengan perlakuan panas, daging unggas dan daging hewan buruan yang dihaluskan, diolah dan dibekukan, Es krim, Gula palma, Gula putih lunak (Soft White Sugar), gula merah lunak (Soft Brown Sugar), sirup glukosa, sirup glukosa kering (Dried Glucose Syrup), gula pasir mentah, gula kristal rafinasi, Ikan Segar; Filet Ikan dan Hasil Perikanan Termasuk Moluska, Krustase dan Ekinodermata berlapis tepung yang dibekukan, Jeli agar siap konsumsi, Kakao bubuk, Keik dan pai (isi buah atau custard, vla), Keju, Kembang gula/permen lunak, kembang gula keras/permen keras, Kopi, teh, seduhan herbal dan minuman biji-bijian dan sereal panas, Kopi bubuk, kopi instan, minuman kopi dalam kemasan, Krimer, Kukis (kue nastar), Makanan ringan ekstrudat, Minuman isotonik, Minuman sari kedelai, Minuman jeli, Minuman sari buah, Minuman susu fermentasi, yogurt, Coklat pasta, Pangan olahan siap saji (nasi goreng), Mie instan, Produk kakao dan cokelat (cokelat butir, cokelat batang), Produk protein kedelai, Roti, Saus cabe, saus panggang/saus barbekue (BBQ sauce), saus teremulsi, Sayur, kacang dan biji-bijian segar, Minuman serbuk, Sereal bar, sereal siap saji termasuk sereal sarapan, Sirup, Susu bubuk, susu segar, susu pasteurisasi, susu UHT, Teh bubuk, teh celup, minuman teh dalam kemasan, Tepung beras, tepung bumbu, Tepung terigu, , Air limbah, Hygiene monitoring, Kosmetik : bedak padat, bedak tabur, cologne, eye shadow, lipstik, lotion, maskara, pasta gigi, lipgloss, pewarna rambut, tissue basah, shampo, Antiseptik/Desinfektan</p>
+<p><a href="https://drive.google.com/file/d/1bqCTNsIfvX5gy2fe7geB4awBlwXZL4bG/view?usp=sharing" target="_blank">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1r_IXQorFFR8U74tqL7xKtJ8KIQosXoZ7/view?usp=sharing" target="_blank">LIHAT LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/1Mm-Rnm9p6UjjoZsn_DSgVnBQXOyWtFpH/view?usp=share_link" target="_blank" title="Suplemen 06 mar 2023">LIHAT LINGKUP SUPLEMEN</a></p>
+</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>05/06/2026</strong></td>
+</tr>
+<tr style="height: 255px;">
+<td class="xl71" style="height: 255px; border-top: medium none; width: 54px; text-align: center; vertical-align: top;">37</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;">LP-069-IDN</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 213px; text-align: left; vertical-align: top;">PT Indofood CBP Sukses Makmur, Tbk - Corporate Quality Assurance Laboratory</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 277px; text-align: left; vertical-align: top;">Jl. Ancol I No. 4-5, Ancol Barat, Jakarta Utara, DKI Jakarta</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 90px; vertical-align: top; text-align: center;">(021) 6909432</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 233.867px; vertical-align: top; text-align: center;"><span id="cloak92aba7f1ef02c745e0e71c3643444767">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak92aba7f1ef02c745e0e71c3643444767').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy92aba7f1ef02c745e0e71c3643444767 = 'c&#97;hy&#111;.k&#111;nst&#105;t&#117;s&#105;&#97;nt&#111;' + '&#64;';
+				addy92aba7f1ef02c745e0e71c3643444767 = addy92aba7f1ef02c745e0e71c3643444767 + '&#105;cbp' + '&#46;' + '&#105;nd&#111;f&#111;&#111;d' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';
+				var addy_text92aba7f1ef02c745e0e71c3643444767 = 'c&#97;hy&#111;.k&#111;nst&#105;t&#117;s&#105;&#97;nt&#111;' + '&#64;' + '&#105;cbp' + '&#46;' + '&#105;nd&#111;f&#111;&#111;d' + '&#46;' + 'c&#111;' + '&#46;' + '&#105;d';document.getElementById('cloak92aba7f1ef02c745e0e71c3643444767').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy92aba7f1ef02c745e0e71c3643444767 + '\'>'+addy_text92aba7f1ef02c745e0e71c3643444767+'<\/a>';
+		</script></td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 407.133px; text-align: left; vertical-align: top;">
+<p>Tepung dan pati (tepung terigu, tepung beras, tepung jagung, tapioka, pati termodifikasi, pati kentang), mie (mie instan, mie kering, bihun, mie sebagai makanan ringan) dan pasta, Makanan berbasis susu berperisa dan atau difermentasi, makanan bayi, Makanan ringan (potato chips, cassava chips, tempe chips, baked corn puff, talas chips, kerupuk), biskuit, kecap, saus, sirup, minuman ringan, bumbu bubuk (powder) dan kondimen, bumbu pasta, garam, susu bubuk, garic powder, minyak, lemak, dan minyak bumbu, carragenan, cabe bubuk, margarin, ikan asin, gula, ferrofumarate, tartrazin, wheat gluten, asam sitrat, ammonium bicarbonate, NaH2PO4, Na2CO3, MSG, guargum, air besih dan air minum, produk freeze dried (daging, sayuran, soid ingredients), hygiene monitoring (swab test alat, pakaian dan lantai, kontak tangan, test udara)</p>
+<p><a href="https://drive.google.com/file/d/1XtluipEPlYfP0QvzEs3cB_hZ6OLl433E/view?usp=sharing" target="_blank">LIHAT SERTIFIKAT AKREDITASI</a></p>
+<p><a href="https://drive.google.com/file/d/1WGFmg0w95Fxi0g4vCSVYCw6bHjX9m0KN/view?usp=share_link" target="_blank">LIHAT LINGKUP</a></p>
+<p><a href="https://drive.google.com/file/d/1gg4wGMZN04c-ezIRs4BUs4LiGGcIDEJh/view?usp=share_link" target="_blank" title="suplemen 06 Februari 2023">LIHAT LINGKUP (SUPLEMEN)</a></p>
+</td>
+<td class="xl71" style="height: 255px; border-top: medium none; width: 126px; text-align: center; vertical-align: top;"><strong>09/05/2026</strong></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">                                                                                                           </p>
+<p style="text-align: center;">                                      <span style="color: #000000; font-family: 'Open Sans Condensed'; font-size: 17px;">  <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji" target="_blank" style="color: #0000cc; text-decoration-line: underline;">1</a> <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=170" target="_blank">2</a> <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=171" target="_blank">3</a> <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=172" target="_blank">4</a> <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=173" target="_blank">5</a> <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=174" target="_blank">6</a> <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=175" target="_blank">7</a> <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=176" target="_blank">8</a> <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=177" target="_blank">9</a> <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=178" target="_blank">10</a> <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=179" target="_blank">11</a> <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=180" target="_blank">12</a> <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=181" target="_blank">13</a> <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=182" target="_blank">14</a> <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=201" target="_blank">15</a> </span><span style="color: #000000; font-family: 'Open Sans Condensed'; font-size: 17px;"> <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=185" target="_blank">16</a><a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=186" target="_blank"> 17</a> <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=203" target="_blank">18</a> <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=215" target="_blank">19</a> <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=217" target="_blank">20 </a><a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=232" target="_blank">21 </a><a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=324" target="&quot;">22 </a><a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=344" target="_blank">23</a> <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=363" target="_blank">24</a> <a href="/index.php/documents/terakreditasi/doc17020/sni-iso-iec-17025/laboratorium-penguji?layout=edit&amp;id=390" target="_blank">25</a></span></p> 		</div>
+		
+			
+			
+									</div>
+		</div>
+
+
+																	</div>	
+														
+														
+													
+													
+														</div>
+						</div>
+						
+												<div class="clearbreak"></div>
+					</div>
+				</div>
+								<div class="clearbreak"></div>
+				</div>
+				</div>
+			</div>
+																						<div id="avatar-footer-inside-block">
+					<div class="avatar-wrapper block-default-width">
+										
+										
+										
+											<div id="avatar-pos-footer-right">
+									<div class="at-module no-padding-margin-side at-mod-91">
+					<div class="at-module-content">
+				
+
+<div class="custom"  >
+	<p style="color: #373737; text-align: right;"><strong>Kontak Kami<br /></strong></p>
+<p style="text-align: right;"><strong>SEKRETARIAT KOMITE AKREDITASI NASIONAL</strong></p>
+<p style="text-align: right;">Jl. Kuningan Barat Raya, No. 01A, Kuningan, Mampang Prapatan<br />Jakarta Selatan<br />DKI Jakarta 12710 - INDONESIA</p>
+<p style="text-align: right;">Phone &amp; Email  : <br /><span style="font-size: 12.16px; text-align: start;"><span style="font-size: 12.16px;">Direktorat Akreditasi Laboratorium - ‎081388636959 (<a href="mailto:laboratorium@bsn.go.id">laboratorium@bsn.go.id</a>)</span><br /><span style="font-size: 12.16px;">Direktorat Akreditasi Lembaga Inspeksi dan Lembaga Sertifikasi - 081213140054 (<a href="mailto:sertifikasi@bsn.go.id;">sertifikasi@bsn.go.id</a>)</span><br /></span></p>
+<p style="text-align: right;"><span style="font-size: 12.16px; text-align: start;"><span style="font-size: 12.16px;"> </span></span></p>
+<p> </p>
+<!-- Histats.com  (div with counter) -->
+<div id="histats_counter"></div>
+<!-- Histats.com  START  (aync)--><noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?3921365&101" alt="" border="0"></a></noscript><!-- Histats.com  END  --></div>
+			</div>
+		</div>
+	
+						</div>
+										<div class="clearbreak"></div>
+					</div>
+				</div>
+						
+						
+							<div id="avatar-footer-block">
+					<div class="avatar-wrapper block-default-width">
+								<div class="at-module avatar-copyright at-mod-89">
+					<div class="at-module-content">
+				
+
+<div class="custom"  >
+	<p><a href="/avatar_nine/www.amazing-templates.com">Copyright © 2017 oleh Komite Akreditasi Nasional</a></p>
+<p> </p>
+<p> </p>
+<!-- Histats.com  (div with counter) -->
+<div id="histats_counter"></div>
+<!-- Histats.com  START  (aync)--><noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?3921365&101" alt="" border="0"></a></noscript><!-- Histats.com  END  --></div>
+			</div>
+		</div>
+	
+					</div>
+				</div>
+									
+		</div>
+		<div style="display:none;"> Powered by <a href="http://www.kan.or.id">Komite Akreditasi Nasional</a> 2016 - All Rights Reserved.</div>
+		<div id="avatar-debug">
+			
+		</div>
+	
+<noscript>Diese Webseite nutzt die kostenlose Version doSSL für Joomla! - Dieses Joomla!-Plugin wurde von der <a title="doSSL entwickelt von der Internetagentur reDim GmbH" href="https://www.redim.de/">Internetagentur reDim</a> entwickelt - Bitte aktivieren Sie JavaScript.</noscript>
+</body>
+</html>
