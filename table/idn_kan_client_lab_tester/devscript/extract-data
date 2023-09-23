@@ -41,6 +41,9 @@ for my $file (sort <$Bin/../raw/*>) {
     for my $rec (@recs) {
         next if $rec =~ /<th|NAMA LABORATORIUM/;
         #log_trace $rec;
+
+        my $row;
+
         $rec =~ m!\A
                   <td[^>]*> \s*(?:<p[^>]*>)?\s* (\d+)         \s*(?:</p>)?\s*                    </td> \s* # 1. nomor
                   <td[^>]*> \s*(?:<p[^>]*>)?\s* (\w+-\d+-\w+) \s*(?:</p>)?\s* (?:<p>\s*</p>)?\s* </td> \s* # 2. accreditation_number
@@ -50,7 +53,7 @@ for my $file (sort <$Bin/../raw/*>) {
                  !gimsx
                      and do {
                          log_trace "No $1 ($3)";
-                         my $row = [$2, undef, undef, undef, undef, undef, $3];
+                         $row = [$2, undef, undef, undef, undef, undef, $3];
                          goto ADD_ROW;
                      };
         $rec =~ m!\A
@@ -66,7 +69,7 @@ for my $file (sort <$Bin/../raw/*>) {
                  !gmsx
                      or die "Record does not match regex: $rec";
         log_trace "No $1";
-        my $row = [$2, $3, $4, $5, $6, $7, ''];
+        $row = [$2, $3, $4, $5, $6, $7, ''];
         _strip_tags(\( $row->[1] )); # alamat ada mengandung tags
         _strip_tags(\( $row->[2] )); # alamat ada mengandung tags
         _strip_tags(\( $row->[3] )); # phone
