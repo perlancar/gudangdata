@@ -1,0 +1,76 @@
+#!/usr/bin/env perl
+
+use v5.14;
+use strict;
+use warnings;
+use FindBin '$Bin';
+
+use File::chdir;
+
+my $page_size = 20;
+my $max_page = 2772;
+
+my %data; # key = id (uint), row = data (hashref)
+READ_DATA:
+{
+    local $CWD = "$Bin/../raw" or die "Can't chdir to $Bin/raw: $!";
+    for my $file (glob "index*") {
+        my ($page) = $file =~ /page=(\d+)/
+            or die "Can't extract page number from filename '$file'";
+
+        my $content;
+      READ_FILE:
+        {
+            local $/;
+            open my $fh, "<", $file or die "Can't open $file: $!";
+            $content = <$fh>;
+            close $fh;
+        }
+
+        my %pagedata;
+        while ($content =~ m!<tr[^>]*>
+                             <td>(\d+)</td> # 1. nomor
+                             <td>(.*?)</td> # 2. golongan
+                             <td>(.*?)</td> # 3. jenis btp
+                             <td>(.*?)</td> # 4. INS
+                             <td>(.*?)</td> # 5. no kategori pangan
+                             <td>(.*?)</td> # 6. nama kategori pangan
+                             <td>(.*?)</td> # 7. batas maksimum
+                             <td>(.*?)</td> # 8. satuan
+                             <td>(.*?)</td> # 9. keterangan
+                             <td>(.*?)</td> # 10. catatan
+                             <td>(.*?)</td> # 11. status
+                             </tr>!gx) {
+            #$pagedata{$1} = {
+            #    additive_group => $2,
+            #    additive_name  => $3,
+            #    ins_number => $4,
+            #    food_category_number => $5,
+            #    food_category_name   => $6,
+            #    limit => $7,
+            #    limit_unit => $8,
+            #    information => $9,
+            #    note => $10,
+            #    status => $11,
+            #};
+            $pagedata{$1} = [$1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11];
+        }
+        if ($page == $max_page) {
+            die "Too few data rows in file $file" if keys %pagedata > $page_size;
+        } else {
+            die "Too many/few data rows in file $file" if (keys %pagedata != $page_size);
+        }
+
+        $data{$_} = $pagedata{$_} for keys %pagedata;
+    } # for $file
+} # READ_DATA
+
+WRITE_DATA:
+{
+    require Text::CSV;
+    my $csv = Text::CSV->new({binary=>1, auto_diag=>1});
+    #print "id,additive_group,additive_name,ins_number,food_category_number,food_category_name,limit,limit_unit,information,note,status\n";
+    for (sort {$a <=> $b} keys %data) {
+        $csv->say(\*STDOUT, $data{$_});
+    }
+}

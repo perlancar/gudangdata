@@ -1,0 +1,15 @@
+summary: Additives in BPOM processed food division
+summary.alt.lang.id_ID: Bahan tambahan pangan di BPOM pangan olahan
+fields:
+  id: {"pos":0,"schema":"uint*","sortable":Yes}
+  additive_group: {"pos":1,"schema":"str*","sortable":Yes}
+  additive_name: {"pos":2,"schema":"str*","sortable":Yes}
+  ins_number: {"pos":3,"schema":"str*","sortable":Yes}
+  food_category_number: {"pos":4,"schema":"str*","sortable":Yes}
+  food_category_name: {"pos":5,"schema":"str*","sortable":No}
+  limit: {"pos":6,"schema":"str*","sortable":Yes}
+  limit_unit: {"pos":7,"schema":"str*","sortable":Yes}
+  information: {"pos":8,"schema":"str*","sortable":No}
+  note: {"pos":9,"schema":"str*","sortable":No}
+  status: {"pos":10,"schema":"str*","sortable":Yes}
+pk: id
