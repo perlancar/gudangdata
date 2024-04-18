@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "id,additive_group,additive_name,ins_number,food_category_number,food_category_name,limit,limit_unit,information,note,status" > merged.csv
+cat data.csv >> merged.csv
