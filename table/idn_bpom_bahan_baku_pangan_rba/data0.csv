@@ -1,4 +1,12 @@
-" ADAS PEDAS BUBUK-ADAS BUBUK-FENNEL POWDER (FOENICULUM VULGARE)",No,No,Aktif
+"1,4-a-glukan 6-aglukosiltransferase (1,4-Alpha-glucan 6- Alphaglucosyltransferase) (Bahan Penolong)",No,No,Aktif
+2-Fukosilaktosa,No,No,Nonaktif
+"3-Fitase (3-Phytase) (Bahan Penolong)",No,No,Aktif
+"4-Fitase (4-Phytase) (Bahan Penolong)",No,No,Aktif
+"a-amilase (tahan panas) (Alphaamylase (thermostable)) (Bahan Penolong)",No,No,Aktif
+"a-amilase dan glukoamilase (Alphaamylase and Glucoamylase) (Bahan Penolong)",No,No,Aktif
+"a-Asetolaktat dekarboksilase (Alpha-Acetolactate decarboxylase) (Bahan Penolong)",No,No,Aktif
+"a-galaktosidase (Alpha-galactosidase) (Bahan Penolong)",No,No,Aktif
+"a-Glukosidase (Alpha-Glucosidase) (Bahan Penolong)",No,No,Aktif
 "Abalon (Abalone)",No,No,Aktif
 "Abon Ayam (Chicken Floss)",No,No,Aktif
 "Abon Babi (Pork Floss)",No,No,Aktif
@@ -14,10 +22,12 @@
 "ACEROLA (MALPIGHIA GLABRA)- BARBADOS CHERRY-WEST INDIAN CHERRY-CEREZA-CERESIER-SEMERUCO-WILD CRAPEMYRTLE",No,No,Aktif
 "ACEROLA BUBUK (ACEROLA POWDER)",No,No,Nonaktif
 "ACEROLA EKSTRAK (ACEROLA EXTRACT)",No,No,Nonaktif
+"Actinidin (Bahan Penolong)",No,No,Aktif
 "ADAS (FENNEL)",No,No,Nonaktif
 "ADAS MANIS BUBUK-ANIS POWDER (PIMPINELLA ANISUM)",No,No,Aktif
 "Adas Manis-Anis (Pimpinella anisum)",No,No,Aktif
 "ADAS PEDAS - ADAS - FENNEL (FOENICULUM VULGARE)",No,No,Aktif
+"ADAS PEDAS BUBUK-ADAS BUBUK-FENNEL POWDER (FOENICULUM VULGARE)",No,No,Aktif
 "ADAS SOWA-DILL (ANETHUM GRAVEOLENS L.)",No,No,Aktif
 "ADENOSIN 5-MONOFOSFAT (ADENOSINE 5-MONOPHOSPHATE)",No,No,Aktif
 "Adonan (Dough)",No,No,Aktif
@@ -34,10 +44,11 @@
 "Air Mineral (Mineral Water)",No,No,Aktif
 "Air Soda (Soda Water)",No,No,Aktif
 "Air Suling (Distilled Water)",No,No,Aktif
+"Ajwain (Carom seed)",No,No,Aktif
 "AKAR BUNGA TERATAI (LOTUS ROOT)",No,No,Nonaktif
 "Akar Chicory (Chicory Root)",No,No,Aktif
-"Akar Ginseng (Panax Ginseng C.A Meyer)",No,No,Aktif
-"Akar Ginseng (Panax Quinquefolius-American Ginseng)",No,No,Aktif
+"Akar Ginseng (Ginseng Root / Panax Ginseng C.A Meyer)",No,No,Aktif
+"Akar Ginseng (Ginseng Root / Panax Quinquefolius-American Ginseng)",No,No,Aktif
 "Akar Ketumbar (Coriander Root)",No,No,Aktif
 "AKAR TERATAI BUBUK -LOTUS ROOT POWDER(NELUMBIUM NELUMBO DRUCE; NELUMBIUM NUCIFERUM) ",No,No,Aktif
 "Alanin (Alanine)",No,No,Aktif
@@ -45,18 +56,19 @@
 "ALFA KAROTEN",No,No,Aktif
 "Alfa Laktalbumin (Alpha-Lactalbumin)",No,No,Aktif
 "Alfa Tokoferol (Alpha-Tocopherol)",No,No,Aktif
-"ALFA-AMILASE (ALPHA-AMYLASE)",No,No,Aktif
 "ALFALFA (ALFALFA)",No,No,Nonaktif
 "Alga Merah (Red Algae)",No,No,Aktif
 "ALGINAT (ALGINATE)",No,No,Aktif
 "Alkohol (Alcohol)",No,No,Aktif
-"Allulosa (Allulose)",No,No,Aktif
+"Allulosa (Allulose) (Hanya untuk produk gula langka/rare sugar)",No,No,Aktif
 "Almond Bubuk (Almond Powder)",No,No,Aktif
 "Almond Butiran (Almond Granules)",No,No,Aktif
 "Almond Panggang (Roasted Almond)",No,No,Aktif
 "Alpukat (Avocado)",No,No,Aktif
 "Alpukat Bubuk (Avocado Powder)",No,No,Aktif
 "Alpukat Pasta (Avocado Paste)",No,No,Aktif
+"Amilomaltase (Amylomaltase) (Bahan Penolong)",No,No,Aktif
+"Aminopeptidase (Aminopeptidase (Bahan Penolong)",No,No,Aktif
 "AMONIAK (AMMONIA)",No,No,Nonaktif
 "AMONIAK CAIR (LIQUID AMMONIA)",No,No,Nonaktif
 "Ampela (Gizzard)",No,No,Aktif
@@ -80,34 +92,50 @@
 "Artichoke (Artichoke)",No,No,Aktif
 "Arugula (Eruca Sativa)",No,No,Aktif
 Asafoetida,No,No,Aktif
+"Asam a-linolenat (Alpha Linolenic acid)",No,No,Aktif
 "Asam Amino Premiks (Amino Acid Premix)",No,No,Aktif
 "ASAM ARAKHIDONAT -ARA-AA (DARI MINYAK LAIN)",No,No,Aktif
 "ASAM ARAKHIDONAT-ARA-AA (DARI MINYAK SEL TUNGGAL)",No,No,Aktif
+"Asam Arakidonat (Arachidonic Acid/ARA)",No,No,Aktif
 "ASAM ASETAT GLASIAL (GLACIAL ACETIC ACID)",No,No,Aktif
+"Asam Dokosaheksaenoat (Docosahexaenoic Acid/DHA)",No,No,Aktif
+"Asam eikosapentaenoat (EPA)",No,No,Aktif
 "Asam Folat (Folic Acid)",No,No,Aktif
 "Asam Fosfat (Acid Phosphoric)",No,No,Aktif
 "ASAM GELUGUR (GARCINIA ATROVIRIDIS)",No,No,Aktif
 "ASAM JAWA BUBUK-TAMARIND POWDER (TAMARINDUS INDICA)",No,No,Aktif
 "ASAM JAWA-TAMARIND (TAMARINDUS INDICA)",No,No,Aktif
 "ASAM KANDIS (GARCINIA XANTHOCHYMUS)",No,No,Aktif
+"Asam Laktat (Lactic acid)",No,No,Aktif
+"Asam Laurat/Asam dodekanoat (Lauric acid)",No,No,Aktif
 "Asam Linoleat (Linoleic Acid)",No,No,Aktif
 "Asam Linoleat Terkonjugasi (Conjugated Linoleic Acid)",No,No,Aktif
 "Asam Nukleat (Nucleic Acid)",No,No,Aktif
 "Asam Oktanoat (Octanoate Acid)",No,No,Aktif
 "ASAM OLEAT (OLEIC ACID)",No,No,Aktif
+"Asam Oleat/Asam 9-oktadekenoat (Oleic acid)",No,No,Aktif
 "Asam Palmitat (Palmitic Acid)",No,No,Aktif
+"Asam Palmitat/Asam heksadekanoat (Palmitic acid)",No,No,Aktif
 "Asam Stearat (Stearic Acid)",No,No,Aktif
 "Asam Sulfat (Sulfic Acid)",No,No,Aktif
+"Asilgliserol lipase (Acylglycerol lipase) (Bahan Penolong)",No,No,Aktif
 "ASKORBIL PALMITAT (ASCORBYL PALMITATE)",No,No,Aktif
+"Asparaginase (Asparaginase) (Bahan Penolong)",No,No,Aktif
 "ASPARAGUS (ASPARAGUS OFFICINALIS)",No,No,Aktif
 "Asparagus Laut (Sea Asparagus)",No,No,Aktif
 "Asparagus Putih (White Asparagus)",No,No,Aktif
+"Aspergillopepsin I (Aspergillopepsin I) (Bahan Penolong)",No,No,Aktif
 "ASPERGILLUS ORYZAE",No,No,Aktif
+"Astaxanthin (dengan batasan)",No,No,Aktif
 ASTRAGALI,No,No,Nonaktif
 ASTRAGALUS,No,No,Nonaktif
 "Ayam Bubuk (Chicken Powder)",No,No,Aktif
 "Ayam Suwir",No,No,Aktif
+"a– arabinofuranosidase (Alpha– arabinofuranosidase) (Bahan Penolong)",No,No,Aktif
+"a–amilase (Alphaamylase) (Bahan Penolong)",No,No,Aktif
+"B-hydroxy-Bmethylbutyrate (HMB)",No,No,Aktif
 "Babat Sapi",No,No,Aktif
+"Bacillolisin (Bacillolysin) (Bahan Penolong)",No,No,Aktif
 "BACILLUS COAGULANS GBI-30 6086 (GANEDEN BC30)",No,No,Aktif
 "BACILLUS COAGULANS MTCC 5856",No,No,Aktif
 "BAHAN HERBAL LAINNYA",No,No,Nonaktif
@@ -128,6 +156,7 @@ ASTRAGALUS,No,No,Nonaktif
 "Bawang Bombay Bubuk (Onion Powder)",No,No,Aktif
 "Bawang Bombay Kering (Dried Onion)",No,No,Aktif
 "BAWANG DAUN (CHIVES)",No,No,Nonaktif
+"Bawang Hitam (Black Garlic)",No,No,Aktif
 "BAWANG MERAH (RED ONION-SHALLOT)",No,No,Aktif
 "BAWANG MERAH BUBUK  (RED ONION POWDER - SHALLOT POWDER)",No,No,Aktif
 "BAWANG MERAH GORENG  (FRIED RED ONION - FRIED SHALLOT)",No,No,Aktif
@@ -172,10 +201,12 @@ ASTRAGALUS,No,No,Nonaktif
 "BESI SULFAT  (FERROUS SULPHATE)",No,No,Aktif
 "BESI SULFATE (FERROUS SULPHATE)",No,No,Nonaktif
 "BESI TRIOKSIDA (FERROUS TRIOXIDE)",No,No,Aktif
+"Beta Glukan (Beta-Glucan)",No,No,Aktif
 "BETA GLUKAN DARI SACCHAROMYCES CEREVISIAE",No,No,Aktif
 "BETA KAROTEN (BETA-CAROTENE)",No,No,Aktif
+"Beta Palmitat (sn-2 palmitic acid)",No,No,Aktif
 "Bifidobacterium Animalis",No,No,Aktif
-"Bifidobacterium longum NCC 3001",No,No,Aktif
+"Bifidobacterium longum",No,No,Aktif
 "Bifidobakterium Breve",No,No,Aktif
 "Bifidobakterium Laktis",No,No,Aktif
 "Bifidobakterium Longum",No,No,Aktif
@@ -209,7 +240,7 @@ ASTRAGALUS,No,No,Nonaktif
 "Biji Pala (Nutmeg)",No,No,Aktif
 "BIJI PERILLA - PERILLA SEED",No,No,Aktif
 "Biji Pinus (Pinecone)",No,No,Aktif
-"Biji Plantago",No,No,Aktif
+"Biji Plantago",No,No,Nonaktif
 "BIJI POPPY (PAPAVER SOMNIFERUM)",No,No,Nonaktif
 "BIJI QUINOA (CHENOPODIUM QUINOA WILLDENOW)",No,No,Aktif
 "Biji Rami (Flaxseed)",No,No,Aktif
@@ -284,6 +315,7 @@ Brem,No,No,Aktif
 "Buah Pepaya Kuning (Golden Papaya)",No,No,Aktif
 "Buah Pepaya Merah (Red Papaya)",No,No,Aktif
 "Buah Persik (Peach)",No,No,Aktif
+"Buah Prickly pear/Opuntia/Nopal",No,No,Aktif
 "Buah Prune (Prune)",No,No,Aktif
 "Buah Prune Kering (Dried Prune)",No,No,Aktif
 "BUAH RASPBERRY (FRAMBOZEN)",No,No,Aktif
@@ -352,6 +384,7 @@ Brem,No,No,Aktif
 "BUMBU BAWANG PEDAS (SPICY GARLIC SEASONING)",No,No,Aktif
 "BUMBU CUMI BAKAR (GRILLED SQUID SEASONING)",No,No,Aktif
 "Bumbu Daging Sapi (Beef Flavor)",No,No,Aktif
+"Bumbu Ekstrak Daging Ayam (Chicken Extract Seasoning)",No,No,Aktif
 "Bumbu Frankfurter (Frankfurter Seasoning)",No,No,Aktif
 "BUMBU GULAI (GULAI SEASONING)",No,No,Aktif
 "BUMBU IGA SAPI (SPICES OR SEASONING FOR BEEF RIBS)",No,No,Aktif
@@ -367,6 +400,7 @@ Brem,No,No,Aktif
 "BUMBU KIMCHI (KIMCHI SEASONING)",No,No,Aktif
 "BUMBU KRIM ASAM (SOUR CREAM SEASONING)",No,No,Aktif
 "BUMBU KRIM MENTEGA (BUTTERCREAM SEASONING)",No,No,Aktif
+"Bumbu Lainnya (Seasoning)",No,No,Aktif
 "BUMBU MI GORENG (FRIED NOODLE SEASONING)",No,No,Aktif
 "BUMBU MINYAK UDANG (OIL SEASONING SHRIMP)",Yes,Yes,Aktif
 "BUMBU NGOHIONG (NGOHIONG SEASONING)",No,No,Aktif
@@ -427,7 +461,6 @@ Brem,No,No,Aktif
 "BUMBU TOM YAM (TOM YAM SEASONING)",No,No,Aktif
 "Bumbu Tomat (Tomato Seasoning)",No,No,Aktif
 "Bumbu Tomat Pedas (Spicy Tomato Seasoning)",No,No,Aktif
-"BUMBU... (SEASONING)",No,No,Aktif
 "BUNCIS BUBUK (GREEN BEAN POWDER)",No,No,Aktif
 "BUNCIS HIJAU (GREEN BEAN)",No,No,Aktif
 "BUNGA CAMOMILE (CHAMOMILE FLOWER)",No,No,Aktif
@@ -435,13 +468,14 @@ Brem,No,No,Aktif
 "Bunga Elder (Sambucus nigra)",No,No,Aktif
 "bunga jagung",No,No,Nonaktif
 "BUNGA JAGUNG (CORN FLOWER - CENTAURA CYANUS)",No,No,Nonaktif
-"BUNGA JERUK CITRUS AURANTIUM (FLOWERS ORANGE CITRUS AURANTIUM)",No,No,Aktif
-"BUNGA JERUK CITRUS AURANTIUM-JERUK NIPIS (ORANGE BLOSSOMS)",No,No,Aktif
+"BUNGA JERUK CITRUS AURANTIUM (FLOWERS ORANGE CITRUS AURANTIUM)",No,No,Nonaktif
+"BUNGA JERUK CITRUS AURANTIUM-JERUK NIPIS (ORANGE BLOSSOMS)",No,No,Nonaktif
 "Bunga Lavender (Lavandula angustifolia)",No,No,Aktif
 "BUNGA MATAHARI",No,No,Nonaktif
 "Bunga Matahari (Sunflower)",No,No,Aktif
 "BUNGA MAWAR ROSA CHINENSIS (ROSE BLOSSOMS)",No,No,Nonaktif
 "BUNGA MAWAR-ROSE BLOSSOM (ROSA CHINENSIS)",No,No,Aktif
+"Bunga Osmanthus Kering (Dried Osmanthus Flower) (Kecuali Pangan Untuk Keperluan Gizi Khusus)",No,No,Aktif
 "Bunga Pala",No,Yes,Aktif
 "BUNGA SAFFLOWER",No,No,Nonaktif
 "BUNGA SAKURA",No,No,Nonaktif
@@ -559,6 +593,7 @@ Couscous,No,No,Aktif
 "Dada Ayam (Chicken Breast)",No,No,Aktif
 Dadih,No,No,Aktif
 "Dadih Bubuk (Buttermilk Powder)",No,No,Aktif
+"Dadih Keju (Cheese Curd)",No,No,Aktif
 "DAGING AYAM (CHICKEN MEAT)",No,No,Aktif
 "DAGING AYAM ASAP (SMOKE CHICKEN MEAT)",Yes,Yes,Aktif
 "Daging Ayam Bubuk (Chicken Powder)",No,No,Aktif
@@ -574,6 +609,7 @@ Dadih,No,No,Aktif
 "Daging Domba (Lamb)",No,No,Aktif
 "Daging Kalkun (Turkey Meat)",No,No,Aktif
 "Daging Kambing (Mutton)",No,No,Aktif
+"Daging Kelinci (Rabbit Meat)",No,No,Aktif
 "DAGING KERBAU (BUFFALO MEAT)",No,No,Aktif
 "Daging Paha Babi (Ham)",No,No,Aktif
 "Daging Rusa (Deer Meat)",No,No,Aktif
@@ -581,7 +617,7 @@ Dadih,No,No,Aktif
 "DAGING SAPI ASAP (SMOKE BEEF)",Yes,Yes,Aktif
 "Daging Sapi Bubuk (Beef Powder)",No,No,Aktif
 "Daging Sapi Cincang (Minced Beef)",Yes,Yes,Aktif
-"Dandelion Root Powder (Taraxacum officinale)",No,No,Aktif
+"Dandelion Root Powder (Taraxacum officinale)",No,No,Nonaktif
 "DAUN ANGGUR (GRAPE LEAF)",No,No,Nonaktif
 "Daun Apple Mint (Mentha suaveolens Ehrh)",No,No,Aktif
 "Daun Asam Jawa (Tamarindus indica)",No,No,Aktif
@@ -596,10 +632,11 @@ Dadih,No,No,Aktif
 "Daun Blackberry (Blackberry Leaf)",No,No,Aktif
 "Daun Blackcurrant",No,No,Aktif
 "Daun Cengkeh (Clove Leaf)",No,No,Aktif
+"Daun Chervil (Anthriscus cerefolium) (Kecuali Pangan Untuk Keperluan Gizi Khusus)",No,No,Aktif
 "Daun Citrus Thyme (Thymus citriodorus)",No,No,Aktif
 "DAUN GANDUM (WHEATGRASS)",No,No,Nonaktif
 "Daun Gedi (Abelmoschus manihot (L.) Medik)",No,No,Aktif
-"DAUN JAMBU BIJI (GUAVA LEAF)",No,No,Aktif
+"DAUN JAMBU BIJI (GUAVA LEAF)",No,No,Nonaktif
 "DAUN JATI BELANDA (GUAZUMA ULMIFOLIA)",No,No,Nonaktif
 "DAUN JERUK (CITRUS LEAF ATAU LIME LEAF)",No,No,Aktif
 "Daun Jeruk Purut (Kaffir Lime Leaf)",No,No,Aktif
@@ -631,6 +668,7 @@ Dadih,No,No,Aktif
 "DAUN RHUBARB (RHEUM RHABARBARUM)",No,No,Nonaktif
 "Daun Rosemarry (Rosemarry Leaf)",No,No,Aktif
 "DAUN SAGA (JEQUIRITY LEAF)",No,No,Aktif
+"Daun Sage (Salvia officinalis - maksimum Tujon 10 ppm)",No,No,Aktif
 "Daun Salam (Bay Leaf)",No,No,Aktif
 "Daun Salam Bubuk (Bay Leaf Powder)",No,No,Aktif
 "Daun Seledri (Celery Leaf)",No,No,Aktif
@@ -639,14 +677,15 @@ Dadih,No,No,Aktif
 "DAUN SERUNI (CHRYSANTHEMUM LEAF)",No,No,Aktif
 "DAUN SINGKONG (CASSAVA LEAF)",No,No,Aktif
 "DAUN SIRIH (BETEL LEAF)",No,No,Nonaktif
-"DAUN SIRSAK (SOURSOP LEAF)",No,No,Aktif
+"DAUN SIRSAK (SOURSOP LEAF)",No,No,Nonaktif
 "DAUN STEVIA (STEVIA LEAF)",No,No,Nonaktif
 "Daun Stroberi (Strawberry Leaf)",No,No,Aktif
 "DAUN SWISS CHARD (FOLIUM BETA VULGARIS)",No,No,Aktif
 "DAUN TARRAGON (TARRAGON LEAF)",No,No,Aktif
 "daun teratai ",No,No,Nonaktif
-"Daun Teratai (Lotus Leaf)",No,No,Aktif
+"Daun Teratai (Lotus Leaf)",No,No,Nonaktif
 "Daun Ubi Merah (Red Sweet Potato Leaf)",No,No,Aktif
+"Dekstranase (Dextranase) (Bahan Penolong)",No,No,Aktif
 "Dekstrin (Dextrin)",No,No,Aktif
 "Dekstrosa (Dextrose)",No,No,Aktif
 "Dekstrosa Anhidrat (Anhydrous Dextrose)",No,No,Aktif
@@ -666,7 +705,7 @@ Dextrosa,No,No,Nonaktif
 "Dinatrium fosfat (Disodium Orthophosphate)",No,No,Aktif
 "Dinatrium Fosfat Anhidrat (Disodium Phosphate Anhydrous)",No,No,Aktif
 "Dinatrium Guanosin 5-Monofosfat",No,No,Aktif
-"DINATRIUM SUKSINAT (DISODIUM SUCCINATE)",No,No,Aktif
+"DINATRIUM SUKSINAT (DISODIUM SUCCINATE)",No,No,Nonaktif
 "Dinatrium Uridin 5-Monofosfat",No,No,Aktif
 "Duckweed / water lentils (Lemna gibba / Lemna minor complex dan Wolffia globosa)",No,No,Aktif
 "Dulse (Palmaria palmata)",No,No,Aktif
@@ -734,11 +773,11 @@ Dextrosa,No,No,Nonaktif
 "Ekstrak Buah Ume (Japanesse Plum Extract)",No,No,Aktif
 "Ekstrak Bumbu (bawang bombay,bawang putih, paprika dan annato)",No,No,Nonaktif
 "EKSTRAK BUNGA CHAMOMILE (CHAMOMILE FLOS EXTRACT)",No,No,Aktif
-"EKSTRAK BUNGA ELDER (ELDER FLOS EXTRACT)",No,No,Nonaktif
-"Ekstrak Bunga Jeruk (Orange Flos Extract)",No,No,Aktif
+"EKSTRAK BUNGA ELDER (ELDER FLOS EXTRACT) - Khusus Minuman Beralkohol",No,No,Aktif
+"Ekstrak Bunga Jeruk (Orange Flos Extract)",No,No,Nonaktif
 "EKSTRAK BUNGA KRISAN (CHRYSANTHEMUM EXTRACT)",No,No,Aktif
 "EKSTRAK BUNGA MAWAR (ROSE FLOS EXTRACT)",No,No,Nonaktif
-"EKSTRAK BUNGA SAFFLOWER (CARTHAMUS TINCTORIUS)",No,No,Nonaktif
+"EKSTRAK BUNGA SAFFLOWER (CARTHAMUS TINCTORIUS)",No,No,Aktif
 "Ekstrak Cabe (Chili Extract)",No,No,Aktif
 "Ekstrak Campuran Buah Beri (Mixberry Extract)",No,No,Aktif
 "Ekstrak Chicory (Chicory Extract)",No,No,Aktif
@@ -749,7 +788,8 @@ Dextrosa,No,No,Nonaktif
 "Ekstrak Daging Babi (Pork Extract)",No,No,Aktif
 "Ekstrak Daging Sapi (Beef Extract)",No,No,Aktif
 "Ekstrak Daun Katuk (Sauropus androgynus Extract)",No,No,Aktif
-"EKSTRAK DAUN MESONA (MESONA LEAF EXTRACT)",No,No,Aktif
+"Ekstrak Daun Kelor (Moringa Leaves Extract)",No,No,Aktif
+"EKSTRAK DAUN MESONA (MESONA LEAF EXTRACT)",No,No,Nonaktif
 "EKSTRAK DAUN PANDAN (PANDANUS LEAF EXTRACT)",No,No,Aktif
 "Ekstrak Daun Salam (Bay Leaf Extract)",No,No,Aktif
 "EKSTRAK DAUN SIRIH (PIPER BETLE EXTRACT)",No,No,Nonaktif
@@ -766,7 +806,9 @@ Dextrosa,No,No,Nonaktif
 "EKSTRAK HOP (HOP EXTRACT)",No,No,Aktif
 "Ekstrak Ikan (Fish Extract)",No,No,Aktif
 "Ekstrak Ikan Bonito (Bonito Fish Extract)",No,No,Aktif
+"Ekstrak Ikan Gabus (Snakehead fish Extract)",No,No,Aktif
 "Ekstrak Ikan Sardin (Sardines Extract)",No,No,Aktif
+"Ekstrak Ikan Sidat (Eel Extract)",No,No,Aktif
 "Ekstrak Ikan Teri (Anchovy Extract)",No,No,Aktif
 "Ekstrak Jagung (Corn Extract)",No,No,Aktif
 "Ekstrak Jahe (Ginger Extract)",No,No,Aktif
@@ -780,6 +822,7 @@ Dextrosa,No,No,Nonaktif
 "Ekstrak Jeruk Limau (Citrus Extract)",No,No,Aktif
 "EKSTRAK JERUK LIMAU BUBUK (LIME EXTRACT POWDER)",Yes,Yes,Aktif
 "Ekstrak Jeruk Nipis (Lime Extract)",No,No,Aktif
+"Ekstrak Jintan Hitam",No,No,Aktif
 "Ekstrak Kacang Hazel (Hazelnut Extract)",No,No,Aktif
 "Ekstrak Kacang Hijau (Mungben Extract)",No,No,Aktif
 "Ekstrak Kacang Kedelai (Soybean Extract)",No,No,Aktif
@@ -805,6 +848,7 @@ Dextrosa,No,No,Nonaktif
 "Ekstrak Kunyit (Turmeric Extract)",No,No,Aktif
 "Ekstrak Lada (Pepper Extract)",No,No,Aktif
 "EKSTRAK LICORICE-LIQUORICE- SUCCUS LIQUIRITIAE (GLYCYRRHIZA GLABRA)",No,No,Aktif
+"Ekstrak Licorice-Liquorice- Succus Liquiritiae (Glycyrrhiza Glabra/leguminous weed)",No,No,Aktif
 "Ekstrak Lidah Buaya (Aloe Vera Extract)",No,No,Aktif
 "Ekstrak Lobak (Radish Extract)",No,No,Aktif
 "Ekstrak Madu (Honey Extract)",No,No,Aktif
@@ -857,20 +901,21 @@ Dextrosa,No,No,Nonaktif
 "EKSTRAK WOLFBERRY (WOLFBERRY EXTRACT)",No,No,Aktif
 "Ekstrak Wortel (Carrot Extract)",No,No,Aktif
 "EKSTRAK WORTEL UNGU/WORTEL HITAM (PURPLE/BLACK CARROTS EXTRACT)",No,No,Aktif
+"Ekstrak Zizania Latifolia (Zizania Latifolia Extract)",No,No,Aktif
 "ELDERBERRY (SAMBUCUS EBULUS)",No,No,Aktif
 "ELDERBERRY (SAMBUCUS NIGRA)",No,No,Aktif
 "EMPING BARLEY ",No,No,Aktif
 "EMPING JAGUNG (CORN FLAKES)",No,No,Aktif
 "EMPING MELINJO - GNETUM GNEMON ",No,No,Aktif
+"Endo-1,3(4)-ßglukanase (Endo1,3(4)-Beta-glucanase) (Bahan Penolong)",No,No,Aktif
+"Endo-1,4-ß-xilanase (Endo-1,4-Betaxylanase) (Bahan Penolong)",No,No,Aktif
+"Endo-arabinase (Endo-arabinase) (Bahan Penolong)",No,No,Aktif
 "ENZIM AMILASE (AMILASE ENZYME)",No,No,Nonaktif
-"Enzim Beta - Fruktofuranosidase ",No,No,Aktif
 "ENZIM BROMELAIN (BROMELAINE ENZYME)",No,No,Nonaktif
-"ENZIM LAKTASE (LACTASE ENZYME)",No,No,Aktif
-"Enzim Laktoperoksidase (Lactoperoxidase Enzyme)",No,No,Aktif
-"ENZIM LIPASE (LIPASE ENZYME)",No,No,Aktif
+"ENZIM LAKTASE (LACTASE ENZYME)",No,No,Nonaktif
+"Enzim Laktoperoksidase (Lactoperoxidase Enzyme)",No,No,Nonaktif
 "ENZIM PAPAIN (PAPAIN ENZYME)",No,No,Nonaktif
-"ENZIM PROTEASE (PROTEASE ENZYME)",No,No,Aktif
-"Enzim Transglutaminase",No,No,Aktif
+"ENZIM PROTEASE (PROTEASE ENZYME)",No,No,Nonaktif
 "EPA (EICOSAPENTAENOIC ACID)",No,No,Aktif
 "Es (Ice)",No,No,Aktif
 "Es Batu (Ice Cube)",No,No,Aktif
@@ -878,15 +923,26 @@ Dextrosa,No,No,Nonaktif
 "EUCOMMIA ULMOIDES",No,No,Nonaktif
 "Feijoa / Pineapple Guava (Acca sellowiana)",No,No,Aktif
 "Fenilalanin (Phenilalanin)",No,No,Aktif
+"Fikain (Ficain) (Bahan Penolong)",No,No,Aktif
 "FITOMENADION (VIT K1)",No,No,Nonaktif
+Fitostanol,No,No,Aktif
 "FITOSTANOL (PHYTOSTANOL)",No,No,Nonaktif
+"Fitostanol Ester",No,No,Aktif
+Fitosterol,No,No,Aktif
 "Fitosterol (Phytosterol)",No,No,Aktif
+"Fitosterol Ester",No,No,Aktif
 "FONDAN (FONDANT)",No,No,Aktif
+"Fosfolipase A1 (Phospholipase A1) (Bahan Penolong)",No,No,Aktif
+"Fosfolipase A2 (Phospholipase A2) (Bahan Penolong)",No,No,Aktif
+"Fosfolipase C (Phospholipase C) (Bahan Penolong)",No,No,Aktif
 "Fosfolipid (Phospholipids)",No,No,Aktif
+"Fruit Bromelain (Bahan Penolong)",No,No,Aktif
 "FRUKTO OLIGOSAKARIDA (FOS)",No,No,Aktif
+"Fruktooligosakarida (Fructooligosacchar ide FOS)",No,No,Aktif
 "Fruktosa (Fructose)",No,No,Aktif
 "GABAH PADI (RICE GRAIN)",No,No,Aktif
 "Galakto Oligosakarida (GOS)",No,No,Aktif
+"Galaktooligosakarida (Galactooligosacch aride – GOS)",No,No,Aktif
 "GAMA KAROTEN",No,No,Aktif
 "Gambir (Uncaria gambir)",No,No,Aktif
 "Gandum (Wheat)",No,No,Aktif
@@ -912,13 +968,19 @@ Dextrosa,No,No,Nonaktif
 "GELATIN (GELATINE)",Yes,No,Aktif
 "GENMAICHA (ROASTED RICE TEA)",No,No,Aktif
 "GIN (GIN)",No,No,Aktif
+"Ginjal Sapi (Beef Kidney)",No,No,Aktif
 "GINKGO BILOBA",No,No,Nonaktif
 GLISERIN,No,No,Nonaktif
-"GLISEROL (GLYCEROL)",No,No,Nonaktif
+"Gliserolfosfolipid kolesterol asiltransferase (Glycerophospholipid cholesterol acyltransferase) (Bahan Penolong)",No,No,Aktif
 "GLISIN (GLYCINE)",No,No,Aktif
+"Glukan 1,3-ßglukosidase (Glucan 1,3-Beta-glucosidase) (Bahan Penolong)",No,No,Aktif
+"Glukan 1,4-aglukosidase (Glucan 1,4-Alphaglucosidase) (Bahan Penolong)",No,No,Aktif
+"Glukan 1,4-amaltohidrolase (Glucan 1,4-Alphamaltohydrolase) (Bahan Penolong)",No,No,Aktif
+"Glukan 1,4-amaltotetraohidrolase (Glucan 1,4-Alphamaltotetraohydrolase) (Bahan Penolong)",No,No,Aktif
 "Glukosa (Glucose)",No,No,Aktif
 "Glukosa Anhidrat (Glucose Anhydrate)",No,No,Aktif
 "Glukosa Bubuk (Glucose Powder)",No,No,Aktif
+"Glukosa oksidase (Glucose oxidase) (Bahan Penolong)",No,No,Aktif
 "Glukosamin (Glucosamine)",No,No,Aktif
 "Glukosamin Hidroklorida (Glucosamine Hydrochloride)",No,No,Aktif
 "Glukosamin Sulfat (Glucosamine Sulphate)",No,No,Aktif
@@ -949,7 +1011,7 @@ GOBO,No,No,Nonaktif
 "Gula Pasir (Granulated Sugar)",No,No,Aktif
 "GULA SIWALAN (PALM SUGAR)",No,No,Aktif
 "Gula Tebu (Cane Sugar)",No,No,Aktif
-"Gula Terfermentasi (Fermented Sugar)",No,No,Aktif
+"Gula Terfermentasi (Fermented Sugar)",No,No,Nonaktif
 "GUM BASE",No,No,Aktif
 "Gurita (Octopus)",No,No,Aktif
 "HALBA (HALBA)",No,No,Nonaktif
@@ -994,7 +1056,9 @@ GOBO,No,No,Nonaktif
 "Hati Babi (Pig Liver)",No,No,Aktif
 "Hati Sapi (Cow Liver)",No,No,Aktif
 "HEATHER (ERICA VULGARIS)",No,No,Aktif
+"Heksosa oksidase (Hexose oxidase) (Bahan Penolong)",No,No,Aktif
 "Hemiselulase (Hemicellulase)",No,No,Aktif
+"Hemiselulase endo1,3-ß-xilanase (Hemicellulase endo1,3-Beta-xylanase) (Bahan Penolong)",No,No,Aktif
 "Hidrolisat Kasein Protein (Hydrolysed Casein Protein)",No,No,Aktif
 "Hidrolisat Protein (Hydrolyzed Protein)",No,No,Aktif
 "Hidrolisat Protein Ikan (Hydrolyzed Fish Protein)",No,No,Aktif
@@ -1049,15 +1113,18 @@ HOPS,No,No,Aktif
 "Ikan Tenggiri (Mackerel)",No,No,Aktif
 "Ikan Teri (Anchovy)",No,No,Aktif
 "IKAN TUNA (TUNA FISH)",No,No,Aktif
+"Inosin (Inosine)",No,No,Aktif
 "INOSITOL (INOSITOL)",No,No,Nonaktif
+"Inti Buah Sawit (palm kernel)",No,No,Aktif
 "Inulin (Inulin)",No,No,Aktif
-"Iodium ( Kalium Iodat- Kio3 )",No,No,Nonaktif
+"Inulinase (Inulinase (Bahan Penolong)",No,No,Aktif
 "Iodium (Kalium Iodat - KIO3)",No,No,Aktif
 "Isian berbasis susu",Yes,Yes,Aktif
+"Isoamilase (Isoamylase) (Bahan Penolong)",No,No,Aktif
+"Isoflavon (Isoflavone)",No,No,Aktif
 "Isolat Protein Kedelai (Soy Protein Isolate)",No,No,Aktif
 "ISOLAT PROTEIN NABATI (VEGETABLE PROTEIN ISOLATE)",No,No,Aktif
 "Isolat Protein Pea",No,No,Aktif
-"Isolat Protein Pea (Pea Protein Isolate)",No,No,Aktif
 "ISOLAT PROTEIN SUSU (MILK PROTEIN ISOLATE)",No,Yes,Aktif
 "ISOLAT PROTEIN WHEY (WHEY PROTEIN ISOLATE)",No,Yes,Aktif
 "Isoleusin (Isoleucine)",No,No,Aktif
@@ -1190,6 +1257,7 @@ Jagung,No,No,Nonaktif
 "Kacang Tanah Kupas (Shelled Peanuts)",No,No,Aktif
 "Kacang Tanah Panggang (Roasted Peanut)",No,No,Aktif
 "KACANG TOLO-KACANG TUNGGAK-KACANG DADAP",No,No,Nonaktif
+"Kacang Tunggak (Cowpea)",No,No,Aktif
 "KACANG WALNUT (WALNUT)",No,No,Nonaktif
 "KAFEIN (CAFFEIN)",No,No,Aktif
 "Kailan (Kai-lan-Chinese Broccoli)",No,No,Aktif
@@ -1243,9 +1311,14 @@ Karagenan,No,No,Nonaktif
 "Karamel (Caramel)",No,No,Aktif
 "Karamel Bubuk (Caramel Powder)",No,No,Aktif
 "KARAMEL CAIR (LIQUID CARAMEL)",No,No,Nonaktif
-"KARBONDIOKSIDA (CARBONDIOXIDE)",No,No,Nonaktif
+"Karboksil proteinase (Carboxyl proteinase) (Bahan Penolong)",No,No,Aktif
+"Karboksilesterase (Carboxylesterase) (Bahan Penolong)",No,No,Aktif
+"KARBONDIOKSIDA (CARBONDIOXIDE)-(hanya untuk anggur sparkling dan semi sparkling)",No,No,Aktif
 "Kari Bubuk (Curry Powder)",No,No,Aktif
 "Kasein (Casein)",No,No,Aktif
+"Katalase (Catalase) (Bahan Penolong)",No,No,Aktif
+"Katekin (Catechin)",No,No,Aktif
+"Kawista / Buah batok (Limonia acidissima)",No,No,Aktif
 "Kayu Manis (Cinnamon)",No,No,Aktif
 "Kayu Manis Bubuk",No,No,Nonaktif
 "KAYU SECANG (SAPPAN WOOD - CAESALPINIAE SAPPANIS LIGNUM)",No,No,Aktif
@@ -1326,6 +1399,8 @@ Kerupuk,No,No,Aktif
 "Ketumbar Bubuk (Coriander Powder)",No,No,Aktif
 "Kimchi (Kimchi)",No,No,Aktif
 "Kimchi Kering (Kimchi Powder)",No,No,Aktif
+"Kimosin (Chymosin) (Bahan Penolong)",No,No,Aktif
+"Kimotripsin (Chymotrypsin) (Bahan Penolong)",No,No,Aktif
 "KININ (KININE)",No,No,Aktif
 "Kismis (Raisin)",No,No,Aktif
 "Kismis Merah (Red Raisin)",No,No,Aktif
@@ -1334,7 +1409,7 @@ Kerupuk,No,No,Aktif
 "KLEMBAK (RHEUM OFFICINALE)",No,No,Aktif
 "KLOROFIL (CHLOROPHYL)",No,No,Nonaktif
 Kluwek-Keluwek,No,No,Aktif
-KOJI,No,No,Aktif
+"KOJI (KECUALI RED KOJI/BENI&nbsp;KOJI)",No,No,Aktif
 "KOJI (SWEET POTATO KOJI)",No,Yes,Nonaktif
 "KOJI BERAS (RICE KOJI)",No,Yes,Nonaktif
 "Kol - Kubis (Cabbage)",No,No,Aktif
@@ -1345,6 +1420,7 @@ KOJI,No,No,Aktif
 "Kolin (Choline)",No,No,Aktif
 "Kolin Bitartrat (Choline Bitartrat)",No,No,Aktif
 "Kolin Klorida (Choline Chloride)",No,No,Aktif
+"Kolostrum (Colostrum)",No,No,Aktif
 "Kolostrum Bubuk (Colostrum Powder)",No,No,Aktif
 "Kondroitin (Chondroitin)",No,No,Aktif
 "Kondroitin Sulfat (Chondroitin Sulfate)",No,No,Aktif
@@ -1468,6 +1544,7 @@ KOJI,No,No,Aktif
 "Kranberi (Cranberry)",No,No,Aktif
 "Kranberi Kering (Dried Cranberry)",No,No,Aktif
 "Kratom (Mitragyna speciosa)",No,No,Nonaktif
+"Kreatin (Creatine)",No,No,Aktif
 "KREATIN MONOHIDRAT (CREATINE MONOHYDRATE)",No,No,Aktif
 "KRECEK (KRECHEK)",No,No,Aktif
 "Krekers Beras (Rice Crackers)",No,No,Aktif
@@ -1509,15 +1586,19 @@ Krimer,No,No,Nonaktif
 "Kubis Brussel (Brussels Sprouts)",No,No,Aktif
 "KUCAI (GARLIC CHIVES)",No,No,Aktif
 "KUCAI KERING (DRIED GARLIC CHIVES)",No,No,Aktif
+"Kue berbahan dasar beras",No,No,Aktif
 "KUE BROWNIES (BROWNIE CAKE)",No,No,Aktif
 "KUE BUSA (MERINGUE)",No,No,Aktif
 "Kue Ikan (Fish Cake)",No,No,Aktif
 "KUKIS (COOKIES)",No,No,Aktif
+"Kulit Anggur (Vitis vinifera)",No,No,Aktif
+"Kulit Ari Gandum",No,No,Aktif
 "Kulit Ayam (Chicken Skin)",No,No,Aktif
 "Kulit Babi (Pork Rind)",No,No,Aktif
 "Kulit Bergamot (Bergamot Peels)",No,No,Aktif
 "KULIT BIJI PALA (NUTMEG MACE)",No,No,Aktif
-"Kulit Buah Manggis ",No,No,Aktif
+"Kulit Buah Kopi (cascara) (Kecuali Pangan Untuk Keperluan Gizi Khusus)",No,No,Aktif
+"Kulit Buah Manggis ",No,No,Nonaktif
 "Kulit Domba (Sheepskin)",No,No,Aktif
 "Kulit Gandum (Wheat Bran)",No,No,Aktif
 "Kulit Ikan (Fish Skin)",No,No,Aktif
@@ -1555,12 +1636,22 @@ Krimer,No,No,Nonaktif
 "Kurma Bubuk (Dates Powder)",No,No,Aktif
 "Kurma Merah (Red Dates)",No,No,Aktif
 "L - GLUTATION (L - GLUTATHIONE)",No,No,Aktif
+"L-Alanin (LAlanine)",No,No,Aktif
+"L-Asam aspartat (L-Aspartic acid)",No,No,Aktif
+"L-Asam Glutamat (L-Glutamic acid)",No,No,Aktif
+"L-Fenilalanin (L-Phenylalanine)",No,No,Aktif
 "L-Glutamin (L-Glutamine)",Yes,Yes,Aktif
+"L-Histidin (LHistidine)",No,No,Aktif
+"L-Isoleusin (LIsoleucine)",No,No,Aktif
 "L-KARNITIN (L-CARNITINE)",No,No,Aktif
 "L-ORNITIN (L-ORNITHINE) (KATEGORI PANGAN 13)",No,No,Aktif
-L-Prolin,No,No,Aktif
-L-Serin,No,No,Aktif
+"L-Prolin (L-Proline)",No,No,Aktif
+"L-Serin (L-Serine)",No,No,Aktif
+"L-Sistin (L-Cystine)",No,No,Aktif
+"L-Sitrulin (LCitrulline)",No,No,Aktif
+"L-Teanin (LTheanine)",No,No,Aktif
 L-Theanine,No,No,Aktif
+"L-Valin (L-Valine)",No,No,Aktif
 "Labu (Pumpkin)",No,No,Aktif
 "Labu Bubuk (Pumpkin Powder)",No,No,Aktif
 "LABU KUNING",No,No,Nonaktif
@@ -1576,7 +1667,7 @@ L-Theanine,No,No,Aktif
 "LACTOBACILLUS PARACASEI",Yes,Yes,Aktif
 "Lactobacillus Plantarum",No,No,Aktif
 "Lactobacillus Reuteri",No,No,Aktif
-"LACTOBACILLUS RHAMNOSUS LGG (L+)",No,No,Aktif
+"Lactobacillus rhamnosus",No,No,Aktif
 "Lactobacillus rhamnosus NCC 4007",No,No,Aktif
 "Lactococcus lactis",No,No,Aktif
 "LADA (PEPPER)",No,No,Aktif
@@ -1593,7 +1684,7 @@ Laktosa,No,No,Nonaktif
 "LAKTOSA (LACTOSE)",No,Yes,Aktif
 "LAKTOSA BUBUK (LACTOSE POWDER)",No,Yes,Aktif
 "LAKTULOSA (LACTULOSE)",No,Yes,Aktif
-"LAPACHO (TABEBULA IMPETIGINOSA ATAU HANDROANTHUS IMPETIGINOSUS)",No,No,Aktif
+"LAPACHO (TABEBULA IMPETIGINOSA ATAU HANDROANTHUS IMPETIGINOSUS)",No,No,Nonaktif
 "LARUTAN GULA (SUGAR SOLUTION)",No,No,Aktif
 "lavender (lavandula angustifolia)",No,No,Nonaktif
 "Lemak Ayam (Chicken Fat)",No,No,Aktif
@@ -1612,7 +1703,7 @@ Laktosa,No,No,Nonaktif
 "Lemak Sapi (Beef Fat)",No,No,Aktif
 "Lemak Susu (Fat Milk)",No,No,Aktif
 "Lemak Susu Anhidrat (Anhydrous Milk Fat)",No,No,Aktif
-"Lemak Susu Sapi (Cow's Milk Fat)",No,No,Aktif
+"Lemak Susu Sapi (Cow Milk Fat)",No,No,Aktif
 "Lemak Trigliserida Rantai Sedang (MCT) (Medium Chain Triglyceride Fat)",No,No,Aktif
 "Lembaga Gandum (Wheat Germ)",No,No,Aktif
 "Lemon Verbena (Lippia citriodora)",Yes,No,Aktif
@@ -1624,19 +1715,25 @@ Lempuyang,No,No,Aktif
 "LEPTOSPERPUM CITRATEM",No,No,Nonaktif
 "Leuconostoc citreum",No,No,Aktif
 "Leuconostoc cremoris",No,No,Aktif
+"Leuconostoc mesenteroides",No,No,Aktif
+"Leusin (Leucine)",No,No,Aktif
 "Leusin (Leusin)",No,No,Aktif
-"LICORICE - LIQUORICE (GLYCYRRHIZA GLABRA)",No,No,Aktif
-"Licorice Root-Akar Licorice (Glycyrrhiza Uralensis)",No,No,Aktif
+"Licorice (Glycyrrhiza Glabra)",No,No,Aktif
+"Licorice - Liquorice / Glycyrrhiza glabra",No,No,Aktif
+"Licorice Root-Akar Licorice (Licorice Root) / Glycyrrhiza uralensis",No,No,Aktif
 "Lidah Buaya (Aloe Vera)",No,No,Aktif
 "Lidah Buaya Bubuk (Aloe Vera Powder)",No,No,Aktif
 "Lidah Buaya Gel (Aloe Vera Gel)",No,No,Aktif
 "LIDAH SAPI (BEEF ATAU COW ATAU OX TONGUE)",No,No,Aktif
 "Likopen (Lycopene)",No,No,Aktif
+"Limpa Sapi (Beef Spleen)",No,No,Aktif
 "LINGZHI (GANODERMA LUCIDUM)",No,No,Nonaktif
+"Lipase Triasilgliserol (Triacylglycerol Lipase) (Bahan Penolong)",No,No,Aktif
 LIQUEUR,No,No,Aktif
 LIQUIORICE,No,No,Nonaktif
 "Lisin (Lysine)",No,No,Aktif
 "Lisin Monohidrat (Lysine Monohydrate)",No,No,Aktif
+"Lisofosfolipase (Lysophospholipase (Bahan Penolong)",No,No,Aktif
 "LO HAN GUO (LO HAN GUO)",No,No,Nonaktif
 "Lobak (Radish)",No,No,Aktif
 "Lobak Bubuk (Radish Powder)",No,No,Aktif
@@ -1650,7 +1747,8 @@ Lobster,No,No,Aktif
 "LONICERA JAPONICA",No,No,Nonaktif
 "LONTAR  (LONTAR PALM ATAU BORASSUS FLABELLIFER)",No,No,Aktif
 "Lucuma (Pouteria lucuma)",No,No,Aktif
-LUTEIN,No,No,Nonaktif
+"Lutein (hanya pangan umum)",No,No,Aktif
+"Lutein dari Tagetes erecta",No,No,Aktif
 "Madu (Honey)",No,No,Aktif
 "Madu Agave (Agave Honey)",No,No,Aktif
 "Madu Akasia (Acacia Honey)",No,No,Aktif
@@ -1678,7 +1776,7 @@ LUTEIN,No,No,Nonaktif
 "Malto Oligosakarida (Malto Oligosaccharide)",No,No,Aktif
 Maltodekstrin,No,No,Nonaktif
 "Maltodekstrin (Maltodextrine)",No,No,Aktif
-"Maltodekstrin Resisten",No,No,Aktif
+"Maltodekstrin Resisten (Resistant Maltodextrine)",No,No,Aktif
 "Maltosa (Maltose)",No,No,Aktif
 "Maltotriose (Maltotriose)",No,No,Aktif
 "MANGAN (II) GLUKONAT (MANGANESE (II) GLUCONATE) ",No,No,Aktif
@@ -1695,6 +1793,7 @@ Maltodekstrin,No,No,Nonaktif
 "Manisan Mangga (Candied Mango)",No,No,Aktif
 "Manisan Nanas (Candied Pineapple)",No,No,Aktif
 "Manisan Pepaya (Candied Papaya)",No,No,Aktif
+"Mannan endo-1,4-ßmannosidase (Mannan endo-1,4- Beta-mannosidase) (Bahan Penolong)",No,No,Aktif
 "MAQUI BERRY (ARISTOTELIA CHILENSIS) ",No,No,Nonaktif
 "Margarin (Margarine)",No,No,Aktif
 "MARGARIN OLES (MARGARINE SPREAD)",No,No,Aktif
@@ -1732,7 +1831,7 @@ Mesoyi,No,No,Aktif
 "Metionin (Methionine)",No,No,Aktif
 "Mi (Noodle)",No,No,Aktif
 "Mi Telur (Egg Noodles)",No,No,Aktif
-"Microcos paniculata",No,No,Aktif
+"Microcos paniculata",No,No,Nonaktif
 "Millet (Millet)",No,No,Aktif
 "Millet Serpih (Millet Flakes)",No,No,Aktif
 "MINUMAN BERALKOHOL",No,No,Nonaktif
@@ -1873,6 +1972,7 @@ Molibdenum,No,No,Aktif
 "Mono Dan Digliserida (mono- And Di-glycerides)",No,No,Nonaktif
 "Monogliserida (monoglycerides)",No,No,Nonaktif
 "Monokalium fosfat (Potassium phosphate, monobasic) ",No,No,Aktif
+"Mukorpepsin (Mucorpepsin) (Bahan Penolong)",No,No,Aktif
 MULUKHIYAH,No,No,Aktif
 "MUNG DHAL (MOONG DAL)",No,No,Aktif
 "Muscat (Muscat)",No,No,Aktif
@@ -1895,7 +1995,7 @@ Myo-Inositol,No,No,Aktif
 "Natrium Hidroksida (Sodium Hydroxide) (Kecuali MP ASI)",No,No,Aktif
 "NATRIUM IODIDA (SODIUM IODIDE)",No,No,Aktif
 "NATRIUM KARBOKSIMETIL SELULOSA (SODIUM CARBOXYMETHYL CELLULOSE)",No,No,Nonaktif
-"NATRIUM KARBONAT (SODIUM CARBONATE)",No,No,Aktif
+"NATRIUM KARBONAT (SODIUM CARBONATE)",No,No,Nonaktif
 "Natrium Kaseinat (Sodium Caseinate)",No,No,Aktif
 "natrium klorida (sodium chloride)",No,No,Aktif
 "NATRIUM MOLIBDAT (SODIUM MOLYBDATE)",No,No,Aktif
@@ -1904,10 +2004,12 @@ Myo-Inositol,No,No,Aktif
 "NATRIUM SELENIT (SODIUM SELENITE)",No,No,Aktif
 "NATRIUM TRIPOLIFOSFAT (SODIUM TRIPOLYPHOSPHATE)",No,No,Nonaktif
 "Nektar Agave (Agave Nectar)",No,No,Aktif
+"Nektar Buah",No,No,Aktif
 "Nektar Lontar",No,No,Aktif
 "NETTLE LEAF POWDER (URTICA DIOCA)",No,No,Nonaktif
 "NIASIN (NIACIN)",No,No,Nonaktif
 "NIKOTINAMIDA (NICOTINAMIDE)",No,No,Aktif
+"Nira Aren",No,No,Aktif
 "NIRA KELAPA (COCONUT SAP)",No,No,Aktif
 "Nira Lontar (Siwalan)",No,No,Aktif
 "Non-Dairy Toppings, Fillings, Frostings",Yes,No,Aktif
@@ -1933,6 +2035,7 @@ Myo-Inositol,No,No,Aktif
 "Pala Bubuk (Nutmeg Powder)",No,No,Aktif
 "Pandan (Pandan)",No,No,Aktif
 "PANGSIT (DUMPLINGS)",No,No,Aktif
+"Papain (Papain) (Bahan Penolong)",No,No,Aktif
 "PAPRIKA (PAPRIKA)",No,No,Aktif
 "PAPRIKA BUBUK (PAPRIKA POWDER)",No,No,Aktif
 "PAPRIKA HIJAU (GREEN PAPRIKA)",No,No,Aktif
@@ -2021,6 +2124,8 @@ PARSLEY,No,No,Nonaktif
 "Pekak Bubuk (Star Anise Powder)",No,No,Aktif
 pektin,No,No,Nonaktif
 "Pektin (Pectin)",No,No,Aktif
+"Pektin liase (Pectin lyase) (Bahan Penolong)",No,No,Aktif
+"Pektinesterase (Pectinesterase) (Bahan Penolong)",No,No,Aktif
 "Pelapis Gula (Sugar Coating)",No,No,Aktif
 "Pelet (Pellet)",No,No,Nonaktif
 "Pengganti Lemak Kakao (Cacao Butter Substitute)",No,No,Aktif
@@ -2034,6 +2139,9 @@ pektin,No,No,Nonaktif
 "Pepaya Gunung/Karika",No,No,Aktif
 "Pepermint (Peppermint)",No,No,Aktif
 "Pepermint Bubuk (Peppermint Powder)",No,No,Aktif
+"Pepsin A (Pepsin A) (Bahan Penolong)",No,No,Aktif
+"Pepsin B (Pepsin B) (Bahan Penolong)",No,No,Aktif
+"Pepsin C (Pepsin C) (Bahan Penolong)",No,No,Aktif
 "Peptida Kolagen (Collagen Peptide)",Yes,No,Aktif
 "Perasan Air Jeruk (Lemon Juice)",No,No,Aktif
 "Perisa Test",No,No,Nonaktif
@@ -2055,6 +2163,7 @@ Pilus,No,No,Aktif
 "PLANT STANOL ESTER-FITOSTANOL (PHYTOSTANOL)",No,No,Aktif
 "Polidekstrosa (Polydextrose)",No,No,Aktif
 "Polifruktosa (Polyfructose)",No,No,Aktif
+"Poligalakturonase (Polygalacturonase) (Bahan Penolong)",No,No,Aktif
 "Polisakarida (Polysaccharides)",No,No,Aktif
 "POTONGAN BUAH APEL (APPLE SLICES)",No,No,Aktif
 "POTONGAN KENTANG (POTATO SLICES)",No,No,Aktif
@@ -2063,10 +2172,15 @@ Pilus,No,No,Aktif
 "PREM (PLUM)",No,No,Aktif
 "PREM ASIN (SALTED PLUM)",No,No,Aktif
 "PREMIKS MINERAL (MINERAL PREMIX)",No,No,Aktif
+"PREMIKS MINERAL (MINERAL PREMIX) - Khusus Produk Wajib SNI",No,No,Aktif
 "Premiks Vitamin (Vitamin Premix)",No,No,Aktif
-"PREMIKS VITAMIN DAN  MINERAL (VITAMIN AND MINERAL PREMIX)",No,No,Aktif
+"Premiks Vitamin (Vitamin Premix) - Khusus Produk Wajib SNI",No,No,Aktif
+"PREMIKS VITAMIN DAN MINERAL (VITAMIN AND MINERAL PREMIX)",No,No,Aktif
+"PREMIKS VITAMIN DAN MINERAL (VITAMIN AND MINERAL PREMIX) - Khusus Produk Wajib SNI",No,No,Aktif
 "Preparat Perisa (Flavoring Preparation)",No,No,Nonaktif
+"Prolyl oligopeptidase (Prolyl oligopeptidase) (Bahan Penolong)",No,No,Aktif
 "PROPOLIS (PROPOLLIS)",No,No,Nonaktif
+"Protein Daging",No,No,Aktif
 "Protein Gandum (Wheat Protein)",No,No,Aktif
 "Protein Jagung Terhidrolisa (Hydrolized Corn Protein)",No,No,Aktif
 "Protein Kedelai (Soy Protein)",No,No,Aktif
@@ -2075,11 +2189,15 @@ Pilus,No,No,Aktif
 "Protein Nabati Terhidrolisa",No,No,Nonaktif
 "protein nabati terhirolisa",No,No,Nonaktif
 "Protein nabati tertekstur",No,No,Nonaktif
+"Protein Pea",No,No,Aktif
 "Protein Susu (Milk Protein)",No,No,Aktif
 "Protein Susu Fermentasi (Fermented Milk Protein)",No,No,Aktif
+"Protein Whey (Whey Protein)",No,No,Aktif
 "PRUNELLA VULGARIS",No,No,Nonaktif
+Psyllium,No,No,Aktif
 "PSYLLIUM HUSK",No,No,Aktif
 "Puff Gandum (Wheat Puffed)",No,No,Aktif
+"Pululanase (Pullulanase) (Bahan Penolong)",No,No,Aktif
 "Puree Apel (Apple Puree)",No,No,Aktif
 "PUREE BAWANG PUTIH (GARLIC PUREE)",No,No,Aktif
 "PUREE BLACKBERRY (BLACKBERRY PUREE)",No,No,Aktif
@@ -2125,6 +2243,7 @@ Rajungan,No,No,Aktif
 "Remis Bubuk (Mussel Powder)",No,No,Aktif
 "Remis Kering (Dried Mussel)",No,No,Aktif
 "Rempah (Spices)",No,No,Aktif
+"Renet (Rennet) (Bahan Penolong)",No,No,Aktif
 "Rennet (Rennet)",No,No,Aktif
 "Resin Gum (Gum Resin)",No,No,Aktif
 "Retinil Asetat (Retinyl Acetate)",No,No,Aktif
@@ -2132,6 +2251,7 @@ Rajungan,No,No,Aktif
 "Rhodopseudomonas palustris",No,No,Aktif
 "rhubarb batang (rheum rhabarbarum)",No,No,Nonaktif
 "Riboflavin (vitamin B2)",No,No,Nonaktif
+"Ribonuklease P (Ribonuclease P) (Bahan Penolong)",No,No,Aktif
 "RIMPANG TERATAI (LOTUS ROOT)",No,No,Nonaktif
 "Rolled Oats",No,No,Aktif
 "rooibos-rooibush-rooibosh (asphalatus linearis)",No,No,Nonaktif
@@ -2337,6 +2457,7 @@ Scoby,No,No,Aktif
 "Seledri Bubuk (Celery Powder)",No,No,Aktif
 "Selenium (Selenium)",No,No,Aktif
 "SELONGSONG SOSIS (SAUSAGE SLEEVE)",No,No,Aktif
+"Selulase (Cellulase) (Bahan Penolong)",No,No,Aktif
 "Selulosa (Cellulose)",No,No,Aktif
 "Semangka Merah (Red Watermelon)",No,No,Aktif
 SEMOLINA,No,No,Aktif
@@ -2362,9 +2483,11 @@ Seng,No,No,Nonaktif
 "Serealia (Cerealia)",No,No,Aktif
 "SEREH (LEMON GRASS-CYMBOPOGON NARDUS)",No,No,Aktif
 "Sereh Bubuk (Lemongrass Powder)",No,No,Aktif
+"Serin Proteinase (Serine Proteinase) (Bahan Penolong)",No,No,Aktif
 "SERPIHAN KENTANG (POTATO FLAKES)",No,No,Aktif
 "Serundeng Ikan (Fish Serundeng)",No,No,Aktif
-"Silver Needle-yingzhen (white tea)",No,No,Aktif
+"Siklodekstrin glukotransferase (Cyclodextrin glucanotransferase (Bahan Penolong)",No,No,Aktif
+"Silver Needle-yingzhen (white tea)",No,No,Nonaktif
 "SINGKONG - UBI KAYU (CASSAVA)",No,No,Aktif
 "Singkong Bubuk (Cassava Powder)",No,No,Aktif
 SIOMAY,Yes,No,Nonaktif
@@ -2455,10 +2578,12 @@ SIOMAY,Yes,No,Nonaktif
 "Stearin (Stearine)",No,No,Aktif
 "Stearin Inti Buah Rafinasi (Refined Kernel Stearine)",No,No,Aktif
 "Stearin Inti Kelapa Sawit Hidrogenasi (Hydrogenated Palm Kernel Stearine)",No,No,Aktif
+"Stem Bromelain (Bahan Penolong)",No,No,Aktif
 "STEVIA (STEVIA)",No,No,Nonaktif
 "Streptococcus cremoris",No,No,Aktif
 "Streptococcus lactis",No,No,Aktif
 "Streptococcus thermophilus",No,No,Aktif
+"Subtilisin (Subtilisin) (Bahan Penolong)",No,No,Aktif
 "SUCCUS LIQUIRITIAE",No,No,Nonaktif
 "succus liquirities",No,No,Nonaktif
 "SUJI (DRACAENA ANGUSTIFOLIA)",No,No,Aktif
@@ -2495,7 +2620,7 @@ SIOMAY,Yes,No,Nonaktif
 "Susu Lemak Nabati-Susu Minyak Nabati (Filled Milk)",No,No,Aktif
 "SUSU PASTEURISASI (PASTEURIZED MILK)",No,Yes,Aktif
 "SUSU RENDAH LEMAK (LOW FAT MILK)",No,Yes,Aktif
-"Susu Sapi (Cow's Milk)",No,No,Aktif
+"Susu Sapi (Cow Milk)",No,No,Aktif
 "SUSU SEGAR (FRESH MILK)",No,Yes,Aktif
 "SUSU SKIM (SKIM MILK)",No,Yes,Aktif
 "SUSU SKIM BUBUK (SKIMMED MILK POWDER)",No,Yes,Nonaktif
@@ -2503,6 +2628,7 @@ SIOMAY,Yes,No,Nonaktif
 "SUSU SKIM KENTAL MANIS (SWEETENED CONDENSED SKIMMED MILK)",No,Yes,Aktif
 "SUSU TANPA LEMAK ATAU SUSU SKIM (SKIMMED MILK)",No,Yes,Aktif
 "SUSU UHT (UHT MILK)",No,Yes,Aktif
+"Taburan Berbasis Gula",No,No,Aktif
 "Tahini (Tahini)",No,No,Aktif
 "Tahu (Tofu)",No,No,Aktif
 "Tahu Goreng (Fried Tofu)",No,No,Aktif
@@ -2510,6 +2636,7 @@ SIOMAY,Yes,No,Nonaktif
 "TAHU MATANG",No,No,Nonaktif
 "TALAS (TARO)",No,No,Nonaktif
 "TANGKAI TERATAI (LOTUS STEM)",No,No,Nonaktif
+"Tannase (Tannase) (Bahan Penolong)",No,No,Aktif
 "TAOGE (BEAN SPROUTS)",No,No,Aktif
 "TAPAI BERAS (FERMENTED RICE)",No,No,Aktif
 "TAPAI KETAN (FERMENTED STILKY RICE)",No,No,Aktif
@@ -2532,12 +2659,14 @@ Tebu,No,No,Nonaktif
 "Teh Hitam Ceylon (Black Tea Ceylon)",No,No,Aktif
 "Teh Hitam Melati (Jasmine Black Tea)",No,No,Aktif
 "Teh Instan (Instant Tea)",No,No,Aktif
-"TEH JAWA (ORTHOSIPHON STAMINEUS; ORTHOSIPHON ARISTATUS; ORTHOSIPHON SPICATUS; ORTHOSIPHONBLAETTER; JAVATEE, INDISCHER NIERENTEE, FEUILLES DE BARBIFLORE; DE JAVA)",No,No,Nonaktif
+"TEH JAWA (ORTHOSIPHON STAMINEUS;
+ ORTHOSIPHON ARISTATUS; ORTHOSIPHON SPICATUS; ORTHOSIPHONBLAETTER; 
+JAVATEE, INDISCHER NIERENTEE, FEUILLES DE BARBIFLORE; DE JAVA)",No,No,Nonaktif
 "TEH KERING (DRIED TEA)",No,No,Nonaktif
 "Teh Melati (Jasmine Tea)",No,No,Aktif
 "Teh Oolong (Oolong Tea)",No,No,Aktif
 "Teh Putih (White Tea)",No,No,Aktif
-"TEH ROOIBOSA�(ASPHALATUS LINEARIS)",No,No,Aktif
+"TEH ROOIBOSA&nbsp;(ASPHALATUS LINEARIS)",No,No,Aktif
 Telur,No,No,Nonaktif
 "TELUR (EGG)",No,Yes,Aktif
 "TELUR ASIN (SALTED EGG)",No,No,Aktif
@@ -2583,6 +2712,7 @@ Tempe,No,No,Aktif
 "Tepung Gandum Semolina (Semolina Wheat Flour)",No,No,Aktif
 "Tepung Gandum Utuh (Whole Wheat Flour)",No,No,Aktif
 "Tepung Gaplek (Cassava Flour)",No,No,Aktif
+"Tepung Glukomanan (Glucomannan Flour)",No,No,Nonaktif
 "Tepung Gluten (Gluten Flour)",No,No,Aktif
 "Tepung Iles-Iles",No,No,Aktif
 "Tepung Jagung (Corn Flour)",No,No,Aktif
@@ -2618,7 +2748,7 @@ Tempe,No,No,Aktif
 "Tepung mazena",No,No,Nonaktif
 "Tepung Muffin (Muffin Flour)",No,No,Aktif
 "Tepung Olahan / Pati Olahan / Protein Olahan",No,No,Aktif
-"Tepung Olahan Pra�Masak",No,No,Aktif
+"Tepung Olahan Pra&nbsp;Masak",No,No,Aktif
 "Tepung Panir (Panir Flour)",No,No,Aktif
 "Tepung Premiks (Premix Flour)",No,No,Aktif
 "Tepung Premiks Es Krim (Ice Cream Base)",Yes,Yes,Aktif
@@ -2651,7 +2781,7 @@ Tempe,No,No,Aktif
 "Terasi - Belacan Udang (Shrimp Paste)",No,No,Aktif
 "TERIPANG LAUT (SEA CUCUMBERS - HOLOTHUROIDEA)",No,No,Aktif
 "Terong (Eggplant)",No,No,Aktif
-TESTING,Yes,No,Aktif
+TESTING,Yes,No,Nonaktif
 "TETES TEBU (MOLASES, TREACLE)",No,No,Aktif
 "THIAMIN MONONITRAT",No,No,Nonaktif
 Thixogums,No,No,Nonaktif
@@ -2672,9 +2802,11 @@ TOFFEE,No,No,Nonaktif
 "TONGKAT ALI BUBUK (EURYCOMA LONGIFOLIA POWDER)",No,No,Nonaktif
 TOPPING,No,No,Aktif
 "Torbangun (Mexican mint)",No,No,Aktif
+"Transglutaminase (Transglutaminase) (Bahan Penolong)",No,No,Aktif
 "TREHALOSA (TREHALOSE DIHYDRATE)",No,No,Aktif
 "TREONIN (THREONINE)",No,No,Aktif
 TRIBULUS,No,No,Nonaktif
+"Trigliserida Rantai Menengah (Medium-Chain Triglyceride MCT)",No,No,Aktif
 "Trikalium fosfat (Tripotassium orthophosphate)",No,No,Aktif
 "trikalium sitrat (tripotassium citrate)",No,No,Aktif
 "Trikalium Sitrat Monohidrat (Tripotassium Citrate Monohydrate)",No,No,Aktif
@@ -2684,6 +2816,7 @@ TRIBULUS,No,No,Nonaktif
 "TRINATRIUM FOSFAT (TRISODIUM ORTHOPHOSPHATE)",No,No,Nonaktif
 "TRINATRIUM FOSFAT (TRISODIUM OTRHOPHOSPHATE)",No,No,Nonaktif
 "TRINATRIUM SITRAT  (TRISODIUM CITRATE) (KECUALI MP ASI)",No,No,Aktif
+"Tripsin (Trypsin) (Bahan Penolong)",No,No,Aktif
 "Triptofan (Triptophan)",No,No,Aktif
 Triticale,No,No,Aktif
 "Truffle (Truffle)",No,No,Aktif
@@ -2691,7 +2824,7 @@ Triticale,No,No,Aktif
 "Tulang Babi (Pig Bone)",No,No,Aktif
 "Tulang Ikan Salmon (Salmon Bone)",No,No,Aktif
 "Tulang Muda Ikan Hiu Bubuk (Cartilage Shark Powder)",No,No,Aktif
-"Tulang Sapi (Cow's Bone)",No,No,Aktif
+"Tulang Sapi (Cow Bone)",No,No,Aktif
 "Tuna Bubuk (Tuna Powder)",No,No,Aktif
 "TVP (Texturized Vegetable Protein)",No,No,Aktif
 "UBI JALAR (SWEET POTATO)",No,No,Aktif
@@ -2701,13 +2834,16 @@ Triticale,No,No,Aktif
 "Ubi Merah ",No,No,Aktif
 "UBI RAMBAT (YAM)",No,No,Nonaktif
 "UBI UNGU (PURPLE SWEET POTATO)",No,No,Aktif
+"Ubikuinon (Ubiquinone/Coen zyme Q10)",No,No,Aktif
 "Ubur-Ubur (Jellyfish)",No,No,Aktif
 "Udang  Bubuk (Shrimp Powder)",No,No,Aktif
 "UDANG (FRESH PRAWN)",No,No,Aktif
 "Udang (Shrimp)",No,No,Aktif
 "Udang Kering - Ebi (Dried Shrimp)",No,No,Aktif
 "Udang Rebon (Shrimp Rebon)",No,No,Aktif
+"Umbi Ganyong (Canna indica)",No,No,Aktif
 "UMBI KONNYAKU (KONJAC)",No,No,Aktif
+"Urease (Urease) (Bahan Penolong)",No,No,Aktif
 "Usus Ayam",No,No,Aktif
 "Usus Babi",No,No,Aktif
 "Usus Kambing",No,No,Aktif
@@ -2717,8 +2853,10 @@ Valin,Yes,Yes,Aktif
 VANILA,No,No,Nonaktif
 VANILIN,No,No,Nonaktif
 "Vitamin A (Retinal)",No,No,Aktif
+"Vitamin A (Retinal) - Khusus Produk Wajib SNI",No,No,Aktif
 "VITAMIN A ASETAT",No,No,Aktif
 "Vitamin A Palmitat",No,No,Aktif
+"Vitamin A Palmitat - Khusus Produk Wajib SNI",No,No,Aktif
 "VITAMIN B",No,No,Nonaktif
 "Vitamin B1 (Thiamine)",No,No,Aktif
 "VITAMIN B10",No,No,Nonaktif
@@ -2767,14 +2905,20 @@ WAFER,No,No,Aktif
 "Wortel (Carrot)",No,No,Aktif
 "Wortel Bubuk (Carrot Powder)",No,No,Aktif
 "Wortel Kering (Dried Carrot)",No,No,Aktif
+"Xilosa isomerase (xylose isomerase) (Bahan Penolong)",No,No,Aktif
 "Yerbamate Ekstrak (Ilex paraguariensis)",No,No,Aktif
 "Yoghurt (Yoghurt)",No,No,Aktif
 "Yoghurt Bubuk (Yoghurt Powder)",No,No,Aktif
 "ZAT BESI (IRON)",No,No,Aktif
 ZEASANTIN,No,No,Nonaktif
+"Zeaxanthin Rich Extract",No,No,Aktif
 "Zink Glukonat (Zinc Gluconate)",No,No,Aktif
 "Zink Laktat Dihidrat (Zink Lactate Dihydrate)",No,No,Aktif
 "Zink Oksida (Zinc Oxide)",No,No,Aktif
 "Zink Pikolinat (Zinc Picolinate)",No,No,Aktif
 "zink Sitrat Dihidrat (Zink Citrate Dihydrate)",No,No,Aktif
 "Zink Sulfat (Zinc Sulphate)",No,No,Aktif
+"ß-amilase (Betaamylase) (Bahan Penolong)",No,No,Aktif
+"ß-fruktofuranosidase (BetaFructofuranosidase) (Bahan Penolong)",No,No,Aktif
+"ß-galaktosidase (Betagalactosidase) (Bahan Penolong)",No,No,Aktif
+"ß-Glukosidase (BetaGlucosidase) (Bahan Penolong)",No,No,Aktif

@@ -14,12 +14,15 @@ sub _oneline {
     $text;
 }
 
-my $html = read_text("bahanbaku");
+my $filename = (sort glob "bahanbaku.*")[-1];
+log_info "Opening $filename ...";
+my $html = read_text($filename);
 my $csv = Text::CSV->new({binary=>1});
 
+binmode(*STDOUT, ":encoding(utf8)");
 while ($html =~ m!
-                  <tr>\s*
-                  <td>(.+?)</td>\s*
+                  <tr[^>]*>\s*
+                  <td[^>]*>(.+?)</td>\s*
                   <td>(Yes|No)</td>\s*
                   <td>(Yes|No)</td>\s*
                   <td>(.+?)</td>\s*

@@ -1,0 +1,16 @@
+* [2024-07-19] cara mendownload dan generate csv
+
+cara mendownload semua, pertama buka:
+
+https://ereg-rba.pom.go.id/front/bahanbaku
+
+di HTMLnya ada drop down utk memilih tampilkan [100] per entri. buka Developer
+Tools, Inspector, tambahkan pilihan utk menampilkan seluruh jumlah record,
+mis 2922. save. pilih jumlah record tersebut. dan save as HTML.
+
+jika tidak dibegitukan, hasil yang tersave masih sedikit (e.g. ~100KB ketimbang
+~700+KB)
+
+setelah didownload, jalankan skrip `gen-csv > ../data0.csv`.
+
+lalu utk generate `data.csv`: `devscript/add-id-field >data.csv`.
