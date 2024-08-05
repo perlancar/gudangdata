@@ -1,33 +1,38 @@
-11,"ID-AC","Aceh","Aceh","Banda Aceh","Sumatera","special territory"
-12,"ID-SU","Sumatera Utara","North Sumatra","Medan","Sumatera",
-13,"ID-SB","Sumatera Barat","West Sumatra","Padang","Sumatera",
-14,"ID-RI","Riau","Riau","Pekanbaru","Sumatera",
-15,"ID-JA","Jambi","Jambi","Jambi","Sumatera",
-16,"ID-SS","Sumatera Selatan","South Sumatra","Palembang","Sumatera",
-17,"ID-BE","Bengkulu","Bengkulu","Bengkulu","Sumatera",
-18,"ID-LA","Lampung","Lampung","Bandar Lampung","Sumatera",
-19,"ID-BB","Kepulauan Bangka Belitung","Bangka Belitung Islands","Pangkal Pinang","Sumatera",
-21,"ID-KR","Kepulauan Riau","Riau Islands","Tanjung Pinang","Sumatera",
-31,"ID-JK","Daerah Khusus Ibukota Jakarta","Jakarta Special Capital Territory","Jakarta Pusat","Jawa","special territory,special capital territory,capital"
-32,"ID-JB","Jawa Barat","West Java","Bandung","Jawa",
-33,"ID-JT","Jawa Tengah","Central Java","Semarang","Jawa",
-34,"ID-YO","Daerah Istimewa Yogyakarta","Yogyakarta Special Territory","Yogyakarta","Jawa","special territory"
-35,"ID-JI","Jawa Timur","East Java","Surabaya","Jawa",
-36,"ID-BT","Banten","Banten","Serang","Jawa",
-51,"ID-BA","Bali","Bali","Denpasar","Bali",
-52,"ID-NB","Nusa Tenggara Barat","West Nusa Tenggara","Mataram","Nusa Tenggara",
-53,"ID-NT","Nusa Tenggara Timur","East Nusa Tenggara","Kupang","Nusa Tenggara",
-61,"ID-KB","Kalimantan Barat","West Kalimantan","Pontianak","Kalimantan",
-62,"ID-KT","Kalimantan Tengah","Central Kalimantan","Palangkaraya","Kalimantan",
-63,"ID-KS","Kalimantan Selatan","South Kalimantan","Banjarmasin","Kalimantan",
-64,"ID-KI","Kalimantan Timur","East Kalimantan","Samarinda","Kalimantan",
-71,"ID-SA","Sulawesi Utara","North Sulawesi","Manado","Sulawesi",
-72,"ID-ST","Sulawesi Tengah","Central Sulawesi","Palu","Sulawesi",
-73,"ID-SN","Sulawesi Selatan","South Sulawesi","Makassar","Sulawesi",
-74,"ID-SG","Sulawesi Tenggara","South East Sulawesi","Kendari","Sulawesi",
-75,"ID-GO","Gorontalo","Gorontalo","Gorontalo","Sulawesi",
-76,"ID-SR","Sulawesi Barat","West Sulawesi","Mamuju","Sulawesi",
-81,"ID-MA","Maluku","Maluku","Ambon","Maluku",
-82,"ID-MU","Maluku Utara","North Maluku","Sofifi","Maluku",
-91,"ID-PB","Papua Barat","West Papua","Manokwari","Papua","special territory"
-94,"ID-PA","Papua","Papua","Jayapura","Papua","special territory"
+11,"ID-AC","","Aceh","Aceh","Banda Aceh","Sumatera","special territory"
+12,"ID-SU","Sumut","Sumatera Utara","North Sumatra","Medan","Sumatera",
+13,"ID-SB","Sumbar","Sumatera Barat","West Sumatra","Padang","Sumatera",
+14,"ID-RI","","Riau","Riau","Pekanbaru","Sumatera",
+15,"ID-JA","","Jambi","Jambi","Jambi","Sumatera",
+16,"ID-SS","Sumsel","Sumatera Selatan","South Sumatra","Palembang","Sumatera",
+17,"ID-BE","","Bengkulu","Bengkulu","Bengkulu","Sumatera",
+18,"ID-LA","","Lampung","Lampung","Bandar Lampung","Sumatera",
+19,"ID-BB","Babel","Kepulauan Bangka Belitung","Bangka Belitung Islands","Pangkal Pinang","Sumatera",
+21,"ID-KR","Kepri","Kepulauan Riau","Riau Islands","Tanjung Pinang","Sumatera",
+31,"ID-JK","Jakarta","Daerah Khusus Ibukota Jakarta","Jakarta Special Capital Territory","Jakarta Pusat","Jawa","special territory,special capital territory,capital"
+32,"ID-JB","Jabar","Jawa Barat","West Java","Bandung","Jawa",
+33,"ID-JT","Jateng","Jawa Tengah","Central Java","Semarang","Jawa",
+34,"ID-YO","DIY","Daerah Istimewa Yogyakarta","Yogyakarta Special Territory","Yogyakarta","Jawa","special territory"
+35,"ID-JI","Jatim","Jawa Timur","East Java","Surabaya","Jawa",
+36,"ID-BT","","Banten","Banten","Serang","Jawa",
+51,"ID-BA","","Bali","Bali","Denpasar","Bali",
+52,"ID-NB","NTB","Nusa Tenggara Barat","West Nusa Tenggara","Mataram","Nusa Tenggara",
+53,"ID-NT","NTT","Nusa Tenggara Timur","East Nusa Tenggara","Kupang","Nusa Tenggara",
+61,"ID-KB","Kalbar","Kalimantan Barat","West Kalimantan","Pontianak","Kalimantan",
+62,"ID-KT","Kalteng","Kalimantan Tengah","Central Kalimantan","Palangkaraya","Kalimantan",
+63,"ID-KS","Kalsel","Kalimantan Selatan","South Kalimantan","Banjarmasin","Kalimantan",
+64,"ID-KI","Kaltim","Kalimantan Timur","East Kalimantan","Samarinda","Kalimantan",
+65,"ID-KU","Kaltara","Kalimantan Utara","North Kalimantan","Tanjung Selor","Kalimantan",
+71,"ID-SA","Sulut","Sulawesi Utara","North Sulawesi","Manado","Sulawesi",
+72,"ID-ST","Sulteng","Sulawesi Tengah","Central Sulawesi","Palu","Sulawesi",
+73,"ID-SN","Sulsel","Sulawesi Selatan","South Sulawesi","Makassar","Sulawesi",
+74,"ID-SG","Sultra","Sulawesi Tenggara","South East Sulawesi","Kendari","Sulawesi",
+75,"ID-GO","","Gorontalo","Gorontalo","Gorontalo","Sulawesi",
+76,"ID-SR","Sulbar","Sulawesi Barat","West Sulawesi","Mamuju","Sulawesi",
+81,"ID-MA","","Maluku","Maluku","Ambon","Maluku",
+82,"ID-MU","Malut","Maluku Utara","North Maluku","Sofifi","Maluku",
+91,"ID-PB","Pabar","Papua Barat","West Papua","Manokwari","Papua","special territory"
+94,"ID-PA","","Papua","Papua","Jayapura","Papua","special territory"
+92,"ID-PD","Pasel","Papua","Papua","Jayapura","Papua","special territory"
+94,"ID-PT","Pateng","Papua Tengah","Central Papua","Wanggar",""special territory"
+95,"ID-PE","Papeng","Papua Pegunungan","Papua Mountain","Jayawijaya",""special territory"
+96,"ID-PD","PBD","Papua Barat Daya","Southwest Papua","Sorong",""special territory"
