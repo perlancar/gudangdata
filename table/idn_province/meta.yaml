@@ -22,7 +22,6 @@ fields:
     summary: "Abbreviated name (in Indonesian)"
     summary.alt.lang.id_ID: "Kependekan (bahasa Indonesia)"
     sortable: Yes
-    unique: Yes
   ind_name:
     schema: [str*, {}]
     pos: 3
